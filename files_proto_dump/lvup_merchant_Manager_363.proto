@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_363
+message lvup_merchantFLO {
+	uint32	lvup_merchant_id	= 1;
+	uint32	id	= 2;
+	uint32	level	= 3;
+	uint32	levelText	= 4;
+	uint32	needRich	= 5;
+}
+
+message tablelvup_merchantFLO { repeated lvup_merchantFLO tableLvupMerchant = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen lvup_merchant_Manager_363.proto
+
+
+			   case "lvup_merchant.bytes":
+					ii = 0;
+					tablelvup_merchant tblManager363 = new tablelvup_merchant { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager363.TableLvupMerchant.Add(new lvup_merchantFLO
+								{
+									LvupMerchantId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									Level = br.ReadUInt32(),
+									LevelText = br.ReadUInt32(),
+									NeedRich = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager363, Formatting.Indented)); }
+					return tblManager363;
+*/

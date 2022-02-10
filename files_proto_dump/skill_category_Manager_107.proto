@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_107
+message skill_categoryFLO {
+	uint32	skill_category_id	= 1;
+	uint32	unqId	= 2;
+	sint32	treeNumber	= 3;		//	SByte
+	uint32	replaceActionId	= 4;
+	sint32	chargeSlotNumber	= 5;		//	SByte
+	uint32	bitfield0	= 6;		//	UInt16
+}
+
+message tableskill_categoryFLO { repeated skill_categoryFLO tableSkillCategory = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen skill_category_Manager_107.proto
+
+
+			   case "skill_category.bytes":
+					ii = 0;
+					tableskill_category tblManager107 = new tableskill_category { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager107.TableSkillCategory.Add(new skill_categoryFLO
+								{
+									SkillCategoryId = br.ReadUInt32(),
+									UnqId = br.ReadUInt32(),
+									TreeNumber = br.ReadSByte(),
+									ReplaceActionId = br.ReadUInt32(),
+									ChargeSlotNumber = br.ReadSByte(),
+									Bitfield0 = br.ReadUInt16()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager107, Formatting.Indented)); }
+					return tblManager107;
+*/

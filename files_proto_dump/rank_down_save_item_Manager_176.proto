@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_176
+message rank_down_save_itemFLO {
+	uint32	rank_down_save_item_id	= 1;
+	uint32	uniqid	= 2;
+	int32	addSuccessRate	= 3;
+	uint32	refUseCondNo	= 4;		//	UInt16
+}
+
+message tablerank_down_save_itemFLO { repeated rank_down_save_itemFLO tableRankDownSaveItem = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen rank_down_save_item_Manager_176.proto
+
+
+			   case "rank_down_save_item.bytes":
+					ii = 0;
+					tablerank_down_save_item tblManager176 = new tablerank_down_save_item { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager176.TableRankDownSaveItem.Add(new rank_down_save_itemFLO
+								{
+									RankDownSaveItemId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									AddSuccessRate = br.ReadInt32(),
+									RefUseCondNo = br.ReadUInt16()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager176, Formatting.Indented)); }
+					return tblManager176;
+*/

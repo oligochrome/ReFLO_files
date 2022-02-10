@@ -1,0 +1,65 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_424
+message event_triggerFLO {
+	uint32	event_trigger_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	timingType	= 3;
+	int32	priority	= 4;
+	uint32	eventId	= 5;
+	uint32	openedCheckflagId	= 6;
+	uint32	cond1_funcId	= 7;
+	uint32	cond1_argObjId	= 8;
+	uint32	cond1_argAchievementId	= 9;
+	uint32	cond1_argFlagId	= 10;
+	uint32	cond1_condOperator	= 11;
+	string	cond1_rightSide	= 12;
+	uint64	period_from	= 13;		//	UInt64
+	uint64	period_to	= 14;		//	UInt64
+}
+
+message tableevent_triggerFLO { repeated event_triggerFLO tableEventTrigger = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen event_trigger_Manager_424.proto
+
+
+			   case "event_trigger.bytes":
+					ii = 0;
+					tableevent_trigger tblManager424 = new tableevent_trigger { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager424.TableEventTrigger.Add(new event_triggerFLO
+								{
+									EventTriggerId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									TimingType = br.ReadUInt32(),
+									Priority = br.ReadInt32(),
+									EventId = br.ReadUInt32(),
+									OpenedCheckflagId = br.ReadUInt32(),
+									Cond1FuncId = br.ReadUInt32(),
+									Cond1ArgObjId = br.ReadUInt32(),
+									Cond1ArgAchievementId = br.ReadUInt32(),
+									Cond1ArgFlagId = br.ReadUInt32(),
+									Cond1CondOperator = br.ReadUInt32(),
+									Cond1RightSide = br.ReadString(),
+									PeriodFrom = br.ReadUInt64(),
+									PeriodTo = br.ReadUInt64()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager424, Formatting.Indented)); }
+					return tblManager424;
+*/

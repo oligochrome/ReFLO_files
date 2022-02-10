@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_84
+message stardust_pointFLO {
+	uint32	stardust_point_id	= 1;
+	uint32	uniqid	= 2;
+	int32	rarity	= 3;
+	int32	point	= 4;
+}
+
+message tablestardust_pointFLO { repeated stardust_pointFLO tableStardustPoint = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen stardust_point_Manager_84.proto
+
+
+			   case "stardust_point.bytes":
+					ii = 0;
+					tablestardust_point tblManager84 = new tablestardust_point { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager84.TableStardustPoint.Add(new stardust_pointFLO
+								{
+									StardustPointId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Rarity = br.ReadInt32(),
+									Point = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager84, Formatting.Indented)); }
+					return tblManager84;
+*/

@@ -1,0 +1,121 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_209
+message param_facilityFLO {
+	uint32	param_facility_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	contentsId	= 3;
+	uint32	gridId	= 4;
+	uint32	workerCount	= 5;
+	uint32	facilityTypeNPCAct_S	= 6;
+	int32	putEnable	= 7;		//	Byte
+	uint32	putObject1	= 8;
+	uint32	putObject2	= 9;
+	uint32	putObject3	= 10;
+	uint32	putObject4	= 11;
+	uint32	backEndS_ID	= 12;
+	int32	dyeingEnable	= 13;		//	Byte
+	uint32	defaultColorId	= 14;
+	repeated int32	blackRGBA	= 15;		//	Byte [0-3]
+	repeated int32	whiteRGBA	= 16;		//	Byte [0-3]
+	repeated int32	redRGBA		= 17;		//	Byte [0-3]
+	repeated int32	greenRGBA	= 18;		//	Byte [0-3]
+	repeated int32	blueRGBA	= 19;		//	Byte [0-3]
+	repeated int32	yellowRGBA	= 20;		//	Byte [0-3]
+	repeated int32	purpleRGBA	= 21;		//	Byte [0-3]
+	float	uiScale	= 22;		//	Single
+	float	uiHeight	= 23;		//	Single
+	float	uiTransOffsetX	= 24;		//	Single
+	float	uiTransOffsetZ	= 25;		//	Single
+	uint32	uiDefaultAction	= 26;
+	uint32	npcStatus	= 27;
+	int32	happyEveMemberCnt	= 28;		//	Byte
+	int32	happyTicketRate	= 29;		//	Byte
+	int32	friendShipRate	= 30;		//	Byte
+	uint32	friendShipAdd	= 31;		//	UInt16
+	uint32	dropTableId	= 32;
+	int32	triggerMax	= 33;		//	Byte
+	uint32	unlockGodMissionId	= 34;
+	uint32	efficacyIconResId1	= 35;
+	uint32	efficacyTextId1	= 36;
+	uint32	efficacyIconResId2	= 37;
+	uint32	efficacyTextId2	= 38;
+	uint32	efficacyIconResId3	= 39;
+	uint32	efficacyTextId3	= 40;
+	uint32	placeAllowTypeId	= 41;
+	uint32	designUnlockFlagId	= 42;
+}
+
+message tableparam_facilityFLO { repeated param_facilityFLO tableParamFacility = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen param_facility_Manager_209.proto
+
+
+			   case "param_facility.bytes":
+					ii = 0;
+					tableparam_facility tblManager209 = new tableparam_facility { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager209.TableParamFacility.Add(new param_facilityFLO
+								{
+									ParamFacilityId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									ContentsId = br.ReadUInt32(),
+									GridId = br.ReadUInt32(),
+									WorkerCount = br.ReadUInt32(),
+									FacilityTypeNPCActS = br.ReadUInt32(),
+									PutEnable = br.ReadByte(),
+									PutObject1 = br.ReadUInt32(),
+									PutObject2 = br.ReadUInt32(),
+									PutObject3 = br.ReadUInt32(),
+									PutObject4 = br.ReadUInt32(),
+									BackEndSID = br.ReadUInt32(),
+									DyeingEnable = br.ReadByte(),
+									DefaultColorId = br.ReadUInt32(),
+									BlackRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									WhiteRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									RedRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									GreenRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									BlueRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									YellowRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									PurpleRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									UiScale = br.ReadSingle(),
+									UiHeight = br.ReadSingle(),
+									UiTransOffsetX = br.ReadSingle(),
+									UiTransOffsetZ = br.ReadSingle(),
+									UiDefaultAction = br.ReadUInt32(),
+									NpcStatus = br.ReadUInt32(),
+									HappyEveMemberCnt = br.ReadByte(),
+									HappyTicketRate = br.ReadByte(),
+									FriendShipRate = br.ReadByte(),
+									FriendShipAdd = br.ReadUInt16(),
+									DropTableId = br.ReadUInt32(),
+									TriggerMax = br.ReadByte(),
+									UnlockGodMissionId = br.ReadUInt32(),
+									EfficacyIconResId1 = br.ReadUInt32(),
+									EfficacyTextId1 = br.ReadUInt32(),
+									EfficacyIconResId2 = br.ReadUInt32(),
+									EfficacyTextId2 = br.ReadUInt32(),
+									EfficacyIconResId3 = br.ReadUInt32(),
+									EfficacyTextId3 = br.ReadUInt32(),
+									PlaceAllowTypeId = br.ReadUInt32(),
+									DesignUnlockFlagId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager209, Formatting.Indented)); }
+					return tblManager209;
+*/

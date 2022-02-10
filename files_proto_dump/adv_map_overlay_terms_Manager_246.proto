@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_246
+message adv_map_overlay_termsFLO {
+	uint32	adv_map_overlay_terms_id	= 1;
+	uint32	termsId	= 2;
+	uint32	typeId	= 3;
+	uint32	eventManagementId	= 4;
+	uint32	godMissionFieldId	= 5;
+	uint32	godMissionGroupId	= 6;
+	uint64	termStartDate	= 7;		//	UInt64
+	uint64	termEndDate	= 8;		//	UInt64
+	int32	eventareaOpen	= 9;		//	Byte
+}
+
+message tableadv_map_overlay_termsFLO { repeated adv_map_overlay_termsFLO tableAdvMapOverlayTerms = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_map_overlay_terms_Manager_246.proto
+
+
+			   case "adv_map_overlay_terms.bytes":
+					ii = 0;
+					tableadv_map_overlay_terms tblManager246 = new tableadv_map_overlay_terms { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager246.TableAdvMapOverlayTerms.Add(new adv_map_overlay_termsFLO
+								{
+									AdvMapOverlayTermsId = br.ReadUInt32(),
+									TermsId = br.ReadUInt32(),
+									TypeId = br.ReadUInt32(),
+									EventManagementId = br.ReadUInt32(),
+									GodMissionFieldId = br.ReadUInt32(),
+									GodMissionGroupId = br.ReadUInt32(),
+									TermStartDate = br.ReadUInt64(),
+									TermEndDate = br.ReadUInt64(),
+									EventareaOpen = br.ReadByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager246, Formatting.Indented)); }
+					return tblManager246;
+*/

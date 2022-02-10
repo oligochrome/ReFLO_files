@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_483
+message contentstypeFLO {
+	uint32 contentstype_id		= 1;
+	uint32 uniqueID		= 2;
+	uint32 itemBugGroupID		= 3;
+	uint32 buildGroupID		= 4;
+	uint32 attachCategoryID		= 5;
+	uint32 inspectorInfoID		= 6;
+	int32 sortNumber		= 7;
+}
+
+message tablecontentstype { repeated contentstypeFLO Table_contentstype = 1; }

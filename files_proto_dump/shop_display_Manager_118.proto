@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_118
+message shop_displayFLO {
+	uint32	shop_display_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	categoryTextID	= 3;
+	uint32	sortNum	= 4;
+}
+
+message tableshop_displayFLO { repeated shop_displayFLO tableShopDisplay = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen shop_display_Manager_118.proto
+
+
+			   case "shop_display.bytes":
+					ii = 0;
+					tableshop_display tblManager118 = new tableshop_display { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager118.TableShopDisplay.Add(new shop_displayFLO
+								{
+									ShopDisplayId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									CategoryTextID = br.ReadUInt32(),
+									SortNum = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager118, Formatting.Indented)); }
+					return tblManager118;
+*/

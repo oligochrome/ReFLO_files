@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_307
+message inspector_set_filter_group_typeFLO {
+	uint32	inspector_set_filter_group_type_id	= 1;
+	uint32	uniqid	= 2;
+}
+
+message tableinspector_set_filter_group_typeFLO { repeated inspector_set_filter_group_typeFLO tableInspectorSetFilterGroupType = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen inspector_set_filter_group_type_Manager_307.proto
+
+
+			   case "inspector_set_filter_group_type.bytes":
+					ii = 0;
+					tableinspector_set_filter_group_type tblManager307 = new tableinspector_set_filter_group_type { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager307.TableInspectorSetFilterGroupType.Add(new inspector_set_filter_group_typeFLO
+								{
+									InspectorSetFilterGroupTypeId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager307, Formatting.Indented)); }
+					return tblManager307;
+*/

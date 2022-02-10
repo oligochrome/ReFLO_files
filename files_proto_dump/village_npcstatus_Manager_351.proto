@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_351
+message village_npcstatusFLO {
+	uint32	village_npcstatus_id	= 1;
+}
+
+message tablevillage_npcstatusFLO { repeated village_npcstatusFLO tableVillageNpcstatus = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen village_npcstatus_Manager_351.proto
+
+
+			   case "village_npcstatus.bytes":
+					ii = 0;
+					tablevillage_npcstatus tblManager351 = new tablevillage_npcstatus { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager351.TableVillageNpcstatus.Add(new village_npcstatusFLO
+								{
+									VillageNpcstatusId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager351, Formatting.Indented)); }
+					return tblManager351;
+*/

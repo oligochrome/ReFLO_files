@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_414
+message evolve_rank_down_save_item_condFLO {
+	uint32	evolve_rank_down_save_item_cond_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	vector[0]	= 3;		//	UInt16
+	uint32	vector[1]	= 4;		//	UInt16
+	uint32	vector[2]	= 5;		//	UInt16
+	uint32	vector[3]	= 6;		//	UInt16
+	uint32	vector[4]	= 7;		//	UInt16
+}
+
+message tableevolve_rank_down_save_item_condFLO { repeated evolve_rank_down_save_item_condFLO tableEvolveRankDownSaveItemCond = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen evolve_rank_down_save_item_cond_Manager_414.proto
+
+
+			   case "evolve_rank_down_save_item_cond.bytes":
+					ii = 0;
+					tableevolve_rank_down_save_item_cond tblManager414 = new tableevolve_rank_down_save_item_cond { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager414.TableEvolveRankDownSaveItemCond.Add(new evolve_rank_down_save_item_condFLO
+								{
+									EvolveRankDownSaveItemCondId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt16(),
+									Vector[1] = br.ReadUInt16(),
+									Vector[2] = br.ReadUInt16(),
+									Vector[3] = br.ReadUInt16(),
+									Vector[4] = br.ReadUInt16()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager414, Formatting.Indented)); }
+					return tblManager414;
+*/

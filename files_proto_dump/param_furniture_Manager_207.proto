@@ -1,0 +1,75 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_207
+message param_furnitureFLO {
+	uint32	param_furniture_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	contentsId	= 3;
+	uint32	gridId	= 4;
+	uint32	dropObjectId	= 5;
+	int32	dyeingEnable	= 6;		//	Byte
+	uint32	defaultColorId	= 7;
+	repeated int32	blackRGBA	= 8;		//	Byte [0-3]
+	repeated int32	whiteRGBA	= 9;		//	Byte [0-3]
+	repeated int32	redRGBA		= 10;		//	Byte [0-3]
+	repeated int32	greenRGBA	= 11;		//	Byte [0-3]
+	repeated int32	blueRGBA	= 12;		//	Byte [0-3]
+	repeated int32	yellowRGBA	= 13;		//	Byte [0-3]
+	repeated int32	purpleRGBA	= 14;		//	Byte [0-3]
+	float	uiScale	= 15;		//	Single
+	float	uiHeight	= 16;		//	Single
+	float	uiTransOffsetX	= 17;		//	Single
+	float	uiTransOffsetZ	= 18;		//	Single
+	uint32	uiDefaultAction	= 19;
+}
+
+message tableparam_furnitureFLO { repeated param_furnitureFLO tableParamFurniture = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen param_furniture_Manager_207.proto
+
+
+			   case "param_furniture.bytes":
+					ii = 0;
+					tableparam_furniture tblManager207 = new tableparam_furniture { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager207.TableParamFurniture.Add(new param_furnitureFLO
+								{
+									ParamFurnitureId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									ContentsId = br.ReadUInt32(),
+									GridId = br.ReadUInt32(),
+									DropObjectId = br.ReadUInt32(),
+									DyeingEnable = br.ReadByte(),
+									DefaultColorId = br.ReadUInt32(),
+									BlackRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									WhiteRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									RedRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									GreenRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									BlueRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									YellowRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									PurpleRGBA = { br.ReadByte(), br.ReadByte(), br.ReadByte(), br.ReadByte() },
+									UiScale = br.ReadSingle(),
+									UiHeight = br.ReadSingle(),
+									UiTransOffsetX = br.ReadSingle(),
+									UiTransOffsetZ = br.ReadSingle(),
+									UiDefaultAction = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager207, Formatting.Indented)); }
+					return tblManager207;
+*/

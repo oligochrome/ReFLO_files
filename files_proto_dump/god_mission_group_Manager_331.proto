@@ -1,0 +1,92 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_331
+message god_mission_groupFLO {
+	uint32	god_mission_group_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	titleTextId	= 3;
+	uint32	godmissionId	= 4;
+	uint32	godmissionThemeId	= 5;
+	uint32	godmissionFieldId	= 6;
+	uint32	questTypeId	= 7;
+	int32	clearFlagEX	= 8;
+	int32	exQuestFlag	= 9;
+	int32	cost	= 10;
+	int32	level	= 11;
+	uint32	startAdvMapId	= 12;
+	uint32	resIconId	= 13;
+	uint32	openEventId	= 14;
+	uint32	clearEventId	= 15;
+	uint32	unlockTextId	= 16;
+	int32	sortWeight	= 17;
+	uint32	mapId	= 18;
+	float	stop_time	= 19;		//	Single
+	uint32	groupEventId	= 20;
+	uint32	vector[0]	= 21;
+	uint32	vector[1]	= 22;
+	uint32	vector[2]	= 23;
+	int32	vector[0]	= 24;
+	int32	vector[1]	= 25;
+	int32	vector[2]	= 26;
+	uint32	vector[0]	= 27;
+	uint32	vector[1]	= 28;
+	uint32	vector[2]	= 29;
+	sint32	vector[0]	= 30;		//	SByte
+	sint32	vector[1]	= 31;		//	SByte
+	sint32	vector[2]	= 32;		//	SByte
+}
+
+message tablegod_mission_groupFLO { repeated god_mission_groupFLO tableGodMissionGroup = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen god_mission_group_Manager_331.proto
+
+
+			   case "god_mission_group.bytes":
+					ii = 0;
+					tablegod_mission_group tblManager331 = new tablegod_mission_group { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager331.TableGodMissionGroup.Add(new god_mission_groupFLO
+								{
+									GodMissionGroupId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									TitleTextId = br.ReadUInt32(),
+									GodmissionId = br.ReadUInt32(),
+									GodmissionThemeId = br.ReadUInt32(),
+									GodmissionFieldId = br.ReadUInt32(),
+									QuestTypeId = br.ReadUInt32(),
+									ClearFlagEX = br.ReadInt32(),
+									ExQuestFlag = br.ReadInt32(),
+									Cost = br.ReadInt32(),
+									Level = br.ReadInt32(),
+									StartAdvMapId = br.ReadUInt32(),
+									ResIconId = br.ReadUInt32(),
+									OpenEventId = br.ReadUInt32(),
+									ClearEventId = br.ReadUInt32(),
+									UnlockTextId = br.ReadUInt32(),
+									SortWeight = br.ReadInt32(),
+									MapId = br.ReadUInt32(),
+									StopTime = br.ReadSingle(),
+									GroupEventId = br.ReadUInt32(),
+									Vector[0] = br.ReadSByte(),
+									Vector[1] = br.ReadSByte(),
+									Vector[2] = br.ReadSByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager331, Formatting.Indented)); }
+					return tblManager331;
+*/

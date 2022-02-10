@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_281
+message log_message_iconFLO {
+	uint32	log_message_icon_id	= 1;
+}
+
+message tablelog_message_iconFLO { repeated log_message_iconFLO tableLogMessageIcon = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen log_message_icon_Manager_281.proto
+
+
+			   case "log_message_icon.bytes":
+					ii = 0;
+					tablelog_message_icon tblManager281 = new tablelog_message_icon { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager281.TableLogMessageIcon.Add(new log_message_iconFLO
+								{
+									LogMessageIconId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager281, Formatting.Indented)); }
+					return tblManager281;
+*/

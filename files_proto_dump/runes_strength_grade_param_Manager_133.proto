@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_133
+message runes_strength_grade_paramFLO {
+	uint32	runes_strength_grade_param_id	= 1;
+	uint32	id	= 2;
+	uint32	vector[0]	= 3;
+	uint32	vector[1]	= 4;
+	uint32	vector[2]	= 5;
+	uint32	vector[3]	= 6;
+	uint32	vector[4]	= 7;
+}
+
+message tablerunes_strength_grade_paramFLO { repeated runes_strength_grade_paramFLO tableRunesStrengthGradeParam = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen runes_strength_grade_param_Manager_133.proto
+
+
+			   case "runes_strength_grade_param.bytes":
+					ii = 0;
+					tablerunes_strength_grade_param tblManager133 = new tablerunes_strength_grade_param { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager133.TableRunesStrengthGradeParam.Add(new runes_strength_grade_paramFLO
+								{
+									RunesStrengthGradeParamId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32(),
+									Vector[4] = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager133, Formatting.Indented)); }
+					return tblManager133;
+*/

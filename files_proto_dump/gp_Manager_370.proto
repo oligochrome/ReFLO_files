@@ -1,0 +1,63 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_370
+message gpFLO {
+	uint32	gp_id	= 1;
+	uint32	uqid	= 2;
+	string	uqidText	= 3;
+	string	atlasName	= 4;
+	uint32	showTextId	= 5;
+	float	min	= 6;		//	Single
+	float	max	= 7;		//	Single
+	sint32	skillUp	= 8;		//	SByte
+	sint32	showReversal	= 9;		//	SByte
+	uint32	upTextId	= 10;
+	uint32	downTextId	= 11;
+	sint32	unVisibleUpDownIcon	= 12;		//	SByte
+	sint32	unVisibleStatusBar	= 13;		//	SByte
+}
+
+message tablegpFLO { repeated gpFLO tableGp = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen gp_Manager_370.proto
+
+
+			   case "gp.bytes":
+					ii = 0;
+					tablegp tblManager370 = new tablegp { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager370.TableGp.Add(new gpFLO
+								{
+									GpId = br.ReadUInt32(),
+									Uqid = br.ReadUInt32(),
+									UqidText = br.ReadString(),
+									AtlasName = br.ReadString(),
+									ShowTextId = br.ReadUInt32(),
+									Min = br.ReadSingle(),
+									Max = br.ReadSingle(),
+									SkillUp = br.ReadSByte(),
+									ShowReversal = br.ReadSByte(),
+									UpTextId = br.ReadUInt32(),
+									DownTextId = br.ReadUInt32(),
+									UnVisibleUpDownIcon = br.ReadSByte(),
+									UnVisibleStatusBar = br.ReadSByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager370, Formatting.Indented)); }
+					return tblManager370;
+*/

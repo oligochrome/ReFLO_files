@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_83
+message stardust_shopFLO {
+	uint32	stardust_shop_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	objId	= 3;
+	int32	price	= 4;
+	int32	discountPrice	= 5;
+	sint32	stockMax	= 6;		//	SByte
+}
+
+message tablestardust_shopFLO { repeated stardust_shopFLO tableStardustShop = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen stardust_shop_Manager_83.proto
+
+
+			   case "stardust_shop.bytes":
+					ii = 0;
+					tablestardust_shop tblManager83 = new tablestardust_shop { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager83.TableStardustShop.Add(new stardust_shopFLO
+								{
+									StardustShopId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									ObjId = br.ReadUInt32(),
+									Price = br.ReadInt32(),
+									DiscountPrice = br.ReadInt32(),
+									StockMax = br.ReadSByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager83, Formatting.Indented)); }
+					return tblManager83;
+*/

@@ -1,0 +1,68 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_254
+message myroomFLO {
+	uint32	myroom_id	= 1;
+	uint32	unqId	= 2;
+	uint32	roomID	= 3;
+	uint32	facilityID	= 4;
+	uint32	defaultFloorObjID	= 5;
+	uint32	defaultWallObjID	= 6;
+	uint32	vector[0]	= 7;
+	uint32	vector[1]	= 8;
+	uint32	vector[2]	= 9;
+	uint32	vector[3]	= 10;
+	uint32	maxFurnitureCount	= 11;
+	int32	isEntranceRoom	= 12;		//	Byte
+	sint32	vector[0]	= 13;		//	SByte
+	sint32	vector[1]	= 14;		//	SByte
+	sint32	vector[2]	= 15;		//	SByte
+	sint32	vector[3]	= 16;		//	SByte
+	sint32	vector[0]	= 17;		//	SByte
+	sint32	vector[1]	= 18;		//	SByte
+	sint32	vector[2]	= 19;		//	SByte
+}
+
+message tablemyroomFLO { repeated myroomFLO tableMyroom = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen myroom_Manager_254.proto
+
+
+			   case "myroom.bytes":
+					ii = 0;
+					tablemyroom tblManager254 = new tablemyroom { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager254.TableMyroom.Add(new myroomFLO
+								{
+									MyroomId = br.ReadUInt32(),
+									UnqId = br.ReadUInt32(),
+									RoomID = br.ReadUInt32(),
+									FacilityID = br.ReadUInt32(),
+									DefaultFloorObjID = br.ReadUInt32(),
+									DefaultWallObjID = br.ReadUInt32(),
+									Vector[0] = br.ReadSByte(),
+									Vector[1] = br.ReadSByte(),
+									Vector[2] = br.ReadSByte()									Vector[3] = br.ReadSByte(),
+									MaxFurnitureCount = br.ReadUInt32(),
+									IsEntranceRoom = br.ReadByte(),
+
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager254, Formatting.Indented)); }
+					return tblManager254;
+*/

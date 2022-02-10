@@ -1,0 +1,63 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_184
+message premium_passFLO {
+	uint32	premium_pass_id	= 1;
+	uint32	uniqId	= 2;
+	string	passName	= 3;
+	int32	passType	= 4;		//	Byte
+	int32	displayFlag	= 5;		//	Byte
+	int32	displayPrio	= 6;		//	Byte
+	int32	trialDays	= 7;		//	Byte
+	int32	days	= 8;		//	Byte
+	uint32	price	= 9;		//	UInt16
+	uint32	iconBgId	= 10;
+	uint32	detailBgId	= 11;
+	uint32	imageResId	= 12;
+	uint32	loginBonusObjId	= 13;
+}
+
+message tablepremium_passFLO { repeated premium_passFLO tablePremiumPass = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen premium_pass_Manager_184.proto
+
+
+			   case "premium_pass.bytes":
+					ii = 0;
+					tablepremium_pass tblManager184 = new tablepremium_pass { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager184.TablePremiumPass.Add(new premium_passFLO
+								{
+									PremiumPassId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									PassName = br.ReadString(),
+									PassType = br.ReadByte(),
+									DisplayFlag = br.ReadByte(),
+									DisplayPrio = br.ReadByte(),
+									TrialDays = br.ReadByte(),
+									Days = br.ReadByte(),
+									Price = br.ReadUInt16(),
+									IconBgId = br.ReadUInt32(),
+									DetailBgId = br.ReadUInt32(),
+									ImageResId = br.ReadUInt32(),
+									LoginBonusObjId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager184, Formatting.Indented)); }
+					return tblManager184;
+*/

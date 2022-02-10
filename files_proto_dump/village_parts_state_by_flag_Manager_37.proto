@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_37
+message village_parts_state_by_flagFLO {
+	uint32	village_parts_state_by_flag_id	= 1;
+	uint32	partId	= 2;
+	int32	index	= 3;
+	uint32	flagId	= 4;
+}
+
+message tablevillage_parts_state_by_flagFLO { repeated village_parts_state_by_flagFLO tableVillagePartsStateByFlag = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen village_parts_state_by_flag_Manager_37.proto
+
+
+			   case "village_parts_state_by_flag.bytes":
+					ii = 0;
+					tablevillage_parts_state_by_flag tblManager37 = new tablevillage_parts_state_by_flag { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager37.TableVillagePartsStateByFlag.Add(new village_parts_state_by_flagFLO
+								{
+									VillagePartsStateByFlagId = br.ReadUInt32(),
+									PartId = br.ReadUInt32(),
+									Index = br.ReadInt32(),
+									FlagId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager37, Formatting.Indented)); }
+					return tblManager37;
+*/

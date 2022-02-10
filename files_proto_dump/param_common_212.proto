@@ -1,0 +1,34 @@
+﻿syntax = "proto3";
+
+package ReFLO;
+
+//	Manager_212
+message ParaCommonFLO {
+uint32	CommonParamId	= 1;
+int32	menu_sort		= 2;
+int32	rarity			= 3;
+int32	bitfield0		= 4;		// Byte
+int32	buyprice		= 5;
+int32	sellprice		= 6;
+int32	bitfield1		= 7;		// Byte
+float	scale			= 8;		// Single
+float	inspectorScale	= 9;		// Single
+// inspectorOffset
+float	vector0			= 10;		// Single
+float	vector1			= 11;		// Single
+float	vector2			= 12;		// Single
+int32	bitfield2		= 13;		// Byte
+uint32	enchantNeedRich	= 14;
+int32	charaExp		= 17;
+int32	equipExp		= 18;
+uint32	baseSet			= 19;
+uint32	findPlaceSet	= 20;
+uint32	recommendLife	= 21;
+uint32	collabo_event_text= 22;
+int32	non_exchangeable= 23;		// Byte
+}
+
+message Table_ParaCommonFLO{
+	repeated ParaCommonFLO table_pcom = 1;
+	map<uint32, int32> idRef  = 2;
+}

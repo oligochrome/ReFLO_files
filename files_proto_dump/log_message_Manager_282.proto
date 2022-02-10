@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_282
+message log_messageFLO {
+	uint32	log_message_id	= 1;
+	uint32	logMessageTypeID	= 2;
+	uint32	logMessageIconID	= 3;
+	uint32	textID	= 4;
+	int32	prio	= 5;		//	Byte
+}
+
+message tablelog_messageFLO { repeated log_messageFLO tableLogMessage = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen log_message_Manager_282.proto
+
+
+			   case "log_message.bytes":
+					ii = 0;
+					tablelog_message tblManager282 = new tablelog_message { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager282.TableLogMessage.Add(new log_messageFLO
+								{
+									LogMessageId = br.ReadUInt32(),
+									LogMessageTypeID = br.ReadUInt32(),
+									LogMessageIconID = br.ReadUInt32(),
+									TextID = br.ReadUInt32(),
+									Prio = br.ReadByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager282, Formatting.Indented)); }
+					return tblManager282;
+*/

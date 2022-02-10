@@ -1,0 +1,57 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_431
+message ev_weapon_ratioFLO {
+	uint32	ev_weapon_ratio_id	= 1;
+	uint32	uniqid	= 2;
+	int32	rarity	= 3;
+	int32	evolve	= 4;
+	uint32	needItemId	= 5;
+	int32	needItemCnt	= 6;
+	uint32	useSaveItemCondId	= 7;
+	uint32	amuletItemId	= 8;
+	int32	amuletItemCnt	= 9;
+	int32	costRich	= 10;
+}
+
+message tableev_weapon_ratioFLO { repeated ev_weapon_ratioFLO tableEvWeaponRatio = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen ev_weapon_ratio_Manager_431.proto
+
+
+			   case "ev_weapon_ratio.bytes":
+					ii = 0;
+					tableev_weapon_ratio tblManager431 = new tableev_weapon_ratio { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager431.TableEvWeaponRatio.Add(new ev_weapon_ratioFLO
+								{
+									EvWeaponRatioId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Rarity = br.ReadInt32(),
+									Evolve = br.ReadInt32(),
+									NeedItemId = br.ReadUInt32(),
+									NeedItemCnt = br.ReadInt32(),
+									UseSaveItemCondId = br.ReadUInt32(),
+									AmuletItemId = br.ReadUInt32(),
+									AmuletItemCnt = br.ReadInt32(),
+									CostRich = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager431, Formatting.Indented)); }
+					return tblManager431;
+*/

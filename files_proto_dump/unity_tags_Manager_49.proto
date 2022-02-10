@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_49
+message unity_tagsFLO {
+	uint32	unity_tags_id	= 1;
+	string	tag	= 2;
+}
+
+message tableunity_tagsFLO { repeated unity_tagsFLO tableUnityTags = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen unity_tags_Manager_49.proto
+
+
+			   case "unity_tags.bytes":
+					ii = 0;
+					tableunity_tags tblManager49 = new tableunity_tags { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager49.TableUnityTags.Add(new unity_tagsFLO
+								{
+									UnityTagsId = br.ReadUInt32(),
+									Tag = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager49, Formatting.Indented)); }
+					return tblManager49;
+*/

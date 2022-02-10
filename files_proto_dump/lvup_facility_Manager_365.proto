@@ -1,0 +1,78 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_365
+message lvup_facilityFLO {
+	uint32	lvup_facility_id	= 1;
+	uint32	objid	= 2;
+	int32	level	= 3;
+	float	vector[0]	= 4;		//	Single
+	float	vector[1]	= 5;		//	Single
+	float	vector[0]	= 6;		//	Single
+	float	vector[1]	= 7;		//	Single
+	int32	vector[0]	= 8;
+	int32	vector[1]	= 9;
+	int32	vector[2]	= 10;
+	int32	vector[3]	= 11;
+	int32	vector[4]	= 12;
+	int32	vector[5]	= 13;
+	int32	vector[6]	= 14;
+	int32	vector[7]	= 15;
+	int32	vector[8]	= 16;
+	uint32	vector[0]	= 17;
+	uint32	vector[1]	= 18;
+	uint32	vector[2]	= 19;
+	uint32	vector[3]	= 20;
+	uint32	vector[4]	= 21;
+	uint32	vector[5]	= 22;
+	uint32	vector[6]	= 23;
+	uint32	vector[7]	= 24;
+	uint32	vector[8]	= 25;
+	uint32	vector[9]	= 26;
+	uint32	vector[10]	= 27;
+}
+
+message tablelvup_facilityFLO { repeated lvup_facilityFLO tableLvupFacility = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen lvup_facility_Manager_365.proto
+
+
+			   case "lvup_facility.bytes":
+					ii = 0;
+					tablelvup_facility tblManager365 = new tablelvup_facility { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager365.TableLvupFacility.Add(new lvup_facilityFLO
+								{
+									LvupFacilityId = br.ReadUInt32(),
+									Objid = br.ReadUInt32(),
+									Level = br.ReadInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32(),
+									Vector[4] = br.ReadUInt32(),
+									Vector[5] = br.ReadUInt32(),
+									Vector[6] = br.ReadUInt32(),
+									Vector[7] = br.ReadUInt32(),
+									Vector[8] = br.ReadUInt32(),
+									Vector[9] = br.ReadUInt32(),
+									Vector[10] = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager365, Formatting.Indented)); }
+					return tblManager365;
+*/

@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_293
+message legendary_surpriseboxFLO {
+	uint32	legendary_surprisebox_id	= 1;
+	uint32	id	= 2;
+	uint32	monsterId	= 3;
+	uint32	advMapId	= 4;
+	uint32	surpriseBoxId	= 5;
+	float	probability	= 6;		//	Single
+}
+
+message tablelegendary_surpriseboxFLO { repeated legendary_surpriseboxFLO tableLegendarySurprisebox = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen legendary_surprisebox_Manager_293.proto
+
+
+			   case "legendary_surprisebox.bytes":
+					ii = 0;
+					tablelegendary_surprisebox tblManager293 = new tablelegendary_surprisebox { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager293.TableLegendarySurprisebox.Add(new legendary_surpriseboxFLO
+								{
+									LegendarySurpriseboxId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									MonsterId = br.ReadUInt32(),
+									AdvMapId = br.ReadUInt32(),
+									SurpriseBoxId = br.ReadUInt32(),
+									Probability = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager293, Formatting.Indented)); }
+					return tblManager293;
+*/

@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_482
+message contentstype_groupFLO {
+	uint32	contentstype_group_id	= 1;
+	uint32	uniqId	= 2;
+	uint32	parentId	= 3;
+	uint32	textId	= 4;
+	uint32	descriptionTextId	= 5;
+	uint32	descriptionStoreTextId	= 6;
+	string	spriteName	= 7;
+}
+
+message tablecontentstype_groupFLO { repeated contentstype_groupFLO tableContentstypeGroup = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen contentstype_group_Manager_482.proto
+
+
+			   case "contentstype_group.bytes":
+					ii = 0;
+					tablecontentstype_group tblManager482 = new tablecontentstype_group { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager482.TableContentstypeGroup.Add(new contentstype_groupFLO
+								{
+									ContentstypeGroupId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									ParentId = br.ReadUInt32(),
+									TextId = br.ReadUInt32(),
+									DescriptionTextId = br.ReadUInt32(),
+									DescriptionStoreTextId = br.ReadUInt32(),
+									SpriteName = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager482, Formatting.Indented)); }
+					return tblManager482;
+*/

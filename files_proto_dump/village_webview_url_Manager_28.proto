@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_28
+message village_webview_urlFLO {
+	uint32	village_webview_url_id	= 1;
+	uint32	unqId	= 2;
+	string	url	= 3;
+	int32	sort	= 4;
+	uint64	period_from	= 5;		//	UInt64
+	uint64	period_to	= 6;		//	UInt64
+}
+
+message tablevillage_webview_urlFLO { repeated village_webview_urlFLO tableVillageWebviewUrl = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen village_webview_url_Manager_28.proto
+
+
+			   case "village_webview_url.bytes":
+					ii = 0;
+					tablevillage_webview_url tblManager28 = new tablevillage_webview_url { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager28.TableVillageWebviewUrl.Add(new village_webview_urlFLO
+								{
+									VillageWebviewUrlId = br.ReadUInt32(),
+									UnqId = br.ReadUInt32(),
+									Url = br.ReadString(),
+									Sort = br.ReadInt32(),
+									PeriodFrom = br.ReadUInt64(),
+									PeriodTo = br.ReadUInt64()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager28, Formatting.Indented)); }
+					return tblManager28;
+*/

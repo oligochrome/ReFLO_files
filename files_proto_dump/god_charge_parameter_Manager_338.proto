@@ -1,0 +1,59 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_338
+message god_charge_parameterFLO {
+	uint32	god_charge_parameter_id	= 1;
+	uint32	godChargeParameterID	= 2;
+	uint32	bitfield0	= 3;
+	uint32	lifeID	= 4;
+	float	battleAttackDamageRate	= 5;		//	Single
+	float	pickAttackDamageRate	= 6;		//	Single
+	float	physicalDamageCutRate	= 7;		//	Single
+	float	magicalDamageCutRate	= 8;		//	Single
+	float	tensionHealRate	= 9;		//	Single
+	float	hpHealRate	= 10;		//	Single
+	float	spHealRate	= 11;		//	Single
+}
+
+message tablegod_charge_parameterFLO { repeated god_charge_parameterFLO tableGodChargeParameter = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen god_charge_parameter_Manager_338.proto
+
+
+			   case "god_charge_parameter.bytes":
+					ii = 0;
+					tablegod_charge_parameter tblManager338 = new tablegod_charge_parameter { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager338.TableGodChargeParameter.Add(new god_charge_parameterFLO
+								{
+									GodChargeParameterId = br.ReadUInt32(),
+									GodChargeParameterID = br.ReadUInt32(),
+									Bitfield0 = br.ReadUInt32(),
+									LifeID = br.ReadUInt32(),
+									BattleAttackDamageRate = br.ReadSingle(),
+									PickAttackDamageRate = br.ReadSingle(),
+									PhysicalDamageCutRate = br.ReadSingle(),
+									MagicalDamageCutRate = br.ReadSingle(),
+									TensionHealRate = br.ReadSingle(),
+									HpHealRate = br.ReadSingle(),
+									SpHealRate = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager338, Formatting.Indented)); }
+					return tblManager338;
+*/

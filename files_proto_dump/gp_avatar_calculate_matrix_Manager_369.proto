@@ -1,0 +1,93 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_369
+message gp_avatar_calculate_matrixFLO {
+	uint32	gp_avatar_calculate_matrix_id	= 1;
+	float	vector[0]	= 2;		//	Single
+	float	vector[1]	= 3;		//	Single
+	float	vector[2]	= 4;		//	Single
+	float	vector[3]	= 5;		//	Single
+	float	vector[4]	= 6;		//	Single
+	float	vector[5]	= 7;		//	Single
+	float	vector[6]	= 8;		//	Single
+	float	vector[7]	= 9;		//	Single
+	float	vector[8]	= 10;		//	Single
+	float	vector[9]	= 11;		//	Single
+	float	vector[10]	= 12;		//	Single
+	float	vector[0xb]	= 13;		//	Single
+	float	vector[0xc]	= 14;		//	Single
+	float	vector[0xd]	= 15;		//	Single
+	float	vector[0xe]	= 16;		//	Single
+	float	vector[0]	= 17;		//	Single
+	float	vector[1]	= 18;		//	Single
+	float	vector[2]	= 19;		//	Single
+	float	vector[3]	= 20;		//	Single
+	float	vector[4]	= 21;		//	Single
+	float	vector[5]	= 22;		//	Single
+	float	vector[6]	= 23;		//	Single
+	float	vector[7]	= 24;		//	Single
+	float	physicaldefense	= 25;		//	Single
+	float	magicoffense	= 26;		//	Single
+	float	magicdefense	= 27;		//	Single
+	float	critical_offense	= 28;		//	Single
+	float	critical_defense	= 29;		//	Single
+	float	drop	= 30;		//	Single
+	float	rich	= 31;		//	Single
+	float	exp	= 32;		//	Single
+}
+
+message tablegp_avatar_calculate_matrixFLO { repeated gp_avatar_calculate_matrixFLO tableGpAvatarCalculateMatrix = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen gp_avatar_calculate_matrix_Manager_369.proto
+
+
+			   case "gp_avatar_calculate_matrix.bytes":
+					ii = 0;
+					tablegp_avatar_calculate_matrix tblManager369 = new tablegp_avatar_calculate_matrix { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager369.TableGpAvatarCalculateMatrix.Add(new gp_avatar_calculate_matrixFLO
+								{
+									GpAvatarCalculateMatrixId = br.ReadUInt32(),
+									Vector[0] = br.ReadSingle(),
+									Vector[1] = br.ReadSingle(),
+									Vector[2] = br.ReadSingle(),
+									Vector[3] = br.ReadSingle(),
+									Vector[4] = br.ReadSingle(),
+									Vector[5] = br.ReadSingle(),
+									Vector[6] = br.ReadSingle(),
+									Vector[7] = br.ReadSingle(),
+									Vector[8] = br.ReadSingle(),
+									Vector[9] = br.ReadSingle(),
+									Vector[10] = br.ReadSingle(),
+									Vector[0xb] = br.ReadSingle(),
+									Vector[0xc] = br.ReadSingle(),
+									Vector[0xd] = br.ReadSingle(),
+									Vector[0xe] = br.ReadSingle(),
+									Physicaldefense = br.ReadSingle(),
+									Magicoffense = br.ReadSingle(),
+									Magicdefense = br.ReadSingle(),
+									CriticalOffense = br.ReadSingle(),
+									CriticalDefense = br.ReadSingle(),
+									Drop = br.ReadSingle(),
+									Rich = br.ReadSingle(),
+									Exp = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager369, Formatting.Indented)); }
+					return tblManager369;
+*/

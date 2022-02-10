@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_535
+message assetbundle_dl_priorityFLO {
+	uint32	assetbundle_dl_priority_id	= 1;
+	uint32	assetBundleId	= 2;
+	int32	isFirstData	= 3;
+	int32	isTutorial	= 4;
+	int32	isMinimum	= 5;
+	int32	isMiddle	= 6;
+	int32	isFull	= 7;
+}
+
+message tableassetbundle_dl_priorityFLO { repeated assetbundle_dl_priorityFLO tableAssetbundleDlPriority = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen assetbundle_dl_priority_Manager_535.proto
+
+
+			   case "assetbundle_dl_priority.bytes":
+					ii = 0;
+					tableassetbundle_dl_priority tblManager535 = new tableassetbundle_dl_priority { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager535.TableAssetbundleDlPriority.Add(new assetbundle_dl_priorityFLO
+								{
+									AssetbundleDlPriorityId = br.ReadUInt32(),
+									AssetBundleId = br.ReadUInt32(),
+									IsFirstData = br.ReadInt32(),
+									IsTutorial = br.ReadInt32(),
+									IsMinimum = br.ReadInt32(),
+									IsMiddle = br.ReadInt32(),
+									IsFull = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager535, Formatting.Indented)); }
+					return tblManager535;
+*/

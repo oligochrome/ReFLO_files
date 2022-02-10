@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_375
+message base_param_ratioFLO {
+	uint32	base_param_ratio_id	= 1;
+	float	power	= 2;		//	Single
+	float	toughness	= 3;		//	Single
+	float	clever	= 4;		//	Single
+	float	concentration	= 5;		//	Single
+	float	deftness	= 6;		//	Single
+	float	luck	= 7;		//	Single
+}
+
+message tablebase_param_ratioFLO { repeated base_param_ratioFLO tableBaseParamRatio = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen base_param_ratio_Manager_375.proto
+
+
+			   case "base_param_ratio.bytes":
+					ii = 0;
+					tablebase_param_ratio tblManager375 = new tablebase_param_ratio { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager375.TableBaseParamRatio.Add(new base_param_ratioFLO
+								{
+									BaseParamRatioId = br.ReadUInt32(),
+									Power = br.ReadSingle(),
+									Toughness = br.ReadSingle(),
+									Clever = br.ReadSingle(),
+									Concentration = br.ReadSingle(),
+									Deftness = br.ReadSingle(),
+									Luck = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager375, Formatting.Indented)); }
+					return tblManager375;
+*/

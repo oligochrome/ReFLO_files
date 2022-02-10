@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_476
+message craft_time_correctionFLO {
+	uint32	craft_time_correction_id	= 1;
+	int32	uniqTime	= 2;
+	float	timeCorr	= 3;		//	Single
+}
+
+message tablecraft_time_correctionFLO { repeated craft_time_correctionFLO tableCraftTimeCorrection = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen craft_time_correction_Manager_476.proto
+
+
+			   case "craft_time_correction.bytes":
+					ii = 0;
+					tablecraft_time_correction tblManager476 = new tablecraft_time_correction { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager476.TableCraftTimeCorrection.Add(new craft_time_correctionFLO
+								{
+									CraftTimeCorrectionId = br.ReadUInt32(),
+									UniqTime = br.ReadInt32(),
+									TimeCorr = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager476, Formatting.Indented)); }
+					return tblManager476;
+*/

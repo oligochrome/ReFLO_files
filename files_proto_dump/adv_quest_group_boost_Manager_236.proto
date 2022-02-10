@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_236
+message adv_quest_group_boostFLO {
+	uint32	adv_quest_group_boost_id	= 1;
+	uint32	groupBoostId	= 2;
+	int32	superBoostPower	= 3;
+	int32	veryBoostPower	= 4;
+	string	feverTime	= 5;
+}
+
+message tableadv_quest_group_boostFLO { repeated adv_quest_group_boostFLO tableAdvQuestGroupBoost = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_quest_group_boost_Manager_236.proto
+
+
+			   case "adv_quest_group_boost.bytes":
+					ii = 0;
+					tableadv_quest_group_boost tblManager236 = new tableadv_quest_group_boost { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager236.TableAdvQuestGroupBoost.Add(new adv_quest_group_boostFLO
+								{
+									AdvQuestGroupBoostId = br.ReadUInt32(),
+									GroupBoostId = br.ReadUInt32(),
+									SuperBoostPower = br.ReadInt32(),
+									VeryBoostPower = br.ReadInt32(),
+									FeverTime = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager236, Formatting.Indented)); }
+					return tblManager236;
+*/

@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_377
+message gacha_tutorial_categoryFLO {
+	uint32	gacha_tutorial_category_id	= 1;
+	uint32	category	= 2;
+}
+
+message tablegacha_tutorial_categoryFLO { repeated gacha_tutorial_categoryFLO tableGachaTutorialCategory = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen gacha_tutorial_category_Manager_377.proto
+
+
+			   case "gacha_tutorial_category.bytes":
+					ii = 0;
+					tablegacha_tutorial_category tblManager377 = new tablegacha_tutorial_category { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager377.TableGachaTutorialCategory.Add(new gacha_tutorial_categoryFLO
+								{
+									GachaTutorialCategoryId = br.ReadUInt32(),
+									Category = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager377, Formatting.Indented)); }
+					return tblManager377;
+*/

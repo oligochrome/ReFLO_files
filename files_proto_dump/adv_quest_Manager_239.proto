@@ -1,0 +1,150 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_239
+message adv_questFLO {
+	uint32	adv_quest_id	= 1;
+	uint32	advQuestId	= 2;
+	uint32	textId_name	= 3;
+	uint32	advGroupId	= 4;
+	int32	sort_idx	= 5;
+	uint32	textId_description	= 6;
+	uint32	advmapId_start	= 7;
+	uint32	objId_3dmodel	= 8;
+	float	offset_x	= 9;		//	Single
+	float	offset_y	= 10;		//	Single
+	float	offset_size	= 11;		//	Single
+	uint32	vector[0]	= 12;
+	uint32	vector[1]	= 13;
+	uint32	vector[2]	= 14;
+	uint32	vector[0]	= 15;
+	uint32	vector[1]	= 16;
+	uint32	vector[2]	= 17;
+	int32	vector[0]	= 18;
+	int32	vector[1]	= 19;
+	int32	vector[2]	= 20;
+	uint32	reward_sub_comp	= 21;
+	int32	reward_sub_comp_num	= 22;
+	uint32	event_script_id	= 23;
+	uint32	icon_res_id	= 24;
+	int32	battle_num	= 25;
+	int32	recommend_level	= 26;
+	int32	limit_level	= 27;
+	uint32	recommend_life_id_1	= 28;
+	uint32	recommend_life_id_2	= 29;
+	uint32	recommend_life_id_3	= 30;
+	uint32	quest_description_id	= 31;
+	uint32	quest_kind	= 32;
+	uint32	first_clear_reward_obj_id_1	= 33;
+	int32	first_clear_reward_num_1	= 34;
+	uint32	first_clear_reward_obj_id_2	= 35;
+	int32	first_clear_reward_num_2	= 36;
+	uint32	first_clear_reward_obj_id_3	= 37;
+	int32	first_clear_reward_num_3	= 38;
+	uint32	reference_get_item_id_1	= 39;
+	uint32	reference_get_item_id_2	= 40;
+	uint32	reference_get_item_id_3	= 41;
+	uint32	vector[0]	= 42;
+	uint32	vector[1]	= 43;
+	uint32	vector[2]	= 44;
+	uint32	advmapId_boss	= 45;
+	uint32	costParameter	= 46;
+	uint32	costIconObjID	= 47;
+	uint32	targetDropInfo	= 48;
+	uint32	difficultyID	= 49;
+	uint32	timeupId	= 50;
+	int32	timeLimit	= 51;
+	uint32	questOpenFlagId	= 52;
+	uint32	questOpenQuestId	= 53;
+	uint32	cameraResId	= 54;
+	uint32	bossSubnameTextId	= 55;
+	int32	revivalAllCount	= 56;
+	uint32	kingBeastDataId	= 57;
+	uint32	dataBoostId	= 58;
+	uint32	customUINumberObjId	= 59;
+	uint32	bgmIdOnClear	= 60;
+	uint32	levelSyncId	= 61;
+}
+
+message tableadv_questFLO { repeated adv_questFLO tableAdvQuest = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_quest_Manager_239.proto
+
+
+			   case "adv_quest.bytes":
+					ii = 0;
+					tableadv_quest tblManager239 = new tableadv_quest { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager239.TableAdvQuest.Add(new adv_questFLO
+								{
+									AdvQuestId = br.ReadUInt32(),
+									AdvQuestId = br.ReadUInt32(),
+									TextIdName = br.ReadUInt32(),
+									AdvGroupId = br.ReadUInt32(),
+									SortIdx = br.ReadInt32(),
+									TextIdDescription = br.ReadUInt32(),
+									AdvmapIdStart = br.ReadUInt32(),
+									ObjId3dmodel = br.ReadUInt32(),
+									OffsetX = br.ReadSingle(),
+									OffsetY = br.ReadSingle(),
+									OffsetSize = br.ReadSingle(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									RewardSubComp = br.ReadUInt32(),
+									RewardSubCompNum = br.ReadInt32(),
+									EventScriptId = br.ReadUInt32(),
+									IconResId = br.ReadUInt32(),
+									BattleNum = br.ReadInt32(),
+									RecommendLevel = br.ReadInt32(),
+									LimitLevel = br.ReadInt32(),
+									RecommendLifeId1 = br.ReadUInt32(),
+									RecommendLifeId2 = br.ReadUInt32(),
+									RecommendLifeId3 = br.ReadUInt32(),
+									QuestDescriptionId = br.ReadUInt32(),
+									QuestKind = br.ReadUInt32(),
+									FirstClearRewardObjId1 = br.ReadUInt32(),
+									FirstClearRewardNum1 = br.ReadInt32(),
+									FirstClearRewardObjId2 = br.ReadUInt32(),
+									FirstClearRewardNum2 = br.ReadInt32(),
+									FirstClearRewardObjId3 = br.ReadUInt32(),
+									FirstClearRewardNum3 = br.ReadInt32(),
+									ReferenceGetItemId1 = br.ReadUInt32(),
+									ReferenceGetItemId2 = br.ReadUInt32(),
+									ReferenceGetItemId3 = br.ReadUInt32(),
+									AdvmapIdBoss = br.ReadUInt32(),
+									CostParameter = br.ReadUInt32(),
+									CostIconObjID = br.ReadUInt32(),
+									TargetDropInfo = br.ReadUInt32(),
+									DifficultyID = br.ReadUInt32(),
+									TimeupId = br.ReadUInt32(),
+									TimeLimit = br.ReadInt32(),
+									QuestOpenFlagId = br.ReadUInt32(),
+									QuestOpenQuestId = br.ReadUInt32(),
+									CameraResId = br.ReadUInt32(),
+									BossSubnameTextId = br.ReadUInt32(),
+									RevivalAllCount = br.ReadInt32(),
+									KingBeastDataId = br.ReadUInt32(),
+									DataBoostId = br.ReadUInt32(),
+									CustomUINumberObjId = br.ReadUInt32(),
+									BgmIdOnClear = br.ReadUInt32(),
+									LevelSyncId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager239, Formatting.Indented)); }
+					return tblManager239;
+*/

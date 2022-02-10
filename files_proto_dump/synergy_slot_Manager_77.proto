@@ -1,0 +1,77 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_77
+message synergy_slotFLO {
+	uint32	synergy_slot_id	= 1;
+	uint32	ID	= 2;
+	uint32	boardId	= 3;
+	uint32	slotGroupId	= 4;
+	int32	isBonusLabelFlag	= 5;
+	uint32	prerequisiteSlotId	= 6;
+	int32	slotIndex	= 7;
+	uint32	descriptionTextId	= 8;
+	uint32	slotConditionId1	= 9;
+	uint32	slotConditionId2	= 10;
+	uint32	slotConditionId3	= 11;
+	uint32	slotConditionId4	= 12;
+	uint32	slotConditionId5	= 13;
+	uint32	slotConditionId6	= 14;
+	uint32	slotStatusUpId1	= 15;
+	uint32	slotStatusUpId2	= 16;
+	uint32	slotStatusUpId3	= 17;
+	uint32	slotStatusUpId4	= 18;
+	uint32	slotStatusUpId5	= 19;
+	uint32	slotStatusUpId6	= 20;
+}
+
+message tablesynergy_slotFLO { repeated synergy_slotFLO tableSynergySlot = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen synergy_slot_Manager_77.proto
+
+
+			   case "synergy_slot.bytes":
+					ii = 0;
+					tablesynergy_slot tblManager77 = new tablesynergy_slot { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager77.TableSynergySlot.Add(new synergy_slotFLO
+								{
+									SynergySlotId = br.ReadUInt32(),
+									ID = br.ReadUInt32(),
+									BoardId = br.ReadUInt32(),
+									SlotGroupId = br.ReadUInt32(),
+									IsBonusLabelFlag = br.ReadInt32(),
+									PrerequisiteSlotId = br.ReadUInt32(),
+									SlotIndex = br.ReadInt32(),
+									DescriptionTextId = br.ReadUInt32(),
+									SlotConditionId1 = br.ReadUInt32(),
+									SlotConditionId2 = br.ReadUInt32(),
+									SlotConditionId3 = br.ReadUInt32(),
+									SlotConditionId4 = br.ReadUInt32(),
+									SlotConditionId5 = br.ReadUInt32(),
+									SlotConditionId6 = br.ReadUInt32(),
+									SlotStatusUpId1 = br.ReadUInt32(),
+									SlotStatusUpId2 = br.ReadUInt32(),
+									SlotStatusUpId3 = br.ReadUInt32(),
+									SlotStatusUpId4 = br.ReadUInt32(),
+									SlotStatusUpId5 = br.ReadUInt32(),
+									SlotStatusUpId6 = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager77, Formatting.Indented)); }
+					return tblManager77;
+*/

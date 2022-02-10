@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_272
+message lv5id_statusFLO {
+	uint32	lv5id_status_id	= 1;
+	uint32	statusID	= 2;
+	uint32	statusIndex	= 3;
+	string	statusName	= 4;
+	uint32	statusTitleId	= 5;
+	uint32	statusBodyId	= 6;
+	uint32	statusView_get	= 7;
+	uint32	statusView_notGet	= 8;
+}
+
+message tablelv5id_statusFLO { repeated lv5id_statusFLO tableLv5idStatus = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen lv5id_status_Manager_272.proto
+
+
+			   case "lv5id_status.bytes":
+					ii = 0;
+					tablelv5id_status tblManager272 = new tablelv5id_status { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager272.TableLv5idStatus.Add(new lv5id_statusFLO
+								{
+									Lv5idStatusId = br.ReadUInt32(),
+									StatusID = br.ReadUInt32(),
+									StatusIndex = br.ReadUInt32(),
+									StatusName = br.ReadString(),
+									StatusTitleId = br.ReadUInt32(),
+									StatusBodyId = br.ReadUInt32(),
+									StatusViewGet = br.ReadUInt32(),
+									StatusViewNotGet = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager272, Formatting.Indented)); }
+					return tblManager272;
+*/

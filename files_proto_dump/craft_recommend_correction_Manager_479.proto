@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_479
+message craft_recommend_correctionFLO {
+	uint32	craft_recommend_correction_id	= 1;
+	int32	uniqPower	= 2;
+	int32	recommendCorr	= 3;
+}
+
+message tablecraft_recommend_correctionFLO { repeated craft_recommend_correctionFLO tableCraftRecommendCorrection = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen craft_recommend_correction_Manager_479.proto
+
+
+			   case "craft_recommend_correction.bytes":
+					ii = 0;
+					tablecraft_recommend_correction tblManager479 = new tablecraft_recommend_correction { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager479.TableCraftRecommendCorrection.Add(new craft_recommend_correctionFLO
+								{
+									CraftRecommendCorrectionId = br.ReadUInt32(),
+									UniqPower = br.ReadInt32(),
+									RecommendCorr = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager479, Formatting.Indented)); }
+					return tblManager479;
+*/

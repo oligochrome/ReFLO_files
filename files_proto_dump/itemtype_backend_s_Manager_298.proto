@@ -1,0 +1,73 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_298
+message itemtype_backend_sFLO {
+	uint32	itemtype_backend_s_id	= 1;
+	uint32	unqID	= 2;
+	uint32	backend_M_ID	= 3;
+	uint32	slotID	= 4;
+	uint32	weaponCtegoryID	= 5;
+	int32	isNpcCanEquip	= 6;		//	Byte
+	int32	isShieldCanEquip	= 7;		//	Byte
+	int32	isBottomCanEquip	= 8;		//	Byte
+	uint32	illusionWeaponID	= 9;
+	uint32	vector[0]	= 10;
+	uint32	vector[1]	= 11;
+	uint32	vector[2]	= 12;
+	uint32	vector[3]	= 13;
+	uint32	vector[4]	= 14;
+	uint32	vector[5]	= 15;
+	uint32	advWeaponTypeParamID	= 16;
+	uint32	weaponCategoryName	= 17;
+	string	iconSpriteName	= 18;
+}
+
+message tableitemtype_backend_sFLO { repeated itemtype_backend_sFLO tableItemtypeBackendS = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen itemtype_backend_s_Manager_298.proto
+
+
+			   case "itemtype_backend_s.bytes":
+					ii = 0;
+					tableitemtype_backend_s tblManager298 = new tableitemtype_backend_s { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager298.TableItemtypeBackendS.Add(new itemtype_backend_sFLO
+								{
+									ItemtypeBackendSId = br.ReadUInt32(),
+									UnqID = br.ReadUInt32(),
+									BackendMID = br.ReadUInt32(),
+									SlotID = br.ReadUInt32(),
+									WeaponCtegoryID = br.ReadUInt32(),
+									IsNpcCanEquip = br.ReadByte(),
+									IsShieldCanEquip = br.ReadByte(),
+									IsBottomCanEquip = br.ReadByte(),
+									IllusionWeaponID = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32(),
+									Vector[4] = br.ReadUInt32(),
+									Vector[5] = br.ReadUInt32(),
+									AdvWeaponTypeParamID = br.ReadUInt32(),
+									WeaponCategoryName = br.ReadUInt32(),
+									IconSpriteName = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager298, Formatting.Indented)); }
+					return tblManager298;
+*/

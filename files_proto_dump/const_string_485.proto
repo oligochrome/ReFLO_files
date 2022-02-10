@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_485
+message const_stringFLO {
+	uint32 const_string_id		= 1;
+	uint32 uniqid		= 2;
+	string value		= 3;
+	string type		= 4;
+	int32 signedType		= 5;
+}
+
+message tableconst_string { repeated const_stringFLO Table_const_string = 1; }

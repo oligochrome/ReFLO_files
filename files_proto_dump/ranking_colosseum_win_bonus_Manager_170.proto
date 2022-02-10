@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_170
+message ranking_colosseum_win_bonusFLO {
+	uint32	ranking_colosseum_win_bonus_id	= 1;
+	uint32	uniqId	= 2;
+	uint32	seasonId	= 3;
+	int32	winCount	= 4;		//	Byte
+	float	bonus_value	= 5;		//	Single
+}
+
+message tableranking_colosseum_win_bonusFLO { repeated ranking_colosseum_win_bonusFLO tableRankingColosseumWinBonus = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen ranking_colosseum_win_bonus_Manager_170.proto
+
+
+			   case "ranking_colosseum_win_bonus.bytes":
+					ii = 0;
+					tableranking_colosseum_win_bonus tblManager170 = new tableranking_colosseum_win_bonus { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager170.TableRankingColosseumWinBonus.Add(new ranking_colosseum_win_bonusFLO
+								{
+									RankingColosseumWinBonusId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									SeasonId = br.ReadUInt32(),
+									WinCount = br.ReadByte(),
+									BonusValue = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager170, Formatting.Indented)); }
+					return tblManager170;
+*/

@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_259
+message menu_textFLO {
+	uint32	menu_text_id	= 1;
+	string	text	= 2;
+}
+
+message tablemenu_textFLO { repeated menu_textFLO tableMenuText = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen menu_text_Manager_259.proto
+
+
+			   case "menu_text.bytes":
+					ii = 0;
+					tablemenu_text tblManager259 = new tablemenu_text { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager259.TableMenuText.Add(new menu_textFLO
+								{
+									MenuTextId = br.ReadUInt32(),
+									Text = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager259, Formatting.Indented)); }
+					return tblManager259;
+*/

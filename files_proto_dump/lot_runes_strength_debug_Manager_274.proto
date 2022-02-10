@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_274
+message lot_runes_strength_debugFLO {
+	uint32	lot_runes_strength_debug_id	= 1;
+	uint32	lotRuneStrengthId	= 2;
+	uint32	lotRuneStrengthTypeId	= 3;
+	uint32	runeGradeTypeId	= 4;
+	int32	value	= 5;
+	int32	rate	= 6;
+	string	discription	= 7;
+}
+
+message tablelot_runes_strength_debugFLO { repeated lot_runes_strength_debugFLO tableLotRunesStrengthDebug = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen lot_runes_strength_debug_Manager_274.proto
+
+
+			   case "lot_runes_strength_debug.bytes":
+					ii = 0;
+					tablelot_runes_strength_debug tblManager274 = new tablelot_runes_strength_debug { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager274.TableLotRunesStrengthDebug.Add(new lot_runes_strength_debugFLO
+								{
+									LotRunesStrengthDebugId = br.ReadUInt32(),
+									LotRuneStrengthId = br.ReadUInt32(),
+									LotRuneStrengthTypeId = br.ReadUInt32(),
+									RuneGradeTypeId = br.ReadUInt32(),
+									Value = br.ReadInt32(),
+									Rate = br.ReadInt32(),
+									Discription = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager274, Formatting.Indented)); }
+					return tblManager274;
+*/

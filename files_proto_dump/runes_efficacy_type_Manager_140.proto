@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_140
+message runes_efficacy_typeFLO {
+	uint32	runes_efficacy_type_id	= 1;
+	uint32	runeEfficacyTypeId	= 2;
+	string	runeEfficacyTypeNickName	= 3;
+	int32	sortNo	= 4;
+}
+
+message tablerunes_efficacy_typeFLO { repeated runes_efficacy_typeFLO tableRunesEfficacyType = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen runes_efficacy_type_Manager_140.proto
+
+
+			   case "runes_efficacy_type.bytes":
+					ii = 0;
+					tablerunes_efficacy_type tblManager140 = new tablerunes_efficacy_type { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager140.TableRunesEfficacyType.Add(new runes_efficacy_typeFLO
+								{
+									RunesEfficacyTypeId = br.ReadUInt32(),
+									RuneEfficacyTypeId = br.ReadUInt32(),
+									RuneEfficacyTypeNickName = br.ReadString(),
+									SortNo = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager140, Formatting.Indented)); }
+					return tblManager140;
+*/

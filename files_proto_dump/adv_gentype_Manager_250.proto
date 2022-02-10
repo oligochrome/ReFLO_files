@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_250
+message adv_gentypeFLO {
+	uint32	adv_gentype_id	= 1;
+}
+
+message tableadv_gentypeFLO { repeated adv_gentypeFLO tableAdvGentype = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_gentype_Manager_250.proto
+
+
+			   case "adv_gentype.bytes":
+					ii = 0;
+					tableadv_gentype tblManager250 = new tableadv_gentype { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager250.TableAdvGentype.Add(new adv_gentypeFLO
+								{
+									AdvGentypeId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager250, Formatting.Indented)); }
+					return tblManager250;
+*/

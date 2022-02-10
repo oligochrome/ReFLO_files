@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_440
+message equip_seriesFLO {
+	uint32	equip_series_id	= 1;
+	uint32	seriesID	= 2;
+	string	name	= 3;
+	int32	new_version	= 4;
+}
+
+message tableequip_seriesFLO { repeated equip_seriesFLO tableEquipSeries = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen equip_series_Manager_440.proto
+
+
+			   case "equip_series.bytes":
+					ii = 0;
+					tableequip_series tblManager440 = new tableequip_series { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager440.TableEquipSeries.Add(new equip_seriesFLO
+								{
+									EquipSeriesId = br.ReadUInt32(),
+									SeriesID = br.ReadUInt32(),
+									Name = br.ReadString(),
+									NewVersion = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager440, Formatting.Indented)); }
+					return tblManager440;
+*/

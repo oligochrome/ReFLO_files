@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_277
+message lot_efficacyFLO {
+	uint32	lot_efficacy_id	= 1;
+	uint32	lotEfficacyId	= 2;
+	uint32	lotEfficacyKey	= 3;
+	uint32	efficacyId	= 4;
+	int32	rate	= 5;
+	string	discription	= 6;
+}
+
+message tablelot_efficacyFLO { repeated lot_efficacyFLO tableLotEfficacy = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen lot_efficacy_Manager_277.proto
+
+
+			   case "lot_efficacy.bytes":
+					ii = 0;
+					tablelot_efficacy tblManager277 = new tablelot_efficacy { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager277.TableLotEfficacy.Add(new lot_efficacyFLO
+								{
+									LotEfficacyId = br.ReadUInt32(),
+									LotEfficacyId = br.ReadUInt32(),
+									LotEfficacyKey = br.ReadUInt32(),
+									EfficacyId = br.ReadUInt32(),
+									Rate = br.ReadInt32(),
+									Discription = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager277, Formatting.Indented)); }
+					return tblManager277;
+*/

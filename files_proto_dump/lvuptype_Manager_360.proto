@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_360
+message lvuptypeFLO {
+	uint32	lvuptype_id	= 1;
+}
+
+message tablelvuptypeFLO { repeated lvuptypeFLO tableLvuptype = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen lvuptype_Manager_360.proto
+
+
+			   case "lvuptype.bytes":
+					ii = 0;
+					tablelvuptype tblManager360 = new tablelvuptype { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager360.TableLvuptype.Add(new lvuptypeFLO
+								{
+									LvuptypeId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager360, Formatting.Indented)); }
+					return tblManager360;
+*/

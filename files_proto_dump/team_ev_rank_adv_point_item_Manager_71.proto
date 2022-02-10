@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_71
+message team_ev_rank_adv_point_itemFLO {
+	uint32	team_ev_rank_adv_point_item_id	= 1;
+	uint32	id	= 2;
+	int32	rankingPoint	= 3;
+	int32	sharePointRate	= 4;
+}
+
+message tableteam_ev_rank_adv_point_itemFLO { repeated team_ev_rank_adv_point_itemFLO tableTeamEvRankAdvPointItem = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen team_ev_rank_adv_point_item_Manager_71.proto
+
+
+			   case "team_ev_rank_adv_point_item.bytes":
+					ii = 0;
+					tableteam_ev_rank_adv_point_item tblManager71 = new tableteam_ev_rank_adv_point_item { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager71.TableTeamEvRankAdvPointItem.Add(new team_ev_rank_adv_point_itemFLO
+								{
+									TeamEvRankAdvPointItemId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									RankingPoint = br.ReadInt32(),
+									SharePointRate = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager71, Formatting.Indented)); }
+					return tblManager71;
+*/

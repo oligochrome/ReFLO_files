@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_262
+message max_drop_box_check_ignoreFLO {
+	uint32	max_drop_box_check_ignore_id	= 1;
+	uint32	id	= 2;
+}
+
+message tablemax_drop_box_check_ignoreFLO { repeated max_drop_box_check_ignoreFLO tableMaxDropBoxCheckIgnore = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen max_drop_box_check_ignore_Manager_262.proto
+
+
+			   case "max_drop_box_check_ignore.bytes":
+					ii = 0;
+					tablemax_drop_box_check_ignore tblManager262 = new tablemax_drop_box_check_ignore { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager262.TableMaxDropBoxCheckIgnore.Add(new max_drop_box_check_ignoreFLO
+								{
+									MaxDropBoxCheckIgnoreId = br.ReadUInt32(),
+									Id = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager262, Formatting.Indented)); }
+					return tblManager262;
+*/

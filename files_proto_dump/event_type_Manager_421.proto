@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_421
+message event_typeFLO {
+	uint32	event_type_id	= 1;
+	uint32	eventTypeID	= 2;
+}
+
+message tableevent_typeFLO { repeated event_typeFLO tableEventType = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen event_type_Manager_421.proto
+
+
+			   case "event_type.bytes":
+					ii = 0;
+					tableevent_type tblManager421 = new tableevent_type { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager421.TableEventType.Add(new event_typeFLO
+								{
+									EventTypeId = br.ReadUInt32(),
+									EventTypeID = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager421, Formatting.Indented)); }
+					return tblManager421;
+*/

@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_263
+message master_surpriseboxFLO {
+	uint32	master_surprisebox_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	lifeid	= 3;
+	uint32	licenseid	= 4;
+	uint32	targetObjId	= 5;
+	uint32	surpriseboxObjId	= 6;
+}
+
+message tablemaster_surpriseboxFLO { repeated master_surpriseboxFLO tableMasterSurprisebox = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen master_surprisebox_Manager_263.proto
+
+
+			   case "master_surprisebox.bytes":
+					ii = 0;
+					tablemaster_surprisebox tblManager263 = new tablemaster_surprisebox { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager263.TableMasterSurprisebox.Add(new master_surpriseboxFLO
+								{
+									MasterSurpriseboxId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Lifeid = br.ReadUInt32(),
+									Licenseid = br.ReadUInt32(),
+									TargetObjId = br.ReadUInt32(),
+									SurpriseboxObjId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager263, Formatting.Indented)); }
+					return tblManager263;
+*/

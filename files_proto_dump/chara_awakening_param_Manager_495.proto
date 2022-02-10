@@ -1,0 +1,73 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_495
+message chara_awakening_paramFLO {
+	uint32	chara_awakening_param_id	= 1;
+	uint32	uniqid	= 2;
+	float	paramHp	= 3;		//	Single
+	float	paramSp	= 4;		//	Single
+	float	paramPhysicalOffense	= 5;		//	Single
+	float	paramPhysicalDefense	= 6;		//	Single
+	float	paramMagicOffense	= 7;		//	Single
+	float	paramMagicDefense	= 8;		//	Single
+	float	paramCriticalRate	= 9;		//	Single
+	float	paramCriticalRateEvasion	= 10;		//	Single
+	float	paramoProspectPower	= 11;		//	Single
+	float	paramFellingPower	= 12;		//	Single
+	float	paramFishingPower	= 13;		//	Single
+	float	paramSmithPower	= 14;		//	Single
+	float	paramWoodWorkPower	= 15;		//	Single
+	float	paramNeedleworkPower	= 16;		//	Single
+	float	paramCookingPower	= 17;		//	Single
+	float	paramAlchemyPower	= 18;		//	Single
+}
+
+message tablechara_awakening_paramFLO { repeated chara_awakening_paramFLO tableCharaAwakeningParam = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen chara_awakening_param_Manager_495.proto
+
+
+			   case "chara_awakening_param.bytes":
+					ii = 0;
+					tablechara_awakening_param tblManager495 = new tablechara_awakening_param { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager495.TableCharaAwakeningParam.Add(new chara_awakening_paramFLO
+								{
+									CharaAwakeningParamId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									ParamHp = br.ReadSingle(),
+									ParamSp = br.ReadSingle(),
+									ParamPhysicalOffense = br.ReadSingle(),
+									ParamPhysicalDefense = br.ReadSingle(),
+									ParamMagicOffense = br.ReadSingle(),
+									ParamMagicDefense = br.ReadSingle(),
+									ParamCriticalRate = br.ReadSingle(),
+									ParamCriticalRateEvasion = br.ReadSingle(),
+									ParamoProspectPower = br.ReadSingle(),
+									ParamFellingPower = br.ReadSingle(),
+									ParamFishingPower = br.ReadSingle(),
+									ParamSmithPower = br.ReadSingle(),
+									ParamWoodWorkPower = br.ReadSingle(),
+									ParamNeedleworkPower = br.ReadSingle(),
+									ParamCookingPower = br.ReadSingle(),
+									ParamAlchemyPower = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager495, Formatting.Indented)); }
+					return tblManager495;
+*/

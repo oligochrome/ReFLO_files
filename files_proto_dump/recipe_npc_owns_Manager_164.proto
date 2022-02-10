@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_164
+message recipe_npc_ownsFLO {
+	uint32	recipe_npc_owns_id	= 1;
+	uint32	objId	= 2;
+	uint32	recipeId	= 3;
+}
+
+message tablerecipe_npc_ownsFLO { repeated recipe_npc_ownsFLO tableRecipeNpcOwns = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen recipe_npc_owns_Manager_164.proto
+
+
+			   case "recipe_npc_owns.bytes":
+					ii = 0;
+					tablerecipe_npc_owns tblManager164 = new tablerecipe_npc_owns { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager164.TableRecipeNpcOwns.Add(new recipe_npc_ownsFLO
+								{
+									RecipeNpcOwnsId = br.ReadUInt32(),
+									ObjId = br.ReadUInt32(),
+									RecipeId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager164, Formatting.Indented)); }
+					return tblManager164;
+*/

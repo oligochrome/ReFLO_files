@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_545
+message adv_quest_time_rankingFLO {
+	uint32	adv_quest_time_ranking_id	= 1;
+	uint32	advQuestId	= 2;
+	uint64	startDt	= 3;		//	UInt64
+	uint64	endDt	= 4;		//	UInt64
+}
+
+message tableadv_quest_time_rankingFLO { repeated adv_quest_time_rankingFLO tableAdvQuestTimeRanking = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_quest_time_ranking_Manager_545.proto
+
+
+			   case "adv_quest_time_ranking.bytes":
+					ii = 0;
+					tableadv_quest_time_ranking tblManager545 = new tableadv_quest_time_ranking { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager545.TableAdvQuestTimeRanking.Add(new adv_quest_time_rankingFLO
+								{
+									AdvQuestTimeRankingId = br.ReadUInt32(),
+									AdvQuestId = br.ReadUInt32(),
+									StartDt = br.ReadUInt64(),
+									EndDt = br.ReadUInt64()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager545, Formatting.Indented)); }
+					return tblManager545;
+*/

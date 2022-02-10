@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_457
+message double_sword_charaFLO {
+	uint32	double_sword_chara_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	chara_obj_id	= 3;
+}
+
+message tabledouble_sword_charaFLO { repeated double_sword_charaFLO tableDoubleSwordChara = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen double_sword_chara_Manager_457.proto
+
+
+			   case "double_sword_chara.bytes":
+					ii = 0;
+					tabledouble_sword_chara tblManager457 = new tabledouble_sword_chara { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager457.TableDoubleSwordChara.Add(new double_sword_charaFLO
+								{
+									DoubleSwordCharaId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									CharaObjId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager457, Formatting.Indented)); }
+					return tblManager457;
+*/

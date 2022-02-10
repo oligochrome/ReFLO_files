@@ -1,0 +1,79 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_324
+message god_recipeFLO {
+	uint32	god_recipe_id	= 1;
+	uint32	objid	= 2;
+	int32	sortValue	= 3;
+	uint32	useLifeId	= 4;
+	int32	rewardValue	= 5;
+	uint32	recipeRank	= 6;
+	uint32	openMap	= 7;
+	uint32	createItemId	= 8;
+	uint32	needItemId1	= 9;
+	int32	needItemCount1	= 10;
+	uint32	needItemId2	= 11;
+	int32	needItemCount2	= 12;
+	uint32	needItemId3	= 13;
+	int32	needItemCount3	= 14;
+	int32	miniGameCreateTime	= 15;
+	int32	miniGameHp	= 16;
+	int32	miniGameEventCount	= 17;
+	int32	highLevel	= 18;		//	Byte
+	string	spriteName	= 19;
+	string	longSpriteName	= 20;
+	int32	okonly	= 21;		//	Byte
+}
+
+message tablegod_recipeFLO { repeated god_recipeFLO tableGodRecipe = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen god_recipe_Manager_324.proto
+
+
+			   case "god_recipe.bytes":
+					ii = 0;
+					tablegod_recipe tblManager324 = new tablegod_recipe { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager324.TableGodRecipe.Add(new god_recipeFLO
+								{
+									GodRecipeId = br.ReadUInt32(),
+									Objid = br.ReadUInt32(),
+									SortValue = br.ReadInt32(),
+									UseLifeId = br.ReadUInt32(),
+									RewardValue = br.ReadInt32(),
+									RecipeRank = br.ReadUInt32(),
+									OpenMap = br.ReadUInt32(),
+									CreateItemId = br.ReadUInt32(),
+									NeedItemId1 = br.ReadUInt32(),
+									NeedItemCount1 = br.ReadInt32(),
+									NeedItemId2 = br.ReadUInt32(),
+									NeedItemCount2 = br.ReadInt32(),
+									NeedItemId3 = br.ReadUInt32(),
+									NeedItemCount3 = br.ReadInt32(),
+									MiniGameCreateTime = br.ReadInt32(),
+									MiniGameHp = br.ReadInt32(),
+									MiniGameEventCount = br.ReadInt32(),
+									HighLevel = br.ReadByte(),
+									SpriteName = br.ReadString(),
+									LongSpriteName = br.ReadString(),
+									Okonly = br.ReadByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager324, Formatting.Indented)); }
+					return tblManager324;
+*/

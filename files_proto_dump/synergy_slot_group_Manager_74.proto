@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_74
+message synergy_slot_groupFLO {
+	uint32	synergy_slot_group_id	= 1;
+	uint32	ID	= 2;
+	uint32	efficacyId	= 3;
+}
+
+message tablesynergy_slot_groupFLO { repeated synergy_slot_groupFLO tableSynergySlotGroup = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen synergy_slot_group_Manager_74.proto
+
+
+			   case "synergy_slot_group.bytes":
+					ii = 0;
+					tablesynergy_slot_group tblManager74 = new tablesynergy_slot_group { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager74.TableSynergySlotGroup.Add(new synergy_slot_groupFLO
+								{
+									SynergySlotGroupId = br.ReadUInt32(),
+									ID = br.ReadUInt32(),
+									EfficacyId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager74, Formatting.Indented)); }
+					return tblManager74;
+*/

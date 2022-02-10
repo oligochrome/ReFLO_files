@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_53
+message tryquest_listFLO {
+	uint32	tryquest_list_id	= 1;
+	uint32	titleTextId	= 2;
+	uint32	descTextId	= 3;
+	uint32	listResId	= 4;
+	uint32	dialogResId	= 5;
+	uint32	charaObjId	= 6;
+	uint32	lockedTextId	= 7;
+	uint32	unlockedTextId	= 8;
+}
+
+message tabletryquest_listFLO { repeated tryquest_listFLO tableTryquestList = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen tryquest_list_Manager_53.proto
+
+
+			   case "tryquest_list.bytes":
+					ii = 0;
+					tabletryquest_list tblManager53 = new tabletryquest_list { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager53.TableTryquestList.Add(new tryquest_listFLO
+								{
+									TryquestListId = br.ReadUInt32(),
+									TitleTextId = br.ReadUInt32(),
+									DescTextId = br.ReadUInt32(),
+									ListResId = br.ReadUInt32(),
+									DialogResId = br.ReadUInt32(),
+									CharaObjId = br.ReadUInt32(),
+									LockedTextId = br.ReadUInt32(),
+									UnlockedTextId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager53, Formatting.Indented)); }
+					return tblManager53;
+*/

@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_551
+message action_event_missile_extensionFLO {
+	uint32	action_event_missile_extension_id	= 1;
+	uint32	uniqId	= 2;
+	uint32	objId	= 3;
+	uint32	actionId	= 4;
+	uint32	missileObjId	= 5;
+	int32	minRandomTargetCount	= 6;
+	int32	maxRandomTargetCount	= 7;
+	sint32	canNotChangeCharacter	= 8;		//	SByte
+	uint32	gp	= 9;
+}
+
+message tableaction_event_missile_extensionFLO { repeated action_event_missile_extensionFLO tableActionEventMissileExtension = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen action_event_missile_extension_Manager_551.proto
+
+
+			   case "action_event_missile_extension.bytes":
+					ii = 0;
+					tableaction_event_missile_extension tblManager551 = new tableaction_event_missile_extension { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager551.TableActionEventMissileExtension.Add(new action_event_missile_extensionFLO
+								{
+									ActionEventMissileExtensionId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									ObjId = br.ReadUInt32(),
+									ActionId = br.ReadUInt32(),
+									MissileObjId = br.ReadUInt32(),
+									MinRandomTargetCount = br.ReadInt32(),
+									MaxRandomTargetCount = br.ReadInt32(),
+									CanNotChangeCharacter = br.ReadSByte(),
+									Gp = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager551, Formatting.Indented)); }
+					return tblManager551;
+*/

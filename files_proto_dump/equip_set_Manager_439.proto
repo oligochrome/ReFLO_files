@@ -1,0 +1,65 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_439
+message equip_setFLO {
+	uint32	equip_set_id	= 1;
+	string	name	= 2;
+	uint32	sexId	= 3;
+	uint32	lifeId	= 4;
+	uint32	objIdBody	= 5;
+	uint32	objIdBottom	= 6;
+	uint32	objIdDress	= 7;
+	uint32	objIdHand	= 8;
+	uint32	objIdFeet	= 9;
+	uint32	objIdHat	= 10;
+	uint32	objIdCape	= 11;
+	uint32	objIdGlasses	= 12;
+	uint32	objIdRTool	= 13;
+	uint32	objIdLTool	= 14;
+}
+
+message tableequip_setFLO { repeated equip_setFLO tableEquipSet = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen equip_set_Manager_439.proto
+
+
+			   case "equip_set.bytes":
+					ii = 0;
+					tableequip_set tblManager439 = new tableequip_set { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager439.TableEquipSet.Add(new equip_setFLO
+								{
+									EquipSetId = br.ReadUInt32(),
+									Name = br.ReadString(),
+									SexId = br.ReadUInt32(),
+									LifeId = br.ReadUInt32(),
+									ObjIdBody = br.ReadUInt32(),
+									ObjIdBottom = br.ReadUInt32(),
+									ObjIdDress = br.ReadUInt32(),
+									ObjIdHand = br.ReadUInt32(),
+									ObjIdFeet = br.ReadUInt32(),
+									ObjIdHat = br.ReadUInt32(),
+									ObjIdCape = br.ReadUInt32(),
+									ObjIdGlasses = br.ReadUInt32(),
+									ObjIdRTool = br.ReadUInt32(),
+									ObjIdLTool = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager439, Formatting.Indented)); }
+					return tblManager439;
+*/

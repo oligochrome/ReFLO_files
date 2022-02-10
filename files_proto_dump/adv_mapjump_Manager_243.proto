@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_243
+message adv_mapjumpFLO {
+	uint32	adv_mapjump_id	= 1;
+	uint32	mapjumpId	= 2;
+	uint32	src_advmapId	= 3;
+	uint32	src_portalId	= 4;
+	uint32	src_mapjumptype	= 5;
+	uint32	dst_advmapId	= 6;
+	uint32	dst_portalId	= 7;
+	uint32	dst_mapjumptype	= 8;
+	uint32	bitfield0	= 9;
+}
+
+message tableadv_mapjumpFLO { repeated adv_mapjumpFLO tableAdvMapjump = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_mapjump_Manager_243.proto
+
+
+			   case "adv_mapjump.bytes":
+					ii = 0;
+					tableadv_mapjump tblManager243 = new tableadv_mapjump { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager243.TableAdvMapjump.Add(new adv_mapjumpFLO
+								{
+									AdvMapjumpId = br.ReadUInt32(),
+									MapjumpId = br.ReadUInt32(),
+									SrcAdvmapId = br.ReadUInt32(),
+									SrcPortalId = br.ReadUInt32(),
+									SrcMapjumptype = br.ReadUInt32(),
+									DstAdvmapId = br.ReadUInt32(),
+									DstPortalId = br.ReadUInt32(),
+									DstMapjumptype = br.ReadUInt32(),
+									Bitfield0 = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager243, Formatting.Indented)); }
+					return tblManager243;
+*/

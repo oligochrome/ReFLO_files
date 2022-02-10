@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_381
+message gacha_pack_equip_paramFLO {
+	uint32	gacha_pack_equip_param_id	= 1;
+	uint32	uniqid	= 2;
+	int32	level	= 3;		//	Int16
+	int32	awake	= 4;		//	Int16
+	int32	evolve	= 5;		//	Int16
+	int32	quality	= 6;		//	Int16
+}
+
+message tablegacha_pack_equip_paramFLO { repeated gacha_pack_equip_paramFLO tableGachaPackEquipParam = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen gacha_pack_equip_param_Manager_381.proto
+
+
+			   case "gacha_pack_equip_param.bytes":
+					ii = 0;
+					tablegacha_pack_equip_param tblManager381 = new tablegacha_pack_equip_param { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager381.TableGachaPackEquipParam.Add(new gacha_pack_equip_paramFLO
+								{
+									GachaPackEquipParamId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Level = br.ReadInt16(),
+									Awake = br.ReadInt16(),
+									Evolve = br.ReadInt16(),
+									Quality = br.ReadInt16()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager381, Formatting.Indented)); }
+					return tblManager381;
+*/

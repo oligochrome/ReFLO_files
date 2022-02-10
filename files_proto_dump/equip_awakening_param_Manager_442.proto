@@ -1,0 +1,71 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_442
+message equip_awakening_paramFLO {
+	uint32	equip_awakening_param_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	objId	= 3;
+	int32	stage	= 4;
+	float	paramHp	= 5;		//	Single
+	float	paramPhysicalOffense	= 6;		//	Single
+	float	paramPhysicalDefense	= 7;		//	Single
+	float	paramMagicOffense	= 8;		//	Single
+	float	paramMagicDefense	= 9;		//	Single
+	float	paramCriticalRate	= 10;		//	Single
+	float	paramCriticalRateEvasion	= 11;		//	Single
+	float	paramDestructionOffense	= 12;		//	Single
+	float	paramDestructionDefense	= 13;		//	Single
+	float	paramLifePower	= 14;		//	Single
+	uint32	vector[0]	= 15;
+	uint32	vector[1]	= 16;
+	uint32	vector[2]	= 17;
+}
+
+message tableequip_awakening_paramFLO { repeated equip_awakening_paramFLO tableEquipAwakeningParam = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen equip_awakening_param_Manager_442.proto
+
+
+			   case "equip_awakening_param.bytes":
+					ii = 0;
+					tableequip_awakening_param tblManager442 = new tableequip_awakening_param { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager442.TableEquipAwakeningParam.Add(new equip_awakening_paramFLO
+								{
+									EquipAwakeningParamId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									ObjId = br.ReadUInt32(),
+									Stage = br.ReadInt32(),
+									ParamHp = br.ReadSingle(),
+									ParamPhysicalOffense = br.ReadSingle(),
+									ParamPhysicalDefense = br.ReadSingle(),
+									ParamMagicOffense = br.ReadSingle(),
+									ParamMagicDefense = br.ReadSingle(),
+									ParamCriticalRate = br.ReadSingle(),
+									ParamCriticalRateEvasion = br.ReadSingle(),
+									ParamDestructionOffense = br.ReadSingle(),
+									ParamDestructionDefense = br.ReadSingle(),
+									ParamLifePower = br.ReadSingle(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager442, Formatting.Indented)); }
+					return tblManager442;
+*/

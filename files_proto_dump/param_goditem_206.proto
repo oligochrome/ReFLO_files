@@ -1,0 +1,24 @@
+﻿syntax = "proto3";
+
+package ReFLO;
+
+// Manager_206
+message ParaGodItemFLO {
+uint32	GodItemParamId		= 1;
+uint32	uniqId				= 2;
+uint32	contentsId			= 3;
+uint32	substituteLifeGemNum= 4;
+uint32	efficacyId			= 5;
+uint32	effectValue			= 6;
+uint32	effectTime			= 7;
+uint32	isShowItemList		= 8;
+int32	stardustFlag		= 9;	//		Int16
+uint32	useTextId			= 10;
+uint32	attentionTextId		= 11;
+int32	sortId				= 12;
+}
+
+message Table_ParaGodItemFLO{
+	repeated ParaGodItemFLO table_pgitem = 1;
+	map<uint32, int32> idRef  = 2;
+}

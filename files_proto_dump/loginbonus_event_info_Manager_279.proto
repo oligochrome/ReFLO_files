@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_279
+message loginbonus_event_infoFLO {
+	uint32	loginbonus_event_info_id	= 1;
+	uint32	eventloginbonusID	= 2;
+	string	eventName	= 3;
+	string	eventInfo	= 4;
+	sint32	isOnlyNewbie	= 5;		//	SByte
+	sint32	isOnlyComeBack	= 6;		//	SByte
+	sint32	hidePeriod	= 7;		//	SByte
+	string	comment	= 8;
+}
+
+message tableloginbonus_event_infoFLO { repeated loginbonus_event_infoFLO tableLoginbonusEventInfo = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen loginbonus_event_info_Manager_279.proto
+
+
+			   case "loginbonus_event_info.bytes":
+					ii = 0;
+					tableloginbonus_event_info tblManager279 = new tableloginbonus_event_info { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager279.TableLoginbonusEventInfo.Add(new loginbonus_event_infoFLO
+								{
+									LoginbonusEventInfoId = br.ReadUInt32(),
+									EventloginbonusID = br.ReadUInt32(),
+									EventName = br.ReadString(),
+									EventInfo = br.ReadString(),
+									IsOnlyNewbie = br.ReadSByte(),
+									IsOnlyComeBack = br.ReadSByte(),
+									HidePeriod = br.ReadSByte(),
+									Comment = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager279, Formatting.Indented)); }
+					return tblManager279;
+*/

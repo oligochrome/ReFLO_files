@@ -1,0 +1,65 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_266
+message map_worldmap_fieldinfoFLO {
+	uint32	map_worldmap_fieldinfo_id	= 1;
+	uint32	mapId	= 2;
+	uint32	objId	= 3;
+	uint32	attributeObjId	= 4;
+	int32	showIndex	= 5;
+	int32	fieldBossFlag	= 6;
+	uint32	fieldEventId	= 7;
+	uint32	overlayTermsId	= 8;
+	int32	level	= 9;
+	uint32	bossTextId	= 10;
+	uint32	bossPlateId	= 11;
+	uint32	disTextId	= 12;
+	uint32	charaIconId	= 13;
+	uint32	charaTextId	= 14;
+}
+
+message tablemap_worldmap_fieldinfoFLO { repeated map_worldmap_fieldinfoFLO tableMapWorldmapFieldinfo = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen map_worldmap_fieldinfo_Manager_266.proto
+
+
+			   case "map_worldmap_fieldinfo.bytes":
+					ii = 0;
+					tablemap_worldmap_fieldinfo tblManager266 = new tablemap_worldmap_fieldinfo { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager266.TableMapWorldmapFieldinfo.Add(new map_worldmap_fieldinfoFLO
+								{
+									MapWorldmapFieldinfoId = br.ReadUInt32(),
+									MapId = br.ReadUInt32(),
+									ObjId = br.ReadUInt32(),
+									AttributeObjId = br.ReadUInt32(),
+									ShowIndex = br.ReadInt32(),
+									FieldBossFlag = br.ReadInt32(),
+									FieldEventId = br.ReadUInt32(),
+									OverlayTermsId = br.ReadUInt32(),
+									Level = br.ReadInt32(),
+									BossTextId = br.ReadUInt32(),
+									BossPlateId = br.ReadUInt32(),
+									DisTextId = br.ReadUInt32(),
+									CharaIconId = br.ReadUInt32(),
+									CharaTextId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager266, Formatting.Indented)); }
+					return tblManager266;
+*/

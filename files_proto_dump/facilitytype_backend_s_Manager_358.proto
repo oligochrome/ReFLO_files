@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_358
+message facilitytype_backend_sFLO {
+	uint32	facilitytype_backend_s_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	backend_M_ID	= 3;
+	uint32	useLifeId	= 4;
+	sint32	isCanMove	= 5;		//	SByte
+	sint32	isCanStore	= 6;		//	SByte
+	sint32	isCanLive	= 7;		//	SByte
+	sint32	isCanUpgrade	= 8;		//	SByte
+	uint32	levelCapId	= 9;
+}
+
+message tablefacilitytype_backend_sFLO { repeated facilitytype_backend_sFLO tableFacilitytypeBackendS = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen facilitytype_backend_s_Manager_358.proto
+
+
+			   case "facilitytype_backend_s.bytes":
+					ii = 0;
+					tablefacilitytype_backend_s tblManager358 = new tablefacilitytype_backend_s { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager358.TableFacilitytypeBackendS.Add(new facilitytype_backend_sFLO
+								{
+									FacilitytypeBackendSId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									BackendMID = br.ReadUInt32(),
+									UseLifeId = br.ReadUInt32(),
+									IsCanMove = br.ReadSByte(),
+									IsCanStore = br.ReadSByte(),
+									IsCanLive = br.ReadSByte(),
+									IsCanUpgrade = br.ReadSByte(),
+									LevelCapId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager358, Formatting.Indented)); }
+					return tblManager358;
+*/

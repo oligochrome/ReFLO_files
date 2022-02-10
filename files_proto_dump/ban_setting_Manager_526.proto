@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_526
+message ban_settingFLO {
+	uint32	ban_setting_id	= 1;
+	uint32	banSettingID	= 2;
+	uint32	banTypeID	= 3;
+	uint32	conditionID	= 4;
+	uint32	argument1	= 5;
+	uint32	argument2	= 6;
+}
+
+message tableban_settingFLO { repeated ban_settingFLO tableBanSetting = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen ban_setting_Manager_526.proto
+
+
+			   case "ban_setting.bytes":
+					ii = 0;
+					tableban_setting tblManager526 = new tableban_setting { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager526.TableBanSetting.Add(new ban_settingFLO
+								{
+									BanSettingId = br.ReadUInt32(),
+									BanSettingID = br.ReadUInt32(),
+									BanTypeID = br.ReadUInt32(),
+									ConditionID = br.ReadUInt32(),
+									Argument1 = br.ReadUInt32(),
+									Argument2 = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager526, Formatting.Indented)); }
+					return tblManager526;
+*/

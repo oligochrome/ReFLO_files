@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_253
+message networkFLO {
+	uint32	network_id	= 1;
+	string	url	= 2;
+	string	requestType	= 3;
+	string	responseType	= 4;
+	sint32	isCrypt	= 5;		//	SByte
+	sint32	isZip	= 6;		//	SByte
+}
+
+message tablenetworkFLO { repeated networkFLO tableNetwork = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen network_Manager_253.proto
+
+
+			   case "network.bytes":
+					ii = 0;
+					tablenetwork tblManager253 = new tablenetwork { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager253.TableNetwork.Add(new networkFLO
+								{
+									NetworkId = br.ReadUInt32(),
+									Url = br.ReadString(),
+									RequestType = br.ReadString(),
+									ResponseType = br.ReadString(),
+									IsCrypt = br.ReadSByte(),
+									IsZip = br.ReadSByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager253, Formatting.Indented)); }
+					return tblManager253;
+*/

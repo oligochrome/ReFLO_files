@@ -1,0 +1,83 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_108
+message skillFLO {
+	uint32	skill_id	= 1;
+	uint32	unqId	= 2;
+	uint32	nameId	= 3;
+	uint32	iconResId	= 4;
+	uint32	descriptionTextId	= 5;
+	uint32	descriptionShortTextId	= 6;
+	uint32	operationTextId	= 7;
+	uint32	skill_category	= 8;
+	int32	nearComboCount	= 9;		//	Byte
+	int32	farComboCount	= 10;		//	Byte
+	uint32	vector[0]	= 11;
+	uint32	vector[1]	= 12;
+	uint32	vector[2]	= 13;
+	uint32	vector[3]	= 14;
+	uint32	vector[4]	= 15;
+	float	vector[0]	= 16;		//	Single
+	float	vector[1]	= 17;		//	Single
+	float	vector[2]	= 18;		//	Single
+	float	vector[3]	= 19;		//	Single
+	float	vector[4]	= 20;		//	Single
+	float	vector[0]	= 21;		//	Single
+	float	vector[1]	= 22;		//	Single
+	float	vector[2]	= 23;		//	Single
+	float	vector[3]	= 24;		//	Single
+	float	vector[4]	= 25;		//	Single
+	int32	useSP	= 26;
+	uint32	attr	= 27;
+	uint32	subattr	= 28;
+}
+
+message tableskillFLO { repeated skillFLO tableSkill = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen skill_Manager_108.proto
+
+
+			   case "skill.bytes":
+					ii = 0;
+					tableskill tblManager108 = new tableskill { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager108.TableSkill.Add(new skillFLO
+								{
+									SkillId = br.ReadUInt32(),
+									UnqId = br.ReadUInt32(),
+									NameId = br.ReadUInt32(),
+									IconResId = br.ReadUInt32(),
+									DescriptionTextId = br.ReadUInt32(),
+									DescriptionShortTextId = br.ReadUInt32(),
+									OperationTextId = br.ReadUInt32(),
+									SkillCategory = br.ReadUInt32(),
+									NearComboCount = br.ReadByte(),
+									FarComboCount = br.ReadByte(),
+									Vector[0] = br.ReadSingle(),
+									Vector[1] = br.ReadSingle(),
+									Vector[2] = br.ReadSingle(),
+									Vector[3] = br.ReadSingle(),
+									Vector[4] = br.ReadSingle(),
+									UseSP = br.ReadInt32(),
+									Attr = br.ReadUInt32(),
+									Subattr = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager108, Formatting.Indented)); }
+					return tblManager108;
+*/

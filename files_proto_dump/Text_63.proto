@@ -1,0 +1,15 @@
+﻿syntax = "proto3";
+
+package ReFLO;
+
+//	Manager_63
+message TextFLO {
+	map<uint32, string> Table_Text = 1;
+	/*uint32 id = 1;			// i.e. tblindex
+	string value = 2;
+//	int32 max_length = 3;	//	tblOffset
+//	int32 skipped_char = 4;
+*/
+}
+
+// message tableText { repeated TextFLO Table_Text = 1; }

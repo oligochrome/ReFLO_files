@@ -1,0 +1,62 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_66
+message team_ev_rank_rewardFLO {
+	uint32	team_ev_rank_reward_id	= 1;
+	uint32	id	= 2;
+	uint32	vector[0]	= 3;
+	uint32	vector[1]	= 4;
+	uint32	vector[2]	= 5;
+	uint32	vector[3]	= 6;
+	uint32	vector[4]	= 7;
+	uint32	vector[0]	= 8;
+	uint32	vector[1]	= 9;
+	uint32	vector[2]	= 10;
+	uint32	vector[3]	= 11;
+	uint32	vector[4]	= 12;
+	uint32	rank_from	= 13;
+	uint32	rank_to	= 14;
+	sint32	isKiriban	= 15;		//	SByte
+}
+
+message tableteam_ev_rank_rewardFLO { repeated team_ev_rank_rewardFLO tableTeamEvRankReward = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen team_ev_rank_reward_Manager_66.proto
+
+
+			   case "team_ev_rank_reward.bytes":
+					ii = 0;
+					tableteam_ev_rank_reward tblManager66 = new tableteam_ev_rank_reward { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager66.TableTeamEvRankReward.Add(new team_ev_rank_rewardFLO
+								{
+									TeamEvRankRewardId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32(),
+									Vector[4] = br.ReadUInt32(),
+									RankFrom = br.ReadUInt32(),
+									RankTo = br.ReadUInt32(),
+									IsKiriban = br.ReadSByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager66, Formatting.Indented)); }
+					return tblManager66;
+*/

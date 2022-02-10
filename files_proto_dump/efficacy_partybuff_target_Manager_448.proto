@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_448
+message efficacy_partybuff_targetFLO {
+	uint32	efficacy_partybuff_target_id	= 1;
+	uint32	uqId	= 2;
+}
+
+message tableefficacy_partybuff_targetFLO { repeated efficacy_partybuff_targetFLO tableEfficacyPartybuffTarget = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen efficacy_partybuff_target_Manager_448.proto
+
+
+			   case "efficacy_partybuff_target.bytes":
+					ii = 0;
+					tableefficacy_partybuff_target tblManager448 = new tableefficacy_partybuff_target { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager448.TableEfficacyPartybuffTarget.Add(new efficacy_partybuff_targetFLO
+								{
+									EfficacyPartybuffTargetId = br.ReadUInt32(),
+									UqId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager448, Formatting.Indented)); }
+					return tblManager448;
+*/

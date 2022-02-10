@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_527
+message avatar_license_skillFLO {
+	uint32	avatar_license_skill_id	= 1;
+	uint32	lifeId	= 2;
+	uint32	lisenceLevel	= 3;
+	uint32	equipType	= 4;
+	uint32	skillID	= 5;
+}
+
+message tableavatar_license_skillFLO { repeated avatar_license_skillFLO tableAvatarLicenseSkill = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen avatar_license_skill_Manager_527.proto
+
+
+			   case "avatar_license_skill.bytes":
+					ii = 0;
+					tableavatar_license_skill tblManager527 = new tableavatar_license_skill { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager527.TableAvatarLicenseSkill.Add(new avatar_license_skillFLO
+								{
+									AvatarLicenseSkillId = br.ReadUInt32(),
+									LifeId = br.ReadUInt32(),
+									LisenceLevel = br.ReadUInt32(),
+									EquipType = br.ReadUInt32(),
+									SkillID = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager527, Formatting.Indented)); }
+					return tblManager527;
+*/

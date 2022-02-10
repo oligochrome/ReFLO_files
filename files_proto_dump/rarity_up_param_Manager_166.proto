@@ -1,0 +1,69 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_166
+message rarity_up_paramFLO {
+	uint32	rarity_up_param_id	= 1;
+	uint32	rarityUpConditionID	= 2;
+	uint32	needLv	= 3;
+	uint32	needLvTextID	= 4;
+	uint32	needAwakeStep	= 5;
+	uint32	needAwakeStepTextID	= 6;
+	uint32	needEv	= 7;
+	uint32	needEvStepTextID	= 8;
+	uint32	needSkillNum	= 9;
+	uint32	needSkillNumTextID	= 10;
+	uint32	vector[0]	= 11;
+	uint32	vector[1]	= 12;
+	uint32	vector[2]	= 13;
+	uint32	vector[3]	= 14;
+	uint32	vector[0]	= 15;
+	uint32	vector[1]	= 16;
+	uint32	vector[2]	= 17;
+	uint32	vector[3]	= 18;
+}
+
+message tablerarity_up_paramFLO { repeated rarity_up_paramFLO tableRarityUpParam = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen rarity_up_param_Manager_166.proto
+
+
+			   case "rarity_up_param.bytes":
+					ii = 0;
+					tablerarity_up_param tblManager166 = new tablerarity_up_param { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager166.TableRarityUpParam.Add(new rarity_up_paramFLO
+								{
+									RarityUpParamId = br.ReadUInt32(),
+									RarityUpConditionID = br.ReadUInt32(),
+									NeedLv = br.ReadUInt32(),
+									NeedLvTextID = br.ReadUInt32(),
+									NeedAwakeStep = br.ReadUInt32(),
+									NeedAwakeStepTextID = br.ReadUInt32(),
+									NeedEv = br.ReadUInt32(),
+									NeedEvStepTextID = br.ReadUInt32(),
+									NeedSkillNum = br.ReadUInt32(),
+									NeedSkillNumTextID = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager166, Formatting.Indented)); }
+					return tblManager166;
+*/

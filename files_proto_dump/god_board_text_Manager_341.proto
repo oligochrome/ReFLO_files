@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_341
+message god_board_textFLO {
+	uint32	god_board_text_id	= 1;
+	string	text	= 2;
+}
+
+message tablegod_board_textFLO { repeated god_board_textFLO tableGodBoardText = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen god_board_text_Manager_341.proto
+
+
+			   case "god_board_text.bytes":
+					ii = 0;
+					tablegod_board_text tblManager341 = new tablegod_board_text { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager341.TableGodBoardText.Add(new god_board_textFLO
+								{
+									GodBoardTextId = br.ReadUInt32(),
+									Text = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager341, Formatting.Indented)); }
+					return tblManager341;
+*/

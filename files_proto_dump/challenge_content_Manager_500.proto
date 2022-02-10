@@ -1,0 +1,57 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_500
+message challenge_contentFLO {
+	uint32	challenge_content_id	= 1;
+	uint32	Id	= 2;
+	int32	number	= 3;
+	uint32	challengeContentTypeId	= 4;
+	uint32	lifeId	= 5;
+	uint32	advQuestDataId	= 6;
+	uint32	challengeContentCraftId	= 7;
+	uint64	openDate	= 8;		//	UInt64
+	uint32	firstStartTheaterId	= 9;
+	uint32	firstClearTheaterId	= 10;
+}
+
+message tablechallenge_contentFLO { repeated challenge_contentFLO tableChallengeContent = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen challenge_content_Manager_500.proto
+
+
+			   case "challenge_content.bytes":
+					ii = 0;
+					tablechallenge_content tblManager500 = new tablechallenge_content { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager500.TableChallengeContent.Add(new challenge_contentFLO
+								{
+									ChallengeContentId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									Number = br.ReadInt32(),
+									ChallengeContentTypeId = br.ReadUInt32(),
+									LifeId = br.ReadUInt32(),
+									AdvQuestDataId = br.ReadUInt32(),
+									ChallengeContentCraftId = br.ReadUInt32(),
+									OpenDate = br.ReadUInt64(),
+									FirstStartTheaterId = br.ReadUInt32(),
+									FirstClearTheaterId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager500, Formatting.Indented)); }
+					return tblManager500;
+*/

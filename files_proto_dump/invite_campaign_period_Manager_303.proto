@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_303
+message invite_campaign_periodFLO {
+	uint32	invite_campaign_period_id	= 1;
+	uint32	Id	= 2;
+	uint32	inviteCampaignId	= 3;
+	uint64	startDate	= 4;		//	UInt64
+	uint64	endDate	= 5;		//	UInt64
+}
+
+message tableinvite_campaign_periodFLO { repeated invite_campaign_periodFLO tableInviteCampaignPeriod = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen invite_campaign_period_Manager_303.proto
+
+
+			   case "invite_campaign_period.bytes":
+					ii = 0;
+					tableinvite_campaign_period tblManager303 = new tableinvite_campaign_period { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager303.TableInviteCampaignPeriod.Add(new invite_campaign_periodFLO
+								{
+									InviteCampaignPeriodId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									InviteCampaignId = br.ReadUInt32(),
+									StartDate = br.ReadUInt64(),
+									EndDate = br.ReadUInt64()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager303, Formatting.Indented)); }
+					return tblManager303;
+*/

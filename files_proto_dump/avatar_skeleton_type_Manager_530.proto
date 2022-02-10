@@ -1,0 +1,79 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_530
+message avatar_skeleton_typeFLO {
+	uint32	avatar_skeleton_type_id	= 1;
+	uint32	baseSkeletonType	= 2;
+	float	colliderCenterY	= 3;		//	Single
+	float	colliderRadius	= 4;		//	Single
+	float	colliderHeight	= 5;		//	Single
+	uint32	vector[0]	= 6;
+	uint32	vector[1]	= 7;
+	uint32	vector[2]	= 8;
+	uint32	vector[3]	= 9;
+	uint32	vector[4]	= 10;
+	uint32	vector[5]	= 11;
+	uint32	vector[6]	= 12;
+	uint32	vector[7]	= 13;
+	uint32	vector[8]	= 14;
+	uint32	vector[9]	= 15;
+	uint32	vector[10]	= 16;
+	uint32	vector[0xb]	= 17;
+	uint32	vector[0xc]	= 18;
+	uint32	vector[0xd]	= 19;
+	uint32	vector[0xe]	= 20;
+	uint32	vector[0xf]	= 21;
+}
+
+message tableavatar_skeleton_typeFLO { repeated avatar_skeleton_typeFLO tableAvatarSkeletonType = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen avatar_skeleton_type_Manager_530.proto
+
+
+			   case "avatar_skeleton_type.bytes":
+					ii = 0;
+					tableavatar_skeleton_type tblManager530 = new tableavatar_skeleton_type { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager530.TableAvatarSkeletonType.Add(new avatar_skeleton_typeFLO
+								{
+									AvatarSkeletonTypeId = br.ReadUInt32(),
+									BaseSkeletonType = br.ReadUInt32(),
+									ColliderCenterY = br.ReadSingle(),
+									ColliderRadius = br.ReadSingle(),
+									ColliderHeight = br.ReadSingle(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32(),
+									Vector[4] = br.ReadUInt32(),
+									Vector[5] = br.ReadUInt32(),
+									Vector[6] = br.ReadUInt32(),
+									Vector[7] = br.ReadUInt32(),
+									Vector[8] = br.ReadUInt32(),
+									Vector[9] = br.ReadUInt32(),
+									Vector[10] = br.ReadUInt32(),
+									Vector[0xb] = br.ReadUInt32(),
+									Vector[0xc] = br.ReadUInt32(),
+									Vector[0xd] = br.ReadUInt32(),
+									Vector[0xe] = br.ReadUInt32(),
+									Vector[0xf] = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager530, Formatting.Indented)); }
+					return tblManager530;
+*/

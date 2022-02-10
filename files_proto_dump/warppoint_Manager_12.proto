@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_12
+message warppointFLO {
+	uint32	warppoint_id	= 1;
+	uint32	warppoint_Id	= 2;
+	uint32	mmiconId	= 3;
+	uint32	name_textId	= 4;
+}
+
+message tablewarppointFLO { repeated warppointFLO tableWarppoint = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen warppoint_Manager_12.proto
+
+
+			   case "warppoint.bytes":
+					ii = 0;
+					tablewarppoint tblManager12 = new tablewarppoint { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager12.TableWarppoint.Add(new warppointFLO
+								{
+									WarppointId = br.ReadUInt32(),
+									WarppointId = br.ReadUInt32(),
+									MmiconId = br.ReadUInt32(),
+									NameTextId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager12, Formatting.Indented)); }
+					return tblManager12;
+*/

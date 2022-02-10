@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_322
+message godshop_talkFLO {
+	uint32	godshop_talk_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	textId	= 3;
+	float	textSecond	= 4;		//	Single
+	uint32	nextId	= 5;
+	float	nextSecond	= 6;		//	Single
+}
+
+message tablegodshop_talkFLO { repeated godshop_talkFLO tableGodshopTalk = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen godshop_talk_Manager_322.proto
+
+
+			   case "godshop_talk.bytes":
+					ii = 0;
+					tablegodshop_talk tblManager322 = new tablegodshop_talk { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager322.TableGodshopTalk.Add(new godshop_talkFLO
+								{
+									GodshopTalkId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									TextId = br.ReadUInt32(),
+									TextSecond = br.ReadSingle(),
+									NextId = br.ReadUInt32(),
+									NextSecond = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager322, Formatting.Indented)); }
+					return tblManager322;
+*/

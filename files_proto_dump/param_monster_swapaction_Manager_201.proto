@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_201
+message param_monster_swapactionFLO {
+	uint32	param_monster_swapaction_id	= 1;
+	uint32	uniqId	= 2;
+	uint32	targetObjId	= 3;
+	uint32	swapActionKindId	= 4;
+	uint32	targetActId	= 5;
+	uint32	swapActId	= 6;
+}
+
+message tableparam_monster_swapactionFLO { repeated param_monster_swapactionFLO tableParamMonsterSwapaction = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen param_monster_swapaction_Manager_201.proto
+
+
+			   case "param_monster_swapaction.bytes":
+					ii = 0;
+					tableparam_monster_swapaction tblManager201 = new tableparam_monster_swapaction { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager201.TableParamMonsterSwapaction.Add(new param_monster_swapactionFLO
+								{
+									ParamMonsterSwapactionId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									TargetObjId = br.ReadUInt32(),
+									SwapActionKindId = br.ReadUInt32(),
+									TargetActId = br.ReadUInt32(),
+									SwapActId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager201, Formatting.Indented)); }
+					return tblManager201;
+*/

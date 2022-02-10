@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package ReFLO;
+
+message const_floatFLO {
+	uint32 const_float_id		= 1;
+	uint32 cf_id		= 2;
+	float value		= 3;
+}
+
+message tableconst_float { repeated const_floatFLO Table_const_float = 1; }

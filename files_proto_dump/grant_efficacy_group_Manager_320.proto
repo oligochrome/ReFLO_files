@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_320
+message grant_efficacy_groupFLO {
+	uint32	grant_efficacy_group_id	= 1;
+	uint32	grantEfficacyType	= 2;
+	int32	efficacyLevel	= 3;
+	uint32	efficacy	= 4;
+	int32	efficacyWeight	= 5;
+}
+
+message tablegrant_efficacy_groupFLO { repeated grant_efficacy_groupFLO tableGrantEfficacyGroup = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen grant_efficacy_group_Manager_320.proto
+
+
+			   case "grant_efficacy_group.bytes":
+					ii = 0;
+					tablegrant_efficacy_group tblManager320 = new tablegrant_efficacy_group { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager320.TableGrantEfficacyGroup.Add(new grant_efficacy_groupFLO
+								{
+									GrantEfficacyGroupId = br.ReadUInt32(),
+									GrantEfficacyType = br.ReadUInt32(),
+									EfficacyLevel = br.ReadInt32(),
+									Efficacy = br.ReadUInt32(),
+									EfficacyWeight = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager320, Formatting.Indented)); }
+					return tblManager320;
+*/

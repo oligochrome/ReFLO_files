@@ -1,0 +1,57 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_105
+message skillboardFLO {
+	uint32	skillboard_id	= 1;
+	uint32	unqId	= 2;
+	uint32	pieceNameTextId	= 3;
+	uint32	objId	= 4;
+	int32	placeNumber	= 5;		//	Byte
+	uint32	skillId	= 6;
+	int32	appealNo	= 7;
+	int32	levelLimit	= 8;
+	int32	useSkillPoint	= 9;
+	uint32	friendShipLimit	= 10;
+}
+
+message tableskillboardFLO { repeated skillboardFLO tableSkillboard = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen skillboard_Manager_105.proto
+
+
+			   case "skillboard.bytes":
+					ii = 0;
+					tableskillboard tblManager105 = new tableskillboard { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager105.TableSkillboard.Add(new skillboardFLO
+								{
+									SkillboardId = br.ReadUInt32(),
+									UnqId = br.ReadUInt32(),
+									PieceNameTextId = br.ReadUInt32(),
+									ObjId = br.ReadUInt32(),
+									PlaceNumber = br.ReadByte(),
+									SkillId = br.ReadUInt32(),
+									AppealNo = br.ReadInt32(),
+									LevelLimit = br.ReadInt32(),
+									UseSkillPoint = br.ReadInt32(),
+									FriendShipLimit = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager105, Formatting.Indented)); }
+					return tblManager105;
+*/

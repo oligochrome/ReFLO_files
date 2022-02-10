@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_380
+message gacha_sequenceFLO {
+	uint32	gacha_sequence_id	= 1;
+	uint32	uniqueId	= 2;
+	uint32	resId	= 3;
+	uint32	startFlag	= 4;
+	uint32	effectType	= 5;
+	uint32	sceneId	= 6;
+	uint32	chanceId	= 7;
+}
+
+message tablegacha_sequenceFLO { repeated gacha_sequenceFLO tableGachaSequence = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen gacha_sequence_Manager_380.proto
+
+
+			   case "gacha_sequence.bytes":
+					ii = 0;
+					tablegacha_sequence tblManager380 = new tablegacha_sequence { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager380.TableGachaSequence.Add(new gacha_sequenceFLO
+								{
+									GachaSequenceId = br.ReadUInt32(),
+									UniqueId = br.ReadUInt32(),
+									ResId = br.ReadUInt32(),
+									StartFlag = br.ReadUInt32(),
+									EffectType = br.ReadUInt32(),
+									SceneId = br.ReadUInt32(),
+									ChanceId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager380, Formatting.Indented)); }
+					return tblManager380;
+*/

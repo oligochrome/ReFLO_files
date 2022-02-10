@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_163
+message repayment_urlFLO {
+	uint32	repayment_url_id	= 1;
+	uint32	unqId	= 2;
+	string	url	= 3;
+}
+
+message tablerepayment_urlFLO { repeated repayment_urlFLO tableRepaymentUrl = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen repayment_url_Manager_163.proto
+
+
+			   case "repayment_url.bytes":
+					ii = 0;
+					tablerepayment_url tblManager163 = new tablerepayment_url { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager163.TableRepaymentUrl.Add(new repayment_urlFLO
+								{
+									RepaymentUrlId = br.ReadUInt32(),
+									UnqId = br.ReadUInt32(),
+									Url = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager163, Formatting.Indented)); }
+					return tblManager163;
+*/

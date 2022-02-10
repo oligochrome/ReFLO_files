@@ -1,0 +1,89 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_219
+message objFLO {
+	uint32	obj_id	= 1;
+	uint32	uniqid	= 2;
+	string	id	= 3;
+	uint32	resId	= 4;
+	uint32	resIdIcon	= 5;
+	uint32	resswitchId	= 6;
+	uint32	resswitchIdHQ	= 7;
+	uint32	resActionId	= 8;
+	uint32	objTypeId	= 9;
+	uint32	contentsTypeId	= 10;
+	uint32	nameId	= 11;
+	uint32	descriptionId	= 12;
+	uint32	commonParamId	= 13;
+	uint32	charaParamId	= 14;
+	uint32	facillityParamId	= 15;
+	uint32	pickParamId	= 16;
+	uint32	furnitureParamId	= 17;
+	uint32	groundParamId	= 18;
+	uint32	objGroupId	= 19;
+	uint32	weaponParamId	= 20;
+	uint32	guardParamId	= 21;
+	uint32	normalParamId	= 22;
+	uint32	importantParamId	= 23;
+	uint32	specialParamId	= 24;
+	uint32	surpriseboxParamId	= 25;
+	uint32	godItemParamId	= 26;
+}
+
+message tableobjFLO { repeated objFLO tableObj = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen obj_Manager_219.proto
+
+
+			   case "obj.bytes":
+					ii = 0;
+					tableobj tblManager219 = new tableobj { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager219.TableObj.Add(new objFLO
+								{
+									ObjId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Id = br.ReadString(),
+									ResId = br.ReadUInt32(),
+									ResIdIcon = br.ReadUInt32(),
+									ResswitchId = br.ReadUInt32(),
+									ResswitchIdHQ = br.ReadUInt32(),
+									ResActionId = br.ReadUInt32(),
+									ObjTypeId = br.ReadUInt32(),
+									ContentsTypeId = br.ReadUInt32(),
+									NameId = br.ReadUInt32(),
+									DescriptionId = br.ReadUInt32(),
+									CommonParamId = br.ReadUInt32(),
+									CharaParamId = br.ReadUInt32(),
+									FacillityParamId = br.ReadUInt32(),
+									PickParamId = br.ReadUInt32(),
+									FurnitureParamId = br.ReadUInt32(),
+									GroundParamId = br.ReadUInt32(),
+									ObjGroupId = br.ReadUInt32(),
+									WeaponParamId = br.ReadUInt32(),
+									GuardParamId = br.ReadUInt32(),
+									NormalParamId = br.ReadUInt32(),
+									ImportantParamId = br.ReadUInt32(),
+									SpecialParamId = br.ReadUInt32(),
+									SurpriseboxParamId = br.ReadUInt32(),
+									GodItemParamId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager219, Formatting.Indented)); }
+					return tblManager219;
+*/

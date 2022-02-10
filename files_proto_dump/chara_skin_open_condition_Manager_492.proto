@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_492
+message chara_skin_open_conditionFLO {
+	uint32	chara_skin_open_condition_id	= 1;
+	uint32	uniqeId	= 2;
+	uint32	conditionId	= 3;
+	int32	conditionValue	= 4;
+	uint32	conditionValueId	= 5;
+}
+
+message tablechara_skin_open_conditionFLO { repeated chara_skin_open_conditionFLO tableCharaSkinOpenCondition = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen chara_skin_open_condition_Manager_492.proto
+
+
+			   case "chara_skin_open_condition.bytes":
+					ii = 0;
+					tablechara_skin_open_condition tblManager492 = new tablechara_skin_open_condition { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager492.TableCharaSkinOpenCondition.Add(new chara_skin_open_conditionFLO
+								{
+									CharaSkinOpenConditionId = br.ReadUInt32(),
+									UniqeId = br.ReadUInt32(),
+									ConditionId = br.ReadUInt32(),
+									ConditionValue = br.ReadInt32(),
+									ConditionValueId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager492, Formatting.Indented)); }
+					return tblManager492;
+*/

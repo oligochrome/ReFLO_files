@@ -1,0 +1,81 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_8
+message wishboard_clientFLO {
+	uint32	wishboard_client_id	= 1;
+	uint32	clientGroupID	= 2;
+	uint32	vector[0]	= 3;
+	uint32	vector[1]	= 4;
+	uint32	vector[2]	= 5;
+	uint32	vector[3]	= 6;
+	uint32	vector[4]	= 7;
+	uint32	vector[5]	= 8;
+	uint32	vector[6]	= 9;
+	uint32	vector[7]	= 10;
+	uint32	vector[8]	= 11;
+	uint32	vector[9]	= 12;
+	uint32	vector[0]	= 13;
+	uint32	vector[1]	= 14;
+	uint32	vector[2]	= 15;
+	uint32	vector[3]	= 16;
+	uint32	vector[4]	= 17;
+	uint32	vector[5]	= 18;
+	uint32	vector[6]	= 19;
+	uint32	vector[7]	= 20;
+	uint32	vector[8]	= 21;
+	uint32	vector[9]	= 22;
+	uint32	vector[0]	= 23;
+	uint32	vector[1]	= 24;
+	uint32	vector[2]	= 25;
+	uint32	vector[3]	= 26;
+	uint32	vector[4]	= 27;
+	uint32	vector[5]	= 28;
+	uint32	vector[6]	= 29;
+	uint32	vector[7]	= 30;
+	uint32	vector[8]	= 31;
+	uint32	vector[9]	= 32;
+}
+
+message tablewishboard_clientFLO { repeated wishboard_clientFLO tableWishboardClient = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen wishboard_client_Manager_8.proto
+
+
+			   case "wishboard_client.bytes":
+					ii = 0;
+					tablewishboard_client tblManager8 = new tablewishboard_client { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager8.TableWishboardClient.Add(new wishboard_clientFLO
+								{
+									WishboardClientId = br.ReadUInt32(),
+									ClientGroupID = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32(),
+									Vector[4] = br.ReadUInt32(),
+									Vector[5] = br.ReadUInt32(),
+									Vector[6] = br.ReadUInt32(),
+									Vector[7] = br.ReadUInt32(),
+									Vector[8] = br.ReadUInt32(),
+									Vector[9] = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager8, Formatting.Indented)); }
+					return tblManager8;
+*/

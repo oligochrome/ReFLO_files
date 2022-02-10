@@ -1,0 +1,55 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_550
+message adv_monster_phaseFLO {
+	uint32	adv_monster_phase_id	= 1;
+	uint32	uniqId	= 2;
+	uint32	advQuestId	= 3;
+	uint32	monsterObjId	= 4;
+	int32	phase	= 5;
+	int32	hpPercentage	= 6;
+	uint32	phaseMapId	= 7;
+	int32	phaseStartActionCount	= 8;
+	int32	timeActionIntervalSeconds	= 9;
+}
+
+message tableadv_monster_phaseFLO { repeated adv_monster_phaseFLO tableAdvMonsterPhase = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_monster_phase_Manager_550.proto
+
+
+			   case "adv_monster_phase.bytes":
+					ii = 0;
+					tableadv_monster_phase tblManager550 = new tableadv_monster_phase { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager550.TableAdvMonsterPhase.Add(new adv_monster_phaseFLO
+								{
+									AdvMonsterPhaseId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									AdvQuestId = br.ReadUInt32(),
+									MonsterObjId = br.ReadUInt32(),
+									Phase = br.ReadInt32(),
+									HpPercentage = br.ReadInt32(),
+									PhaseMapId = br.ReadUInt32(),
+									PhaseStartActionCount = br.ReadInt32(),
+									TimeActionIntervalSeconds = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager550, Formatting.Indented)); }
+					return tblManager550;
+*/

@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_386
+message flagFLO {
+	uint32	flag_id	= 1;
+	uint32	flagId	= 2;
+	uint32	parentFlagId	= 3;
+	uint32	folderId	= 4;
+	uint32	flagPrio	= 5;		//	UInt16
+	uint32	conditionId	= 6;
+	string	conditionValue	= 7;
+}
+
+message tableflagFLO { repeated flagFLO tableFlag = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen flag_Manager_386.proto
+
+
+			   case "flag.bytes":
+					ii = 0;
+					tableflag tblManager386 = new tableflag { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager386.TableFlag.Add(new flagFLO
+								{
+									FlagId = br.ReadUInt32(),
+									FlagId = br.ReadUInt32(),
+									ParentFlagId = br.ReadUInt32(),
+									FolderId = br.ReadUInt32(),
+									FlagPrio = br.ReadUInt16(),
+									ConditionId = br.ReadUInt32(),
+									ConditionValue = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager386, Formatting.Indented)); }
+					return tblManager386;
+*/

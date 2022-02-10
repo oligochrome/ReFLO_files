@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_462
+message dialog_helpFLO {
+	uint32	dialog_help_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	categoryId	= 3;
+	uint32	titleText	= 4;
+	uint32	dialogId	= 5;
+	int32	sortNum	= 6;
+	uint32	useVillageHelp	= 7;
+}
+
+message tabledialog_helpFLO { repeated dialog_helpFLO tableDialogHelp = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen dialog_help_Manager_462.proto
+
+
+			   case "dialog_help.bytes":
+					ii = 0;
+					tabledialog_help tblManager462 = new tabledialog_help { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager462.TableDialogHelp.Add(new dialog_helpFLO
+								{
+									DialogHelpId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									CategoryId = br.ReadUInt32(),
+									TitleText = br.ReadUInt32(),
+									DialogId = br.ReadUInt32(),
+									SortNum = br.ReadInt32(),
+									UseVillageHelp = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager462, Formatting.Indented)); }
+					return tblManager462;
+*/

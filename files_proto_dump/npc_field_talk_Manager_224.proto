@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_224
+message npc_field_talkFLO {
+	uint32	npc_field_talk_id	= 1;
+	uint32	charaId	= 2;
+	uint32	mapId	= 3;
+	uint32	mapDetailId	= 4;
+	uint32	gentype	= 5;
+	int32	genindex	= 6;
+	uint32	textDaytime	= 7;
+	uint32	textNight	= 8;
+}
+
+message tablenpc_field_talkFLO { repeated npc_field_talkFLO tableNpcFieldTalk = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen npc_field_talk_Manager_224.proto
+
+
+			   case "npc_field_talk.bytes":
+					ii = 0;
+					tablenpc_field_talk tblManager224 = new tablenpc_field_talk { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager224.TableNpcFieldTalk.Add(new npc_field_talkFLO
+								{
+									NpcFieldTalkId = br.ReadUInt32(),
+									CharaId = br.ReadUInt32(),
+									MapId = br.ReadUInt32(),
+									MapDetailId = br.ReadUInt32(),
+									Gentype = br.ReadUInt32(),
+									Genindex = br.ReadInt32(),
+									TextDaytime = br.ReadUInt32(),
+									TextNight = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager224, Formatting.Indented)); }
+					return tblManager224;
+*/

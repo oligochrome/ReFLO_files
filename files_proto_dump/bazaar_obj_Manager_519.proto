@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_519
+message bazaar_objFLO {
+	uint32	bazaar_obj_id	= 1;
+	uint32	objId	= 2;
+	uint32	index	= 3;
+}
+
+message tablebazaar_objFLO { repeated bazaar_objFLO tableBazaarObj = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen bazaar_obj_Manager_519.proto
+
+
+			   case "bazaar_obj.bytes":
+					ii = 0;
+					tablebazaar_obj tblManager519 = new tablebazaar_obj { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager519.TableBazaarObj.Add(new bazaar_objFLO
+								{
+									BazaarObjId = br.ReadUInt32(),
+									ObjId = br.ReadUInt32(),
+									Index = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager519, Formatting.Indented)); }
+					return tblManager519;
+*/

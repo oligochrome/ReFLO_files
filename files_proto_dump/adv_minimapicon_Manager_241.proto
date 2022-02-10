@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_241
+message adv_minimapiconFLO {
+	uint32	adv_minimapicon_id	= 1;
+	uint32	minimapiconId	= 2;
+	string	iconName	= 3;
+}
+
+message tableadv_minimapiconFLO { repeated adv_minimapiconFLO tableAdvMinimapicon = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_minimapicon_Manager_241.proto
+
+
+			   case "adv_minimapicon.bytes":
+					ii = 0;
+					tableadv_minimapicon tblManager241 = new tableadv_minimapicon { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager241.TableAdvMinimapicon.Add(new adv_minimapiconFLO
+								{
+									AdvMinimapiconId = br.ReadUInt32(),
+									MinimapiconId = br.ReadUInt32(),
+									IconName = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager241, Formatting.Indented)); }
+					return tblManager241;
+*/

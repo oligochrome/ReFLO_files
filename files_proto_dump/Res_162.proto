@@ -1,0 +1,32 @@
+﻿syntax = "proto3";
+
+package ReFLO;
+
+//	Manager_162
+message ResFLO {
+//	uint32	index_ref			= ;
+	uint32	resId					= 1;
+	uint32	resTypeId				= 2;
+	uint32	assetBundleId			= 3;
+	uint32	dirId					= 4;
+	//int32	rscLengthOffset				= ;	// Byte
+	string	resourceName			= 5;
+	int32	version					= 6;
+	sint32	resswitchIndexHair		= 7;	// SByte
+	sint32	resswitchIndexEar		= 8;	// SByte
+	uint32	faceResId				= 9;
+	sint32	facialIntegratedType	= 10;	// SByte
+	sint32	visibleEye				= 11;	// SByte
+	sint32	visibleBrow				= 12;	// SByte
+	sint32	visibleNose				= 13;	// SByte
+	sint32	visibleMouth			= 14;	// SByte
+	sint32	visibleHair				= 15;	// SByte
+	sint32	displayExclusiveGlasses	= 16;	// SByte
+	sint32	visibleBottom			= 17;	// SByte
+
+}
+
+message Table_ResFLO{
+	repeated ResFLO table_res = 1;
+	map<uint32, int32> idRef  = 2;
+}

@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_261
+message menu_sort_paramFLO {
+	uint32	menu_sort_param_id	= 1;
+	uint32	id	= 2;
+	string	idText	= 3;
+	uint32	targetTypeId	= 4;
+	uint32	menuTextId	= 5;
+	int32	sortNo	= 6;		//	Byte
+	int32	bitfield0	= 7;		//	Byte
+}
+
+message tablemenu_sort_paramFLO { repeated menu_sort_paramFLO tableMenuSortParam = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen menu_sort_param_Manager_261.proto
+
+
+			   case "menu_sort_param.bytes":
+					ii = 0;
+					tablemenu_sort_param tblManager261 = new tablemenu_sort_param { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager261.TableMenuSortParam.Add(new menu_sort_paramFLO
+								{
+									MenuSortParamId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									IdText = br.ReadString(),
+									TargetTypeId = br.ReadUInt32(),
+									MenuTextId = br.ReadUInt32(),
+									SortNo = br.ReadByte(),
+									Bitfield0 = br.ReadByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager261, Formatting.Indented)); }
+					return tblManager261;
+*/

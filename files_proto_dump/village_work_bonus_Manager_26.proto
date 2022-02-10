@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_26
+message village_work_bonusFLO {
+	uint32	village_work_bonus_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	workCount	= 3;		//	UInt16
+	uint32	workBonus	= 4;
+	uint32	getItemCount	= 5;		//	UInt16
+}
+
+message tablevillage_work_bonusFLO { repeated village_work_bonusFLO tableVillageWorkBonus = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen village_work_bonus_Manager_26.proto
+
+
+			   case "village_work_bonus.bytes":
+					ii = 0;
+					tablevillage_work_bonus tblManager26 = new tablevillage_work_bonus { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager26.TableVillageWorkBonus.Add(new village_work_bonusFLO
+								{
+									VillageWorkBonusId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									WorkCount = br.ReadUInt16(),
+									WorkBonus = br.ReadUInt32(),
+									GetItemCount = br.ReadUInt16()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager26, Formatting.Indented)); }
+					return tblManager26;
+*/

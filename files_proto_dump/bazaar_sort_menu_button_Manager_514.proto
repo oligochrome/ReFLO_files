@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_514
+message bazaar_sort_menu_buttonFLO {
+	uint32	bazaar_sort_menu_button_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	modeid	= 3;
+	uint32	typeid_1	= 4;
+	int32	displayOrder	= 5;
+}
+
+message tablebazaar_sort_menu_buttonFLO { repeated bazaar_sort_menu_buttonFLO tableBazaarSortMenuButton = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen bazaar_sort_menu_button_Manager_514.proto
+
+
+			   case "bazaar_sort_menu_button.bytes":
+					ii = 0;
+					tablebazaar_sort_menu_button tblManager514 = new tablebazaar_sort_menu_button { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager514.TableBazaarSortMenuButton.Add(new bazaar_sort_menu_buttonFLO
+								{
+									BazaarSortMenuButtonId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Modeid = br.ReadUInt32(),
+									Typeid1 = br.ReadUInt32(),
+									DisplayOrder = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager514, Formatting.Indented)); }
+					return tblManager514;
+*/

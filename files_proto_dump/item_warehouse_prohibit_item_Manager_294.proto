@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_294
+message item_warehouse_prohibit_itemFLO {
+	uint32	item_warehouse_prohibit_item_id	= 1;
+	uint32	prohibitId	= 2;
+}
+
+message tableitem_warehouse_prohibit_itemFLO { repeated item_warehouse_prohibit_itemFLO tableItemWarehouseProhibitItem = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen item_warehouse_prohibit_item_Manager_294.proto
+
+
+			   case "item_warehouse_prohibit_item.bytes":
+					ii = 0;
+					tableitem_warehouse_prohibit_item tblManager294 = new tableitem_warehouse_prohibit_item { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager294.TableItemWarehouseProhibitItem.Add(new item_warehouse_prohibit_itemFLO
+								{
+									ItemWarehouseProhibitItemId = br.ReadUInt32(),
+									ProhibitId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager294, Formatting.Indented)); }
+					return tblManager294;
+*/

@@ -1,0 +1,61 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_198
+message param_rideFLO {
+	uint32	param_ride_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	contentsId	= 3;
+	uint32	rideTypeId	= 4;
+	float	speedRatio	= 5;		//	Single
+	uint32	bitfield0	= 6;
+	uint32	equipLicense	= 7;
+	uint32	bitfield1	= 8;
+	uint32	resActionORId	= 9;
+	uint32	vector[0]	= 10;
+	uint32	vector[1]	= 11;
+	uint32	vector[2]	= 12;
+}
+
+message tableparam_rideFLO { repeated param_rideFLO tableParamRide = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen param_ride_Manager_198.proto
+
+
+			   case "param_ride.bytes":
+					ii = 0;
+					tableparam_ride tblManager198 = new tableparam_ride { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager198.TableParamRide.Add(new param_rideFLO
+								{
+									ParamRideId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									ContentsId = br.ReadUInt32(),
+									RideTypeId = br.ReadUInt32(),
+									SpeedRatio = br.ReadSingle(),
+									Bitfield0 = br.ReadUInt32(),
+									EquipLicense = br.ReadUInt32(),
+									Bitfield1 = br.ReadUInt32(),
+									ResActionORId = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager198, Formatting.Indented)); }
+					return tblManager198;
+*/

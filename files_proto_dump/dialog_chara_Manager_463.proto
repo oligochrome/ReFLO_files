@@ -1,0 +1,60 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_463
+message dialog_charaFLO {
+	uint32	dialog_chara_id	= 1;
+	uint32	dialogCharaId	= 2;
+	uint32	titleText	= 3;
+	uint32	messageText	= 4;
+	uint32	charaText	= 5;
+	uint32	hintText	= 6;
+	uint32	jingle	= 7;
+	uint32	vector[0]	= 8;
+	uint32	vector[1]	= 9;
+	uint32	vector[2]	= 10;
+	float	vector[0]	= 11;		//	Single
+	float	vector[1]	= 12;		//	Single
+	float	vector[2]	= 13;		//	Single
+}
+
+message tabledialog_charaFLO { repeated dialog_charaFLO tableDialogChara = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen dialog_chara_Manager_463.proto
+
+
+			   case "dialog_chara.bytes":
+					ii = 0;
+					tabledialog_chara tblManager463 = new tabledialog_chara { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager463.TableDialogChara.Add(new dialog_charaFLO
+								{
+									DialogCharaId = br.ReadUInt32(),
+									DialogCharaId = br.ReadUInt32(),
+									TitleText = br.ReadUInt32(),
+									MessageText = br.ReadUInt32(),
+									CharaText = br.ReadUInt32(),
+									HintText = br.ReadUInt32(),
+									Jingle = br.ReadUInt32(),
+									Vector[0] = br.ReadSingle(),
+									Vector[1] = br.ReadSingle(),
+									Vector[2] = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager463, Formatting.Indented)); }
+					return tblManager463;
+*/

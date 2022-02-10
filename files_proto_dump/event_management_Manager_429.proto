@@ -1,0 +1,65 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_429
+message event_managementFLO {
+	uint32	event_management_id	= 1;
+	uint32	eventId	= 2;
+	string	eventIdStr	= 3;
+	uint64	startDate	= 4;		//	UInt64
+	uint64	endDate	= 5;		//	UInt64
+	string	pointName	= 6;
+	uint32	pointIconResId	= 7;
+	string	topImageUrl	= 8;
+	string	bannerUrl	= 9;
+	string	boostDetailPageUrl	= 10;
+	int32	sortNo	= 11;
+	int32	balloonPriority	= 12;
+	uint32	exchangeBoardCharaId	= 13;
+	uint32	mainframeImageId	= 14;
+}
+
+message tableevent_managementFLO { repeated event_managementFLO tableEventManagement = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen event_management_Manager_429.proto
+
+
+			   case "event_management.bytes":
+					ii = 0;
+					tableevent_management tblManager429 = new tableevent_management { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager429.TableEventManagement.Add(new event_managementFLO
+								{
+									EventManagementId = br.ReadUInt32(),
+									EventId = br.ReadUInt32(),
+									EventIdStr = br.ReadString(),
+									StartDate = br.ReadUInt64(),
+									EndDate = br.ReadUInt64(),
+									PointName = br.ReadString(),
+									PointIconResId = br.ReadUInt32(),
+									TopImageUrl = br.ReadString(),
+									BannerUrl = br.ReadString(),
+									BoostDetailPageUrl = br.ReadString(),
+									SortNo = br.ReadInt32(),
+									BalloonPriority = br.ReadInt32(),
+									ExchangeBoardCharaId = br.ReadUInt32(),
+									MainframeImageId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager429, Formatting.Indented)); }
+					return tblManager429;
+*/

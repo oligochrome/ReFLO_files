@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_197
+message param_runesFLO {
+	uint32	param_runes_id	= 1;
+	uint32	objId	= 2;
+	uint32	runeStatusId	= 3;
+	uint32	efficacyId	= 4;
+	uint32	lotEfficacyId	= 5;
+	uint32	runeColorTypeId	= 6;
+}
+
+message tableparam_runesFLO { repeated param_runesFLO tableParamRunes = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen param_runes_Manager_197.proto
+
+
+			   case "param_runes.bytes":
+					ii = 0;
+					tableparam_runes tblManager197 = new tableparam_runes { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager197.TableParamRunes.Add(new param_runesFLO
+								{
+									ParamRunesId = br.ReadUInt32(),
+									ObjId = br.ReadUInt32(),
+									RuneStatusId = br.ReadUInt32(),
+									EfficacyId = br.ReadUInt32(),
+									LotEfficacyId = br.ReadUInt32(),
+									RuneColorTypeId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager197, Formatting.Indented)); }
+					return tblManager197;
+*/

@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_397
+message collection_charaFLO {
+	uint32	collection_chara_id	= 1;
+	uint32	contentsId	= 2;
+	int32	showFlg	= 3;		//	Byte
+	int64	collectionNo	= 4;		//	Int64
+	int32	unlockFlg	= 5;		//	Byte
+}
+
+message tablecollection_charaFLO { repeated collection_charaFLO tableCollectionChara = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen collection_chara_Manager_397.proto
+
+
+			   case "collection_chara.bytes":
+					ii = 0;
+					tablecollection_chara tblManager397 = new tablecollection_chara { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager397.TableCollectionChara.Add(new collection_charaFLO
+								{
+									CollectionCharaId = br.ReadUInt32(),
+									ContentsId = br.ReadUInt32(),
+									ShowFlg = br.ReadByte(),
+									CollectionNo = br.ReadInt64(),
+									UnlockFlg = br.ReadByte()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager397, Formatting.Indented)); }
+					return tblManager397;
+*/

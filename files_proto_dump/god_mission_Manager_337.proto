@@ -1,0 +1,108 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_337
+message god_missionFLO {
+	uint32	god_mission_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	releaseFlagId	= 3;
+	int32	godPoint	= 4;
+	uint32	targetType	= 5;
+	uint32	targetObj	= 6;
+	int32	targetNum	= 7;
+	uint32	godMissionGroupId	= 8;
+	uint32	vector[0]	= 9;
+	uint32	vector[1]	= 10;
+	uint32	vector[2]	= 11;
+	uint32	vector[0]	= 12;
+	uint32	vector[1]	= 13;
+	uint32	vector[2]	= 14;
+	uint32	vector[3]	= 15;
+	uint32	vector[4]	= 16;
+	uint32	vector[5]	= 17;
+	int32	vector[0]	= 18;
+	int32	vector[1]	= 19;
+	int32	vector[2]	= 20;
+	int32	vector[3]	= 21;
+	int32	vector[4]	= 22;
+	int32	vector[5]	= 23;
+	uint32	inAdvMapId	= 24;
+	uint32	outAdvMapId	= 25;
+	uint32	outPortalId	= 26;
+	uint32	eventScriptId	= 27;
+	uint32	title	= 28;
+	uint32	summary	= 29;
+	uint32	hint	= 30;
+	uint32	speech	= 31;
+	uint32	openCondition	= 32;
+	int32	silhouette	= 33;
+	float	modelScale	= 34;		//	Single
+	float	modeloffsetY	= 35;		//	Single
+	uint32	detailPageModel	= 36;
+	uint32	detailPageIcon	= 37;
+	string	atlasName	= 38;
+	uint32	speechObjId	= 39;
+	int32	sortWeight	= 40;
+}
+
+message tablegod_missionFLO { repeated god_missionFLO tableGodMission = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen god_mission_Manager_337.proto
+
+
+			   case "god_mission.bytes":
+					ii = 0;
+					tablegod_mission tblManager337 = new tablegod_mission { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager337.TableGodMission.Add(new god_missionFLO
+								{
+									GodMissionId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									ReleaseFlagId = br.ReadUInt32(),
+									GodPoint = br.ReadInt32(),
+									TargetType = br.ReadUInt32(),
+									TargetObj = br.ReadUInt32(),
+									TargetNum = br.ReadInt32(),
+									GodMissionGroupId = br.ReadUInt32(),
+									Vector[0] = br.ReadInt32(),
+									Vector[1] = br.ReadInt32(),
+									Vector[2] = br.ReadInt32(),
+									Vector[3] = br.ReadInt32(),
+									Vector[4] = br.ReadInt32(),
+									Vector[5] = br.ReadInt32(),
+									InAdvMapId = br.ReadUInt32(),
+									OutAdvMapId = br.ReadUInt32(),
+									OutPortalId = br.ReadUInt32(),
+									EventScriptId = br.ReadUInt32(),
+									Title = br.ReadUInt32(),
+									Summary = br.ReadUInt32(),
+									Hint = br.ReadUInt32(),
+									Speech = br.ReadUInt32(),
+									OpenCondition = br.ReadUInt32(),
+									Silhouette = br.ReadInt32(),
+									ModelScale = br.ReadSingle(),
+									ModeloffsetY = br.ReadSingle(),
+									DetailPageModel = br.ReadUInt32(),
+									DetailPageIcon = br.ReadUInt32(),
+									AtlasName = br.ReadString(),
+									SpeechObjId = br.ReadUInt32(),
+									SortWeight = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager337, Formatting.Indented)); }
+					return tblManager337;
+*/

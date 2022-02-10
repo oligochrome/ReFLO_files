@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_16
+message waitingcallFLO {
+	uint32	waitingcall_id	= 1;
+	uint32	id	= 2;
+	uint32	waitingId	= 3;
+	uint32	groupId	= 4;
+	uint32	areaId	= 5;
+}
+
+message tablewaitingcallFLO { repeated waitingcallFLO tableWaitingcall = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen waitingcall_Manager_16.proto
+
+
+			   case "waitingcall.bytes":
+					ii = 0;
+					tablewaitingcall tblManager16 = new tablewaitingcall { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager16.TableWaitingcall.Add(new waitingcallFLO
+								{
+									WaitingcallId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									WaitingId = br.ReadUInt32(),
+									GroupId = br.ReadUInt32(),
+									AreaId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager16, Formatting.Indented)); }
+					return tblManager16;
+*/

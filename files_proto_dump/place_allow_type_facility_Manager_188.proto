@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_188
+message place_allow_type_facilityFLO {
+	uint32	place_allow_type_facility_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	bitfield0	= 3;
+}
+
+message tableplace_allow_type_facilityFLO { repeated place_allow_type_facilityFLO tablePlaceAllowTypeFacility = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen place_allow_type_facility_Manager_188.proto
+
+
+			   case "place_allow_type_facility.bytes":
+					ii = 0;
+					tableplace_allow_type_facility tblManager188 = new tableplace_allow_type_facility { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager188.TablePlaceAllowTypeFacility.Add(new place_allow_type_facilityFLO
+								{
+									PlaceAllowTypeFacilityId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Bitfield0 = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager188, Formatting.Indented)); }
+					return tblManager188;
+*/

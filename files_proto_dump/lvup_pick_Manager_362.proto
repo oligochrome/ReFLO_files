@@ -1,0 +1,91 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_362
+message lvup_pickFLO {
+	uint32	lvup_pick_id	= 1;
+	uint32	objid	= 2;
+	int32	level	= 3;
+	float	vector[0]	= 4;		//	Single
+	float	vector[1]	= 5;		//	Single
+	float	vector[2]	= 6;		//	Single
+	float	vector[3]	= 7;		//	Single
+	float	vector[4]	= 8;		//	Single
+	float	vector[5]	= 9;		//	Single
+	float	vector[6]	= 10;		//	Single
+	float	vector[7]	= 11;		//	Single
+	float	vector[8]	= 12;		//	Single
+	float	vector[9]	= 13;		//	Single
+	float	vector[10]	= 14;		//	Single
+	float	vector[0xb]	= 15;		//	Single
+	float	vector[0xc]	= 16;		//	Single
+	float	vector[0xd]	= 17;		//	Single
+	float	vector[0xe]	= 18;		//	Single
+	float	vector[0xf]	= 19;		//	Single
+	float	vector[0x10]	= 20;		//	Single
+	float	vector[0x11]	= 21;		//	Single
+	int32	vector[0]	= 22;
+	int32	vector[1]	= 23;
+	int32	vector[2]	= 24;
+	int32	vector[3]	= 25;
+	int32	vector[4]	= 26;
+	int32	vector[5]	= 27;
+	float	vector[0]	= 28;		//	Single
+	float	vector[1]	= 29;		//	Single
+	int32	vector[0]	= 30;
+	int32	vector[1]	= 31;
+	uint32	vector[0]	= 32;
+	uint32	vector[1]	= 33;
+}
+
+message tablelvup_pickFLO { repeated lvup_pickFLO tableLvupPick = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen lvup_pick_Manager_362.proto
+
+
+			   case "lvup_pick.bytes":
+					ii = 0;
+					tablelvup_pick tblManager362 = new tablelvup_pick { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager362.TableLvupPick.Add(new lvup_pickFLO
+								{
+									LvupPickId = br.ReadUInt32(),
+									Objid = br.ReadUInt32(),
+									Level = br.ReadInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32()									Vector[2] = br.ReadInt32(),
+									Vector[3] = br.ReadInt32(),
+									Vector[4] = br.ReadInt32(),
+									Vector[5] = br.ReadInt32(),
+									Vector[6] = br.ReadSingle(),
+									Vector[7] = br.ReadSingle(),
+									Vector[8] = br.ReadSingle(),
+									Vector[9] = br.ReadSingle(),
+									Vector[10] = br.ReadSingle(),
+									Vector[0xb] = br.ReadSingle(),
+									Vector[0xc] = br.ReadSingle(),
+									Vector[0xd] = br.ReadSingle(),
+									Vector[0xe] = br.ReadSingle(),
+									Vector[0xf] = br.ReadSingle(),
+									Vector[0x10] = br.ReadSingle(),
+									Vector[0x11] = br.ReadSingle(),
+
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager362, Formatting.Indented)); }
+					return tblManager362;
+*/

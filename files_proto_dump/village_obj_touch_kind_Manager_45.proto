@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_45
+message village_obj_touch_kindFLO {
+	uint32	village_obj_touch_kind_id	= 1;
+	uint32	id	= 2;
+	int32	index	= 3;
+}
+
+message tablevillage_obj_touch_kindFLO { repeated village_obj_touch_kindFLO tableVillageObjTouchKind = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen village_obj_touch_kind_Manager_45.proto
+
+
+			   case "village_obj_touch_kind.bytes":
+					ii = 0;
+					tablevillage_obj_touch_kind tblManager45 = new tablevillage_obj_touch_kind { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager45.TableVillageObjTouchKind.Add(new village_obj_touch_kindFLO
+								{
+									VillageObjTouchKindId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									Index = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager45, Formatting.Indented)); }
+					return tblManager45;
+*/

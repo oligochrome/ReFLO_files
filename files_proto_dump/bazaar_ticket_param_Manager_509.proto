@@ -1,0 +1,61 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_509
+message bazaar_ticket_paramFLO {
+	uint32	bazaar_ticket_param_id	= 1;
+	uint32	id	= 2;
+	uint32	ticketId	= 3;
+	int32	useNum	= 4;
+	uint32	usedObjId	= 5;
+	int32	discountBuyRate	= 6;
+	int32	reductionSellRate	= 7;
+	uint64	startDt	= 8;		//	UInt64
+	uint64	endDt	= 9;		//	UInt64
+	int32	sortNo	= 10;
+	uint32	sell_menu_text_id	= 11;
+	uint32	buy_menu_text_id	= 12;
+}
+
+message tablebazaar_ticket_paramFLO { repeated bazaar_ticket_paramFLO tableBazaarTicketParam = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen bazaar_ticket_param_Manager_509.proto
+
+
+			   case "bazaar_ticket_param.bytes":
+					ii = 0;
+					tablebazaar_ticket_param tblManager509 = new tablebazaar_ticket_param { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager509.TableBazaarTicketParam.Add(new bazaar_ticket_paramFLO
+								{
+									BazaarTicketParamId = br.ReadUInt32(),
+									Id = br.ReadUInt32(),
+									TicketId = br.ReadUInt32(),
+									UseNum = br.ReadInt32(),
+									UsedObjId = br.ReadUInt32(),
+									DiscountBuyRate = br.ReadInt32(),
+									ReductionSellRate = br.ReadInt32(),
+									StartDt = br.ReadUInt64(),
+									EndDt = br.ReadUInt64(),
+									SortNo = br.ReadInt32(),
+									SellMenuTextId = br.ReadUInt32(),
+									BuyMenuTextId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager509, Formatting.Indented)); }
+					return tblManager509;
+*/

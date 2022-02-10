@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_110
+message shop_highpriceFLO {
+	uint32	shop_highprice_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	level	= 3;		//	UInt16
+	uint32	objid	= 4;
+	uint32	sortNumber	= 5;
+}
+
+message tableshop_highpriceFLO { repeated shop_highpriceFLO tableShopHighprice = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen shop_highprice_Manager_110.proto
+
+
+			   case "shop_highprice.bytes":
+					ii = 0;
+					tableshop_highprice tblManager110 = new tableshop_highprice { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager110.TableShopHighprice.Add(new shop_highpriceFLO
+								{
+									ShopHighpriceId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Level = br.ReadUInt16(),
+									Objid = br.ReadUInt32(),
+									SortNumber = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager110, Formatting.Indented)); }
+					return tblManager110;
+*/

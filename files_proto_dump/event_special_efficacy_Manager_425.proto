@@ -1,0 +1,61 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_425
+message event_special_efficacyFLO {
+	uint32	event_special_efficacy_id	= 1;
+	uint32	uniqId	= 2;
+	uint32	termsAdvQuestGroupId	= 3;
+	uint32	termsOverlayTermsId	= 4;
+	uint32	termsChara	= 5;
+	uint32	vector[0]	= 6;
+	uint32	vector[1]	= 7;
+	uint32	vector[2]	= 8;
+	uint32	vector[3]	= 9;
+	uint32	vector[4]	= 10;
+	int32	termsCount	= 11;
+	uint32	efficacyId	= 12;
+}
+
+message tableevent_special_efficacyFLO { repeated event_special_efficacyFLO tableEventSpecialEfficacy = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen event_special_efficacy_Manager_425.proto
+
+
+			   case "event_special_efficacy.bytes":
+					ii = 0;
+					tableevent_special_efficacy tblManager425 = new tableevent_special_efficacy { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager425.TableEventSpecialEfficacy.Add(new event_special_efficacyFLO
+								{
+									EventSpecialEfficacyId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									TermsAdvQuestGroupId = br.ReadUInt32(),
+									TermsOverlayTermsId = br.ReadUInt32(),
+									TermsChara = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32(),
+									Vector[4] = br.ReadUInt32(),
+									TermsCount = br.ReadInt32(),
+									EfficacyId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager425, Formatting.Indented)); }
+					return tblManager425;
+*/

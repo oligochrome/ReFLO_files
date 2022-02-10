@@ -1,0 +1,91 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_221
+message npc_talkFLO {
+	uint32	npc_talk_id	= 1;
+	uint32	talkNpcID	= 2;
+	uint32	objCharaID	= 3;
+	uint32	vector[0]	= 4;
+	uint32	vector[1]	= 5;
+	uint32	vector[2]	= 6;
+	uint32	vector[0]	= 7;
+	uint32	vector[1]	= 8;
+	uint32	vector[2]	= 9;
+	uint32	vector[0]	= 10;
+	uint32	vector[1]	= 11;
+	uint32	vector[2]	= 12;
+	uint32	vector[0]	= 13;
+	uint32	vector[1]	= 14;
+	uint32	vector[2]	= 15;
+	uint32	vector[0]	= 16;
+	uint32	vector[1]	= 17;
+	uint32	vector[2]	= 18;
+	uint32	vector[0]	= 19;
+	uint32	vector[1]	= 20;
+	uint32	vector[2]	= 21;
+	uint32	dispatchMoving	= 22;
+	uint32	workMorning	= 23;
+	uint32	vector[0]	= 24;
+	uint32	vector[1]	= 25;
+	uint32	vector[2]	= 26;
+	uint32	workNight	= 27;
+	uint32	vector[0]	= 28;
+	uint32	vector[1]	= 29;
+	uint32	vector[0]	= 30;
+	uint32	vector[1]	= 31;
+	uint32	vector[0]	= 32;
+	uint32	vector[1]	= 33;
+	uint32	restMorning	= 34;
+	uint32	restNight	= 35;
+	uint32	guildDaytime	= 36;
+	uint32	guildNight	= 37;
+	uint32	visit	= 38;
+	uint32	visitMulti	= 39;
+}
+
+message tablenpc_talkFLO { repeated npc_talkFLO tableNpcTalk = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen npc_talk_Manager_221.proto
+
+
+			   case "npc_talk.bytes":
+					ii = 0;
+					tablenpc_talk tblManager221 = new tablenpc_talk { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager221.TableNpcTalk.Add(new npc_talkFLO
+								{
+									NpcTalkId = br.ReadUInt32(),
+									TalkNpcID = br.ReadUInt32(),
+									ObjCharaID = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									DispatchMoving = br.ReadUInt32(),
+									WorkMorning = br.ReadUInt32(),
+									WorkNight = br.ReadUInt32(),
+									RestMorning = br.ReadUInt32(),
+									RestNight = br.ReadUInt32(),
+									GuildDaytime = br.ReadUInt32(),
+									GuildNight = br.ReadUInt32(),
+									Visit = br.ReadUInt32(),
+									VisitMulti = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager221, Formatting.Indented)); }
+					return tblManager221;
+*/

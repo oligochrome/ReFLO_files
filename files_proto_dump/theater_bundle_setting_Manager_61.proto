@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_61
+message theater_bundle_settingFLO {
+	uint32	theater_bundle_setting_id	= 1;
+	uint32	uniqId	= 2;
+	uint32	titleTextId	= 3;
+	uint32	mainCharaTextId	= 4;
+	uint32	viewGroupId	= 5;
+	uint64	startDate	= 6;		//	UInt64
+	uint32	sortNo	= 7;
+}
+
+message tabletheater_bundle_settingFLO { repeated theater_bundle_settingFLO tableTheaterBundleSetting = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen theater_bundle_setting_Manager_61.proto
+
+
+			   case "theater_bundle_setting.bytes":
+					ii = 0;
+					tabletheater_bundle_setting tblManager61 = new tabletheater_bundle_setting { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager61.TableTheaterBundleSetting.Add(new theater_bundle_settingFLO
+								{
+									TheaterBundleSettingId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									TitleTextId = br.ReadUInt32(),
+									MainCharaTextId = br.ReadUInt32(),
+									ViewGroupId = br.ReadUInt32(),
+									StartDate = br.ReadUInt64(),
+									SortNo = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager61, Formatting.Indented)); }
+					return tblManager61;
+*/

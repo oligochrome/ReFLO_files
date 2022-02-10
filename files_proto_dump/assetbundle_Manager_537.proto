@@ -1,0 +1,59 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_537
+message assetbundleFLO {
+	uint32	assetbundle_id	= 1;
+	uint32	assetBundleId	= 2;
+	uint32	dirId	= 3;
+	string	dataName	= 4;
+	sint32	dontDelete	= 5;		//	SByte
+	int32	size	= 6;
+	uint32	crc	= 7;
+	string	hash	= 8;
+	uint32	verifyCrc	= 9;
+	string	verifyHash	= 10;
+	int32	fileType	= 11;
+}
+
+message tableassetbundleFLO { repeated assetbundleFLO tableAssetbundle = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen assetbundle_Manager_537.proto
+
+
+			   case "assetbundle.bytes":
+					ii = 0;
+					tableassetbundle tblManager537 = new tableassetbundle { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager537.TableAssetbundle.Add(new assetbundleFLO
+								{
+									AssetbundleId = br.ReadUInt32(),
+									AssetBundleId = br.ReadUInt32(),
+									DirId = br.ReadUInt32(),
+									DataName = br.ReadString(),
+									DontDelete = br.ReadSByte(),
+									Size = br.ReadInt32(),
+									Crc = br.ReadUInt32(),
+									Hash = br.ReadString(),
+									VerifyCrc = br.ReadUInt32(),
+									VerifyHash = br.ReadString(),
+									FileType = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager537, Formatting.Indented)); }
+					return tblManager537;
+*/

@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_361
+message lvupexpFLO {
+	uint32	lvupexp_id	= 1;
+	uint32	lvuptype	= 2;
+	int32	level	= 3;
+	int32	total_exp	= 4;
+	uint32	fanfareId	= 5;
+}
+
+message tablelvupexpFLO { repeated lvupexpFLO tableLvupexp = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen lvupexp_Manager_361.proto
+
+
+			   case "lvupexp.bytes":
+					ii = 0;
+					tablelvupexp tblManager361 = new tablelvupexp { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager361.TableLvupexp.Add(new lvupexpFLO
+								{
+									LvupexpId = br.ReadUInt32(),
+									Lvuptype = br.ReadUInt32(),
+									Level = br.ReadInt32(),
+									TotalExp = br.ReadInt32(),
+									FanfareId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager361, Formatting.Indented)); }
+					return tblManager361;
+*/

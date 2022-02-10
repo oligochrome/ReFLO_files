@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_233
+message adv_repoptypeFLO {
+	uint32	adv_repoptype_id	= 1;
+}
+
+message tableadv_repoptypeFLO { repeated adv_repoptypeFLO tableAdvRepoptype = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_repoptype_Manager_233.proto
+
+
+			   case "adv_repoptype.bytes":
+					ii = 0;
+					tableadv_repoptype tblManager233 = new tableadv_repoptype { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager233.TableAdvRepoptype.Add(new adv_repoptypeFLO
+								{
+									AdvRepoptypeId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager233, Formatting.Indented)); }
+					return tblManager233;
+*/

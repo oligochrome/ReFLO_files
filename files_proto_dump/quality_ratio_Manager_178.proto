@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_178
+message quality_ratioFLO {
+	uint32	quality_ratio_id	= 1;
+	uint32	uniqid	= 2;
+	int32	rank	= 3;
+	int32	limitLv	= 4;
+	int32	richUpPer	= 5;
+	int32	needTimePer	= 6;
+	int32	needComp	= 7;
+	int32	qualityBonus	= 8;
+}
+
+message tablequality_ratioFLO { repeated quality_ratioFLO tableQualityRatio = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen quality_ratio_Manager_178.proto
+
+
+			   case "quality_ratio.bytes":
+					ii = 0;
+					tablequality_ratio tblManager178 = new tablequality_ratio { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager178.TableQualityRatio.Add(new quality_ratioFLO
+								{
+									QualityRatioId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									Rank = br.ReadInt32(),
+									LimitLv = br.ReadInt32(),
+									RichUpPer = br.ReadInt32(),
+									NeedTimePer = br.ReadInt32(),
+									NeedComp = br.ReadInt32(),
+									QualityBonus = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager178, Formatting.Indented)); }
+					return tblManager178;
+*/

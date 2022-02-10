@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_226
+message nodeFLO {
+	uint32	node_id	= 1;
+	uint32	nodeId	= 2;
+	string	nodeName	= 3;
+	uint32	parentNodeId	= 4;
+}
+
+message tablenodeFLO { repeated nodeFLO tableNode = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen node_Manager_226.proto
+
+
+			   case "node.bytes":
+					ii = 0;
+					tablenode tblManager226 = new tablenode { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager226.TableNode.Add(new nodeFLO
+								{
+									NodeId = br.ReadUInt32(),
+									NodeId = br.ReadUInt32(),
+									NodeName = br.ReadString(),
+									ParentNodeId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager226, Formatting.Indented)); }
+					return tblManager226;
+*/

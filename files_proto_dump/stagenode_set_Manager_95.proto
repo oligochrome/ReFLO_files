@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_95
+message stagenode_setFLO {
+	uint32	stagenode_set_id	= 1;
+	uint32	uniqId	= 2;
+	int32	break_ui_on	= 3;		//	Byte
+	uint32	break_surprisebox_Id	= 4;
+	int32	breakhp	= 5;
+}
+
+message tablestagenode_setFLO { repeated stagenode_setFLO tableStagenodeSet = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen stagenode_set_Manager_95.proto
+
+
+			   case "stagenode_set.bytes":
+					ii = 0;
+					tablestagenode_set tblManager95 = new tablestagenode_set { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager95.TableStagenodeSet.Add(new stagenode_setFLO
+								{
+									StagenodeSetId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									BreakUiOn = br.ReadByte(),
+									BreakSurpriseboxId = br.ReadUInt32(),
+									Breakhp = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager95, Formatting.Indented)); }
+					return tblManager95;
+*/

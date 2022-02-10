@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_343
+message god_board_mission_typeFLO {
+	uint32	god_board_mission_type_id	= 1;
+	uint32	uniqid	= 2;
+}
+
+message tablegod_board_mission_typeFLO { repeated god_board_mission_typeFLO tableGodBoardMissionType = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen god_board_mission_type_Manager_343.proto
+
+
+			   case "god_board_mission_type.bytes":
+					ii = 0;
+					tablegod_board_mission_type tblManager343 = new tablegod_board_mission_type { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager343.TableGodBoardMissionType.Add(new god_board_mission_typeFLO
+								{
+									GodBoardMissionTypeId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager343, Formatting.Indented)); }
+					return tblManager343;
+*/

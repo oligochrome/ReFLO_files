@@ -1,0 +1,91 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_119
+message shopFLO {
+	uint32	shop_id	= 1;
+	uint32	uniqid	= 2;
+	uint32	nameId	= 3;
+	uint32	descriptionId	= 4;
+	uint32	targetId	= 5;
+	uint32	guideId	= 6;
+	uint32	text1	= 7;
+	uint32	action1	= 8;
+	uint32	text2	= 9;
+	uint32	action2	= 10;
+	uint32	text3	= 11;
+	uint32	action3	= 12;
+	uint32	text4	= 13;
+	uint32	action4	= 14;
+	uint32	text5	= 15;
+	uint32	text6	= 16;
+	uint32	action5_6	= 17;
+	uint32	text7	= 18;
+	uint32	text8	= 19;
+	uint32	text9	= 20;
+	uint32	action9	= 21;
+	uint32	text10	= 22;
+	uint32	action10	= 23;
+	uint32	text11	= 24;
+	uint32	action11	= 25;
+	uint32	sellPriceUpId	= 26;
+	int32	sortNumber	= 27;
+}
+
+message tableshopFLO { repeated shopFLO tableShop = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen shop_Manager_119.proto
+
+
+			   case "shop.bytes":
+					ii = 0;
+					tableshop tblManager119 = new tableshop { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager119.TableShop.Add(new shopFLO
+								{
+									ShopId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32(),
+									NameId = br.ReadUInt32(),
+									DescriptionId = br.ReadUInt32(),
+									TargetId = br.ReadUInt32(),
+									GuideId = br.ReadUInt32(),
+									Text1 = br.ReadUInt32(),
+									Action1 = br.ReadUInt32(),
+									Text2 = br.ReadUInt32(),
+									Action2 = br.ReadUInt32(),
+									Text3 = br.ReadUInt32(),
+									Action3 = br.ReadUInt32(),
+									Text4 = br.ReadUInt32(),
+									Action4 = br.ReadUInt32(),
+									Text5 = br.ReadUInt32(),
+									Text6 = br.ReadUInt32(),
+									Action56 = br.ReadUInt32(),
+									Text7 = br.ReadUInt32(),
+									Text8 = br.ReadUInt32(),
+									Text9 = br.ReadUInt32(),
+									Action9 = br.ReadUInt32(),
+									Text10 = br.ReadUInt32(),
+									Action10 = br.ReadUInt32(),
+									Text11 = br.ReadUInt32(),
+									Action11 = br.ReadUInt32(),
+									SellPriceUpId = br.ReadUInt32(),
+									SortNumber = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager119, Formatting.Indented)); }
+					return tblManager119;
+*/

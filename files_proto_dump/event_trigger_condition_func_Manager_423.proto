@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_423
+message event_trigger_condition_funcFLO {
+	uint32	event_trigger_condition_func_id	= 1;
+	uint32	uniqid	= 2;
+}
+
+message tableevent_trigger_condition_funcFLO { repeated event_trigger_condition_funcFLO tableEventTriggerConditionFunc = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen event_trigger_condition_func_Manager_423.proto
+
+
+			   case "event_trigger_condition_func.bytes":
+					ii = 0;
+					tableevent_trigger_condition_func tblManager423 = new tableevent_trigger_condition_func { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager423.TableEventTriggerConditionFunc.Add(new event_trigger_condition_funcFLO
+								{
+									EventTriggerConditionFuncId = br.ReadUInt32(),
+									Uniqid = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager423, Formatting.Indented)); }
+					return tblManager423;
+*/

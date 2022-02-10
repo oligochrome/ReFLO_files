@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_68
+message team_ev_rank_itemFLO {
+	uint32	team_ev_rank_item_id	= 1;
+	uint32	boostItemObjId	= 2;
+}
+
+message tableteam_ev_rank_itemFLO { repeated team_ev_rank_itemFLO tableTeamEvRankItem = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen team_ev_rank_item_Manager_68.proto
+
+
+			   case "team_ev_rank_item.bytes":
+					ii = 0;
+					tableteam_ev_rank_item tblManager68 = new tableteam_ev_rank_item { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager68.TableTeamEvRankItem.Add(new team_ev_rank_itemFLO
+								{
+									TeamEvRankItemId = br.ReadUInt32(),
+									BoostItemObjId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager68, Formatting.Indented)); }
+					return tblManager68;
+*/

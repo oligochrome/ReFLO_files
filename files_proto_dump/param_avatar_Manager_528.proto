@@ -1,0 +1,85 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_528
+message param_avatarFLO {
+	uint32	param_avatar_id	= 1;
+	int32	index	= 2;
+	uint32	objId	= 3;
+	uint32	avatamakeCategoryId	= 4;
+	uint32	subAvatamakeCategoryId	= 5;
+	uint32	partsType	= 6;
+	uint32	startTime	= 7;
+	uint32	endTime	= 8;
+	uint32	sexId	= 9;
+	uint32	sexIdRandom	= 10;
+	uint32	lifeId	= 11;
+	uint32	skeletonType	= 12;
+	int32	vector[0]	= 13;		//	Byte
+	int32	vector[1]	= 14;		//	Byte
+	int32	vector[2]	= 15;		//	Byte
+	int32	vector[3]	= 16;		//	Byte
+	int32	vector[0]	= 17;		//	Byte
+	int32	vector[1]	= 18;		//	Byte
+	int32	vector[2]	= 19;		//	Byte
+	int32	vector[3]	= 20;		//	Byte
+	float	distanceMax	= 21;		//	Single
+	float	distanceMin	= 22;		//	Single
+	float	heightMax	= 23;		//	Single
+	float	heightMin	= 24;		//	Single
+	float	sizeMax	= 25;		//	Single
+	float	sizeMin	= 26;		//	Single
+}
+
+message tableparam_avatarFLO { repeated param_avatarFLO tableParamAvatar = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen param_avatar_Manager_528.proto
+
+
+			   case "param_avatar.bytes":
+					ii = 0;
+					tableparam_avatar tblManager528 = new tableparam_avatar { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager528.TableParamAvatar.Add(new param_avatarFLO
+								{
+									ParamAvatarId = br.ReadUInt32(),
+									Index = br.ReadInt32(),
+									ObjId = br.ReadUInt32(),
+									AvatamakeCategoryId = br.ReadUInt32(),
+									SubAvatamakeCategoryId = br.ReadUInt32(),
+									PartsType = br.ReadUInt32(),
+									StartTime = br.ReadUInt32(),
+									EndTime = br.ReadUInt32(),
+									SexId = br.ReadUInt32(),
+									SexIdRandom = br.ReadUInt32(),
+									LifeId = br.ReadUInt32(),
+									SkeletonType = br.ReadUInt32(),
+									Vector[0] = br.ReadByte(),
+									Vector[1] = br.ReadByte(),
+									Vector[2] = br.ReadByte(),
+									Vector[3] = br.ReadByte(),
+									DistanceMax = br.ReadSingle(),
+									DistanceMin = br.ReadSingle(),
+									HeightMax = br.ReadSingle(),
+									HeightMin = br.ReadSingle(),
+									SizeMax = br.ReadSingle(),
+									SizeMin = br.ReadSingle()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager528, Formatting.Indented)); }
+					return tblManager528;
+*/

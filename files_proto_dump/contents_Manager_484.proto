@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_484
+message contentsFLO {
+	uint32 contents_id		= 1;
+	uint32 textID		= 2;
+	int32 duplateEnable		= 3;
+	uint32 itemtypeBackEndS_ID		= 4;
+	uint32 collectionBG		= 5;
+	uint32 collectionPlace		= 6;
+	uint32 collectionFlavor		= 7;
+	float collectionModelScale		= 8;
+	float collectionUIOffset		= 9;
+	int32 collectionSort		= 10;
+	int32 newMonsterEnable		= 11;
+}
+
+message tablecontents { repeated contentsFLO Table_contents = 1; }

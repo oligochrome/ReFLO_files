@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_175
+message ranking_colosseum_boost_lifeFLO {
+	uint32	ranking_colosseum_boost_life_id	= 1;
+	uint32	uniqId	= 2;
+	uint32	seasonId	= 3;
+	uint32	lifeId	= 4;
+	float	bonusValue	= 5;		//	Single
+	uint64	startDate	= 6;		//	UInt64
+	uint64	endDate	= 7;		//	UInt64
+}
+
+message tableranking_colosseum_boost_lifeFLO { repeated ranking_colosseum_boost_lifeFLO tableRankingColosseumBoostLife = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen ranking_colosseum_boost_life_Manager_175.proto
+
+
+			   case "ranking_colosseum_boost_life.bytes":
+					ii = 0;
+					tableranking_colosseum_boost_life tblManager175 = new tableranking_colosseum_boost_life { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager175.TableRankingColosseumBoostLife.Add(new ranking_colosseum_boost_lifeFLO
+								{
+									RankingColosseumBoostLifeId = br.ReadUInt32(),
+									UniqId = br.ReadUInt32(),
+									SeasonId = br.ReadUInt32(),
+									LifeId = br.ReadUInt32(),
+									BonusValue = br.ReadSingle(),
+									StartDate = br.ReadUInt64(),
+									EndDate = br.ReadUInt64()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager175, Formatting.Indented)); }
+					return tblManager175;
+*/

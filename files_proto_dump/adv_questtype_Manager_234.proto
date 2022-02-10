@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_234
+message adv_questtypeFLO {
+	uint32	adv_questtype_id	= 1;
+	uint32	questtype	= 2;
+}
+
+message tableadv_questtypeFLO { repeated adv_questtypeFLO tableAdvQuesttype = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen adv_questtype_Manager_234.proto
+
+
+			   case "adv_questtype.bytes":
+					ii = 0;
+					tableadv_questtype tblManager234 = new tableadv_questtype { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager234.TableAdvQuesttype.Add(new adv_questtypeFLO
+								{
+									AdvQuesttypeId = br.ReadUInt32(),
+									Questtype = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager234, Formatting.Indented)); }
+					return tblManager234;
+*/

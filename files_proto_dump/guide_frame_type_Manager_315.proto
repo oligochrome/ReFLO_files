@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_315
+message guide_frame_typeFLO {
+	uint32	guide_frame_type_id	= 1;
+	string	iconName	= 2;
+}
+
+message tableguide_frame_typeFLO { repeated guide_frame_typeFLO tableGuideFrameType = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen guide_frame_type_Manager_315.proto
+
+
+			   case "guide_frame_type.bytes":
+					ii = 0;
+					tableguide_frame_type tblManager315 = new tableguide_frame_type { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager315.TableGuideFrameType.Add(new guide_frame_typeFLO
+								{
+									GuideFrameTypeId = br.ReadUInt32(),
+									IconName = br.ReadString()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager315, Formatting.Indented)); }
+					return tblManager315;
+*/

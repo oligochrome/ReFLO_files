@@ -1,0 +1,87 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_454
+message efficacyFLO {
+	uint32	efficacy_id	= 1;
+	uint32	uqid	= 2;
+	uint32	text_nameid	= 3;
+	uint32	text_introid	= 4;
+	uint32	res_effectid	= 5;
+	float	defaultscale	= 6;		//	Single
+	sint32	modelscale	= 7;		//	SByte
+	uint32	res_seid	= 8;
+	uint32	specific_typeid	= 9;
+	float	probability	= 10;		//	Single
+	repeated	uint32	gp_ids	= 11;	// 0-8
+	repeated	uint32	gp_calcs	= 12;	// 0-8
+	repeated	float 	gp_values	= 13;		//	Single. Array 0-8
+	int32	mvp_point	= 14;
+	int32	tp_efficacy	= 15;
+	uint32	ef_type	= 16;
+	uint32	ef_timing	= 17;
+	uint32	ef_target	= 18;
+	uint32	ef_add_efficacy	= 19;
+	uint32	partybuffid	= 20;
+	string ef_node = 21;		//	String
+	repeated	float		ef_pos	= 22;		//	Single. Array 0-2
+	int32	grade	= 23;
+}
+
+message tableefficacyFLO { repeated efficacyFLO tableEfficacy = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen efficacy_Manager_454.proto
+
+
+			   case "efficacy.bytes":
+					ii = 0;
+					tableefficacy tblManager454 = new tableefficacy { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager454.TableEfficacy.Add(new efficacyFLO
+								{
+									EfficacyId = br.ReadUInt32(),
+									Uqid = br.ReadUInt32(),
+									TextNameid = br.ReadUInt32(),
+									TextIntroid = br.ReadUInt32(),
+									ResEffectid = br.ReadUInt32(),
+									Defaultscale = br.ReadSingle(),
+									Modelscale = br.ReadSByte(),
+									ResSeid = br.ReadUInt32(),
+									SpecificTypeid = br.ReadUInt32(),
+									Probability = br.ReadSingle(),
+									gp_ids.Add(br.ReadUInt32(), 
+									br.ReadSingle(), br.ReadSingle(), br.ReadSingle(),
+									Vector[3] = br.ReadSingle(),
+									Vector[4] = br.ReadSingle(),
+									Vector[5] = br.ReadSingle(),
+									Vector[6] = br.ReadSingle(),
+									Vector[7] = br.ReadSingle(),
+									Vector[8] = br.ReadSingle(),
+									MvpPoint = br.ReadInt32(),
+									TpEfficacy = br.ReadInt32(),
+									EfType = br.ReadUInt32(),
+									EfTiming = br.ReadUInt32(),
+									EfTarget = br.ReadUInt32(),
+									EfAddEfficacy = br.ReadUInt32(),
+									Partybuffid = br.ReadUInt32(),
+									EfNode = br.ReadString(),
+									Grade = br.ReadInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager454, Formatting.Indented)); }
+					return tblManager454;
+*/

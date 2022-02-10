@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_153
+message resswitch_motionFLO {
+	uint32	resswitch_motion_id	= 1;
+	uint32	vector[0]	= 2;
+	uint32	vector[1]	= 3;
+	uint32	vector[2]	= 4;
+	uint32	vector[3]	= 5;
+	uint32	vector[4]	= 6;
+}
+
+message tableresswitch_motionFLO { repeated resswitch_motionFLO tableResswitchMotion = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen resswitch_motion_Manager_153.proto
+
+
+			   case "resswitch_motion.bytes":
+					ii = 0;
+					tableresswitch_motion tblManager153 = new tableresswitch_motion { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager153.TableResswitchMotion.Add(new resswitch_motionFLO
+								{
+									ResswitchMotionId = br.ReadUInt32(),
+									Vector[0] = br.ReadUInt32(),
+									Vector[1] = br.ReadUInt32(),
+									Vector[2] = br.ReadUInt32(),
+									Vector[3] = br.ReadUInt32(),
+									Vector[4] = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager153, Formatting.Indented)); }
+					return tblManager153;
+*/

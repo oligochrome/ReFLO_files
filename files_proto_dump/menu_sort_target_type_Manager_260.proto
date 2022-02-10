@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package ReFLO;
+
+//  Manager_260
+message menu_sort_target_typeFLO {
+	uint32	menu_sort_target_type_id	= 1;
+	uint32	menuSortTargetTypeId	= 2;
+}
+
+message tablemenu_sort_target_typeFLO { repeated menu_sort_target_typeFLO tableMenuSortTargetType = 1; }
+
+/*
+cd E:\OneDrive\FLO\ReFLO\ReFLO\Proto\Def; ..\..\..\packages\Google.Protobuf.Tools.3.19.4\tools\windows_x64\protoc --proto_path=. --csharp_out=..\Gen menu_sort_target_type_Manager_260.proto
+
+
+			   case "menu_sort_target_type.bytes":
+					ii = 0;
+					tablemenu_sort_target_type tblManager260 = new tablemenu_sort_target_type { };
+					using (MemoryStream sr = new MemoryStream(data))
+					{
+						using (BinaryReader br = new BinaryReader(sr, Encdg))
+						{
+							uint tableCount = br.ReadUInt32();
+							if (DumpDEBUG) { Console.Error.WriteLine("Expected: {0}", tableCount); }
+							while (br.BaseStream.Position != br.BaseStream.Length)
+							{
+								tblManager260.TableMenuSortTargetType.Add(new menu_sort_target_typeFLO
+								{
+									MenuSortTargetTypeId = br.ReadUInt32(),
+									MenuSortTargetTypeId = br.ReadUInt32()
+								});
+								ii += 1;
+							}
+							if (DumpDEBUG) { Console.Error.WriteLine("Total = {0}", ii); }
+							if (tableCount != ii) { Console.Error.WriteLine("ERROR: {0} ENTRY COUNTS DO NOT MATCH! {1} / {2}", baseName, ii, tableCount); }
+						}
+					}
+					if (outputJSON) { File.WriteAllText(outFile, JsonConvert.SerializeObject(tblManager260, Formatting.Indented)); }
+					return tblManager260;
+*/
