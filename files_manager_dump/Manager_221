@@ -1,0 +1,556 @@
+﻿
+/* UInt32 _readData(Data ByRef, BinaryReader, Int32) */
+
+uint32_t Manager_221__readData
+                   (Manager_221 *this,Data_252 **temp,BinaryReader *br,int32_t index,
+                   MethodInfo *method)
+
+{
+  uint32_t arg1;
+  uint32_t uVar1;
+  Data_252 *pDVar2;
+  undefined8 uVar3;
+  Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *pAVar4;
+  MethodInfo *method_00;
+  UInt32__Array *pUVar5;
+  
+  method_00 = (MethodInfo *)temp;
+  if ((DAT_0728fc74 & 1) == 0) {
+    FUN_01d4bb74(0x9446);
+    DAT_0728fc74 = 1;
+  }
+  pDVar2 = (Data_252 *)thunk_FUN_01d84634(Data_252__TypeInfo);
+  Data_252__ctor(pDVar2,method_00);
+  *temp = pDVar2;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  arg1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  pDVar2 = *temp;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->talkNpcID = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->objCharaID = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetMorning;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetMorning;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetMorning;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[2] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[2] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetNight;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetNight;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->greetNight;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[2] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseMorning;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseMorning;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseMorning;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[2] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[2] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseNight;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseNight;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->houseNight;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[2] = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->dispatchMoving = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->workMorning = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->workDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->workDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->workDaytime;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[2] = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->workNight = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->restCafe;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->restCafe;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->restPlay;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->restPlay;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->restBench;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[0] = uVar1;
+  if (*temp == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar5 = (*temp)->restBench;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar5 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar5->vector[1] = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->restMorning = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->restNight = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->guildDaytime = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->guildNight = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->visit = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_252 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->visitMulti = uVar1;
+  pAVar4 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+  if (pAVar4 != (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+    pAVar4 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+    if (pAVar4 == (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+                    /* WARNING: Subroutine does not return */
+      FUN_01d74c80();
+    }
+    Action_3_UInt32_Int32_Object__Invoke
+              ((Action_3_UInt32_Int32_Object_ *)pAVar4,arg1,index,(Object *)*temp,
+               Action_3_UInt32_Int32_Fwk_DatatblBase_Data__Invoke__MethodInfo);
+  }
+  return arg1;
+}
+

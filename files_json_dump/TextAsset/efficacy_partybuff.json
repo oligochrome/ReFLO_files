@@ -1,0 +1,28 @@
+{
+  "TableEfficacyPartybuff": [
+    {
+      "EfficacyPartybuffId": 183969967,
+      "UqId": 183969967,
+      "CategoryId": 302406973,
+      "Priority": 0
+    },
+    {
+      "EfficacyPartybuffId": 355823022,
+      "UqId": 355823022,
+      "CategoryId": 1959549470,
+      "Priority": 1000
+    },
+    {
+      "EfficacyPartybuffId": 1994741908,
+      "UqId": 1994741908,
+      "CategoryId": 1959549470,
+      "Priority": 1001
+    },
+    {
+      "EfficacyPartybuffId": 2408489945,
+      "UqId": 2408489945,
+      "CategoryId": 198589089,
+      "Priority": 1002
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+﻿
+/* UInt32 _readData(Data ByRef, BinaryReader, Int32) */
+
+uint32_t Manager_370__readData
+                   (Manager_370 *this,Data_388 **temp,BinaryReader *br,int32_t index,
+                   MethodInfo *method)
+
+{
+  int8_t iVar1;
+  uint32_t arg1;
+  uint32_t uVar2;
+  Data_388 *pDVar3;
+  String *pSVar4;
+  Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *pAVar5;
+  float fVar6;
+  
+  if ((DAT_0728d8d5 & 1) == 0) {
+    FUN_01d4bb74(0x930a);
+    DAT_0728d8d5 = 1;
+  }
+  pDVar3 = (Data_388 *)thunk_FUN_01d84634(Data_388__TypeInfo);
+  Data__ctor((Data *)pDVar3,(MethodInfo *)0x0);
+  *temp = pDVar3;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  arg1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  pDVar3 = *temp;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->uqid = uVar2;
+  pDVar3 = *temp;
+  pSVar4 = (String *)
+           (*(br->klass->vtable).ReadString.methodPtr)(br,(br->klass->vtable).ReadString.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->uqidText = pSVar4;
+  pDVar3 = *temp;
+  pSVar4 = (String *)
+           (*(br->klass->vtable).ReadString.methodPtr)(br,(br->klass->vtable).ReadString.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->atlasName = pSVar4;
+  pDVar3 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->showTextId = uVar2;
+  pDVar3 = *temp;
+  fVar6 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->min = fVar6;
+  pDVar3 = *temp;
+  fVar6 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->max = fVar6;
+  pDVar3 = *temp;
+  iVar1 = (*(br->klass->vtable).ReadSByte.methodPtr)(br,(br->klass->vtable).ReadSByte.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->skillUp = iVar1;
+  pDVar3 = *temp;
+  iVar1 = (*(br->klass->vtable).ReadSByte.methodPtr)(br,(br->klass->vtable).ReadSByte.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->showReversal = iVar1;
+  pDVar3 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->upTextId = uVar2;
+  pDVar3 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->downTextId = uVar2;
+  pDVar3 = *temp;
+  iVar1 = (*(br->klass->vtable).ReadSByte.methodPtr)(br,(br->klass->vtable).ReadSByte.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->unVisibleUpDownIcon = iVar1;
+  pDVar3 = *temp;
+  iVar1 = (*(br->klass->vtable).ReadSByte.methodPtr)(br,(br->klass->vtable).ReadSByte.method);
+  if (pDVar3 == (Data_388 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->unVisibleStatusBar = iVar1;
+  pAVar5 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+  if (pAVar5 != (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+    pAVar5 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+    if (pAVar5 == (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+                    /* WARNING: Subroutine does not return */
+      FUN_01d74c80();
+    }
+    Action_3_UInt32_Int32_Object__Invoke
+              ((Action_3_UInt32_Int32_Object_ *)pAVar5,arg1,index,(Object *)*temp,
+               Action_3_UInt32_Int32_Fwk_DatatblBase_Data__Invoke__MethodInfo);
+  }
+  return arg1;
+}
+

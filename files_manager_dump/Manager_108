@@ -1,0 +1,385 @@
+﻿
+/* UInt32 _readData(Data ByRef, BinaryReader, Int32) */
+
+uint32_t Manager_108__readData
+                   (Manager_108 *this,Data_29 **temp,BinaryReader *br,int32_t index,
+                   MethodInfo *method)
+
+{
+  uint8_t uVar1;
+  uint32_t arg1;
+  uint32_t uVar2;
+  int32_t iVar3;
+  Data_29 *pDVar4;
+  undefined8 uVar5;
+  Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *pAVar6;
+  MethodInfo *method_00;
+  Single__Array *pSVar7;
+  UInt32__Array *pUVar8;
+  float fVar9;
+  
+  method_00 = (MethodInfo *)temp;
+  if ((DAT_0728c9af & 1) == 0) {
+    FUN_01d4bb74(0x9391);
+    DAT_0728c9af = 1;
+  }
+  pDVar4 = (Data_29 *)thunk_FUN_01d84634(Data_29__TypeInfo);
+  Data_29__ctor(pDVar4,method_00);
+  *temp = pDVar4;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  arg1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  pDVar4 = *temp;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->unqId = uVar2;
+  pDVar4 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->nameId = uVar2;
+  pDVar4 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->iconResId = uVar2;
+  pDVar4 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->descriptionTextId = uVar2;
+  pDVar4 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->descriptionShortTextId = uVar2;
+  pDVar4 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->operationTextId = uVar2;
+  pDVar4 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->skill_category = uVar2;
+  pDVar4 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadByte.methodPtr)(br,(br->klass->vtable).ReadByte.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->nearComboCount = uVar1;
+  pDVar4 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadByte.methodPtr)(br,(br->klass->vtable).ReadByte.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->farComboCount = uVar1;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar8 = (*temp)->skillDetailId;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar8 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar8->max_length == 0) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pUVar8->vector[0] = uVar2;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar8 = (*temp)->skillDetailId;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar8 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar8->max_length < 2) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pUVar8->vector[1] = uVar2;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar8 = (*temp)->skillDetailId;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar8 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar8->max_length < 3) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pUVar8->vector[2] = uVar2;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar8 = (*temp)->skillDetailId;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar8 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar8->max_length < 4) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pUVar8->vector[3] = uVar2;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar8 = (*temp)->skillDetailId;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar8 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar8->max_length < 5) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pUVar8->vector[4] = uVar2;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->damageCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pSVar7->max_length == 0) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[0] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->damageCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar7->max_length < 2) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[1] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->damageCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar7->max_length < 3) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[2] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->damageCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar7->max_length < 4) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[3] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->damageCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar7->max_length < 5) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[4] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->colSizeCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pSVar7->max_length == 0) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[0] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->colSizeCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar7->max_length < 2) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[1] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->colSizeCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar7->max_length < 3) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[2] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->colSizeCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar7->max_length < 4) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[3] = fVar9;
+  if (*temp == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar7 = (*temp)->colSizeCoefficient;
+  fVar9 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar7 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar7->max_length < 5) {
+    uVar5 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar5,0,0);
+  }
+  pSVar7->vector[4] = fVar9;
+  pDVar4 = *temp;
+  iVar3 = (*(br->klass->vtable).ReadInt32.methodPtr)(br,(br->klass->vtable).ReadInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->useSP = iVar3;
+  pDVar4 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->attr = uVar2;
+  pDVar4 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar4 == (Data_29 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar4->subattr = uVar2;
+  pAVar6 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+  if (pAVar6 != (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+    pAVar6 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+    if (pAVar6 == (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+                    /* WARNING: Subroutine does not return */
+      FUN_01d74c80();
+    }
+    Action_3_UInt32_Int32_Object__Invoke
+              ((Action_3_UInt32_Int32_Object_ *)pAVar6,arg1,index,(Object *)*temp,
+               Action_3_UInt32_Int32_Fwk_DatatblBase_Data__Invoke__MethodInfo);
+  }
+  return arg1;
+}
+

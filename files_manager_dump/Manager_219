@@ -1,0 +1,245 @@
+﻿
+/* UInt32 _readData(Data ByRef, BinaryReader, Int32) */
+
+uint32_t Manager_219__readData
+                   (Manager_219 *this,Data_9 **temp,BinaryReader *br,int32_t index,
+                   MethodInfo *method)
+
+{
+  uint32_t arg1;
+  uint32_t uVar1_uint32;
+  Data_9 *pDVar2_Data;
+  String *pSVar1_string;
+  Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *pAVar1;
+  
+  if ((DAT_0728fc90 & 1) == 0) {
+    FUN_01d4bb74(0x93e1);
+    DAT_0728fc90 = 1;
+  }
+  pDVar2_Data = (Data_9 *)thunk_FUN_01d84634(Data_9__TypeInfo);
+  Data__ctor((Data *)pDVar2_Data,(MethodInfo *)0x0);
+  *temp = pDVar2_Data;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  arg1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  pDVar2_Data = *temp;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->uniqid = uVar1_uint32;
+  pDVar2_Data = *temp;
+  pSVar1_string =
+       (String *)
+       (*(br->klass->vtable).ReadString.methodPtr)(br,(br->klass->vtable).ReadString.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->id = pSVar1_string;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->resId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->resIdIcon = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->resswitchId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->resswitchIdHQ = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->resActionId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->objTypeId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->contentsTypeId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->nameId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->descriptionId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->commonParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->charaParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->facillityParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->pickParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->furnitureParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->groundParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->objGroupId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->weaponParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->guardParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->normalParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->importantParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->specialParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->surpriseboxParamId = uVar1_uint32;
+  pDVar2_Data = *temp;
+  uVar1_uint32 = (*(br->klass->vtable).ReadUInt32.methodPtr)
+                           (br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2_Data == (Data_9 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2_Data->godItemParamId = uVar1_uint32;
+  pAVar1 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+  if (pAVar1 != (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+    pAVar1 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+    if (pAVar1 == (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+                    /* WARNING: Subroutine does not return */
+      FUN_01d74c80();
+    }
+    Action_3_UInt32_Int32_Object__Invoke
+              ((Action_3_UInt32_Int32_Object_ *)pAVar1,arg1,index,(Object *)*temp,
+               Action_3_UInt32_Int32_Fwk_DatatblBase_Data__Invoke__MethodInfo);
+  }
+  return arg1;
+}
+

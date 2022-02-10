@@ -1,0 +1,93 @@
+﻿
+/* UInt32 _readData(Data ByRef, BinaryReader, Int32) */
+
+uint32_t Manager_224__readData
+                   (Manager_224 *this,Data_254 **temp,BinaryReader *br,int32_t index,
+                   MethodInfo *method)
+
+{
+  uint32_t arg1;
+  uint32_t uVar1;
+  int32_t iVar2;
+  Data_254 *pDVar3;
+  Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *pAVar4;
+  
+  if ((DAT_0728fc49 & 1) == 0) {
+    FUN_01d4bb74(0x9259);
+    DAT_0728fc49 = 1;
+  }
+  pDVar3 = (Data_254 *)thunk_FUN_01d84634(Data_254__TypeInfo);
+  Data__ctor((Data *)pDVar3,(MethodInfo *)0x0);
+  *temp = pDVar3;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  arg1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  pDVar3 = *temp;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_254 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->charaId = uVar1;
+  pDVar3 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_254 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->mapId = uVar1;
+  pDVar3 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_254 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->mapDetailId = uVar1;
+  pDVar3 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_254 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->gentype = uVar1;
+  pDVar3 = *temp;
+  iVar2 = (*(br->klass->vtable).ReadInt32.methodPtr)(br,(br->klass->vtable).ReadInt32.method);
+  if (pDVar3 == (Data_254 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->genindex = iVar2;
+  pDVar3 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_254 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->textDaytime = uVar1;
+  pDVar3 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_254 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->textNight = uVar1;
+  pAVar4 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+  if (pAVar4 != (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+    pAVar4 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+    if (pAVar4 == (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+                    /* WARNING: Subroutine does not return */
+      FUN_01d74c80();
+    }
+    Action_3_UInt32_Int32_Object__Invoke
+              ((Action_3_UInt32_Int32_Object_ *)pAVar4,arg1,index,(Object *)*temp,
+               Action_3_UInt32_Int32_Fwk_DatatblBase_Data__Invoke__MethodInfo);
+  }
+  return arg1;
+}
+

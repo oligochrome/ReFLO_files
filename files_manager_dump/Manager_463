@@ -1,0 +1,190 @@
+﻿
+/* UInt32 _readData(Data ByRef, BinaryReader, Int32) */
+
+uint32_t Manager_463__readData
+                   (Manager_463 *this,Data_469 **temp,BinaryReader *br,int32_t index,
+                   MethodInfo *method)
+
+{
+  uint32_t arg1;
+  uint32_t uVar1;
+  Data_469 *pDVar2;
+  undefined8 uVar3;
+  Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *pAVar4;
+  MethodInfo *method_00;
+  Single__Array *pSVar5;
+  UInt32__Array *pUVar6;
+  float fVar7;
+  
+  method_00 = (MethodInfo *)temp;
+  if ((DAT_0728e6b2 & 1) == 0) {
+    FUN_01d4bb74(0x92ea);
+    DAT_0728e6b2 = 1;
+  }
+  pDVar2 = (Data_469 *)thunk_FUN_01d84634(Data_469__TypeInfo);
+  Data_469__ctor(pDVar2,method_00);
+  *temp = pDVar2;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  arg1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  pDVar2 = *temp;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->dialogCharaId = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->titleText = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->messageText = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->charaText = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->hintText = uVar1;
+  pDVar2 = *temp;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar2 == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar2->jingle = uVar1;
+  if (*temp == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar6 = (*temp)->modelObj;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar6 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pUVar6->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar6->vector[0] = uVar1;
+  if (*temp == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar6 = (*temp)->modelObj;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar6 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar6->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar6->vector[1] = uVar1;
+  if (*temp == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pUVar6 = (*temp)->modelObj;
+  uVar1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pUVar6 == (UInt32__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pUVar6->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pUVar6->vector[2] = uVar1;
+  if (*temp == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar5 = (*temp)->modelScale;
+  fVar7 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar5 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(int *)&pSVar5->max_length == 0) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pSVar5->vector[0] = fVar7;
+  if (*temp == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar5 = (*temp)->modelScale;
+  fVar7 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar5 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar5->max_length < 2) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pSVar5->vector[1] = fVar7;
+  if (*temp == (Data_469 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pSVar5 = (*temp)->modelScale;
+  fVar7 = (float)(*(br->klass->vtable).ReadSingle.methodPtr)
+                           (br,(br->klass->vtable).ReadSingle.method);
+  if (pSVar5 == (Single__Array *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  if (*(uint *)&pSVar5->max_length < 3) {
+    uVar3 = FUN_01d75a58();
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74bf0_allocateException(uVar3,0,0);
+  }
+  pSVar5->vector[2] = fVar7;
+  pAVar4 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+  if (pAVar4 != (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+    pAVar4 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+    if (pAVar4 == (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+                    /* WARNING: Subroutine does not return */
+      FUN_01d74c80();
+    }
+    Action_3_UInt32_Int32_Object__Invoke
+              ((Action_3_UInt32_Int32_Object_ *)pAVar4,arg1,index,(Object *)*temp,
+               Action_3_UInt32_Int32_Fwk_DatatblBase_Data__Invoke__MethodInfo);
+  }
+  return arg1;
+}
+

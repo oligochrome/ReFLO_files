@@ -1,0 +1,72 @@
+﻿
+/* UInt32 _readData(Data ByRef, BinaryReader, Int32) */
+
+uint32_t Manager_465__readData
+                   (Manager_465 *this,Data_471 **temp,BinaryReader *br,int32_t index,
+                   MethodInfo *method)
+
+{
+  int8_t iVar1;
+  uint32_t arg1;
+  uint32_t uVar2;
+  Data_471 *pDVar3;
+  Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *pAVar4;
+  
+  if ((DAT_0728e695 & 1) == 0) {
+    FUN_01d4bb74(0x9270);
+    DAT_0728e695 = 1;
+  }
+  pDVar3 = (Data_471 *)thunk_FUN_01d84634(Data_471__TypeInfo);
+  Data__ctor((Data *)pDVar3,(MethodInfo *)0x0);
+  *temp = pDVar3;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  arg1 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  pDVar3 = *temp;
+  if (br == (BinaryReader *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_471 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->dialogId = uVar2;
+  pDVar3 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_471 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->dialogTypeId = uVar2;
+  pDVar3 = *temp;
+  iVar1 = (*(br->klass->vtable).ReadSByte.methodPtr)(br,(br->klass->vtable).ReadSByte.method);
+  if (pDVar3 == (Data_471 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->isClose = iVar1;
+  pDVar3 = *temp;
+  uVar2 = (*(br->klass->vtable).ReadUInt32.methodPtr)(br,(br->klass->vtable).ReadUInt32.method);
+  if (pDVar3 == (Data_471 *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_01d74c80(0);
+  }
+  pDVar3->buttonId = uVar2;
+  pAVar4 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+  if (pAVar4 != (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+    pAVar4 = Manager_get_dataCreateDelegate((Manager *)this,(MethodInfo *)0x0);
+    if (pAVar4 == (Action_3_UInt32_Int32_Fwk_DatatblBase_Data_ *)0x0) {
+                    /* WARNING: Subroutine does not return */
+      FUN_01d74c80();
+    }
+    Action_3_UInt32_Int32_Object__Invoke
+              ((Action_3_UInt32_Int32_Object_ *)pAVar4,arg1,index,(Object *)*temp,
+               Action_3_UInt32_Int32_Fwk_DatatblBase_Data__Invoke__MethodInfo);
+  }
+  return arg1;
+}
+

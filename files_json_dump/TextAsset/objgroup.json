@@ -1,0 +1,289 @@
+{
+  "TableObjGroup": [
+    {
+      "ObjGroupId": 3997066534,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 1212771986,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2040624143,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 3755376571,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 443629877,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 3154528897,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2381205532,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 731470760,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 3721472833,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2074484981,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 580150712,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2229497356,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 1949437967,
+      "SpriteName": "gui_icon_grp_other",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2105870020,
+      "SpriteName": "gui_icon_grp_kom",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 4174987111,
+      "SpriteName": "gui_icon_grp_darth",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 4167590685,
+      "SpriteName": "gui_icon_grp_god2",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2103986480,
+      "SpriteName": "gui_icon_grp_god",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2322276548,
+      "SpriteName": "gui_icon_grp_kur",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 89076559,
+      "SpriteName": "gui_icon_grp_port",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 4162102320,
+      "SpriteName": "gui_icon_grp_special",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 1000518431,
+      "SpriteName": "gui_icon_menu_construction001",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 11337198,
+      "SpriteName": "gui_icon_grp_deco",
+      "AtlasResID": 3678843971
+    },
+    {
+      "ObjGroupId": 954260712,
+      "SpriteName": "gui_icon_grp_cover",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 1625441481,
+      "SpriteName": "gui_icon_megamisan001",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 1380976048,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 253776493,
+      "SpriteName": "gui_icon_menu_guild001",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 514788542,
+      "SpriteName": "gui_icon_happychan001",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 1229239674,
+      "SpriteName": "gui_icon_grp_house",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 124259493,
+      "SpriteName": "gui_icon_grp_production",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 3783990880,
+      "SpriteName": "gui_icon_grp_public",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 3719154545,
+      "SpriteName": "gui_icon_grp_road",
+      "AtlasResID": 3678843971
+    },
+    {
+      "ObjGroupId": 3825681250,
+      "SpriteName": "gui_icon_grp_shop",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 4294502987,
+      "SpriteName": "gui_icon_grp_other",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2176210388,
+      "SpriteName": "gui_icon_starkun001",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 2078639641,
+      "SpriteName": "gui_icon_grp_hill",
+      "AtlasResID": 3678843971
+    },
+    {
+      "ObjGroupId": 89600335,
+      "SpriteName": "gui_icon_menu_guild001",
+      "AtlasResID": 1007313192
+    },
+    {
+      "ObjGroupId": 4117589977,
+      "SpriteName": "gui_icon_grp_alchemist",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 2246258902,
+      "SpriteName": "gui_icon_grp_blacksmith",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 2634205741,
+      "SpriteName": "gui_icon_grp_carpenter",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 1236593723,
+      "SpriteName": "gui_icon_grp_cook",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 3137920204,
+      "SpriteName": "",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 2512342426,
+      "SpriteName": "",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 886568454,
+      "SpriteName": "gui_icon_grp_fisherman",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 871198064,
+      "SpriteName": "gui_icon_grp_hunter",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 2100512677,
+      "SpriteName": "gui_icon_grp_soldier",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 1656036953,
+      "SpriteName": "gui_icon_grp_lunber",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 3698611189,
+      "SpriteName": "gui_icon_grp_mercenary",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 989424715,
+      "SpriteName": "",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 2939118899,
+      "SpriteName": "gui_icon_grp_needle",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 1799876219,
+      "SpriteName": "",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 312520454,
+      "SpriteName": "",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 2519372694,
+      "SpriteName": "gui_icon_grp_prospector",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 3512808853,
+      "SpriteName": "",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 2327739960,
+      "SpriteName": "",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 3024295435,
+      "SpriteName": "",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 1354512169,
+      "SpriteName": "gui_icon_grp_sorcerer",
+      "AtlasResID": 4171966347
+    },
+    {
+      "ObjGroupId": 36203498,
+      "SpriteName": "",
+      "AtlasResID": 1007313192
+    }
+  ]
+}

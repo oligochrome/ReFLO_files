@@ -1,0 +1,298 @@
+{
+  "TableObjtype": [
+    {
+      "ObjtypeId": 3716825662,
+      "RootGameObjectName": "ObjtypeChara",
+      "LayerId": 1229644229,
+      "TagId": 1229644229
+    },
+    {
+      "ObjtypeId": 1439053113,
+      "RootGameObjectName": "ObjtypeChara",
+      "LayerId": 1229644229,
+      "TagId": 1229644229
+    },
+    {
+      "ObjtypeId": 2958378168,
+      "RootGameObjectName": "ObjtypeChara",
+      "LayerId": 1229644229,
+      "TagId": 1229644229
+    },
+    {
+      "ObjtypeId": 336089937,
+      "RootGameObjectName": "ObjtypeChara",
+      "LayerId": 1229644229,
+      "TagId": 1229644229
+    },
+    {
+      "ObjtypeId": 4222102461,
+      "RootGameObjectName": "ObjtypeChara",
+      "LayerId": 1229644229,
+      "TagId": 1229644229
+    },
+    {
+      "ObjtypeId": 3758700943,
+      "RootGameObjectName": "ObjtypeChara",
+      "LayerId": 1229644229,
+      "TagId": 1229644229
+    },
+    {
+      "ObjtypeId": 1313964222,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 2107482595,
+      "RootGameObjectName": "ObjtypeEffect",
+      "LayerId": 2982974660,
+      "TagId": 2982974660
+    },
+    {
+      "ObjtypeId": 3577241374,
+      "RootGameObjectName": "ObjtypeEffect",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 3417524377,
+      "RootGameObjectName": "ObjtypeFacility",
+      "LayerId": 3912234724,
+      "TagId": 3912234724
+    },
+    {
+      "ObjtypeId": 2884950552,
+      "RootGameObjectName": "ObjtypeFacility",
+      "LayerId": 3912234724,
+      "TagId": 3912234724
+    },
+    {
+      "ObjtypeId": 3893720726,
+      "RootGameObjectName": "ObjtypeFacility",
+      "LayerId": 3912234724,
+      "TagId": 3912234724
+    },
+    {
+      "ObjtypeId": 3534754538,
+      "RootGameObjectName": "ObjtypeFacility",
+      "LayerId": 3912234724,
+      "TagId": 3912234724
+    },
+    {
+      "ObjtypeId": 882577667,
+      "RootGameObjectName": "ObjtypeFacility",
+      "LayerId": 3912234724,
+      "TagId": 3912234724
+    },
+    {
+      "ObjtypeId": 1121324113,
+      "RootGameObjectName": "ObjtypeFacility",
+      "LayerId": 3912234724,
+      "TagId": 3912234724
+    },
+    {
+      "ObjtypeId": 791254190,
+      "RootGameObjectName": "",
+      "LayerId": 2883644507,
+      "TagId": 2883644507
+    },
+    {
+      "ObjtypeId": 1011775319,
+      "RootGameObjectName": "",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 4032200843,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 1997612469,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 3187510662,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 1246892041,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 1417282018,
+      "RootGameObjectName": "",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 3427931189,
+      "RootGameObjectName": "ObjtypeFacility",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 3588665660,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 2804698770,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 3471139332,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 3231931528,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 3188418170,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 4019880336,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 2737538726,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 1834852992,
+      "RootGameObjectName": "ObjtypeMap",
+      "LayerId": 2883644507,
+      "TagId": 2883644507
+    },
+    {
+      "ObjtypeId": 1838587671,
+      "RootGameObjectName": "ObjtypeMap",
+      "LayerId": 2883644507,
+      "TagId": 2883644507
+    },
+    {
+      "ObjtypeId": 2106426749,
+      "RootGameObjectName": "",
+      "LayerId": 1229644229,
+      "TagId": 1229644229
+    },
+    {
+      "ObjtypeId": 4111153451,
+      "RootGameObjectName": "",
+      "LayerId": 753088835,
+      "TagId": 783297765
+    },
+    {
+      "ObjtypeId": 1675490506,
+      "RootGameObjectName": "",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 324417151,
+      "RootGameObjectName": "ObjtypePick",
+      "LayerId": 973054117,
+      "TagId": 973054117
+    },
+    {
+      "ObjtypeId": 1821374411,
+      "RootGameObjectName": "ObjtypeItem",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 296109364,
+      "RootGameObjectName": "ObjtypeChara",
+      "LayerId": 1229644229,
+      "TagId": 1229644229
+    },
+    {
+      "ObjtypeId": 3385655960,
+      "RootGameObjectName": "",
+      "LayerId": 3207170592,
+      "TagId": 3207170592
+    },
+    {
+      "ObjtypeId": 873744087,
+      "RootGameObjectName": "ObjtypeTrap",
+      "LayerId": 2883644507,
+      "TagId": 2883644507
+    },
+    {
+      "ObjtypeId": 3314043852,
+      "RootGameObjectName": "Panel00000_bottom",
+      "LayerId": 3629190059,
+      "TagId": 2299871962
+    },
+    {
+      "ObjtypeId": 2100571305,
+      "RootGameObjectName": "Panel01000_user_bottom",
+      "LayerId": 1626172622,
+      "TagId": 2299871962
+    },
+    {
+      "ObjtypeId": 1256905883,
+      "RootGameObjectName": "Panel04000_fade_middle",
+      "LayerId": 1463000316,
+      "TagId": 2299871962
+    },
+    {
+      "ObjtypeId": 4065770494,
+      "RootGameObjectName": "Panel05000_mainframe",
+      "LayerId": 4019190681,
+      "TagId": 2299871962
+    },
+    {
+      "ObjtypeId": 3772978192,
+      "RootGameObjectName": "Panel06000_user_middle",
+      "LayerId": 4248458359,
+      "TagId": 2299871962
+    },
+    {
+      "ObjtypeId": 1482650485,
+      "RootGameObjectName": "Panel07000_user_top",
+      "LayerId": 1166422802,
+      "TagId": 2299871962
+    },
+    {
+      "ObjtypeId": 3957539,
+      "RootGameObjectName": "Panel08000_user_top",
+      "LayerId": 501556036,
+      "TagId": 2299871962
+    },
+    {
+      "ObjtypeId": 3095397446,
+      "RootGameObjectName": "Panel09000_fade_top",
+      "LayerId": 2774090785,
+      "TagId": 2299871962
+    },
+    {
+      "ObjtypeId": 4175979132,
+      "RootGameObjectName": "Panel10000_top",
+      "LayerId": 3845202459,
+      "TagId": 2299871962
+    }
+  ]
+}
