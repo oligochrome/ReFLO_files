@@ -1,0 +1,221 @@
+{
+  "TableEventQuestBeast": [
+    {
+      "EventQuestBeastId": 171232723,
+      "AdvQuestId": 171232723,
+      "RequirePoint": 0,
+      "GaugeUIObjID": 986327055,
+      "AppearanceTextID": 4260187921,
+      "ObjectiveTextID": 4260187921,
+      "ObjectiveCompleteTextID": 4260187921
+    },
+    {
+      "EventQuestBeastId": 1315441502,
+      "AdvQuestId": 245483213,
+      "RequirePoint": 200,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 4260187921,
+      "ObjectiveTextID": 4260187921,
+      "ObjectiveCompleteTextID": 4260187921
+    },
+    {
+      "EventQuestBeastId": 2741731839,
+      "AdvQuestId": 2157552215,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 1748456026,
+      "AdvQuestId": 1271230962,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 4003668212,
+      "AdvQuestId": 3444638556,
+      "RequirePoint": 300,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 637530961,
+      "AdvQuestId": 101568761,
+      "RequirePoint": 300,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 955958249,
+      "AdvQuestId": 453566529,
+      "RequirePoint": 120,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 2598812986,
+      "AdvQuestId": 3105136274,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 1371172511,
+      "AdvQuestId": 1917340983,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 3610123313,
+      "AdvQuestId": 4108074905,
+      "RequirePoint": 300,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 477286292,
+      "AdvQuestId": 1065413692,
+      "RequirePoint": 300,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 24641324,
+      "AdvQuestId": 579198084,
+      "RequirePoint": 120,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 2375919993,
+      "AdvQuestId": 2926545617,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 1187085020,
+      "AdvQuestId": 1697864052,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 3226798194,
+      "AdvQuestId": 3819383770,
+      "RequirePoint": 300,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 185195479,
+      "AdvQuestId": 687601791,
+      "RequirePoint": 300,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 369945455,
+      "AdvQuestId": 905889991,
+      "RequirePoint": 120,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 3925656752,
+      "AdvQuestId": 3389974296,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 580917013,
+      "AdvQuestId": 22164669,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 2754897339,
+      "AdvQuestId": 2277918227,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 1869133342,
+      "AdvQuestId": 1285199286,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 4270313715,
+      "AdvQuestId": 3715494747,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 903545686,
+      "AdvQuestId": 371794174,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    },
+    {
+      "EventQuestBeastId": 3008328184,
+      "AdvQuestId": 2428326480,
+      "RequirePoint": 100,
+      "GaugeUIObjID": 2036356928,
+      "AppearanceTextID": 3639483126,
+      "ObjectiveTextID": 3639483126,
+      "ObjectiveCompleteTextID": 3639483126
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,293 @@
+{
+  "TableEventQuestBeastParam": [
+    {
+      "EventQuestBeastParamId": 3518512870,
+      "AdvQuestId": 2157552215,
+      "ObjId": 2622338559,
+      "Point": 1,
+      "ViewOrder": 3,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 2113695424,
+      "AdvQuestId": 2157552215,
+      "ObjId": 805955033,
+      "Point": 1,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 3283456227,
+      "AdvQuestId": 2157552215,
+      "ObjId": 2386566138,
+      "Point": 10,
+      "ViewOrder": 4,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 724349410,
+      "AdvQuestId": 2157552215,
+      "ObjId": 1725512443,
+      "Point": 4,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 1352489921,
+      "AdvQuestId": 1271230962,
+      "ObjId": 2622338559,
+      "Point": 1,
+      "ViewOrder": 3,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 4242082791,
+      "AdvQuestId": 1271230962,
+      "ObjId": 805955033,
+      "Point": 1,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 1116796356,
+      "AdvQuestId": 1271230962,
+      "ObjId": 2386566138,
+      "Point": 10,
+      "ViewOrder": 4,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 2852771013,
+      "AdvQuestId": 1271230962,
+      "ObjId": 1725512443,
+      "Point": 4,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 142865129,
+      "AdvQuestId": 3444638556,
+      "ObjId": 2622338559,
+      "Point": 3,
+      "ViewOrder": 3,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 2764546767,
+      "AdvQuestId": 3444638556,
+      "ObjId": 805955033,
+      "Point": 3,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 4061625837,
+      "AdvQuestId": 3444638556,
+      "ObjId": 1725512443,
+      "Point": 6,
+      "ViewOrder": 0,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 1449599651,
+      "AdvQuestId": 3444638556,
+      "ObjId": 3265881525,
+      "Point": 30,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 2309396430,
+      "AdvQuestId": 101568761,
+      "ObjId": 2622338559,
+      "Point": 3,
+      "ViewOrder": 3,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 635619304,
+      "AdvQuestId": 101568761,
+      "ObjId": 805955033,
+      "Point": 3,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 1932662986,
+      "AdvQuestId": 101568761,
+      "ObjId": 1725512443,
+      "Point": 6,
+      "ViewOrder": 0,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 3611445124,
+      "AdvQuestId": 101568761,
+      "ObjId": 3265881525,
+      "Point": 30,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 3864686835,
+      "AdvQuestId": 453566529,
+      "ObjId": 3265881525,
+      "Point": 30,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 3279682086,
+      "AdvQuestId": 3389974296,
+      "ObjId": 2168652091,
+      "Point": 10,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 4069777595,
+      "AdvQuestId": 3389974296,
+      "ObjId": 2964003750,
+      "Point": 30,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 1113497345,
+      "AdvQuestId": 22164669,
+      "ObjId": 2168652091,
+      "Point": 10,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 1941341596,
+      "AdvQuestId": 22164669,
+      "ObjId": 2964003750,
+      "Point": 30,
+      "ViewOrder": 3,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 440415785,
+      "AdvQuestId": 2277918227,
+      "ObjId": 2168652091,
+      "Point": 10,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 732441780,
+      "AdvQuestId": 2277918227,
+      "ObjId": 2964003750,
+      "Point": 30,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 2607108878,
+      "AdvQuestId": 1285199286,
+      "ObjId": 2168652091,
+      "Point": 10,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 2861386131,
+      "AdvQuestId": 1285199286,
+      "ObjId": 2964003750,
+      "Point": 30,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 2918703463,
+      "AdvQuestId": 3715494747,
+      "ObjId": 2168652091,
+      "Point": 10,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 2619341818,
+      "AdvQuestId": 3715494747,
+      "ObjId": 2964003750,
+      "Point": 30,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 751993920,
+      "AdvQuestId": 371794174,
+      "ObjId": 2168652091,
+      "Point": 10,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 490381021,
+      "AdvQuestId": 371794174,
+      "ObjId": 2964003750,
+      "Point": 30,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 1959538024,
+      "AdvQuestId": 2428326480,
+      "ObjId": 2168652091,
+      "Point": 10,
+      "ViewOrder": 1,
+      "DropKeyEffectId": 1188971476,
+      "TelopTextId": 4260187921
+    },
+    {
+      "EventQuestBeastParamId": 1160001525,
+      "AdvQuestId": 2428326480,
+      "ObjId": 2964003750,
+      "Point": 30,
+      "ViewOrder": 2,
+      "DropKeyEffectId": 1416358970,
+      "TelopTextId": 1902817956
+    },
+    {
+      "EventQuestBeastParamId": 3672920825,
+      "AdvQuestId": 276280323,
+      "ObjId": 986327055,
+      "Point": 0,
+      "ViewOrder": 0,
+      "DropKeyEffectId": 2738326234,
+      "TelopTextId": 4260187921
+    }
+  ],
+  "IdRef": {}
+}
