@@ -1,0 +1,34 @@
+﻿__**Audio Extraction Process**__
+- The criware audio files (ACB/AWB) are found in the ``OBB_EXTRACT/assets`` 
+--  CueSheetBGM_INIT.acb  = Contains the title song for FL and FFXIV
+--  CueSheetSE_INIT.acb = Contains the sound effect files
+
+- Use VGMToolbox to extract ACB -> HCA by doing:  VGMToolbox > Misc. Tools > Common Archives > CRI ACB/AWB Archive > Drag & drop the ACB files
+
+- Go in to the extracted HCA folder (_vgmt.../awb/) and extract the HCA with vgmstream's test.exe
+-- For an easy time, just make a BAT file with the following command then drag & drop the HCA on to the bat file:
+```cmd
+VGMSTREAM_PATH/test.exe -o ?f.wav %1
+```
+vgmstream wildcards: ?s=subsong, ?n=stream name, ?f=infile name
+%1 = first file argument = the path of the file if you drag and drop
+
+If you have oggenc installed for direct compression, you can use the -x command instead. See -h for more info
+
+- This will result in you getting the large WAV file. From there, use a converter to get a compressed audio file.
+
+Resources:
+VGMToolbox = https://sourceforge.net/projects/vgmtoolbox/
+vgmstream  = 
+https://vgmstream.org/downloads
+https://github.com/vgmstream/vgmstream
+
+||For future reference but not needed here: the key could be found in the __raw__ extracted ``MonoBehaviour/CriWareInitializer.dat`` and viewed with a hex viewer. FLO's key was 123456789 but, as I mentioned, we will not be used this here.
+
+If you need to do this in-depth extraction process, also see:
+https://estertion.win/2021/08/touhou-danmaku-kagura/
+https://blog.mottomo.moe/categories/Tech/RE/en/2018-10-12-New-HCA-Encryption/
+https://github.com/hozuki/libcgss/issues/4
+https://github.com/OpenCGSS/DereTore
+https://hcs64.com/mboard/forumlong.php?showthread=22828&showpage=3
+||

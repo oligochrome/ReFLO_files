@@ -1,0 +1,131 @@
+{
+  "TableEvWeaponRatio": [
+    {
+      "EvWeaponRatioId": 239458592,
+      "Uniqid": 239458592,
+      "Rarity": 5,
+      "Evolve": 1
+    },
+    {
+      "EvWeaponRatioId": 2538375322,
+      "Uniqid": 2538375322,
+      "Rarity": 5,
+      "Evolve": 2
+    },
+    {
+      "EvWeaponRatioId": 3763058700,
+      "Uniqid": 3763058700,
+      "Rarity": 5,
+      "Evolve": 3
+    },
+    {
+      "EvWeaponRatioId": 2117021103,
+      "Uniqid": 2117021103,
+      "Rarity": 5,
+      "Evolve": 4
+    },
+    {
+      "EvWeaponRatioId": 153623865,
+      "Uniqid": 153623865,
+      "Rarity": 5,
+      "Evolve": 5
+    },
+    {
+      "EvWeaponRatioId": 2418101379,
+      "Uniqid": 2418101379,
+      "Rarity": 5,
+      "Evolve": 6
+    },
+    {
+      "EvWeaponRatioId": 3878059029,
+      "Uniqid": 3878059029,
+      "Rarity": 5,
+      "Evolve": 7
+    },
+    {
+      "EvWeaponRatioId": 2006540676,
+      "Uniqid": 2006540676,
+      "Rarity": 5,
+      "Evolve": 8
+    },
+    {
+      "EvWeaponRatioId": 10375442,
+      "Uniqid": 10375442,
+      "Rarity": 5,
+      "Evolve": 9
+    },
+    {
+      "EvWeaponRatioId": 1616500983,
+      "Uniqid": 1616500983,
+      "Rarity": 5,
+      "Evolve": 10
+    },
+    {
+      "EvWeaponRatioId": 392095841,
+      "Uniqid": 392095841,
+      "Rarity": 5,
+      "Evolve": 11
+    },
+    {
+      "EvWeaponRatioId": 2388113883,
+      "Uniqid": 2388113883,
+      "Rarity": 5,
+      "Evolve": 12
+    },
+    {
+      "EvWeaponRatioId": 4182804813,
+      "Uniqid": 4182804813,
+      "Rarity": 5,
+      "Evolve": 13
+    },
+    {
+      "EvWeaponRatioId": 1731468526,
+      "Uniqid": 1731468526,
+      "Rarity": 5,
+      "Evolve": 14
+    },
+    {
+      "EvWeaponRatioId": 271789176,
+      "Uniqid": 271789176,
+      "Rarity": 5,
+      "Evolve": 15
+    },
+    {
+      "EvWeaponRatioId": 2302311874,
+      "Uniqid": 2302311874,
+      "Rarity": 5,
+      "Evolve": 16
+    },
+    {
+      "EvWeaponRatioId": 4265430356,
+      "Uniqid": 4265430356,
+      "Rarity": 5,
+      "Evolve": 17
+    },
+    {
+      "EvWeaponRatioId": 1854034117,
+      "Uniqid": 1854034117,
+      "Rarity": 5,
+      "Evolve": 18
+    },
+    {
+      "EvWeaponRatioId": 428171347,
+      "Uniqid": 428171347,
+      "Rarity": 5,
+      "Evolve": 19
+    },
+    {
+      "EvWeaponRatioId": 1265929012,
+      "Uniqid": 1265929012,
+      "Rarity": 5,
+      "Evolve": 20
+    },
+    {
+      "EvWeaponRatioId": 2332538339,
+      "Uniqid": 2332538339,
+      "Rarity": 0,
+      "Evolve": 0
+    }
+  ],
+  "Unused6Vars": null
+}
