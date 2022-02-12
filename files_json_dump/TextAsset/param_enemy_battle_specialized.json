@@ -1,0 +1,35 @@
+{
+  "TableParamEnemyBattleSpecialized": [
+    {
+      "ParamEnemyBattleSpecializedId": 1122978741,
+      "Id": 1122978741,
+      "Type1": 4187862895,
+      "Param1": 3255840085,
+      "Type2": 1620371157,
+      "Param2": 3255840085,
+      "Type3": 395564611,
+      "Param3": 3255840085
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 3689290255,
+      "Id": 3689290255,
+      "Type1": 4187862895,
+      "Param1": 3255840085,
+      "Type2": 1620371157,
+      "Param2": 3815132302,
+      "Type3": 395564611,
+      "Param3": 3815132302
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 1195171448,
+      "Id": 1195171448,
+      "Type1": 3406081776,
+      "Param1": 3815132302,
+      "Type2": 3406081776,
+      "Param2": 3815132302,
+      "Type3": 3406081776,
+      "Param3": 3815132302
+    }
+  ],
+  "IdRef": {}
+}

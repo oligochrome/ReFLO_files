@@ -1,0 +1,54 @@
+{
+  "TableStagenodeSet": [
+    {
+      "StagenodeSetId": 1343503284,
+      "UniqId": 1343503284,
+      "BreakUiOn": 1,
+      "BreakSurpriseboxId": 3330223602,
+      "Breakhp": 100
+    },
+    {
+      "StagenodeSetId": 3790501576,
+      "UniqId": 3790501576,
+      "BreakUiOn": 1,
+      "BreakSurpriseboxId": 3330223602,
+      "Breakhp": 100
+    },
+    {
+      "StagenodeSetId": 2531870302,
+      "UniqId": 2531870302,
+      "BreakUiOn": 1,
+      "BreakSurpriseboxId": 2977439076,
+      "Breakhp": 200
+    },
+    {
+      "StagenodeSetId": 266344420,
+      "UniqId": 266344420,
+      "BreakUiOn": 1,
+      "BreakSurpriseboxId": 678513886,
+      "Breakhp": 300
+    },
+    {
+      "StagenodeSetId": 2028414834,
+      "UniqId": 2028414834,
+      "BreakUiOn": 1,
+      "BreakSurpriseboxId": 1601600584,
+      "Breakhp": 400
+    },
+    {
+      "StagenodeSetId": 3422190588,
+      "UniqId": 3422190588,
+      "BreakUiOn": 1,
+      "BreakSurpriseboxId": 3966443718,
+      "Breakhp": 300
+    },
+    {
+      "StagenodeSetId": 178814034,
+      "UniqId": 178814034,
+      "BreakUiOn": 0,
+      "BreakSurpriseboxId": 2609279903,
+      "Breakhp": 0
+    }
+  ],
+  "IdRef": {}
+}
