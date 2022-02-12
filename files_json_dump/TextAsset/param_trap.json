@@ -1,0 +1,61 @@
+{
+  "TableParamTrap": [
+    {
+      "ParamTrapId": 615388217,
+      "Trapkind": 592576496,
+      "Objid": 770412449,
+      "DamageValue": 30,
+      "OtherValue": 1
+    },
+    {
+      "ParamTrapId": 967850139,
+      "Trapkind": 1965705037,
+      "Objid": 469996860,
+      "DamageValue": 0,
+      "OtherValue": 30
+    },
+    {
+      "ParamTrapId": 1868619486,
+      "Trapkind": 2348836181,
+      "Objid": 3128204936,
+      "DamageValue": 50,
+      "OtherValue": 2
+    },
+    {
+      "ParamTrapId": 168289688,
+      "Trapkind": 2348836181,
+      "Objid": 46725613,
+      "DamageValue": 50,
+      "OtherValue": 2
+    },
+    {
+      "ParamTrapId": 2779686994,
+      "Trapkind": 2348836181,
+      "Objid": 276649475,
+      "DamageValue": 50,
+      "OtherValue": 2
+    },
+    {
+      "ParamTrapId": 376028124,
+      "Trapkind": 3409827216,
+      "Objid": 3985285879,
+      "DamageValue": 0,
+      "OtherValue": 0
+    },
+    {
+      "ParamTrapId": 1758630674,
+      "Trapkind": 3086116305,
+      "Objid": 3216149840,
+      "DamageValue": 0,
+      "OtherValue": 0
+    },
+    {
+      "ParamTrapId": 65646466,
+      "Trapkind": 1836310714,
+      "Objid": 3367353798,
+      "DamageValue": 0,
+      "OtherValue": 18
+    }
+  ],
+  "IdRef": {}
+}
