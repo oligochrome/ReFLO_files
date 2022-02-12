@@ -1,0 +1,569 @@
+{
+  "TableLifeChange": [
+    {
+      "LifeChangeId": 3929318351,
+      "Uniqid": 3929318351,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        2210977717
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.1
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 240016800,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.25,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 1925784635,
+      "OffsetObj1": [
+        0.85,
+        0.0,
+        -1.63
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -32.0681,
+      "ObjIdObj2": 986327055,
+      "OffsetObj2": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "ScaleObj2": 1.0,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 1898503243,
+      "Uniqid": 1898503243,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        1886786064
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.2
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 2856190702,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.5,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 2750106267,
+      "OffsetObj1": [
+        0.54,
+        0.0,
+        -0.8
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -59.5745,
+      "ObjIdObj2": 986327055,
+      "OffsetObj2": [
+        0.54,
+        0.0,
+        -0.8
+      ],
+      "ScaleObj2": 1.0,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 2187003451,
+      "Uniqid": 2187003451,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        3194020412
+      ],
+      "MasterAction": [
+        3737850535,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.1
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 649482743,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.3,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 2153771200,
+      "OffsetObj1": [
+        0.54,
+        0.0,
+        -1.6
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -51.5373,
+      "ObjIdObj2": 986327055,
+      "OffsetObj2": [
+        0.54,
+        0.0,
+        -1.2
+      ],
+      "ScaleObj2": 1.0,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 1324894209,
+      "Uniqid": 1324894209,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        1708216341
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.1
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 392055658,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.35,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 2935039893,
+      "OffsetObj1": [
+        1.35,
+        0.0,
+        -2.0
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -17.0333,
+      "ObjIdObj2": 3277529372,
+      "OffsetObj2": [
+        1.34,
+        0.0,
+        -1.95
+      ],
+      "ScaleObj2": 0.9,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 730741264,
+      "Uniqid": 730741264,
+      "AvatarAction": [
+        3000079169,
+        3868587196,
+        3000079169,
+        4185902813
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.55
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 206113114,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.23,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 3955258753,
+      "OffsetObj1": [
+        0.51,
+        0.0,
+        -1.24
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -2.33521,
+      "ObjIdObj2": 4157756386,
+      "OffsetObj2": [
+        0.44,
+        0.0,
+        -2.04
+      ],
+      "ScaleObj2": 0.6,
+      "RotationObj2": -52.2959
+    },
+    {
+      "LifeChangeId": 3355431860,
+      "Uniqid": 3355431860,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        3415338815
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.1
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 3421070126,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.38,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 3344971698,
+      "OffsetObj1": [
+        0.8,
+        0.0,
+        -1.3
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -17.0333,
+      "ObjIdObj2": 3581217357,
+      "OffsetObj2": [
+        0.8,
+        0.0,
+        -1.3
+      ],
+      "ScaleObj2": 0.85,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 2300705121,
+      "Uniqid": 2300705121,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        665481632
+      ],
+      "MasterAction": [
+        3737850535,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        0.0,
+        0.0,
+        -1.3
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 2580630665,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.25,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 1631938948,
+      "OffsetObj1": [
+        1.0,
+        0.0,
+        -2.5
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -17.0333,
+      "ObjIdObj2": 1746224073,
+      "OffsetObj2": [
+        0.44,
+        0.0,
+        -0.82
+      ],
+      "ScaleObj2": 1.0,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 2524902084,
+      "Uniqid": 2524902084,
+      "AvatarAction": [
+        3000079169,
+        647228769,
+        3000079169,
+        1395824687
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.1
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 4194400691,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.4,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 694762330,
+      "OffsetObj1": [
+        0.89,
+        0.0,
+        -0.37
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -17.0333,
+      "ObjIdObj2": 986327055,
+      "OffsetObj2": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "ScaleObj2": 1.0,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 3274547171,
+      "Uniqid": 3274547171,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        1345626960
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.3,
+        0.0,
+        -1.8
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 2822329876,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.5,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 3500663557,
+      "OffsetObj1": [
+        0.55,
+        0.0,
+        -1.8
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -17.0333,
+      "ObjIdObj2": 3953339723,
+      "OffsetObj2": [
+        0.55,
+        0.0,
+        -1.8
+      ],
+      "ScaleObj2": 0.95,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 3262958588,
+      "Uniqid": 3262958588,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        2785282280
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.1
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 1839098010,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.4,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 4220170438,
+      "OffsetObj1": [
+        0.54,
+        0.0,
+        -1.2
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -22.7558,
+      "ObjIdObj2": 986327055,
+      "OffsetObj2": [
+        0.54,
+        0.0,
+        -1.2
+      ],
+      "ScaleObj2": 1.0,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 1658945291,
+      "Uniqid": 1658945291,
+      "AvatarAction": [
+        3000079169,
+        1699328805,
+        3000079169,
+        615271135
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.2,
+        0.0,
+        -1.3
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 1551266311,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.25,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 1198865037,
+      "OffsetObj1": [
+        1.0,
+        0.0,
+        -1.5
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -17.0333,
+      "ObjIdObj2": 986327055,
+      "OffsetObj2": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "ScaleObj2": 1.0,
+      "RotationObj2": -17.0333
+    },
+    {
+      "LifeChangeId": 2762901997,
+      "Uniqid": 2762901997,
+      "AvatarAction": [
+        3000079169,
+        1813386306,
+        3000079169,
+        3205039792
+      ],
+      "MasterAction": [
+        950397012,
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "OffsetMaster": [
+        -0.09,
+        0.0,
+        -1.388
+      ],
+      "ScaleMaster": 1.0,
+      "RotationMaster": 22.038,
+      "ObjIdBuilding": 2972270814,
+      "OffsetBuilding": [
+        0.0,
+        0.01,
+        -4.0
+      ],
+      "ScaleBuilding": 1.3,
+      "RotationBuilding": 0.0,
+      "ObjIdObj1": 3620349724,
+      "OffsetObj1": [
+        0.9,
+        0.0,
+        -1.35
+      ],
+      "ScaleObj1": 1.0,
+      "RotationObj1": -17.0333,
+      "ObjIdObj2": 3835498704,
+      "OffsetObj2": [
+        0.15,
+        0.0,
+        -1.58
+      ],
+      "ScaleObj2": 1.0,
+      "RotationObj2": -17.0333
+    }
+  ],
+  "IdRef": {}
+}

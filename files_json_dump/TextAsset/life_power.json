@@ -1,0 +1,106 @@
+{
+  "RefLife": {
+    "1658945291": "Mining",
+    "2524902084": "Logging",
+    "730741264": "Fishing",
+    "1898503243": "Forge",
+    "3262958588": "Tailoring",
+    "2187003451": "Carpentry",
+    "1324894209": "Cooking",
+    "3929318351": "Alchemy"
+  },
+  "RefLifeIcn": {
+    "1658945291": "gui_icon_life_prospector002",
+    "2524902084": "gui_icon_life_lunber002",
+    "730741264": "gui_icon_life_fisherman002",
+    "1898503243": "gui_icon_life_blacksmith002",
+    "3262958588": "gui_icon_life_needle002",
+    "2187003451": "gui_icon_life_carpenter002",
+    "1324894209": "gui_icon_life_cook002",
+    "3929318351": "gui_icon_life_alchemist002"
+  },
+  "TableLifePower": [
+    {
+      "LifePowerId": 1240018453,
+      "Uniqid": 1240018453,
+      "LifeId": 1658945291,
+      "GpId": 2896805265,
+      "TextId": 2988343930,
+      "ItemtypeBackendSId": 1053474172,
+      "IconSpriteName": "gui_icon_life_prospector002"
+    },
+    {
+      "LifePowerId": 3768109400,
+      "Uniqid": 3768109400,
+      "LifeId": 2524902084,
+      "GpId": 1385123629,
+      "TextId": 1278767302,
+      "ItemtypeBackendSId": 3941976160,
+      "IconSpriteName": "gui_icon_life_lunber002"
+    },
+    {
+      "LifePowerId": 301217360,
+      "Uniqid": 301217360,
+      "LifeId": 730741264,
+      "GpId": 2576376539,
+      "TextId": 794681673,
+      "ItemtypeBackendSId": 940935695,
+      "IconSpriteName": "gui_icon_life_fisherman002"
+    },
+    {
+      "LifePowerId": 131000279,
+      "Uniqid": 131000279,
+      "LifeId": 1898503243,
+      "GpId": 2169761310,
+      "TextId": 2682573301,
+      "ItemtypeBackendSId": 4284629161,
+      "IconSpriteName": "gui_icon_life_blacksmith002"
+    },
+    {
+      "LifePowerId": 2927857960,
+      "Uniqid": 2927857960,
+      "LifeId": 3262958588,
+      "GpId": 24954507,
+      "TextId": 177266470,
+      "ItemtypeBackendSId": 1154427034,
+      "IconSpriteName": "gui_icon_life_needle002"
+    },
+    {
+      "LifePowerId": 3089173115,
+      "Uniqid": 3089173115,
+      "LifeId": 2187003451,
+      "GpId": 1460268525,
+      "TextId": 3787746943,
+      "ItemtypeBackendSId": 4009189708,
+      "IconSpriteName": "gui_icon_life_carpenter002"
+    },
+    {
+      "LifePowerId": 2034291858,
+      "Uniqid": 2034291858,
+      "LifeId": 1324894209,
+      "GpId": 2871039066,
+      "TextId": 659120726,
+      "ItemtypeBackendSId": 1505797419,
+      "IconSpriteName": "gui_icon_life_cook002"
+    },
+    {
+      "LifePowerId": 3494817679,
+      "Uniqid": 3494817679,
+      "LifeId": 3929318351,
+      "GpId": 1145887689,
+      "TextId": 4068563035,
+      "ItemtypeBackendSId": 368649389,
+      "IconSpriteName": "gui_icon_life_alchemist002"
+    }
+  ],
+  "IdRef": {
+    "1240018453": 0,
+    "3768109400": 1,
+    "301217360": 2,
+    "131000279": 3,
+    "2927857960": 4,
+    "3089173115": 5,
+    "2034291858": 6,
+    "3494817679": 7
+  }
+}
