@@ -1,0 +1,25 @@
+{
+  "TableGodTeam": [
+    {
+      "GodTeamIdx": 2103954767,
+      "GodTeamId": 2103954767,
+      "GodTeamName": "Random"
+    },
+    {
+      "GodTeamIdx": 2402178514,
+      "GodTeamId": 2402178514,
+      "GodTeamName": "Blue"
+    },
+    {
+      "GodTeamIdx": 1854447529,
+      "GodTeamId": 1854447529,
+      "GodTeamName": "None"
+    },
+    {
+      "GodTeamIdx": 3824510324,
+      "GodTeamId": 3824510324,
+      "GodTeamName": "Red"
+    }
+  ],
+  "IdRef": {}
+}

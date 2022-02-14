@@ -1,0 +1,21 @@
+{
+  "TableItemWarehouseProhibitItem": [
+    {
+      "ItemWarehouseProhibitItemId": 3964739694,
+      "ProhibitId": 3964739694
+    },
+    {
+      "ItemWarehouseProhibitItemId": 2492880740,
+      "ProhibitId": 2492880740
+    },
+    {
+      "ItemWarehouseProhibitItemId": 1930194084,
+      "ProhibitId": 1930194084
+    },
+    {
+      "ItemWarehouseProhibitItemId": 622904222,
+      "ProhibitId": 622904222
+    }
+  ],
+  "IdRef": {}
+}

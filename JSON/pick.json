@@ -1,0 +1,4834 @@
+{
+  "Info": [
+    {
+      "Name": "Resource Model",
+      "Desc": "It's a dummy of resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 636543085,
+        "FullFilename": "",
+        "FullAssetBundleId": 636543085,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Honey Tree",
+      "Desc": "(description) Honey Tree",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2206723033,
+        "FullFilename": "pic008_0001",
+        "FullAssetBundleId": 2206723033,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Apple Tree",
+      "Desc": "(description) Apple Tree",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2993680708,
+        "FullFilename": "pic008_0101",
+        "FullAssetBundleId": 2993680708,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Galaxy Apple Tree",
+      "Desc": "(description) Galaxy Apple Tree",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 337181424,
+        "FullFilename": "pic008_1101",
+        "FullAssetBundleId": 337181424,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Orange Tree",
+      "Desc": "(description) Orange Tree",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3519005822,
+        "FullFilename": "pic008_0401",
+        "FullAssetBundleId": 3519005822,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Pear Tree",
+      "Desc": "(description) Pear Tree",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2009649098,
+        "FullFilename": "pic008_0601",
+        "FullAssetBundleId": 2009649098,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Flower Stand",
+      "Desc": "(description) Flower Stand",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1176556887,
+        "FullFilename": "",
+        "FullAssetBundleId": 1176556887,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Pine",
+      "Desc": "A pine that grows in a colder region. Its fruits make precious spices.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_001_10",
+        "IcnAssetBundleId": 3763855075,
+        "FullFilename": "pic006_003_001_10",
+        "FullAssetBundleId": 3763855075,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Pine",
+      "Desc": "(description) Pine",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_001_10",
+        "IcnAssetBundleId": 3763855075,
+        "FullFilename": "pic006_003_001_10",
+        "FullAssetBundleId": 3763855075,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Pine",
+      "Desc": "A pine tree that has been growing at the foothill for long. It's deeply rooted on a cliff.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_001_20",
+        "IcnAssetBundleId": 371174922,
+        "FullFilename": "pic006_003_001_20",
+        "FullAssetBundleId": 371174922,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Pine",
+      "Desc": "(description) Great Pine",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_001_20",
+        "IcnAssetBundleId": 371174922,
+        "FullFilename": "pic006_003_001_20",
+        "FullAssetBundleId": 371174922,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Pine",
+      "Desc": "(description) Great Pine",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_001_20",
+        "IcnAssetBundleId": 371174922,
+        "FullFilename": "pic006_003_001_20",
+        "FullAssetBundleId": 371174922,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Palm Tree",
+      "Desc": "A tree that can tolerate sandy soil and sea breeze, and likes resorts. Its fruits can be used in cooking and alchemy.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_002_001_10",
+        "IcnAssetBundleId": 2959648190,
+        "FullFilename": "pic006_002_001_10",
+        "FullAssetBundleId": 2959648190,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Palm Tree",
+      "Desc": "A great palm tree growing up freely and naturally. Arcticus likes to eat its fruit.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_002_001_20",
+        "IcnAssetBundleId": 3915047155,
+        "FullFilename": "pic006_002_001_20",
+        "FullAssetBundleId": 3915047155,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Palm Tree",
+      "Desc": "(description) Great Palm Tree",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_002_001_20",
+        "IcnAssetBundleId": 3915047155,
+        "FullFilename": "pic006_002_001_20",
+        "FullAssetBundleId": 3915047155,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Yellowbell",
+      "Desc": "(description) Flower Bell (Yellow)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1328409415,
+        "FullFilename": "pic002_0406",
+        "FullAssetBundleId": 1328409415,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Chicken Coop (Fence)",
+      "Desc": "(description) Chicken Coop (Fence)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2126901722,
+        "FullFilename": "",
+        "FullAssetBundleId": 2126901722,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Cowshed (Fence)",
+      "Desc": "(description) Cowshed (Fence)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3635608174,
+        "FullFilename": "",
+        "FullAssetBundleId": 3635608174,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "(Enter a Name)",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 487965920,
+        "FullFilename": "pic002_1101",
+        "FullAssetBundleId": 2512768738,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Peach Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3143814996,
+        "FullFilename": "pic005_0001",
+        "FullAssetBundleId": 848032814,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Golden Apple Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2324354505,
+        "FullFilename": "pic008_1001",
+        "FullAssetBundleId": 2324354505,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Wobbled Pillar",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 754835069,
+        "FullFilename": "pic008_0901",
+        "FullAssetBundleId": 754835069,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Oak Tree",
+      "Desc": "A useful tree both for humans and animals, which produces Antidote Berries.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_10",
+        "IcnAssetBundleId": 3669339796,
+        "FullFilename": "pic006_001_001_10",
+        "FullAssetBundleId": 3669339796,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_10",
+        "IcnAssetBundleId": 3669339796,
+        "FullFilename": "pic006_001_001_10",
+        "FullAssetBundleId": 3669339796,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Test Oak Tree",
+      "Desc": "A tree even children can log with ease. Swords don't work on it, but axes can fell it easily. How strange!",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_10",
+        "IcnAssetBundleId": 3669339796,
+        "FullFilename": "pic006_001_001_10",
+        "FullAssetBundleId": 3669339796,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_10",
+        "IcnAssetBundleId": 3669339796,
+        "FullFilename": "pic006_001_001_10",
+        "FullAssetBundleId": 3669339796,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_10",
+        "IcnAssetBundleId": 3669339796,
+        "FullFilename": "pic006_001_001_10",
+        "FullAssetBundleId": 3669339796,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Blue Oak Tree",
+      "Desc": "An oak tree that has been affected by the aura of the forest and turned green. It grants slightly more XP.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_002_10",
+        "IcnAssetBundleId": 2093131040,
+        "FullFilename": "pic006_001_002_10",
+        "FullAssetBundleId": 2093131040,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Oak Tree",
+      "Desc": "An old oak tree that may provide Elder Logs. Oak fruit will drop if you log it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_20",
+        "IcnAssetBundleId": 1742071568,
+        "FullFilename": "pic006_001_001_20",
+        "FullAssetBundleId": 1742071568,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_20",
+        "IcnAssetBundleId": 1742071568,
+        "FullFilename": "pic006_001_001_20",
+        "FullAssetBundleId": 1742071568,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_20",
+        "IcnAssetBundleId": 1742071568,
+        "FullFilename": "pic006_001_001_20",
+        "FullAssetBundleId": 1742071568,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Hidden Great Tree",
+      "Desc": "An oak tree discovered by Mayna, growing in a hidden place. It's her first notable spoil as a Woodcutter.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_20",
+        "IcnAssetBundleId": 1742071568,
+        "FullFilename": "pic006_001_005_20",
+        "FullAssetBundleId": 3748233333,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_20",
+        "IcnAssetBundleId": 1742071568,
+        "FullFilename": "pic006_001_001_20",
+        "FullAssetBundleId": 1742071568,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_20",
+        "IcnAssetBundleId": 1742071568,
+        "FullFilename": "pic006_001_001_20",
+        "FullAssetBundleId": 1742071568,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_20",
+        "IcnAssetBundleId": 1742071568,
+        "FullFilename": "pic006_001_001_20",
+        "FullAssetBundleId": 1742071568,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Blue Oak Tree",
+      "Desc": "A green oak that, affected by forest power, has become huge. It grants slightly more XP than the Great Oak Tree.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_002_20",
+        "IcnAssetBundleId": 3248680100,
+        "FullFilename": "pic006_001_002_20",
+        "FullAssetBundleId": 3248680100,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Blue Oak Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_002_20",
+        "IcnAssetBundleId": 3248680100,
+        "FullFilename": "pic006_001_002_20",
+        "FullAssetBundleId": 3248680100,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Skytree",
+      "Desc": "A hard but flexible living tree. It provides Rejuvenating Berries.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_003_10",
+        "IcnAssetBundleId": 4031444537,
+        "FullFilename": "pic006_001_003_10",
+        "FullAssetBundleId": 4031444537,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Skytree",
+      "Desc": "A great tree growing silently on Levitania. It sometimes drops rare Elder Logs.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_003_20",
+        "IcnAssetBundleId": 1446903181,
+        "FullFilename": "pic006_001_003_20",
+        "FullAssetBundleId": 1446903181,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Mangrove",
+      "Desc": "A tree that likes the sea. It can even thrive in shallow waters. You can hear the ocean in its trunk.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_002_002_10",
+        "IcnAssetBundleId": 2476393219,
+        "FullFilename": "pic006_002_002_10",
+        "FullAssetBundleId": 2476393219,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Mangrove",
+      "Desc": "An old mangrove growing in sea water. Its roots are home to many fishes.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_002_002_20",
+        "IcnAssetBundleId": 904775863,
+        "FullFilename": "pic006_002_002_20",
+        "FullAssetBundleId": 904775863,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sugar Tree",
+      "Desc": "A draught-tolerant tree often seen in Al Maajik. The sweet fruit it produces can be used in place of sugar.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_002_003_10",
+        "IcnAssetBundleId": 67490346,
+        "FullFilename": "pic006_002_003_10",
+        "FullAssetBundleId": 67490346,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Sugar Tree",
+      "Desc": "A huge sugar tree growing up in blinding sandstorms. Travelers can rest in its shade during the scorching daytime.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_002_003_20",
+        "IcnAssetBundleId": 2725435806,
+        "FullFilename": "pic006_002_003_20",
+        "FullAssetBundleId": 2725435806,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Sugar Tree",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_002_003_20",
+        "IcnAssetBundleId": 2725435806,
+        "FullFilename": "pic006_002_003_20",
+        "FullAssetBundleId": 2725435806,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "White Fir",
+      "Desc": "A pine covered in snow, growing on the summit.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_002_10",
+        "IcnAssetBundleId": 1413130615,
+        "FullFilename": "pic006_003_002_10",
+        "FullAssetBundleId": 1413130615,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great White Fir",
+      "Desc": "A fir that has been growing in a remote mountain, in order to escape humans looking for elder logs and great trees.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_002_20",
+        "IcnAssetBundleId": 4065174211,
+        "FullFilename": "pic006_003_002_20",
+        "FullAssetBundleId": 4065174211,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great White Fir",
+      "Desc": "(description) Great White Fir",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_002_20",
+        "IcnAssetBundleId": 4065174211,
+        "FullFilename": "pic006_003_002_20",
+        "FullAssetBundleId": 4065174211,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Starry Tree",
+      "Desc": "A tree growing up on an isolated island listening to the conversations of the stars. It provides Rejuvenating Berries just like firs.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_003_10",
+        "IcnAssetBundleId": 2877286286,
+        "FullFilename": "pic006_003_003_10",
+        "FullAssetBundleId": 2877286286,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Starry Tree",
+      "Desc": "A Starry Tree that has been listening to the conversations of the stars. It finally managed to join the conversations.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_003_20",
+        "IcnAssetBundleId": 218688570,
+        "FullFilename": "pic006_003_003_20",
+        "FullAssetBundleId": 218688570,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sprouting Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_004_001_10",
+        "IcnAssetBundleId": 1021376167,
+        "FullFilename": "pic006_004_001_10",
+        "FullAssetBundleId": 1021376167,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Sprouting Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_004_001_20",
+        "IcnAssetBundleId": 2593651987,
+        "FullFilename": "pic006_004_001_20",
+        "FullAssetBundleId": 2593651987,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Elderwood Tree",
+      "Desc": "A great tree that has been alive since birth. Only Woodcutters whom it acknowledges can log it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_005_001_20",
+        "IcnAssetBundleId": 1597031325,
+        "FullFilename": "pic006_005_001_20",
+        "FullAssetBundleId": 1597031325,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Elderwood Tree",
+      "Desc": "A great tree that has been alive since birth. Only Woodcutters whom it acknowledges can log it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_005_001_20",
+        "IcnAssetBundleId": 1597031325,
+        "FullFilename": "pic006_005_001_20",
+        "FullAssetBundleId": 1597031325,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sinister Tree",
+      "Desc": "A great tree that has been taking in the evil aura lingering in the forest. Its arms are hard yet flexible.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_006_001_20",
+        "IcnAssetBundleId": 4182231081,
+        "FullFilename": "pic006_006_001_20",
+        "FullAssetBundleId": 4182231081,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Celestial Tree",
+      "Desc": "A great tree covered in soft white leaves. Its leaves resemble a piece of cloud when viewed from below.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_007_001_20",
+        "IcnAssetBundleId": 3366965940,
+        "FullFilename": "pic006_007_001_20",
+        "FullAssetBundleId": 3366965940,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sacred Fire Tree",
+      "Desc": "A divine tree watered by lava. Also known as the Fire Elemental Tree.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_001_20",
+        "IcnAssetBundleId": 1859705088,
+        "FullFilename": "pic006_008_001_20",
+        "FullAssetBundleId": 1859705088,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sacred Wind Tree",
+      "Desc": "A desert divine tree with wind blowing in its trunk. Also known as the Wind Elemental Tree.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_002_20",
+        "IcnAssetBundleId": 2559617513,
+        "FullFilename": "pic006_008_002_20",
+        "FullAssetBundleId": 2559617513,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sacred Water Tree",
+      "Desc": "A divine tree watered by the ocean current that has travelled all the seas. Also known as the Water Elemental Tree.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_003_20",
+        "IcnAssetBundleId": 1055367773,
+        "FullFilename": "pic006_008_003_20",
+        "FullAssetBundleId": 1055367773,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sacred Earth Tree",
+      "Desc": "A divine tree growing in the rich soil of the plains. Also known as the Earth Elemental Tree.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_004_20",
+        "IcnAssetBundleId": 2713382551,
+        "FullFilename": "pic006_008_004_20",
+        "FullAssetBundleId": 2713382551,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sacred Earth Tree",
+      "Desc": "A divine tree growing in the rich soil of the plains. Also known as the Earth Elemental Tree.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_004_20",
+        "IcnAssetBundleId": 2713382551,
+        "FullFilename": "pic006_008_004_20",
+        "FullAssetBundleId": 2713382551,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dessert Tree",
+      "Desc": "A tree heading for the Subterranean Lake in search of water. It provides Antipara Berries.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 130934051,
+        "FullFilename": "pic006_009_001_10",
+        "FullAssetBundleId": 130934051,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Dessert Tree",
+      "Desc": "A Desert Tree that has spent years by the Subterranean Lake. Views sharks and humans who log giant trees as its enemies.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 908459966,
+        "FullFilename": "pic006_009_001_20",
+        "FullAssetBundleId": 908459966,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Fluffkin Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_010_001_10",
+        "IcnAssetBundleId": 2421355530,
+        "FullFilename": "pic006_010_001_10",
+        "FullAssetBundleId": 2421355530,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Fluffkin Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_010_001_20",
+        "IcnAssetBundleId": 1442171524,
+        "FullFilename": "pic006_010_001_20",
+        "FullAssetBundleId": 1442171524,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Ancient Divine Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4085432624,
+        "FullFilename": "pic006_011_001_20",
+        "FullAssetBundleId": 4085432624,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Gigantic Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3261782957,
+        "FullFilename": "pic006_012_001_20",
+        "FullAssetBundleId": 3261782957,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1679675417,
+        "FullFilename": "pic007_0001",
+        "FullAssetBundleId": 1679675417,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Rare Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1679675417,
+        "FullFilename": "pic007_0001",
+        "FullAssetBundleId": 1679675417,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sandfish Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2455085296,
+        "FullFilename": "pic007_0201",
+        "FullAssetBundleId": 2455085296,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Rare Sandfish Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2455085296,
+        "FullFilename": "pic007_0201",
+        "FullAssetBundleId": 2455085296,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Lavafish Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 874687300,
+        "FullFilename": "pic007_0301",
+        "FullAssetBundleId": 874687300,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Cloudfish Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1829826057,
+        "FullFilename": "pic007_0401",
+        "FullAssetBundleId": 1829826057,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dark Bass Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3412583869,
+        "FullFilename": "pic007_0501",
+        "FullAssetBundleId": 3412583869,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Lavafish Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4203740960,
+        "FullFilename": "pic007_0601",
+        "FullAssetBundleId": 4203740960,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Cloudfish Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1559819412,
+        "FullFilename": "pic007_0701",
+        "FullAssetBundleId": 1559819412,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Forest Lordfish",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2573191706,
+        "FullFilename": "pic007_0801",
+        "FullAssetBundleId": 2573191706,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Bluescale Lordfish",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1059635630,
+        "FullFilename": "pic007_0901",
+        "FullAssetBundleId": 1059635630,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Deep Sea Lordfish",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 247520051,
+        "FullFilename": "pic007_1001",
+        "FullAssetBundleId": 247520051,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Coldwater Tuna",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2830618759,
+        "FullFilename": "pic007_1101",
+        "FullAssetBundleId": 2830618759,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Swordfish",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1593811054,
+        "FullFilename": "pic007_1201",
+        "FullAssetBundleId": 1593811054,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Golden Swordfish",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4169706458,
+        "FullFilename": "pic007_1301",
+        "FullAssetBundleId": 4169706458,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Demonic Tuna",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3818908138,
+        "FullFilename": "pic007_1401",
+        "FullAssetBundleId": 3818908138,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Godfish",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1172890206,
+        "FullFilename": "pic007_1501",
+        "FullAssetBundleId": 1172890206,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Poseidon Swordfish",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1946220739,
+        "FullFilename": "pic007_1601",
+        "FullAssetBundleId": 1946220739,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Cloudfish Shadow",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3531076471,
+        "FullFilename": "pic004_0001",
+        "FullAssetBundleId": 3531076471,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Bilobed Herb",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 399560185,
+        "FullFilename": "pic002_0001",
+        "FullAssetBundleId": 399560185,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Bilobed Herb",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 399560185,
+        "FullFilename": "pic002_0001",
+        "FullAssetBundleId": 399560185,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Snowpeak Weed",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2980562509,
+        "FullFilename": "pic002_0101",
+        "FullAssetBundleId": 2980562509,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Grassy Weed",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2152717520,
+        "FullFilename": "pic002_0201",
+        "FullAssetBundleId": 2152717520,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Goldweed",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 641259364,
+        "FullFilename": "pic002_0202",
+        "FullAssetBundleId": 641259364,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Maajik Weed",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3497043853,
+        "FullFilename": "pic002_0301",
+        "FullAssetBundleId": 3497043853,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Blackbell",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1980214329,
+        "FullFilename": "pic002_0401",
+        "FullAssetBundleId": 1980214329,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Greenbell",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 792062324,
+        "FullFilename": "pic002_0402",
+        "FullAssetBundleId": 792062324,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Bluebell",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2302862016,
+        "FullFilename": "pic002_0403",
+        "FullAssetBundleId": 2302862016,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Redbell",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3098212445,
+        "FullFilename": "pic002_0404",
+        "FullAssetBundleId": 3098212445,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Whitebell",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 517862377,
+        "FullFilename": "pic002_0405",
+        "FullAssetBundleId": 517862377,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Cherry Herb",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3682258279,
+        "FullFilename": "pic002_0407",
+        "FullAssetBundleId": 3682258279,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dandelion",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2098054867,
+        "FullFilename": "pic002_0501",
+        "FullAssetBundleId": 2098054867,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Kamipopo",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1290132558,
+        "FullFilename": "pic002_0502",
+        "FullAssetBundleId": 1290132558,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Chrysanthemum",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3935492090,
+        "FullFilename": "pic002_0601",
+        "FullAssetBundleId": 3935492090,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Ancient Flower",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 484091667,
+        "FullFilename": "pic002_0602",
+        "FullAssetBundleId": 484091667,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Rose",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3131944103,
+        "FullFilename": "pic002_0701",
+        "FullAssetBundleId": 3131944103,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Forestshroom",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4128635864,
+        "FullFilename": "pic002_0801",
+        "FullAssetBundleId": 4128635864,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Mountainshroom",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1348661356,
+        "FullFilename": "pic002_0901",
+        "FullAssetBundleId": 1348661356,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Truffle",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1636494065,
+        "FullFilename": "pic002_0902",
+        "FullAssetBundleId": 1636494065,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Fossilshroom",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3355304261,
+        "FullFilename": "pic002_0903",
+        "FullAssetBundleId": 3355304261,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Fluffkin Truffle",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 39509963,
+        "FullFilename": "pic002_0904",
+        "FullAssetBundleId": 39509963,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Caveshroom",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2754466943,
+        "FullFilename": "pic002_1001",
+        "FullAssetBundleId": 2754466943,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Catnip",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2512768738,
+        "FullFilename": "pic002_1101",
+        "FullAssetBundleId": 2512768738,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Egg (S)",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 867353942,
+        "FullFilename": "pic002_1201",
+        "FullAssetBundleId": 867353942,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Egg (M)",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3321542079,
+        "FullFilename": "pic002_1301",
+        "FullAssetBundleId": 3321542079,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Egg (L)",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1670233611,
+        "FullFilename": "pic002_1401",
+        "FullAssetBundleId": 1670233611,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Shell",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 985660230,
+        "FullFilename": "pic002_1501",
+        "FullAssetBundleId": 985660230,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Ancient Seashell",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2630414578,
+        "FullFilename": "pic002_1502",
+        "FullAssetBundleId": 2630414578,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Colorpopo",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2904615535,
+        "FullFilename": "pic002_1701",
+        "FullAssetBundleId": 2904615535,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Flutter",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 190308827,
+        "FullFilename": "pic003_0001",
+        "FullAssetBundleId": 190308827,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Angelic Butterfly",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3471892309,
+        "FullFilename": "pic003_0002",
+        "FullAssetBundleId": 3471892309,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Grasshopper",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1753732321,
+        "FullFilename": "pic003_0101",
+        "FullAssetBundleId": 1753732321,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Demonic Hopper",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1500499580,
+        "FullFilename": "pic003_0102",
+        "FullAssetBundleId": 1500499580,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Beetle",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4279813576,
+        "FullFilename": "pic003_0201",
+        "FullAssetBundleId": 4279813576,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dragonfly",
+      "Desc": "(input description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 156284193,
+        "FullFilename": "pic003_0301",
+        "FullAssetBundleId": 156284193,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Millennial Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2938617493,
+        "FullFilename": "pic006_013_001_20",
+        "FullAssetBundleId": 2938617493,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Copper Deposit",
+      "Desc": "A common deposit you can find anywhere. With a low melting point and easy to process, it can be used in many ways.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "pic005_0001",
+        "FullAssetBundleId": 848032814,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Copper Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "pic005_0001",
+        "FullAssetBundleId": 848032814,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Test Copper Deposit",
+      "Desc": "A deposit for beginners. Don't tell anyone that the master has left a crack in it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "pic005_0001",
+        "FullAssetBundleId": 848032814,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Copper Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "pic005_0001",
+        "FullAssetBundleId": 848032814,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Gold Deposit",
+      "Desc": "A great deposit from which you can mine precious gold. Some may contain sandstones only, though.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0002",
+        "IcnAssetBundleId": 2499608474,
+        "FullFilename": "pic005_0002",
+        "FullAssetBundleId": 2499608474,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Platinum Deposit",
+      "Desc": "A romantic deposit on the snowfield, which emits whitish light.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0003",
+        "IcnAssetBundleId": 2769609991,
+        "FullFilename": "pic005_0003",
+        "FullAssetBundleId": 2769609991,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Magic Deposit",
+      "Desc": "A mysterious deposit emitting an evil light. It may contain mana-free sandstones.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0004",
+        "IcnAssetBundleId": 56880819,
+        "FullFilename": "pic005_0004",
+        "FullAssetBundleId": 56880819,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Magma Deposit",
+      "Desc": "A deposit full of the essence of magma. Approach it and you'll feel the earth.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0005",
+        "IcnAssetBundleId": 3334787133,
+        "FullFilename": "pic005_0005",
+        "FullAssetBundleId": 3334787133,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Silver Deposit",
+      "Desc": "A deposit that arouses melancholy in the moonlight. It contains precious Port Puerto Silver.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0006",
+        "IcnAssetBundleId": 1622399881,
+        "FullFilename": "pic005_0006",
+        "FullAssetBundleId": 1622399881,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Marine Deposit",
+      "Desc": "The result of agelong crystalizing of deep-sea minerals. You can mine Marine Ore if you're lucky, and Minty Ore if you're not.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0007",
+        "IcnAssetBundleId": 1364967700,
+        "FullFilename": "pic005_0007",
+        "FullAssetBundleId": 1364967700,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Iron Deposit",
+      "Desc": "The source of iron, the most important industrial material. It's especially important when making armor.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0008",
+        "IcnAssetBundleId": 4146907808,
+        "FullFilename": "pic005_0008",
+        "FullAssetBundleId": 4146907808,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Rainbow Deposit",
+      "Desc": "A rare deposit that contains the legendary Celestial Ore. You may end up with nothing but Minty Ore, though.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0009",
+        "IcnAssetBundleId": 23378505,
+        "FullFilename": "pic005_0009",
+        "FullAssetBundleId": 23378505,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Mystical Ore",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0010",
+        "IcnAssetBundleId": 2803085821,
+        "FullFilename": "pic005_0010",
+        "FullAssetBundleId": 2803085821,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dark Ore",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0011",
+        "IcnAssetBundleId": 4263638192,
+        "FullFilename": "pic005_0011",
+        "FullAssetBundleId": 4263638192,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Copper Deposit",
+      "Desc": "A huge copper deposit typically found in Castele. You may end up getting Minty Ore from it, though.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "pic005_0101",
+        "FullAssetBundleId": 1482096388,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Copper Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "pic005_0101",
+        "FullAssetBundleId": 1482096388,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Copper Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "pic005_0101",
+        "FullAssetBundleId": 1482096388,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Gold Deposit",
+      "Desc": "A huge gold deposit that has been growing secretly underground. You can obtain Mana Holy Stone from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0102",
+        "IcnAssetBundleId": 1774118297,
+        "FullFilename": "pic005_0102",
+        "FullAssetBundleId": 1774118297,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Gold Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0102",
+        "IcnAssetBundleId": 1774118297,
+        "FullFilename": "pic005_0102",
+        "FullAssetBundleId": 1774118297,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Platinum Deposit",
+      "Desc": "A huge platinum deposit. It reflects sunlight like a piece of ice that will never melt.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0103",
+        "IcnAssetBundleId": 3486117421,
+        "FullFilename": "pic005_0103",
+        "FullAssetBundleId": 3486117421,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Platinum Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0103",
+        "IcnAssetBundleId": 3486117421,
+        "FullFilename": "pic005_0103",
+        "FullAssetBundleId": 3486117421,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Magic Deposit",
+      "Desc": "A crystal of darkness said to be blacker than the heart of a Dark Sultan. The Black Onyx lies at the darkest part of it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 175034531,
+        "FullFilename": "pic005_0104",
+        "FullAssetBundleId": 175034531,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Magma Deposit",
+      "Desc": "A huge magma deposit. The heat it emits reflects the vitality of the earth.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0105",
+        "IcnAssetBundleId": 2887375639,
+        "FullFilename": "pic005_0105",
+        "FullAssetBundleId": 2887375639,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Magma Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0105",
+        "IcnAssetBundleId": 2887375639,
+        "FullFilename": "pic005_0105",
+        "FullAssetBundleId": 2887375639,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Silver Deposit",
+      "Desc": "A huge silver deposit affected by sea water. You can obtain Battle Holy Stone from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0106",
+        "IcnAssetBundleId": 2649866634,
+        "FullFilename": "pic005_0106",
+        "FullAssetBundleId": 2649866634,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Silver Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0106",
+        "IcnAssetBundleId": 2649866634,
+        "FullFilename": "pic005_0106",
+        "FullAssetBundleId": 2649866634,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Marine Deposit",
+      "Desc": "A marine deposit that may contain gemstones. You can obtain Guardian Divine Rock from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0107",
+        "IcnAssetBundleId": 998689342,
+        "FullFilename": "pic005_0107",
+        "FullAssetBundleId": 998689342,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Iron Deposit",
+      "Desc": "A huge iron deposit growing up in the depth of cave. You can obtain Gear Enh. Orb from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0108",
+        "IcnAssetBundleId": 3452877527,
+        "FullFilename": "pic005_0108",
+        "FullAssetBundleId": 3452877527,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Iron Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0108",
+        "IcnAssetBundleId": 3452877527,
+        "FullFilename": "pic005_0108",
+        "FullAssetBundleId": 3452877527,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Rainbow Deposit",
+      "Desc": "A rainbow deposit that has absorbed many rainbows. You can obtain Sky Rock from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0109",
+        "IcnAssetBundleId": 1807331683,
+        "FullFilename": "pic005_0109",
+        "FullAssetBundleId": 1807331683,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Mystical Ore",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0110",
+        "IcnAssetBundleId": 1890513747,
+        "FullFilename": "pic005_0110",
+        "FullAssetBundleId": 1890513747,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Dark Ore",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0111",
+        "IcnAssetBundleId": 3604609255,
+        "FullFilename": "pic005_0111",
+        "FullAssetBundleId": 3604609255,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Yellow Crystal",
+      "Desc": "A Yellow Crystal that has absorbed much clean mountain air and water. You can mine Yellow Stones and Minty Ores from it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0201",
+        "IcnAssetBundleId": 3878806138,
+        "FullFilename": "pic005_0201",
+        "FullAssetBundleId": 3878806138,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Yellow Crystal",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0201",
+        "IcnAssetBundleId": 3878806138,
+        "FullFilename": "pic005_0201",
+        "FullAssetBundleId": 3878806138,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Yellow Crystal",
+      "Desc": "A huge Yellow Crystal occasionally found in Mt Snowpeak Foothill. It's very hard, and you may mine Topaz from it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0301",
+        "IcnAssetBundleId": 1095166414,
+        "FullFilename": "pic005_0301",
+        "FullAssetBundleId": 1095166414,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Yellow Crystal",
+      "Desc": "(description) Great Yellow Crystal",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0301",
+        "IcnAssetBundleId": 1095166414,
+        "FullFilename": "pic005_0301",
+        "FullAssetBundleId": 1095166414,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Crystal",
+      "Desc": "A crystal that quietly formed without anyone knowing. Aim at the Sweet Spot and you can mine it with ease.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0301",
+        "IcnAssetBundleId": 1095166414,
+        "FullFilename": "pic005_0302",
+        "FullAssetBundleId": 4193947307,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Blue Crystal",
+      "Desc": "A blue crystal that has absorbed water dripping from the cave roof. You can mine Blue Stones and Minty Ores from it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0401",
+        "IcnAssetBundleId": 2229393216,
+        "FullFilename": "pic005_0401",
+        "FullAssetBundleId": 2229393216,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Red Crystal",
+      "Desc": "A red crystal discovered near lava. Miners can hardly resist that fire-like color.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0402",
+        "IcnAssetBundleId": 580312308,
+        "FullFilename": "pic005_0402",
+        "FullAssetBundleId": 580312308,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "White Crystal",
+      "Desc": "A crystal as white like snow and as transparent as ice.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0403",
+        "IcnAssetBundleId": 327075433,
+        "FullFilename": "pic005_0403",
+        "FullAssetBundleId": 327075433,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Marine Deposit",
+      "Desc": "A crystal of condensed sea water, containing Amethyst. It's usually not mature yet, and you can mine Purple Stones from it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0404",
+        "IcnAssetBundleId": 3037318621,
+        "FullFilename": "pic005_0404",
+        "FullAssetBundleId": 3037318621,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Gold Crystal",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0405",
+        "IcnAssetBundleId": 1128381748,
+        "FullFilename": "pic005_0405",
+        "FullAssetBundleId": 1128381748,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Magic Deposit",
+      "Desc": "A black crystal emitting a dark aura. You can mine Black Onyx from it if you are lucky enough.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0406",
+        "IcnAssetBundleId": 3845568128,
+        "FullFilename": "pic005_0406",
+        "FullAssetBundleId": 3845568128,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Rainbow Deposit",
+      "Desc": "A crystal of rainbow light, which shines like a diamond. It may sometimes only contain Minty Ores, though.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0407",
+        "IcnAssetBundleId": 3154441165,
+        "FullFilename": "pic005_0407",
+        "FullAssetBundleId": 3154441165,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Mystical Ore",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0408",
+        "IcnAssetBundleId": 443807865,
+        "FullFilename": "pic005_0408",
+        "FullAssetBundleId": 443807865,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Dark Ore",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0409",
+        "IcnAssetBundleId": 731636452,
+        "FullFilename": "pic005_0409",
+        "FullAssetBundleId": 731636452,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Blue Crystal",
+      "Desc": "A huge blue crystal occasionally found in Waterfall Cave. You can obtain Aquamarines from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0501",
+        "IcnAssetBundleId": 2381113680,
+        "FullFilename": "pic005_0501",
+        "FullAssetBundleId": 2381113680,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Blue Crystal",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0501",
+        "IcnAssetBundleId": 2381113680,
+        "FullFilename": "pic005_0501",
+        "FullAssetBundleId": 2381113680,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Red Crystal",
+      "Desc": "A huge red crystal. Emitting red light in a cave, it's said to be the lantern of the earth.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0502",
+        "IcnAssetBundleId": 1212930014,
+        "FullFilename": "pic005_0502",
+        "FullAssetBundleId": 1212930014,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Red Crystal",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0502",
+        "IcnAssetBundleId": 1212930014,
+        "FullFilename": "pic005_0502",
+        "FullAssetBundleId": 1212930014,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great White Crystal",
+      "Desc": "A huge white crystal. It's like a claymore towering in the snowfield, arousing awe in those who see it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0503",
+        "IcnAssetBundleId": 3996965994,
+        "FullFilename": "pic005_0503",
+        "FullAssetBundleId": 3996965994,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great White Crystal",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0503",
+        "IcnAssetBundleId": 3996965994,
+        "FullFilename": "pic005_0503",
+        "FullAssetBundleId": 3996965994,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Amazing Marine Deposit",
+      "Desc": "A superior marine deposit growing under high water pressure. You can obtain Ocean Dew from the its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0504",
+        "IcnAssetBundleId": 3755263735,
+        "FullFilename": "pic005_0504",
+        "FullAssetBundleId": 3755263735,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Amazing Gold Deposit",
+      "Desc": "A huge superior gold deposit occasionally found in Skeleton Cave. You can obtain Oasis Stone from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0505",
+        "IcnAssetBundleId": 2040778051,
+        "FullFilename": "pic005_0505",
+        "FullAssetBundleId": 2040778051,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Amazing Gold Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0505",
+        "IcnAssetBundleId": 2040778051,
+        "FullFilename": "pic005_0505",
+        "FullAssetBundleId": 2040778051,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Amazing Magic Deposit",
+      "Desc": "A huge darkness crystal born from the darkness in the ruins. You can obtain Age-Old Rock from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0506",
+        "IcnAssetBundleId": 2414591402,
+        "FullFilename": "pic005_0506",
+        "FullAssetBundleId": 2414591402,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Amazing Rainbow Deposit",
+      "Desc": "A huge rainbow crystal that has absorbed much heavenly light. You can obtain Heavenly Light from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0507",
+        "IcnAssetBundleId": 698136094,
+        "FullFilename": "pic005_0507",
+        "FullAssetBundleId": 698136094,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Amazing Mystical Ore",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0508",
+        "IcnAssetBundleId": 3066165972,
+        "FullFilename": "pic005_0508",
+        "FullAssetBundleId": 3066165972,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Amazing Dark Ore",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0509",
+        "IcnAssetBundleId": 280424800,
+        "FullFilename": "pic005_0509",
+        "FullAssetBundleId": 280424800,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Enormous Ancient Fossil",
+      "Desc": "A gigantic fossil that can move archaeology maniacs to tears. You can obtain Gigantic Fossil from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0601",
+        "IcnAssetBundleId": 559868925,
+        "FullFilename": "pic005_0601",
+        "FullAssetBundleId": 559868925,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dragon Scab",
+      "Desc": "A deposit whose hardness and shape resembles a dragon. You can obtain a Chest of the same name from it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0701",
+        "IcnAssetBundleId": 2267668553,
+        "FullFilename": "pic005_0701",
+        "FullAssetBundleId": 2267668553,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dark Heart",
+      "Desc": "A deposit whose hardness and shape resembles a dragon. You can obtain a Chest of the same name from it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0801",
+        "IcnAssetBundleId": 1116659399,
+        "FullFilename": "pic005_0801",
+        "FullAssetBundleId": 1116659399,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Fire Wingrock",
+      "Desc": "A fire crystal that emits light both day and night. Also known as the Fire Rock.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0901",
+        "IcnAssetBundleId": 3841578355,
+        "FullFilename": "pic005_0901",
+        "FullAssetBundleId": 3841578355,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Wind Wingrock",
+      "Desc": "A wind crystal surrounded by small hurricanes. Also known as the Wind Rock.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0902",
+        "IcnAssetBundleId": 3574714350,
+        "FullFilename": "pic005_0902",
+        "FullAssetBundleId": 3574714350,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Water Wingrock",
+      "Desc": "A water crystal that boosts humidity of it surroundings. Also known as the Water Rock.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0903",
+        "IcnAssetBundleId": 1936114778,
+        "FullFilename": "pic005_0903",
+        "FullAssetBundleId": 1936114778,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Earth Wingrock",
+      "Desc": "An earth crystal that absorbs energy from the depth of earth. Also known as the Earth Rock.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0904",
+        "IcnAssetBundleId": 2234430643,
+        "FullFilename": "pic005_0904",
+        "FullAssetBundleId": 2234430643,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Ancient Fossil",
+      "Desc": "A fossil that reveals the mysteries from ancient times. It's the remnant of the ancestors of Napdragons, which have long been extinct.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1001",
+        "IcnAssetBundleId": 593084167,
+        "FullFilename": "pic005_1001",
+        "FullAssetBundleId": 593084167,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Divine Stone",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1101",
+        "IcnAssetBundleId": 2053896778,
+        "FullFilename": "pic005_1101",
+        "FullAssetBundleId": 2053896778,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dark Stone",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1201",
+        "IcnAssetBundleId": 3692884478,
+        "FullFilename": "pic005_1201",
+        "FullAssetBundleId": 3692884478,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Golem Stone",
+      "Desc": "A golem stone born from ores brought back by the Crowned Champion from Lava Cave. It will become a golem when it obtains life.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1501",
+        "IcnAssetBundleId": 3992251235,
+        "FullFilename": "pic005_1501",
+        "FullAssetBundleId": 3992251235,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Blackiron Deposit",
+      "Desc": "A deposit that forms from the winds of the prairie and the sea. Its color is a bluish black, the complexity of which is charming.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0012",
+        "IcnAssetBundleId": 1266933975,
+        "FullFilename": "pic005_0012",
+        "FullAssetBundleId": 1266933975,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Blackiron Deposit",
+      "Desc": "A huge blackiron deposit consisted of ores from both land and sea. It occasionally contains Blackiron Ore.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0112",
+        "IcnAssetBundleId": 2384780889,
+        "FullFilename": "pic005_0112",
+        "FullAssetBundleId": 2384780889,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Blackiron Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0112",
+        "IcnAssetBundleId": 2384780889,
+        "FullFilename": "pic005_0112",
+        "FullAssetBundleId": 2384780889,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Haniwa Deposit",
+      "Desc": "A rare deposit particular to Haniwa Cave. Ancient civilizations used to carve statues of the Haniwa Clansman into the ores.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0410",
+        "IcnAssetBundleId": 676582893,
+        "FullFilename": "pic005_0410",
+        "FullAssetBundleId": 676582893,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Haniwa Deposit",
+      "Desc": "A great Haniwa deposit particular to Haniwa Cave. Haniwa Stones are popular souvenirs.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0510",
+        "IcnAssetBundleId": 431738736,
+        "FullFilename": "pic005_0510",
+        "FullAssetBundleId": 431738736,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Haniwa Deposit",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0510",
+        "IcnAssetBundleId": 431738736,
+        "FullFilename": "pic005_0510",
+        "FullAssetBundleId": 431738736,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Westwood",
+      "Desc": "An oak tree that grows by the seaside, bathing in sea breeze. Being green, inside and out, it's named a green oak.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_004_10",
+        "IcnAssetBundleId": 3217867972,
+        "FullFilename": "pic006_001_004_10",
+        "FullAssetBundleId": 3217867972,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Westwood",
+      "Desc": "A green oak that has survived harsh environments. Its fruit is a popular spice.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_004_20",
+        "IcnAssetBundleId": 1233433645,
+        "FullFilename": "pic006_001_004_20",
+        "FullAssetBundleId": 1233433645,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Westwood",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_004_20",
+        "IcnAssetBundleId": 1233433645,
+        "FullFilename": "pic006_001_004_20",
+        "FullAssetBundleId": 1233433645,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Westwood",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_004_20",
+        "IcnAssetBundleId": 1233433645,
+        "FullFilename": "pic006_001_004_20",
+        "FullAssetBundleId": 1233433645,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Westwood",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_004_20",
+        "IcnAssetBundleId": 1233433645,
+        "FullFilename": "pic006_001_004_20",
+        "FullAssetBundleId": 1233433645,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Plains Lordfish",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4025728921,
+        "FullFilename": "pic007_1701",
+        "FullAssetBundleId": 4025728921,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Blocker Item_Tree (M)",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4108647849,
+        "FullFilename": "",
+        "FullAssetBundleId": 4108647849,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Blocker Item_Tree (L)",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1385428509,
+        "FullFilename": "",
+        "FullAssetBundleId": 1385428509,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Red Treasure Chest",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1669065856,
+        "FullFilename": "pic001_0001",
+        "FullAssetBundleId": 1669065856,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Purple Treasure Chest",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3305957172,
+        "FullFilename": "pic001_0101",
+        "FullAssetBundleId": 3305957172,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sparkling Gathering Spot (Sparkling Loop)",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 11262394,
+        "FullFilename": "eff002_0003",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Grill",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2799489550,
+        "FullFilename": "pic009_0001_001",
+        "FullAssetBundleId": 2799489550,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Fish Grill",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2536818835,
+        "FullFilename": "pic009_0101_001",
+        "FullAssetBundleId": 2536818835,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Purplebell",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 826524455,
+        "FullFilename": "pic002_0408",
+        "FullAssetBundleId": 826524455,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Cherry Lordfish",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3339432910,
+        "FullFilename": "pic007_1801",
+        "FullAssetBundleId": 3339432910,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Bass of Crystal",
+      "Desc": "(description) Crystal Bass",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1635563642,
+        "FullFilename": "pic007_1901",
+        "FullAssetBundleId": 1635563642,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Backup Slot for Resources",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0013",
+        "IcnAssetBundleId": 944700727,
+        "FullFilename": "pic005_0013",
+        "FullAssetBundleId": 944700727,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Backup Slot for Resources",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0113",
+        "IcnAssetBundleId": 2654598787,
+        "FullFilename": "pic005_0113",
+        "FullAssetBundleId": 2654598787,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Green Crystal",
+      "Desc": "A green crystal born from gales that sweep the earth. You can obtain Novel Green Ore and Quality Minty Ore from it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0411",
+        "IcnAssetBundleId": 2949770270,
+        "FullFilename": "pic005_0411",
+        "FullAssetBundleId": 2949770270,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Green Crystal",
+      "Desc": "A great green crystal occasionally found in the west plains. You can obtain Emerald from its Chest.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0511",
+        "IcnAssetBundleId": 161933226,
+        "FullFilename": "pic005_0511",
+        "FullAssetBundleId": 161933226,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Green Crystal",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0511",
+        "IcnAssetBundleId": 161933226,
+        "FullFilename": "pic005_0511",
+        "FullAssetBundleId": 161933226,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Huge Copper Deposit",
+      "Desc": "A giant copper deposit. It is carefully hidden by the Molays.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1601",
+        "IcnAssetBundleId": 3422673188,
+        "FullFilename": "pic005_1601",
+        "FullAssetBundleId": 3422673188,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Moon Crystal",
+      "Desc": "A crescent-shaped ore only found in Mt Snowpeak. It emits yellowish light just like the actual crescent moon.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_2001",
+        "IcnAssetBundleId": 1786172048,
+        "FullFilename": "pic005_2001",
+        "FullAssetBundleId": 1786172048,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Holy Blackiron Stone",
+      "Desc": "A huge sword-shaped deposit that resists Miners. It is protected by the spirits of mined deposits.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1801",
+        "IcnAssetBundleId": 1537132557,
+        "FullFilename": "pic005_1801",
+        "FullAssetBundleId": 1537132557,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Century-Old Oak",
+      "Desc": "A 100-year-old oak tree that is very thick. It emits a faint smell of honey.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_007_10",
+        "IcnAssetBundleId": 4259955641,
+        "FullFilename": "pic006_001_007_10",
+        "FullAssetBundleId": 4259955641,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Immortal Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_005_002_20",
+        "IcnAssetBundleId": 195146576,
+        "FullFilename": "pic006_005_002_20",
+        "FullAssetBundleId": 195146576,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Millennium Pine",
+      "Desc": "A 1000-year-old shiny pine. It has grown up in a place surrounded by waters and close to the moon.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_005_20",
+        "IcnAssetBundleId": 2916530404,
+        "FullFilename": "pic006_003_005_20",
+        "FullAssetBundleId": 2916530404,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Giant Forest Fish",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3782143899,
+        "FullFilename": "pic007_2001",
+        "FullAssetBundleId": 3782143899,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Eternal Oak",
+      "Desc": "An oak tree that silently watches what's happening in the forest. Affected by spirits, it houses mana in its trunk.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_009_20",
+        "IcnAssetBundleId": 1192879151,
+        "FullFilename": "pic006_001_009_20",
+        "FullAssetBundleId": 1192879151,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Oak",
+      "Desc": "A superior oak surrounded by trees. It bears blue berries due to change in its living environment.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_010_10",
+        "IcnAssetBundleId": 1995570866,
+        "FullFilename": "pic006_001_010_10",
+        "FullAssetBundleId": 1995570866,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Great Oak",
+      "Desc": "A superior oak that has spent countless years in the forest as if sleeping. The green leaves with multiple layers are very popular.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_010_20",
+        "IcnAssetBundleId": 3498505478,
+        "FullFilename": "pic006_001_010_20",
+        "FullAssetBundleId": 3498505478,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Great Oak",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_010_20",
+        "IcnAssetBundleId": 3498505478,
+        "FullFilename": "pic006_001_010_20",
+        "FullAssetBundleId": 3498505478,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Superior Great Oak",
+      "Desc": "(description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_010_20",
+        "IcnAssetBundleId": 3498505478,
+        "FullFilename": "pic006_001_010_20",
+        "FullAssetBundleId": 3498505478,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Star Crystal",
+      "Desc": "A star-shaped crystal that looks like a meteorite. It is bluish and transparent, like the waterdrops in caves.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1701",
+        "IcnAssetBundleId": 354536328,
+        "FullFilename": "pic005_1701",
+        "FullAssetBundleId": 354536328,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Palm of Titan",
+      "Desc": "An extremely hard ore known as the \"Pickaxe Destroyer.\" They say it somehow resembles a fist.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1901",
+        "IcnAssetBundleId": 3008806972,
+        "FullFilename": "pic005_1901",
+        "FullAssetBundleId": 3008806972,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Wind Kingstone",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2193545889,
+        "FullFilename": "pic005_2101",
+        "FullAssetBundleId": 2193545889,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Red Haniwa Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0610",
+        "IcnAssetBundleId": 617206037,
+        "FullFilename": "pic005_0610",
+        "FullAssetBundleId": 617206037,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Meteor Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1702",
+        "IcnAssetBundleId": 3531710972,
+        "FullFilename": "pic005_1702",
+        "FullAssetBundleId": 3531710972,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Baby Oak Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_006_20",
+        "IcnAssetBundleId": 1962322504,
+        "FullFilename": "pic006_001_006_20",
+        "FullAssetBundleId": 1962322504,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Golden Great Pine",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_004_20",
+        "IcnAssetBundleId": 767880965,
+        "FullFilename": "pic006_003_004_20",
+        "FullAssetBundleId": 767880965,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Black Oak Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_008_10",
+        "IcnAssetBundleId": 2343822513,
+        "FullFilename": "pic006_001_008_10",
+        "FullAssetBundleId": 2343822513,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Queen Consort's Apple Tree",
+      "Desc": "(description) Queen Consort's Apple Tree",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3126591020,
+        "FullFilename": "pic008_0102",
+        "FullAssetBundleId": 3126591020,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Pink Honey Tree",
+      "Desc": "(description) Pink Honey Tree",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 472708504,
+        "FullFilename": "pic008_0002",
+        "FullAssetBundleId": 472708504,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Earth Deposit",
+      "Desc": "Great Earth Deposit (description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3649817366,
+        "FullFilename": "",
+        "FullAssetBundleId": 3649817366,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Fire Deposit",
+      "Desc": "Great Fire Deposit (description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2147270818,
+        "FullFilename": "",
+        "FullAssetBundleId": 2147270818,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Water Deposit",
+      "Desc": "Great Water Deposit (description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1309989439,
+        "FullFilename": "",
+        "FullAssetBundleId": 1309989439,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Wind Deposit",
+      "Desc": "Great Wind Deposit (description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3898855819,
+        "FullFilename": "",
+        "FullAssetBundleId": 3898855819,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Earth Deposit",
+      "Desc": "Earth Deposit (description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 506175842,
+        "FullFilename": "",
+        "FullAssetBundleId": 506175842,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Fire Deposit",
+      "Desc": "Fire Deposit (description) Backup Slot of Resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3093080790,
+        "FullFilename": "",
+        "FullAssetBundleId": 3093080790,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0201",
+        "IcnAssetBundleId": 3878806138,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "Sunflower",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4283034872,
+        "FullFilename": "pic002_0501",
+        "FullAssetBundleId": 2098054867,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "Maajik Bloom",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1497294668,
+        "FullFilename": "pic002_0601",
+        "FullAssetBundleId": 3935492090,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2152717520,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_10",
+        "IcnAssetBundleId": 3669339796,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_001_20",
+        "IcnAssetBundleId": 1742071568,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_005_001_20",
+        "IcnAssetBundleId": 1597031325,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 399560185,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 517862377,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1980214329,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2754466943,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4128635864,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1636494065,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 399560185,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2206723033,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_001_10",
+        "IcnAssetBundleId": 3763855075,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_003_001_20",
+        "IcnAssetBundleId": 371174922,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2206723033,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2980562509,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1348661356,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0401",
+        "IcnAssetBundleId": 2229393216,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0501",
+        "IcnAssetBundleId": 2381113680,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0902",
+        "IcnAssetBundleId": 3574714350,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0108",
+        "IcnAssetBundleId": 3452877527,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0008",
+        "IcnAssetBundleId": 4146907808,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2799489550,
+        "FullFilename": "",
+        "FullAssetBundleId": 1398675703,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Earth Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "pic005_2304",
+        "FullAssetBundleId": 269585115,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Fire Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "pic005_2301",
+        "FullAssetBundleId": 2404173329,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Water Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "pic005_2303",
+        "FullAssetBundleId": 691785125,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Wind Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0101",
+        "IcnAssetBundleId": 1482096388,
+        "FullFilename": "pic005_2302",
+        "FullAssetBundleId": 416536376,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Earth Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "pic005_2204",
+        "FullAssetBundleId": 3198475404,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Fire Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "pic005_2201",
+        "FullAssetBundleId": 2063852034,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Water Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "pic005_2203",
+        "FullAssetBundleId": 3715426742,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Wind Deposit",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0001",
+        "IcnAssetBundleId": 848032814,
+        "FullFilename": "pic005_2202",
+        "FullAssetBundleId": 3969708843,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Earth Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_004_20",
+        "IcnAssetBundleId": 2713382551,
+        "FullFilename": "pic006_008_004_10",
+        "FullAssetBundleId": 1256978591,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Flame Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_001_20",
+        "IcnAssetBundleId": 1859705088,
+        "FullFilename": "pic006_008_001_10",
+        "FullAssetBundleId": 3164833910,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Water Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_003_20",
+        "IcnAssetBundleId": 1055367773,
+        "FullFilename": "pic006_008_003_10",
+        "FullAssetBundleId": 450134978,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Wind Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_002_20",
+        "IcnAssetBundleId": 2559617513,
+        "FullFilename": "pic006_008_002_10",
+        "FullAssetBundleId": 1139197583,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Earth Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_004_20",
+        "IcnAssetBundleId": 2713382551,
+        "FullFilename": "pic006_008_004_00",
+        "FullAssetBundleId": 3851537723,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Flame Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_001_20",
+        "IcnAssetBundleId": 1859705088,
+        "FullFilename": "pic006_008_001_00",
+        "FullAssetBundleId": 3564754854,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Water Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_003_20",
+        "IcnAssetBundleId": 1055367773,
+        "FullFilename": "pic006_008_003_00",
+        "FullAssetBundleId": 1913576466,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Wind Tree",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_008_002_20",
+        "IcnAssetBundleId": 2559617513,
+        "FullFilename": "pic006_008_002_00",
+        "FullAssetBundleId": 3081364124,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Earthquake Bass",
+      "Desc": "A giant earth fish born from a crack in the ground.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 299821352,
+        "FullFilename": "pic007_1903",
+        "FullAssetBundleId": 299821352,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Flame Bass",
+      "Desc": "A red-hot giant fish appearing in the lava.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 540472245,
+        "FullFilename": "pic007_1902",
+        "FullAssetBundleId": 540472245,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Anemo Bass",
+      "Desc": "A giant fish of wind that travels from one water to another.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2252470273,
+        "FullFilename": "pic007_1904",
+        "FullAssetBundleId": 2252470273,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Torrent Bass",
+      "Desc": "A fastest giant fish which generates whirlpool when swimming.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1879673064,
+        "FullFilename": "pic007_1905",
+        "FullAssetBundleId": 1879673064,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Wobble Fish",
+      "Desc": "A powerful giant fish that can turn a boat over.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1635563642,
+        "FullFilename": "pic007_1901",
+        "FullAssetBundleId": 1635563642,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Hot Fish",
+      "Desc": "A troublesome big fish that increases the water temperature around it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1635563642,
+        "FullFilename": "pic007_1901",
+        "FullAssetBundleId": 1635563642,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Sunder Fish",
+      "Desc": "A big fish too dangerous to touch. It can cut seaweeds and fishing lines into pieces.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1635563642,
+        "FullFilename": "pic007_1901",
+        "FullAssetBundleId": 1635563642,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Vortex Fish",
+      "Desc": "A big fish that swims in circles in a fixed place, generating water currents.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1635563642,
+        "FullFilename": "pic007_1901",
+        "FullAssetBundleId": 1635563642,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Star Crystal (Pending)",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_1701",
+        "IcnAssetBundleId": 354536328,
+        "FullFilename": "pic005_1703",
+        "FullAssetBundleId": 4236368881,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Moon Crystal (Pending)",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_2001",
+        "IcnAssetBundleId": 1786172048,
+        "FullFilename": "pic005_2002",
+        "FullAssetBundleId": 958850431,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Standard Elderwood (Pending)",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_005_001_20",
+        "IcnAssetBundleId": 1597031325,
+        "FullFilename": "pic006_005_001_10",
+        "FullAssetBundleId": 2672946891,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Divine Oak",
+      "Desc": "A legendary great tree known as the \"Guardian of the Forest\" and the \"Intelligent Divine Tree\". They say it will entrust its new shoots to Woodcutters it acknowledges.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_011_20",
+        "IcnAssetBundleId": 2931422294,
+        "FullFilename": "pic006_001_011_20",
+        "FullAssetBundleId": 2931422294,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Lucky Bream",
+      "Desc": "(description) Lucky Bream",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "pic007_0001",
+        "FullAssetBundleId": 1679675417,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Lucky Bream",
+      "Desc": "(description) Great Lucky Bream",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4270231307,
+        "FullFilename": "pic007_1102",
+        "FullAssetBundleId": 4270231307,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Xmas Crystal",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0412",
+        "IcnAssetBundleId": 1492223167,
+        "FullFilename": "pic005_0412",
+        "FullAssetBundleId": 1492223167,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Xmas Crystal",
+      "Desc": "Pending",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_0512",
+        "IcnAssetBundleId": 29606386,
+        "FullFilename": "pic005_0512",
+        "FullAssetBundleId": 29606386,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "",
+      "Desc": "Frozen Salmon (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2813643334,
+        "FullFilename": "pic007_2101",
+        "FullAssetBundleId": 2813643334,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Icy King Squid",
+      "Desc": "Icy King Squid (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2522665179,
+        "FullFilename": "pic007_2201",
+        "FullAssetBundleId": 2522665179,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Giant Lava Prawn",
+      "Desc": "Giant Lava Prawn (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 808180591,
+        "FullFilename": "pic007_2301",
+        "FullAssetBundleId": 808180591,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Fir",
+      "Desc": "Great Fir (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 4119651809,
+        "FullFilename": "pic006_003_007_20",
+        "FullAssetBundleId": 4119651809,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Earth Stone",
+      "Desc": "A mysterious ore said to be intelligent. It emits brighter light when facing a Miner it acknowledges.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_2401",
+        "IcnAssetBundleId": 1409019477,
+        "FullFilename": "pic005_2401",
+        "FullAssetBundleId": 1409019477,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Leg. Grand Wingstone",
+      "Desc": "An ore that resembles huge wings. They say only Miners acknowledged as Heroes by the ore itself can mine it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_2501",
+        "IcnAssetBundleId": 1645475016,
+        "FullFilename": "pic005_2501",
+        "FullAssetBundleId": 1645475016,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Queen Fir",
+      "Desc": "Queen Fir (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3294953340,
+        "FullFilename": "pic006_003_008_20",
+        "FullAssetBundleId": 3294953340,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Snowpeak Tree",
+      "Desc": "Great Snowpeak Tree (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 841781141,
+        "FullFilename": "pic006_003_006_20",
+        "FullAssetBundleId": 841781141,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Dragon Tree",
+      "Desc": "Great Dragon Tree (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2489025569,
+        "FullFilename": "pic006_014_001_20",
+        "FullAssetBundleId": 2489025569,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Giant Lava Prawn",
+      "Desc": "Royal Lordfish (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3638809438,
+        "FullFilename": "pic007_2401",
+        "FullAssetBundleId": 3638809438,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dragonking Fish",
+      "Desc": "Dragonking Fish (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 2123684074,
+        "FullFilename": "pic007_2501",
+        "FullAssetBundleId": 2123684074,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Firelord Tree",
+      "Desc": "Firelord Tree (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "ACTION_OBJ_ITEM_GUARD_11410_00_00",
+        "IcnAssetBundleId": 3385879065,
+        "FullFilename": "pic006_013_002_20",
+        "FullAssetBundleId": 1333576311,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Scorching Dragon Stone",
+      "Desc": "A special ore that resembles a dragon. It throws fire from the cracks. Only well-prepared Miners can get to it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic005_2601",
+        "IcnAssetBundleId": 3909863875,
+        "FullFilename": "pic005_2601",
+        "FullAssetBundleId": 3909863875,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Greenleaf Lordfish",
+      "Desc": "Snowpeak Lordfish (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic041_1023",
+        "IcnAssetBundleId": 749533005,
+        "FullFilename": "pic007_1702",
+        "FullAssetBundleId": 749533005,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Greenleaf Lordfish",
+      "Desc": "Snowpeak Lordfish (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic041_1023",
+        "IcnAssetBundleId": 749533005,
+        "FullFilename": "pic007_1702",
+        "FullAssetBundleId": 749533005,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Greenleaf Lordfish",
+      "Desc": "Snowpeak Lordfish (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic041_1023",
+        "IcnAssetBundleId": 749533005,
+        "FullFilename": "pic007_1702",
+        "FullAssetBundleId": 749533005,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Berserk Volcanic Tuna",
+      "Desc": "Berserk Volcanic Tuna (description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "ACTION_OBJ_ITEM_GUARD_11410_00_00",
+        "IcnAssetBundleId": 3385879065,
+        "FullFilename": "pic007_0602",
+        "FullAssetBundleId": 2329672953,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Grizzly Oak Tree",
+      "Desc": "A giant tree whose leaves resemble the face of bears. They say you need to be as strong as a bear to log this tree, so it's seen as a symbol of strength.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_012_20",
+        "IcnAssetBundleId": 3140740708,
+        "FullFilename": "pic006_001_012_20",
+        "FullAssetBundleId": 3140740708,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Staff of Giant",
+      "Desc": "A giant tree said to be used by giants to make staffs. Tall as it is, seldom can any Woodcutter find it. The reason remains unknown.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_016_001_20",
+        "IcnAssetBundleId": 491056592,
+        "FullFilename": "pic006_016_001_20",
+        "FullAssetBundleId": 491056592,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Rainbow Flying Fish",
+      "Desc": "A dreamy fish said to be able to fly. It has grown too big to leave the water, though.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 3943472441,
+        "FullFilename": "pic007_2601",
+        "FullAssetBundleId": 3943472441,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Spookstone",
+      "Desc": "Spookstone_(description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic_005_0413",
+        "IcnAssetBundleId": 1299945101,
+        "FullFilename": "pic005_0413",
+        "FullAssetBundleId": 1299945101,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Great Spookstone",
+      "Desc": "Great Spookstone_(description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic_005_0513",
+        "IcnAssetBundleId": 340382656,
+        "FullFilename": "pic005_0513",
+        "FullAssetBundleId": 340382656,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Dark Spookstone",
+      "Desc": "Dark Spookstone_(description)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic_005_0613",
+        "IcnAssetBundleId": 2990463092,
+        "FullFilename": "pic005_0613",
+        "FullAssetBundleId": 2990463092,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Serpent Tree",
+      "Desc": "A tree which resembles two snakes intertwined. Sometimes it really has snakes twining around it.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_017_001_10",
+        "IcnAssetBundleId": 2211889897,
+        "FullFilename": "pic006_017_001_10",
+        "FullAssetBundleId": 2211889897,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Giant Serpent Tree",
+      "Desc": "A giant tree which resembles two snakes intertwined. Flowers may bloom at the heads of the snakes.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_017_002_20",
+        "IcnAssetBundleId": 631359837,
+        "FullFilename": "pic006_017_002_20",
+        "FullAssetBundleId": 631359837,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Giant Light Serpent Tree",
+      "Desc": "A giant tree which resembles a golden cobra. It has unique giant leaves that look like they will bite.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_018_001_20",
+        "IcnAssetBundleId": 3758553043,
+        "FullFilename": "pic006_018_001_20",
+        "FullAssetBundleId": 3758553043,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Spook Wood",
+      "Desc": "A tree possessed by spooks. Its appearance has become spook-like, which makes it eerie.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_013_10",
+        "IcnAssetBundleId": 1181875303,
+        "FullFilename": "pic006_001_013_10",
+        "FullAssetBundleId": 1181875303,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Giant Spook Wood",
+      "Desc": "A great tree possessed by powerful spooks. It's bigger than usual Spook Woods, and is eerier.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_013_20",
+        "IcnAssetBundleId": 2006574842,
+        "FullFilename": "pic006_001_013_20",
+        "FullAssetBundleId": 2006574842,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Shadow Spook Wood",
+      "Desc": "A tree possessed by a shadow spook. It's even eerier, and emits a dangerous aura.",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_001_013_30",
+        "IcnAssetBundleId": 3522096462,
+        "FullFilename": "pic006_001_013_30",
+        "FullAssetBundleId": 3522096462,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Spirit Tree Stormwood",
+      "Desc": "A floating giant tree that is tens of thousands of years old. Leader of the Spook Woods. Also known as a Spirit Tree (Giant Spirit Tree)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_005_003_20",
+        "IcnAssetBundleId": 665230759,
+        "FullFilename": "pic006_005_003_20",
+        "FullAssetBundleId": 665230759,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Spirit Tree Stormwood",
+      "Desc": "A floating giant tree that is tens of thousands of years old. Leader of the Spook Woods. Also known as a Spirit Tree (Giant Spirit Tree)",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic006_005_003_20",
+        "IcnAssetBundleId": 665230759,
+        "FullFilename": "pic006_005_004_20",
+        "FullAssetBundleId": 665230759,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Resource Ore for Test",
+      "Desc": "Cosmo Confirm_description",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic_pic005_2206",
+        "IcnAssetBundleId": 926247322,
+        "FullFilename": "pic005_2206",
+        "FullAssetBundleId": 926247322,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "General Test - Deposit",
+      "Desc": "General Test Char 2_description",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic_dummy_pick_9999_98_1",
+        "IcnAssetBundleId": 1077041420,
+        "FullFilename": "dummy_pick_9999_98_1",
+        "FullAssetBundleId": 1077041420,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "General Test - Deposit 2",
+      "Desc": "General Test Char 2_description",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic_dummy_pick_9999_98_2",
+        "IcnAssetBundleId": 3644524726,
+        "FullFilename": "dummy_pick_9999_98_2",
+        "FullAssetBundleId": 3644524726,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "General Test - Great Tree",
+      "Desc": "General Test Char 3_description",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic_dummy_pick_9999_98_3",
+        "IcnAssetBundleId": 2923182112,
+        "FullFilename": "dummy_pick_9999_98_3",
+        "FullAssetBundleId": 2923182112,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "General Test - Fish Boss",
+      "Desc": "General Test Char 4_description",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "icn_pic_dummy_pick_9999_98_4",
+        "IcnAssetBundleId": 811117955,
+        "FullFilename": "dummy_pick_9999_98_4",
+        "FullAssetBundleId": 811117955,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "Resource Model",
+      "Desc": "It's a dummy of resources",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "",
+        "IcnAssetBundleId": 636543085,
+        "FullFilename": "pic001_0001",
+        "FullAssetBundleId": 1669065856,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    }
+  ]
+}

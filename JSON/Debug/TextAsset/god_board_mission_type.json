@@ -1,0 +1,37 @@
+{
+  "TableGodBoardMissionType": [
+    {
+      "GodBoardMissionTypeId": 2516741124,
+      "Uniqid": 2516741124
+    },
+    {
+      "GodBoardMissionTypeId": 3647257235,
+      "Uniqid": 3647257235
+    },
+    {
+      "GodBoardMissionTypeId": 511374928,
+      "Uniqid": 511374928
+    },
+    {
+      "GodBoardMissionTypeId": 1457491476,
+      "Uniqid": 1457491476
+    },
+    {
+      "GodBoardMissionTypeId": 2008590968,
+      "Uniqid": 2008590968
+    },
+    {
+      "GodBoardMissionTypeId": 2454984749,
+      "Uniqid": 2454984749
+    },
+    {
+      "GodBoardMissionTypeId": 1946752889,
+      "Uniqid": 1946752889
+    },
+    {
+      "GodBoardMissionTypeId": 3081275098,
+      "Uniqid": 3081275098
+    }
+  ],
+  "IdRef": {}
+}

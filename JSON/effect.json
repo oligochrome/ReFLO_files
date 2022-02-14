@@ -1,0 +1,158 @@
+{
+  "Info": [
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff027_0999",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff027_0027",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff027_0028",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff027_0029",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff027_0030",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff027_0031",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff027_0032",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff027_0033",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "eff010_0004",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    },
+    {
+      "Name": "-",
+      "Desc": "-",
+      "Rarity": 1,
+      "Resources": {
+        "IcnFilename": "dummy",
+        "IcnAssetBundleId": 1398675703,
+        "FullFilename": "",
+        "FullAssetBundleId": 3316339059,
+        "AtlasResID": 1007313192,
+        "SpriteName": ""
+      },
+      "CharInfo": null
+    }
+  ]
+}

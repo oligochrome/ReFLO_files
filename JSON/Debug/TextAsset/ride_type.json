@@ -1,0 +1,29 @@
+{
+  "TableRideType": [
+    {
+      "RideTypeId": 1800325400,
+      "Uniqid": 1800325400
+    },
+    {
+      "RideTypeId": 3251937555,
+      "Uniqid": 3251937555
+    },
+    {
+      "RideTypeId": 3873520956,
+      "Uniqid": 3873520956
+    },
+    {
+      "RideTypeId": 982715398,
+      "Uniqid": 982715398
+    },
+    {
+      "RideTypeId": 520032210,
+      "Uniqid": 520032210
+    },
+    {
+      "RideTypeId": 2563843327,
+      "Uniqid": 2563843327
+    }
+  ],
+  "IdRef": {}
+}

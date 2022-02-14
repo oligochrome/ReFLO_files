@@ -1,0 +1,21 @@
+{
+  "TableGodMissionCond": [
+    {
+      "GodMissionCondId": 2924768047,
+      "Uniqid": 2924768047,
+      "CondId": 879393066,
+      "CondValue1": "1",
+      "CondValue2": "1",
+      "LockTextId": 4260187921
+    },
+    {
+      "GodMissionCondId": 493861497,
+      "Uniqid": 493861497,
+      "CondId": 879393066,
+      "CondValue1": "1",
+      "CondValue2": "1",
+      "LockTextId": 276403628
+    }
+  ],
+  "IdRef": {}
+}

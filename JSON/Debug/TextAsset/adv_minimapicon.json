@@ -1,0 +1,170 @@
+{
+  "TableAdvMinimapicon": [
+    {
+      "AdvMinimapiconId": 513692548,
+      "MinimapiconId": 513692548,
+      "IconName": "BuddyIcon"
+    },
+    {
+      "AdvMinimapiconId": 2622011093,
+      "MinimapiconId": 2622011093,
+      "IconName": "Crystal"
+    },
+    {
+      "AdvMinimapiconId": 1953300750,
+      "MinimapiconId": 1953300750,
+      "IconName": "FellingIcon"
+    },
+    {
+      "AdvMinimapiconId": 3676078873,
+      "MinimapiconId": 3676078873,
+      "IconName": "MonsterIconEvent"
+    },
+    {
+      "AdvMinimapiconId": 550092155,
+      "MinimapiconId": 550092155,
+      "IconName": "FellingIconGold"
+    },
+    {
+      "AdvMinimapiconId": 1853707889,
+      "MinimapiconId": 1853707889,
+      "IconName": "FishingIcon"
+    },
+    {
+      "AdvMinimapiconId": 3941818095,
+      "MinimapiconId": 3941818095,
+      "IconName": "MonsterIconEvent"
+    },
+    {
+      "AdvMinimapiconId": 2711266517,
+      "MinimapiconId": 2711266517,
+      "IconName": "FishingIconGold"
+    },
+    {
+      "AdvMinimapiconId": 741785974,
+      "MinimapiconId": 741785974,
+      "IconName": "MapChange"
+    },
+    {
+      "AdvMinimapiconId": 3872513315,
+      "MinimapiconId": 3872513315,
+      "IconName": "MiningIcon"
+    },
+    {
+      "AdvMinimapiconId": 2232982037,
+      "MinimapiconId": 2232982037,
+      "IconName": "MonsterIconEvent"
+    },
+    {
+      "AdvMinimapiconId": 4197039875,
+      "MinimapiconId": 4197039875,
+      "IconName": "MiningIconGold"
+    },
+    {
+      "AdvMinimapiconId": 1067216696,
+      "MinimapiconId": 1067216696,
+      "IconName": "MonsterIcon"
+    },
+    {
+      "AdvMinimapiconId": 1831386470,
+      "MinimapiconId": 1831386470,
+      "IconName": "MonsterIconEvent"
+    },
+    {
+      "AdvMinimapiconId": 1926954820,
+      "MinimapiconId": 1926954820,
+      "IconName": "MonsterIconGold"
+    },
+    {
+      "AdvMinimapiconId": 4160769026,
+      "MinimapiconId": 4160769026,
+      "IconName": "MonsterIconSilver"
+    },
+    {
+      "AdvMinimapiconId": 2680985848,
+      "MinimapiconId": 2680985848,
+      "IconName": "PlayerIcon"
+    },
+    {
+      "AdvMinimapiconId": 3905661038,
+      "MinimapiconId": 3905661038,
+      "IconName": "MultiIcon01"
+    },
+    {
+      "AdvMinimapiconId": 1908603348,
+      "MinimapiconId": 1908603348,
+      "IconName": "MultiIcon02"
+    },
+    {
+      "AdvMinimapiconId": 113625410,
+      "MinimapiconId": 113625410,
+      "IconName": "MultiIcon03"
+    },
+    {
+      "AdvMinimapiconId": 675200516,
+      "MinimapiconId": 675200516,
+      "IconName": "MultiMapIcon00"
+    },
+    {
+      "AdvMinimapiconId": 1597607570,
+      "MinimapiconId": 1597607570,
+      "IconName": "MultiMapIcon01"
+    },
+    {
+      "AdvMinimapiconId": 3325091624,
+      "MinimapiconId": 3325091624,
+      "IconName": "MultiMapIcon02"
+    },
+    {
+      "AdvMinimapiconId": 2973233086,
+      "MinimapiconId": 2973233086,
+      "IconName": "MultiMapIcon03"
+    },
+    {
+      "AdvMinimapiconId": 1178918383,
+      "MinimapiconId": 1178918383,
+      "IconName": ""
+    },
+    {
+      "AdvMinimapiconId": 2447545583,
+      "MinimapiconId": 2447545583,
+      "IconName": "NPCIcon"
+    },
+    {
+      "AdvMinimapiconId": 1528155408,
+      "MinimapiconId": 1528155408,
+      "IconName": "PlayerIcon"
+    },
+    {
+      "AdvMinimapiconId": 3125755483,
+      "MinimapiconId": 3125755483,
+      "IconName": "QuestSannIcon"
+    },
+    {
+      "AdvMinimapiconId": 70544000,
+      "MinimapiconId": 70544000,
+      "IconName": "Ranking"
+    },
+    {
+      "AdvMinimapiconId": 4027549492,
+      "MinimapiconId": 4027549492,
+      "IconName": "StarIcon"
+    },
+    {
+      "AdvMinimapiconId": 3167533678,
+      "MinimapiconId": 3167533678,
+      "IconName": "ItemTargetIcon"
+    },
+    {
+      "AdvMinimapiconId": 158813899,
+      "MinimapiconId": 158813899,
+      "IconName": "WarpPointIcon"
+    },
+    {
+      "AdvMinimapiconId": 849380876,
+      "MinimapiconId": 849380876,
+      "IconName": "WPandQSIcon"
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,236 @@
+{
+  "TableParamMonsterAnger": [
+    {
+      "ParamMonsterAngerId": 4105043995,
+      "UniqId": 4105043995,
+      "TargetObjId": 1512597839,
+      "AngerKindId": 1984048167,
+      "Value1": 80.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 50.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 30.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 1839681953,
+      "UniqId": 1839681953,
+      "TargetObjId": 1512597839,
+      "AngerKindId": 751883105,
+      "Value1": 120.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 120.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 120.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 992863532,
+      "UniqId": 992863532,
+      "TargetObjId": 2613709256,
+      "AngerKindId": 1984048167,
+      "Value1": 80.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 50.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 20.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 2720314518,
+      "UniqId": 2720314518,
+      "TargetObjId": 2613709256,
+      "AngerKindId": 751883105,
+      "Value1": 30.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 30.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 1000.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 2207351369,
+      "UniqId": 2207351369,
+      "TargetObjId": 3972872542,
+      "AngerKindId": 1984048167,
+      "Value1": 80.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 50.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 20.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 446223347,
+      "UniqId": 446223347,
+      "TargetObjId": 3972872542,
+      "AngerKindId": 751883105,
+      "Value1": 30.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 30.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 1000.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 2766474552,
+      "UniqId": 2766474552,
+      "TargetObjId": 3250989319,
+      "AngerKindId": 1177132162,
+      "Value1": 0.0,
+      "EfficacyA1": [
+        1242888044,
+        2727487739
+      ],
+      "Value2": 0.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 0.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 2236627943,
+      "UniqId": 2236627943,
+      "TargetObjId": 3066108305,
+      "AngerKindId": 1177132162,
+      "Value1": 0.0,
+      "EfficacyA1": [
+        1242888044,
+        2727487739
+      ],
+      "Value2": 1.0,
+      "EfficacyB2": [
+        1242888044,
+        2727487739
+      ],
+      "Value3": 2.0,
+      "EfficacyC3": [
+        1242888044,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 3074097786,
+      "UniqId": 3074097786,
+      "TargetObjId": 2984117500,
+      "AngerKindId": 1984048167,
+      "Value1": 80.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 50.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 20.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 775050176,
+      "UniqId": 775050176,
+      "TargetObjId": 2984117500,
+      "AngerKindId": 751883105,
+      "Value1": 30.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 30.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 30.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    },
+    {
+      "ParamMonsterAngerId": 1251532902,
+      "UniqId": 1251532902,
+      "TargetObjId": 986327055,
+      "AngerKindId": 384337679,
+      "Value1": 0.0,
+      "EfficacyA1": [
+        2727487739,
+        2727487739
+      ],
+      "Value2": 0.0,
+      "EfficacyB2": [
+        2727487739,
+        2727487739
+      ],
+      "Value3": 0.0,
+      "EfficacyC3": [
+        2727487739,
+        2727487739
+      ]
+    }
+  ],
+  "IdRef": {}
+}

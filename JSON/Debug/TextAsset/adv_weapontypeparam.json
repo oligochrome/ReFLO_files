@@ -1,0 +1,155 @@
+{
+  "TableAdvWeapontypeparam": [
+    {
+      "AdvWeapontypeparamIdx": 37192893,
+      "AdvWeaponTypeParamID": 37192893,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 39898878,
+      "AdvWeaponTypeParamID": 39898878,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 2604586247,
+      "AdvWeaponTypeParamID": 2604586247,
+      "NearAttackRange": 3.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 2060431040,
+      "AdvWeaponTypeParamID": 2060431040,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 10.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 1290643226,
+      "AdvWeaponTypeParamID": 1290643226,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 885002776,
+      "AdvWeaponTypeParamID": 885002776,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 877359602,
+      "AdvWeaponTypeParamID": 877359602,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 9.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 2721405723,
+      "AdvWeaponTypeParamID": 2721405723,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 77053593,
+      "AdvWeaponTypeParamID": 77053593,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 3208304298,
+      "AdvWeaponTypeParamID": 3208304298,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 9.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 2658943276,
+      "AdvWeaponTypeParamID": 2658943276,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 3309257548,
+      "AdvWeaponTypeParamID": 3309257548,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 4188555785,
+      "AdvWeaponTypeParamID": 4188555785,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 1088589017,
+      "AdvWeaponTypeParamID": 1088589017,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 9.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    },
+    {
+      "AdvWeapontypeparamIdx": 2557065284,
+      "AdvWeaponTypeParamID": 2557065284,
+      "NearAttackRange": 4.0,
+      "UnlockDistance": 13.5,
+      "FrontLockDistance": 8.0,
+      "FrontLockArea": 30.0,
+      "NearLockDistance": 6.5,
+      "NearLockArea": 180.0
+    }
+  ],
+  "IdRef": {}
+}

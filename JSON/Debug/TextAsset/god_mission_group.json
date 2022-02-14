@@ -1,0 +1,3407 @@
+{
+  "TableGodMissionGroup": [
+    {
+      "GodMissionGroupId": 3383976870,
+      "Uniqid": 3383976870,
+      "TitleTextId": 2376196631,
+      "GodmissionId": 2924768047,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2506839545,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 1,
+      "StartAdvMapId": 492214431,
+      "ResIconId": 1862126690,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 3330264463,
+      "UnlockTextId": 4260187921,
+      "SortWeight": 1100,
+      "MapId": 1116790078,
+      "StopTime": 10.0,
+      "GroupEventId": 1309571148,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2517945477
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        817018193
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1354379804,
+      "Uniqid": 1354379804,
+      "TitleTextId": 812355289,
+      "GodmissionId": 1614014437,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2506839545,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 2,
+      "StartAdvMapId": 492214431,
+      "ResIconId": 1862126690,
+      "OpenEventId": 2371842971,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1290,
+      "MapId": 1116790078,
+      "StopTime": 10.0,
+      "GroupEventId": 2145805009,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2517945477
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        2
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        817018193
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 666698378,
+      "Uniqid": 666698378,
+      "TitleTextId": 3992803164,
+      "GodmissionId": 2026045672,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2506839545,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 3,
+      "StartAdvMapId": 492214431,
+      "ResIconId": 1862126690,
+      "OpenEventId": 724072495,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1390,
+      "MapId": 1116790078,
+      "StopTime": 10.0,
+      "GroupEventId": 3650185573,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2517945477
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        3
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        817018193
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3118044969,
+      "Uniqid": 3118044969,
+      "TitleTextId": 2425245956,
+      "GodmissionId": 3013595981,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2506839545,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 5,
+      "StartAdvMapId": 492214431,
+      "ResIconId": 1862126690,
+      "OpenEventId": 4002367137,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1490,
+      "MapId": 1116790078,
+      "StopTime": 10.0,
+      "GroupEventId": 473323499,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2517945477
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        5
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        817018193
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2442318677,
+      "Uniqid": 2442318677,
+      "TitleTextId": 2457186834,
+      "GodmissionId": 4293286074,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2506839545,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 7,
+      "StartAdvMapId": 39432544,
+      "ResIconId": 1862126690,
+      "OpenEventId": 359999682,
+      "ClearEventId": 1874693195,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 1590,
+      "MapId": 1116790078,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2517945477
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        7
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        817018193
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 335187929,
+      "Uniqid": 335187929,
+      "TitleTextId": 881718477,
+      "GodmissionId": 821982806,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2506839545,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1862126690,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1500,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3674655816,
+      "Uniqid": 3674655816,
+      "TitleTextId": 2758366949,
+      "GodmissionId": 1902731097,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4021132404,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 9,
+      "StartAdvMapId": 618374234,
+      "ResIconId": 4160003544,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 2100,
+      "MapId": 3684273284,
+      "StopTime": 10.0,
+      "GroupEventId": 2772026191,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        1072117550
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        10
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        570890943
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1108319730,
+      "Uniqid": 1108319730,
+      "TitleTextId": 430127659,
+      "GodmissionId": 3898609379,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4021132404,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 10,
+      "StartAdvMapId": 618374234,
+      "ResIconId": 4160003544,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 2300,
+      "MapId": 3684273284,
+      "StopTime": 10.0,
+      "GroupEventId": 2496780754,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        1072117550
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        10
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3138276101
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 889761124,
+      "Uniqid": 889761124,
+      "TitleTextId": 3291866030,
+      "GodmissionId": 2674343541,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4021132404,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 12,
+      "StartAdvMapId": 618374234,
+      "ResIconId": 4160003544,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 2500,
+      "MapId": 3684273284,
+      "StopTime": 10.0,
+      "GroupEventId": 849793638,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        1072117550
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        10
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3423173523
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 386310651,
+      "Uniqid": 386310651,
+      "TitleTextId": 2029219696,
+      "GodmissionId": 17017814,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4021132404,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 15,
+      "Level": 14,
+      "StartAdvMapId": 283909774,
+      "ResIconId": 4160003544,
+      "OpenEventId": 1659632178,
+      "ClearEventId": 404971195,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 2700,
+      "MapId": 3684273284,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        1072117550
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        10
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        592140385
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2641725498,
+      "Uniqid": 2641725498,
+      "TitleTextId": 1223479574,
+      "GodmissionId": 3738872089,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4021132404,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 48085091,
+      "SortWeight": 2000,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 75291008,
+      "Uniqid": 75291008,
+      "TitleTextId": 2030357387,
+      "GodmissionId": 2967305749,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4021132404,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1862126690,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 2200,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1937500438,
+      "Uniqid": 1937500438,
+      "TitleTextId": 3748905023,
+      "GodmissionId": 910757051,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4021132404,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 4160003544,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 2400,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3978263733,
+      "Uniqid": 3978263733,
+      "TitleTextId": 450166449,
+      "GodmissionId": 343308843,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4021132404,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 2600,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1673177901,
+      "Uniqid": 1673177901,
+      "TitleTextId": 167888756,
+      "GodmissionId": 3183697863,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2197404803,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 16,
+      "StartAdvMapId": 866168857,
+      "ResIconId": 2163453262,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 3100,
+      "MapId": 2896083986,
+      "StopTime": 10.0,
+      "GroupEventId": 1258006641,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 4206099095,
+      "Uniqid": 4206099095,
+      "TitleTextId": 3083578298,
+      "GodmissionId": 617221757,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2197404803,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 17,
+      "StartAdvMapId": 866168857,
+      "ResIconId": 2163453262,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 3300,
+      "MapId": 2896083986,
+      "StopTime": 10.0,
+      "GroupEventId": 2064888556,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        4204186190
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        17
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        62008416
+      ],
+      "FirstIn": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "GodMissionGroupId": 2377435649,
+      "Uniqid": 2377435649,
+      "TitleTextId": 1784508991,
+      "GodmissionId": 1405959915,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2197404803,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 21,
+      "StartAdvMapId": 866168857,
+      "ResIconId": 2163453262,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 3500,
+      "MapId": 2896083986,
+      "StopTime": 10.0,
+      "GroupEventId": 3714365784,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        4204186190
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        17
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        1958026486
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3696915038,
+      "Uniqid": 3696915038,
+      "TitleTextId": 2543966609,
+      "GodmissionId": 3450448712,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2197404803,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 20,
+      "Level": 22,
+      "StartAdvMapId": 2823846379,
+      "ResIconId": 2163453262,
+      "OpenEventId": 4182685277,
+      "ClearEventId": 2206601940,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 3700,
+      "MapId": 2896083986,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        4204186190
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        17
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3893857220
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1373604004,
+      "Uniqid": 1373604004,
+      "TitleTextId": 3588436064,
+      "GodmissionId": 1481563063,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2197404803,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2163453262,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 48085091,
+      "SortWeight": 3000,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3369523486,
+      "Uniqid": 3369523486,
+      "TitleTextId": 3825937149,
+      "GodmissionId": 3183697863,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2197404803,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2163453262,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 3200,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3218205064,
+      "Uniqid": 3218205064,
+      "TitleTextId": 1115431241,
+      "GodmissionId": 3183697863,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2197404803,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2163453262,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 3400,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 565541931,
+      "Uniqid": 565541931,
+      "TitleTextId": 2279284679,
+      "GodmissionId": 2812701270,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2197404803,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2163453262,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 3600,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 4268594068,
+      "Uniqid": 4268594068,
+      "TitleTextId": 4160241409,
+      "GodmissionId": 3070645982,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 23,
+      "StartAdvMapId": 1850532117,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 4002,
+      "MapId": 257457205,
+      "StopTime": 10.0,
+      "GroupEventId": 2821174024,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2604772238
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        23
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        124536163
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1734656558,
+      "Uniqid": 1734656558,
+      "TitleTextId": 1244812239,
+      "GodmissionId": 772736868,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 24,
+      "StartAdvMapId": 1850532117,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 4004,
+      "MapId": 257457205,
+      "StopTime": 10.0,
+      "GroupEventId": 2580523413,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2604772238
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        23
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        2657424601
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 274985656,
+      "Uniqid": 274985656,
+      "TitleTextId": 2544142922,
+      "GodmissionId": 1493710834,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 25,
+      "StartAdvMapId": 1850532117,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 4006,
+      "MapId": 257457205,
+      "StopTime": 20.0,
+      "GroupEventId": 1069064737,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2604772238
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        23
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3915523151
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3244245734,
+      "Uniqid": 3244245734,
+      "TitleTextId": 1989137397,
+      "GodmissionId": 3345785425,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 25,
+      "Level": 27,
+      "StartAdvMapId": 898056530,
+      "ResIconId": 513226989,
+      "OpenEventId": 2379636690,
+      "ClearEventId": 4146002779,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 4008,
+      "MapId": 257457205,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2604772238
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        23
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        4111645564
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 618379117,
+      "Uniqid": 618379117,
+      "TitleTextId": 3852082749,
+      "GodmissionId": 2959839943,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 1,
+      "Cost": 30,
+      "Level": 35,
+      "StartAdvMapId": 3683197054,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 4260187921,
+      "SortWeight": 4010,
+      "MapId": 257457205,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1528463805,
+      "Uniqid": 1528463805,
+      "TitleTextId": 2955844256,
+      "GodmissionId": 2467432466,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 48085091,
+      "SortWeight": 4001,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3256078343,
+      "Uniqid": 3256078343,
+      "TitleTextId": 2177269821,
+      "GodmissionId": 3032495881,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 4003,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3038044305,
+      "Uniqid": 3038044305,
+      "TitleTextId": 665947017,
+      "GodmissionId": 844383655,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 4005,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 728790322,
+      "Uniqid": 728790322,
+      "TitleTextId": 3793138951,
+      "GodmissionId": 275460919,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 4007,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1551320484,
+      "Uniqid": 1551320484,
+      "TitleTextId": 1147256499,
+      "GodmissionId": 2383886506,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 1,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 102524110,
+      "SortWeight": 4009,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3313374238,
+      "Uniqid": 3313374238,
+      "TitleTextId": 1971954734,
+      "GodmissionId": 3368509454,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 1,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 102524110,
+      "SortWeight": 4011,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2994283656,
+      "Uniqid": 2994283656,
+      "TitleTextId": 3556683674,
+      "GodmissionId": 694338429,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2687715709,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 1,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 993260905,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 4012,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1188164849,
+      "Uniqid": 1188164849,
+      "TitleTextId": 1502654096,
+      "GodmissionId": 2510436204,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 36,
+      "StartAdvMapId": 3469249642,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 5100,
+      "MapId": 3288641424,
+      "StopTime": 10.0,
+      "GroupEventId": 1206245430,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2045497629
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        36
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3218088454
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3755517259,
+      "Uniqid": 3755517259,
+      "TitleTextId": 3831153246,
+      "GodmissionId": 197567183,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 39,
+      "StartAdvMapId": 3469249642,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 5200,
+      "MapId": 3288641424,
+      "StopTime": 10.0,
+      "GroupEventId": 1980613291,
+      "PartyObj": [
+        3783738041,
+        2976395469,
+        2045497629
+      ],
+      "PartyLevel": [
+        1,
+        36,
+        36
+      ],
+      "PartyEquips": [
+        3188624091,
+        1698509129,
+        651785148
+      ],
+      "FirstIn": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2833225181,
+      "Uniqid": 2833225181,
+      "TitleTextId": 969677787,
+      "GodmissionId": 2093060697,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 42,
+      "StartAdvMapId": 3469249642,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 5300,
+      "MapId": 3288641424,
+      "StopTime": 10.0,
+      "GroupEventId": 3497707807,
+      "PartyObj": [
+        3783738041,
+        387922809,
+        2045497629
+      ],
+      "PartyLevel": [
+        1,
+        36,
+        36
+      ],
+      "PartyEquips": [
+        3188624091,
+        3276421885,
+        1373520682
+      ],
+      "FirstIn": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 168005955,
+      "Uniqid": 168005955,
+      "TitleTextId": 2581423380,
+      "GodmissionId": 3855139811,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 30,
+      "Level": 45,
+      "StartAdvMapId": 2369463863,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 5400,
+      "MapId": 3288641424,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2045497629
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        36
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        1045326041
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2544927011,
+      "Uniqid": 2544927011,
+      "TitleTextId": 757169110,
+      "GodmissionId": 1583739883,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 4260187921,
+      "SortWeight": 5000,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 247058585,
+      "Uniqid": 247058585,
+      "TitleTextId": 482959691,
+      "GodmissionId": 2074891840,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 5001,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2042552335,
+      "Uniqid": 2042552335,
+      "TitleTextId": 3133041407,
+      "GodmissionId": 3802466298,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 5002,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3889853868,
+      "Uniqid": 3889853868,
+      "TitleTextId": 2132366449,
+      "GodmissionId": 1255704191,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 5101,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2430420282,
+      "Uniqid": 2430420282,
+      "TitleTextId": 3647889349,
+      "GodmissionId": 1378378098,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 5201,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 164893824,
+      "Uniqid": 164893824,
+      "TitleTextId": 3901113688,
+      "GodmissionId": 118499188,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 5301,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2127766550,
+      "Uniqid": 2127766550,
+      "TitleTextId": 1324437228,
+      "GodmissionId": 1162603279,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2788955167,
+      "UnlockTextId": 102524110,
+      "SortWeight": 5401,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 4000070023,
+      "Uniqid": 4000070023,
+      "TitleTextId": 3099147781,
+      "GodmissionId": 1162603279,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 2831878311,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 102524110,
+      "SortWeight": 5450,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1415863071,
+      "Uniqid": 1415863071,
+      "TitleTextId": 1884822114,
+      "GodmissionId": 4112732579,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 46,
+      "StartAdvMapId": 2547060059,
+      "ResIconId": 4036581825,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 6100,
+      "MapId": 1603661190,
+      "StopTime": 10.0,
+      "GroupEventId": 2899469109,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3446475429,
+      "Uniqid": 3446475429,
+      "TitleTextId": 3448927916,
+      "GodmissionId": 1814691865,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 47,
+      "StartAdvMapId": 2547060059,
+      "ResIconId": 4036581825,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 6200,
+      "MapId": 1603661190,
+      "StopTime": 10.0,
+      "GroupEventId": 2637855144,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        2397776089
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        40
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        879549522
+      ],
+      "FirstIn": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "GodMissionGroupId": 3127523891,
+      "Uniqid": 3127523891,
+      "TitleTextId": 268742441,
+      "GodmissionId": 455946383,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 48,
+      "StartAdvMapId": 2547060059,
+      "ResIconId": 4036581825,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 6300,
+      "MapId": 1603661190,
+      "StopTime": 10.0,
+      "GroupEventId": 994931228,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2358764525,
+      "Uniqid": 2358764525,
+      "TitleTextId": 1935390838,
+      "GodmissionId": 4065236410,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 30,
+      "Level": 50,
+      "StartAdvMapId": 2676918745,
+      "ResIconId": 4036581825,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 6400,
+      "MapId": 1603661190,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        1755242895
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        40
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3101301367
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 423593664,
+      "Uniqid": 423593664,
+      "TitleTextId": 1363172877,
+      "GodmissionId": 2463101813,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1771047035,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 4260187921,
+      "SortWeight": 6000,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2151077754,
+      "Uniqid": 2151077754,
+      "TitleTextId": 1621640336,
+      "GodmissionId": 1934998202,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2369048248,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 6101,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 4147242988,
+      "Uniqid": 4147242988,
+      "TitleTextId": 3336523556,
+      "GodmissionId": 480406817,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2369048248,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 6201,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1767207503,
+      "Uniqid": 1767207503,
+      "TitleTextId": 58225066,
+      "GodmissionId": 2700709394,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2369048248,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 6301,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 508707545,
+      "Uniqid": 508707545,
+      "TitleTextId": 2769254942,
+      "GodmissionId": 2236196140,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2369048248,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 6302,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2270892899,
+      "Uniqid": 2270892899,
+      "TitleTextId": 2498191491,
+      "GodmissionId": 3286210977,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2369048248,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 102524110,
+      "SortWeight": 6401,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 4032570357,
+      "Uniqid": 4032570357,
+      "TitleTextId": 848325431,
+      "GodmissionId": 1799865344,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 4243714198,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2369048248,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 3663540676,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 6402,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3973594234,
+      "Uniqid": 3973594234,
+      "TitleTextId": 3727723507,
+      "GodmissionId": 965300541,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 55,
+      "StartAdvMapId": 1850532117,
+      "ResIconId": 2275305815,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 7100,
+      "MapId": 257457205,
+      "StopTime": 10.0,
+      "GroupEventId": 1125124107,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1976659392,
+      "Uniqid": 1976659392,
+      "TitleTextId": 1677387581,
+      "GodmissionId": 2692743303,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 56,
+      "StartAdvMapId": 1850532117,
+      "ResIconId": 2275305815,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 7300,
+      "MapId": 257457205,
+      "StopTime": 10.0,
+      "GroupEventId": 1928860310,
+      "PartyObj": [
+        3783738041,
+        1658104381,
+        117576611
+      ],
+      "PartyLevel": [
+        1,
+        45,
+        45
+      ],
+      "PartyEquips": [
+        3188624091,
+        3254313214,
+        3070218344
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 47603030,
+      "Uniqid": 47603030,
+      "TitleTextId": 3194764984,
+      "GodmissionId": 3615961105,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 58,
+      "StartAdvMapId": 1850532117,
+      "ResIconId": 2275305815,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 7500,
+      "MapId": 257457205,
+      "StopTime": 10.0,
+      "GroupEventId": 3566147874,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1204498504,
+      "Uniqid": 1204498504,
+      "TitleTextId": 2617839255,
+      "GodmissionId": 1239655858,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 30,
+      "Level": 60,
+      "StartAdvMapId": 657649340,
+      "ResIconId": 2275305815,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 7700,
+      "MapId": 257457205,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3583346270,
+      "Uniqid": 3583346270,
+      "TitleTextId": 3427778427,
+      "GodmissionId": 474018966,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 4260187921,
+      "SortWeight": 7000,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1285347300,
+      "Uniqid": 1285347300,
+      "TitleTextId": 4255622630,
+      "GodmissionId": 1680781049,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2275305815,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 7200,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1000073074,
+      "Uniqid": 1000073074,
+      "TitleTextId": 1540402770,
+      "GodmissionId": 2512252097,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2275305815,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 7400,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2784981713,
+      "Uniqid": 2784981713,
+      "TitleTextId": 2658635996,
+      "GodmissionId": 702943218,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2275305815,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 7600,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3539485255,
+      "Uniqid": 3539485255,
+      "TitleTextId": 939563880,
+      "GodmissionId": 142821892,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1258615422,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 2275305815,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 3503145371,
+      "UnlockTextId": 102524110,
+      "SortWeight": 7800,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3929131189,
+      "Uniqid": 3929131189,
+      "TitleTextId": 4260187921,
+      "GodmissionId": 2924768047,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 3500669567,
+      "QuestTypeId": 754126533,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 1,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1007313192,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 4260187921,
+      "SortWeight": 9999,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 961398374,
+      "Uniqid": 961398374,
+      "TitleTextId": 2573470525,
+      "GodmissionId": 2924768047,
+      "GodmissionThemeId": 1039730481,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 35,
+      "StartAdvMapId": 1085983123,
+      "ResIconId": 4036581825,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 4065533067,
+      "SortWeight": 1003,
+      "MapId": 1561198122,
+      "StopTime": 10.0,
+      "GroupEventId": 2157300792,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2688849884,
+      "Uniqid": 2688849884,
+      "TitleTextId": 615409651,
+      "GodmissionId": 1829064438,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 2149445504,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 40,
+      "StartAdvMapId": 3469249642,
+      "ResIconId": 513226989,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 1007,
+      "MapId": 3288641424,
+      "StopTime": 10.0,
+      "GroupEventId": 2977814181,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 4241793922,
+      "Uniqid": 4241793922,
+      "TitleTextId": 617099299,
+      "GodmissionId": 4094435148,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 1839032368,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 45,
+      "StartAdvMapId": 1212299068,
+      "ResIconId": 1007313192,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 1012,
+      "MapId": 3684273284,
+      "StopTime": 10.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2374418555,
+      "Uniqid": 2374418555,
+      "TitleTextId": 3768733748,
+      "GodmissionId": 1614014437,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 694007474,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 2861910122,
+      "SortWeight": 1000,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 344953281,
+      "Uniqid": 344953281,
+      "TitleTextId": 3511306921,
+      "GodmissionId": 493861497,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 1001,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1669898583,
+      "Uniqid": 1669898583,
+      "TitleTextId": 2000503069,
+      "GodmissionId": 1656552717,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1004,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 4260115700,
+      "Uniqid": 4260115700,
+      "TitleTextId": 2996469651,
+      "GodmissionId": 2924768047,
+      "GodmissionThemeId": 3144512927,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1006,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 2330657890,
+      "Uniqid": 2330657890,
+      "TitleTextId": 351106087,
+      "GodmissionId": 2469379893,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1008,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 333600216,
+      "Uniqid": 333600216,
+      "TitleTextId": 621113018,
+      "GodmissionId": 436371040,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 2689614195,
+      "SortWeight": 1009,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1692755278,
+      "Uniqid": 1692755278,
+      "TitleTextId": 2205312270,
+      "GodmissionId": 2924768047,
+      "GodmissionThemeId": 2572288783,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1011,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 4099569887,
+      "Uniqid": 4099569887,
+      "TitleTextId": 1966740967,
+      "GodmissionId": 679710647,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 817802976,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 0,
+      "Level": 0,
+      "StartAdvMapId": 554427470,
+      "ResIconId": 1402856914,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1393721558,
+      "SortWeight": 1013,
+      "MapId": 3947500562,
+      "StopTime": -1.0,
+      "GroupEventId": 2852486751,
+      "PartyObj": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 3706439093,
+      "Uniqid": 3706439093,
+      "TitleTextId": 2191917520,
+      "GodmissionId": 2221337539,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 1285377488,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 1,
+      "StartAdvMapId": 492214431,
+      "ResIconId": 1862126690,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 1002,
+      "MapId": 1116790078,
+      "StopTime": -1.0,
+      "GroupEventId": 2048946165,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 1172476943,
+      "Uniqid": 1172476943,
+      "TitleTextId": 569411449,
+      "GodmissionId": 4083276629,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 1285377488,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 1,
+      "StartAdvMapId": 492214431,
+      "ResIconId": 1862126690,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 1005,
+      "MapId": 1116790078,
+      "StopTime": -1.0,
+      "GroupEventId": 2048946165,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "GodMissionGroupId": 853910681,
+      "Uniqid": 853910681,
+      "TitleTextId": 4128376609,
+      "GodmissionId": 2198548442,
+      "GodmissionThemeId": 171232723,
+      "GodmissionFieldId": 1514335830,
+      "QuestTypeId": 1285377488,
+      "ClearFlagEX": 0,
+      "ExQuestFlag": 0,
+      "Cost": 10,
+      "Level": 45,
+      "StartAdvMapId": 2547060059,
+      "ResIconId": 1862126690,
+      "OpenEventId": 2852486751,
+      "ClearEventId": 2852486751,
+      "UnlockTextId": 1283390660,
+      "SortWeight": 1010,
+      "MapId": 1603661190,
+      "StopTime": -1.0,
+      "GroupEventId": 3988750044,
+      "PartyObj": [
+        3783738041,
+        3783738041,
+        3783738041
+      ],
+      "PartyLevel": [
+        1,
+        1,
+        1
+      ],
+      "PartyEquips": [
+        3188624091,
+        3188624091,
+        3188624091
+      ],
+      "FirstIn": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "IdRef": {}
+}

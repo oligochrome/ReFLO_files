@@ -1,0 +1,89 @@
+{
+  "TableGodMissionField": [
+    {
+      "GodMissionFieldId": 2506839545,
+      "Uniqid": 2506839545,
+      "GodmissionId": 2924768047,
+      "FieldTextId": 237711270,
+      "Fieldtype": 260818679,
+      "FieldlocktextId": 536223880,
+      "SortWeight": 10001,
+      "FieldEnable": 1,
+      "NeedLevel": 0,
+      "FieldLevellocktextId": 2283971673,
+      "BannerSpriteName": "gui_window_story001",
+      "PlateSpriteName": "gui_window_plate001"
+    },
+    {
+      "GodMissionFieldId": 4021132404,
+      "Uniqid": 4021132404,
+      "GodmissionId": 3738872089,
+      "FieldTextId": 2535620124,
+      "Fieldtype": 260818679,
+      "FieldlocktextId": 1760628766,
+      "SortWeight": 10002,
+      "FieldEnable": 1,
+      "NeedLevel": 8,
+      "FieldLevellocktextId": 2283971673,
+      "BannerSpriteName": "gui_window_story002",
+      "PlateSpriteName": "gui_window_plate002"
+    },
+    {
+      "GodMissionFieldId": 2197404803,
+      "Uniqid": 2197404803,
+      "GodmissionId": 1481563063,
+      "FieldTextId": 3760541322,
+      "Fieldtype": 260818679,
+      "FieldlocktextId": 1760628766,
+      "SortWeight": 10003,
+      "FieldEnable": 1,
+      "NeedLevel": 15,
+      "FieldLevellocktextId": 2283971673,
+      "BannerSpriteName": "gui_window_story003",
+      "PlateSpriteName": "gui_window_plate003"
+    },
+    {
+      "GodMissionFieldId": 2687715709,
+      "Uniqid": 2687715709,
+      "GodmissionId": 2467432466,
+      "FieldTextId": 2118245161,
+      "Fieldtype": 260818679,
+      "FieldlocktextId": 1760628766,
+      "SortWeight": 10004,
+      "FieldEnable": 1,
+      "NeedLevel": 23,
+      "FieldLevellocktextId": 2283971673,
+      "BannerSpriteName": "gui_window_story004",
+      "PlateSpriteName": "gui_window_plate004"
+    },
+    {
+      "GodMissionFieldId": 3500669567,
+      "Uniqid": 3500669567,
+      "GodmissionId": 2924768047,
+      "FieldTextId": 4260187921,
+      "Fieldtype": 1873642903,
+      "FieldlocktextId": 4260187921,
+      "SortWeight": 50000,
+      "FieldEnable": 0,
+      "NeedLevel": 0,
+      "FieldLevellocktextId": 4260187921,
+      "BannerSpriteName": "gui_window_story001",
+      "PlateSpriteName": "gui_window_plate001"
+    },
+    {
+      "GodMissionFieldId": 1514335830,
+      "Uniqid": 1514335830,
+      "GodmissionId": 2924768047,
+      "FieldTextId": 3367708912,
+      "Fieldtype": 963158186,
+      "FieldlocktextId": 4260187921,
+      "SortWeight": 10001,
+      "FieldEnable": 1,
+      "NeedLevel": 0,
+      "FieldLevellocktextId": 4260187921,
+      "BannerSpriteName": "gui_window_substory001",
+      "PlateSpriteName": "gui_window_plate001"
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,23 @@
+{
+  "TableGodPurpose": [
+    {
+      "GodPurposeId": 1117161780,
+      "Uniqid": 1117161780,
+      "Priority": 0,
+      "OneDisp": 0,
+      "ReleaseFlagId": 395352037,
+      "ClearFlagId": 395352037,
+      "LifeId": 1110543514,
+      "Purpose": 4260187921,
+      "Title": 4260187921,
+      "Summary": 4260187921,
+      "Hint": 4260187921,
+      "Speech": 4260187921,
+      "ModelScale": 1.0,
+      "ModeloffsetY": 0.0,
+      "SpeechObjId": 986327055,
+      "TargetIcon": 986327055
+    }
+  ],
+  "IdRef": {}
+}

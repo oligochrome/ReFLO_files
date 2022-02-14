@@ -1,0 +1,40 @@
+{
+  "TableWishboardCompatible": [
+    {
+      "WishboardCompatibleId": 2102143708,
+      "CompatibleID": 2102143708,
+      "TextID": 42879828,
+      "BaseValue": 1.0,
+      "AddValue": -0.001
+    },
+    {
+      "WishboardCompatibleId": 865502463,
+      "CompatibleID": 865502463,
+      "TextID": 3498724748,
+      "BaseValue": 0.4,
+      "AddValue": -0.001
+    },
+    {
+      "WishboardCompatibleId": 2912167939,
+      "CompatibleID": 2912167939,
+      "TextID": 1262394174,
+      "BaseValue": 0.6,
+      "AddValue": -0.001
+    },
+    {
+      "WishboardCompatibleId": 941215645,
+      "CompatibleID": 941215645,
+      "TextID": 3736304800,
+      "BaseValue": 0.8,
+      "AddValue": -0.001
+    },
+    {
+      "WishboardCompatibleId": 342133750,
+      "CompatibleID": 342133750,
+      "TextID": 181646365,
+      "BaseValue": -1.0,
+      "AddValue": -0.001
+    }
+  ],
+  "IdRef": {}
+}
