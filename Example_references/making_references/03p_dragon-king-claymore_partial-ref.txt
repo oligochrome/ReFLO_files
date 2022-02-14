@@ -1,0 +1,505 @@
+**************************
+** Dragon King Claymore	**
+**************************
+
+
+    {
+      "Name": "Dragon King Claymore",
+      "Desc": "A greatsword that embarks on a journey with\r its owner—one that they cannot turn back on.\r Risk everything to destroy your foes.",
+      "Rarity": 5,
+      "ItemInfo": {
+        "Buyprice": 10000,
+        "Sellprice": 2500,
+        "EnchantNeedRich": 0,
+        "EquipExp": 2500,
+        "CharaExp": 0,
+        "NonExchangeable": 0
+      },
+      "CharInfo": {},
+      "Resources": {
+        "Filename": "icn_itm402_1033_10default",
+        "AssetBundleId": 247476008
+      },
+      "ParamIds": {
+        "ObjId": 2897500640,
+        "UniqId": 2897500640,
+        "Id": "OBJ_ITEM_WEAPON_11340_00_00",
+        "ResId": 1761274284,
+        "ResIdIcon": 948695753,
+        "ResSwitchId": 2713337695,
+        "ResSwitchIdHQ": 2713337695,
+        "ResActionId": 1007313192,
+        "ObjTypeId": 4019880336,
+        "ContentsTypeId": 3686778005,
+								{
+								  "ContentstypeId": 3686778005,
+								  "UniqueID": 3686778005,
+								  "ItemBugGroupID": 1232028940,
+								  "BuildGroupID": 463491139,
+								  "AttachCategoryID": 2528471105,
+								  "InspectorInfoID": 3812591799,
+								  "SortNumber": 2
+								},
+
+        "NameId": 4186013673,			//	See above
+        "DescriptionId": 1043671837,	//	See above
+        "CommonParamId": 820141295,
+        "CharaParamId": 3819597731,
+        "FacillityParamId": 856462509,
+        "PickParamId": 2496751196,
+        "FurnitureParamId": 1721008223,
+        "GroundParamId": 1099520669,
+        "ObjGroupId": 36203498,
+        "WeaponParamId": 4069519073,
+						param_weapon.json {
+								  "ParamWeaponId": 4069519073,
+								  "UnqId": 4069519073,
+								  "SexId": 1188839513,
+								  "DropObjectId": 1929289361,
+								  "AttrId": 3965976276,
+								  "Elements": [						***
+									0,	# Fire
+									0,	# Water 
+									0,	# Wind
+									0,	# Earth
+									5,	# Light
+									0	# Shadow
+								  ],
+								  "GrantEfficacyType": 1078253394,
+								  "LvupType": 1655365213,
+								  "Bitfield0": 4098,
+								  "UiScale": 0.6,
+								  "UiHeight": 5.0,
+								  "UiTransOffsetX": -50.0,
+								  "UiTransOffsetZ": -90.0,
+								  "Bitfield1": 0,
+								  "SkillBattleChageId1": 3654465010,		<-- Swipe charged skill
+															skill.json {
+																  "SkillId": 3654465010,
+																  "UnqId": 3654465010,
+																  "NameId": 672971499,						//	Text.json:	"Raging Roar"
+																  "IconResId": 2022313848,
+																  "DescriptionTextId": 3377705261,			//	Text:	"Increases your Attack significantly and releases a powerful shockwave of light.",
+																  "DescriptionShortTextId": 4260187921,		//	Text:	-
+																  "OperationTextId": 3394794803,			//	Text:	"Hold down for a while,\nthen swipe"
+																  "SkillCategory": 2351858299,
+																						{
+																						  "SkillCategoryId": 2351858299,
+																						  "UnqId": 2351858299,
+																						  "TreeNumber": 3,
+																						  "ReplaceActionId": 3131825067,
+																												{
+																												  "ActionId": 3131825067,
+																																	action{
+																																		  "ActionId": 3131825067,
+																																		  "Uqid": 3131825067,
+																																		  "Type": 127962966,
+																																		  "Bitfield0": 10
+																																		},
+																																	action_event_missile_extension{
+																																		  "ActionEventMissileExtensionId": 1550537626,
+																																		  "UniqId": 1550537626,
+																																		  "ObjId": 2637332370,
+																																						{
+																																						  "ObjId": 2637332370,
+																																						  "Uniqid": 2637332370,
+																																						  "Id": "OBJ_CHARA_20349_00_00",
+																																						  "ResId": 883146717,
+																																						  "ResIdIcon": 3821175231,
+																																						  "ResswitchId": 2713337695,
+																																						  "ResswitchIdHQ": 2713337695,
+																																						  "ResActionId": 3069539005,
+																																						  "ObjTypeId": 4222102461,
+																																						  "ContentsTypeId": 1453935802,
+																																						  "NameId": 4119437213,			// Ultra Bahamut
+																																						  "DescriptionId": 2163457944,	// The core of Bahamut the ancient summon. A horrible item that once turned Eorzea into a sea of fire."
+																																						  "CommonParamId": 3416765860,
+																																						  "CharaParamId": 1911168024,
+																																						  "FacillityParamId": 856462509,
+																																						  "PickParamId": 2496751196,
+																																						  "FurnitureParamId": 1721008223,
+																																						  "GroundParamId": 1099520669,
+																																						  "ObjGroupId": 36203498,
+																																						  "WeaponParamId": 2915301859,
+																																						  "GuardParamId": 3875797836,
+																																						  "NormalParamId": 6165372,
+																																						  "ImportantParamId": 3170525707,
+																																						  "SpecialParamId": 527746145,
+																																						  "SurpriseboxParamId": 589680994,
+																																						  "GodItemParamId": 2401570819
+																																						},
+
+																																		  "ActionId": 3131825067,	// see above
+																																		  "MissileObjId": 986327055,
+																																		  "MinRandomTargetCount": 1,
+																																		  "MaxRandomTargetCount": 1,
+																																		  "CanNotChangeCharacter": 0,
+																																		  "Gp": 2170773906				// Placeholder?
+																																					{
+																																					  "GpId": 2170773906,
+																																					  "Uqid": 2170773906,
+																																					  "AtlasName": "",
+																																					  "ShowTextId": 4260187921,
+																																					  "SkillUp": 0,
+																																					  "ShowReversal": 0,
+																																					  "UpTextId": 3277511150,
+																																					  "DownTextId": 601187012,
+																																					  "UnVisibleUpDownIcon": 0,
+																																					  "UnVisibleStatusBar": 0
+																																					},
+
+																																		},
+																																	  
+																												  "Uqid": 3131825067,
+																												  "Type": 127962966,
+																												  "Bitfield0": 10
+																												},
+
+																						  "ChargeSlotNumber": 0,
+																						  "Bitfield0": 226
+																						},
+
+																  "NearComboCount": 0,
+																  "FarComboCount": 0,
+																  "SkillDetailId": [
+																	2918443598,
+																			{
+																			  "SkillDetailId": 2918443598,
+																			  "UnqId": 2918443598,
+																			  "SkillAction": 2026680071,		<-- ???
+																								{
+																								  "ActionId": 2026680071,
+																								  "Uqid": 2026680071,
+																								  "Type": 127962966,
+																								  "Bitfield0": 10
+																								},
+
+																			  "SkillActionSubattr": 2968212066,	<-- SkillAction Placeholder
+																											{
+																											  "ActionId": 2968212066,
+																											  "Uqid": 2968212066,
+																											  "Type": 1669331021,
+																											  "Bitfield0": 0
+																											},
+
+																			  "Efficacy": [
+																				2727487739,			<-- Efficacy PWep placeholder
+																				2727487739,
+																				2727487739
+																			  ],
+																			  "GrantEfficacyType": 1078253394	<-- Placeholder?
+																										{
+																										  "GrantEfficacyTypeId": 1078253394,
+																										  "Id": 1078253394,
+																										  "NameTextId": 4260187921,	//	-
+																										  "InfoTextId": 4260187921,	//	-
+																										  "LpBorder": 0
+																										},
+
+																			},
+
+																	3042609236,
+																	3042609236,
+																	3042609236,
+																	3042609236	<-- Skill Placeholder
+																			{
+																			  "SkillDetailId": 3042609236,
+																			  "UnqId": 3042609236,
+																			  "SkillAction": 2968212066,		<-- SkillAction Placeholder
+																			  "SkillActionSubattr": 2968212066,	<-- SkillAction Placeholder
+																			  "Efficacy": [
+																				2727487739,
+																				2727487739,
+																				2727487739
+																			  ],
+																			  "GrantEfficacyType": 1078253394
+																			},
+
+																  ],
+
+
+								  "SkillBattleChageLV1": 1,
+								  "SkillBattleChageId2": 4069502534,
+								  "SkillBattleChageLV2": 1,
+								  "SkillPickChageId1": 4069502534,
+								  "SkillPickChageLV1": 1,
+								  "SkillPickChageId2": 4069502534,
+								  "SkillPickChageLV2": 1,
+								  "WeaponBtlTensionId": 4069502534,			Default settings?
+								  "WeaponBtlChageId1": 4069502534,
+								  "WeaponBtlChageId2": 4069502534,
+								  "WeaponPickTensionId": 4069502534,
+								  "WeaponPickChageId1": 4069502534,
+								  "WeaponPickChageId2": 4069502534,
+								  "StardustFlag": 1,						!!
+								  "EquipLicense": 362595422,				-
+								  "Bitfield2": 0,
+								  "CanNotChangeAppearance": 0,
+								  "UniqueAuraResId": 1007313192,
+								  "CanNotShowAura": 0,
+								  "LotEfficacyIds": [ 0, 0, 0 ], 
+								  "SpType": 3406081776,
+								  "RecastSkillId": 1974297730,
+								  "ContentsId": 222727573,
+													{
+													  "ContentsId": 222727573,
+													  "TextId": 4186013673,				//	"Dragon King Claymore"
+													  "DuplateEnable": 1,
+													  "ItemtypeBackEndSID": 790591982,
+																		   {
+																			  "ItemtypeBackendSId": 790591982,
+																			  "UnqID": 790591982,
+																			  "SlotID": 32552276,				//	Weapon slot
+																			  "WeaponCtegoryID": 2308065259,
+																			  "IsNpcCanEquip": 1,
+																			  "IsShieldCanEquip": 0,			//	When trying to do this for shields, it remains 0
+																			  "IsBottomCanEquip": 1,
+																			  "IllusionWeaponID": 3595526188,
+																			  "ActionResidCharRare": [
+																				2227563133,
+																				2227563133,
+																				2227563133,
+																				2227563133,
+																				2227563133,
+																				2227563133
+																			  ],
+																			  "AdvWeaponTypeParamID": 1290643226,
+																			  "WeaponCategoryName": 2068212589,
+																			  "IconSpriteName": "icn_eqslot_lsword"
+																			  "BackendMID": 2775466507,
+																							   {
+																								  "ItemtypeBackendMId": 2775466507,
+																								  "UnqID": 2775466507,
+																								  "BackendLID": 1774469781
+																												{
+																												  "ItemtypeBackendLId": 1774469781,
+																												  "UnqID": 1774469781
+																												}
+
+																								}
+																							 
+																			},
+																		 
+													  "CollectionBG": 1007313192,
+													  "CollectionPlace": 4260187921,
+													  "CollectionFlavor": 1043671837,
+													  "CollectionModelScale": 1.0,
+													  "CollectionUIOffset": 0.0,
+													  "CollectionSort": 215002,
+													  "NewMonsterEnable": 0
+													},
+								  "EfficacyIds": [
+									4105177435,		<-- Eff 1 = special effect 1
+											efficacy{
+												  "EfficacyId": 4105177435,
+												  "Uqid": 4105177435,
+												  "TextNameid": 3033652718,		//	Significantly increases Critical DMG	||	Special Effects title name (for SE 1)
+												  "TextIntroid": 420637196,		//	Largely boosts critical damage			||	Special Effects description (for SE 1)
+												  "ResEffectid": 2738326234,
+												  "Defaultscale": 1.0,
+												  "Modelscale": 0,
+												  "ResSeid": 46587382,
+												  "SpecificTypeid": 765260844,
+												  "Probability": 100.0,			//	! Should include
+												  "GpIds": [
+													3454614613,
+															{
+															  "GpId": 3454614613,
+															  "Uqid": 3454614613,
+															  "AtlasName": "gui_buff_power_001",
+															  "ShowTextId": 2989186525,
+															  "SkillUp": 1,
+															  "ShowReversal": 0,
+															  "UpTextId": 3277511150,
+															  "DownTextId": 601187012,
+															  "UnVisibleUpDownIcon": 0,
+															  "UnVisibleStatusBar": 0
+															},
+
+													3259823619,
+													3259823619,
+													3259823619,
+													3259823619,
+													3259823619
+												  ],
+												  "GpCalcs": [
+													1502934547,		<----- ?????
+													2382595150,
+													2382595150,
+													2382595150,
+													2382595150,
+													2382595150
+												  ],
+												  "GpValues": [
+													130.0,
+													0.0, 0.0, 0.0, 0.0, 0.0 ], 
+												  "MvpPoint": 0,
+												  "TpEfficacy": 0,
+												  "EfType": 1593469086,
+												  "EfTiming": 648726518,
+												  "EfTarget": 659498534,
+												  "EfAddEfficacy": 2727487739,
+												  "Partybuffid": 183969967,
+												  "EfNode": "",
+												  "EfPos": [ 0.0, 0.0, 0.0 ], 
+												  "Grade": 0
+												},
+
+
+									1487426471,		<-- Eff 2 = special effect 2
+											efficacy{
+											  "EfficacyId": 1487426471,
+											  "Uqid": 1487426471,
+											  "TextNameid": 59321452,		#	Significantly increases Light ATK
+											  "TextIntroid": 2385322813,	#	Largely increases Light damage
+											  "ResEffectid": 2738326234,
+											  "Defaultscale": 1.0,
+											  "Modelscale": 0,
+											  "ResSeid": 46587382,
+											  "SpecificTypeid": 765260844,
+											  "Probability": 100.0,
+											  "GpIds": [
+												3656701899,
+														{
+														  "GpId": 3656701899,
+														  "Uqid": 3656701899,
+														  "AtlasName": "gui_icon_attribute_light001",
+														  "ShowTextId": 3503223318,
+														  "SkillUp": 1,
+														  "ShowReversal": 0,
+														  "UpTextId": 3277511150,
+														  "DownTextId": 601187012,
+														  "UnVisibleUpDownIcon": 0,
+														  "UnVisibleStatusBar": 0
+														},
+
+												3259823619,
+												3259823619,
+												3259823619,
+												3259823619,
+												3259823619
+											  ],
+											  "GpCalcs": [
+												2382595150,
+												2382595150,
+												2382595150,
+												2382595150,
+												2382595150,
+												2382595150
+											  ],
+											  "GpValues": [
+												10.0,
+												0.0,
+												0.0,
+												0.0,
+												0.0,
+												0.0
+											  ],
+											  "MvpPoint": 0,
+											  "TpEfficacy": 0,
+											  "EfType": 1593469086,
+											  "EfTiming": 648726518,
+											  "EfTarget": 659498534,
+											  "EfAddEfficacy": 2727487739,
+											  "Partybuffid": 183969967,
+											  "EfNode": "",
+											  "EfPos": [
+												0.0,
+												0.0,
+												0.0
+											  ],
+											  "Grade": 0
+											},
+
+									
+									2727487739		<-- Eff 3 = placeholder
+											efficacy    {
+												  "EfficacyId": 2727487739,
+												  "Uqid": 2727487739,
+												  "TextNameid": 4260187921,		-
+												  "TextIntroid": 4260187921,		-
+												  "ResEffectid": 2738326234,
+												  "Defaultscale": 1.0,
+												  "Modelscale": 0,
+												  "ResSeid": 46587382,
+												  "SpecificTypeid": 765260844,
+												  "Probability": 100.0,
+												  "GpIds": [
+													3259823619,
+													3259823619,
+													3259823619,
+													3259823619,
+													3259823619,
+													3259823619
+												  ],
+												  "GpCalcs": [
+													2382595150,
+													2382595150,
+													2382595150,
+													2382595150,
+													2382595150,
+													2382595150
+												  ],
+												  "GpValues": [
+													0.0,
+													0.0,
+													0.0,
+													0.0,
+													0.0,
+													0.0
+												  ],
+												  "MvpPoint": 1,
+												  "TpEfficacy": 0,
+												  "EfType": 1891202289,
+												  "EfTiming": 3573888364,
+												  "EfTarget": 660917957,
+												  "EfAddEfficacy": 2727487739,
+												  "Partybuffid": 183969967,
+												  "EfNode": "",
+												  "EfPos": [
+													0.0,
+													0.0,
+													0.0
+												  ],
+												  "Grade": 0
+												},
+
+
+								  ],
+
+								},
+
+
+        "GuardParamId": 3875797836,
+        "NormalParamId": 6165372,
+							{
+							  "ParamNormalId": 6165372,
+							  "Uniqid": 6165372,
+							  "ContentsId": 1586875562,
+							  "DropObjectId": 1929289361,
+							  "AttributeAttchId": 244445566,
+							  "EfficacyAttachId": 2727487739,
+							  "GrantEfficacyType": 1078253394,
+							  "EfficacyIds": [
+								2727487739,			//	Placeholder
+								2727487739,
+								2727487739
+							  ],
+							  "EfficacyValues": [
+								0.0,
+								0.0,
+								0.0
+							  ],
+							  "PocketRegister": 1,
+							  "RecastFirstTimeSec": 0,
+							  "RecastTimeSec": 2,
+							  "UseCheck": 0
+							}
+
+        "ImportantParamId": 3170525707,
+        "SpecialParamId": 527746145,
+        "SurpriseboxParamId": 589680994,
+        "GodItemParamId": 2401570819
+      }
+    },
+
