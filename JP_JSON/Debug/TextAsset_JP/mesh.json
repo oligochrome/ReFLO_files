@@ -1,0 +1,161 @@
+{
+  "TableMesh": [
+    {
+      "MeshIdx": 799352412,
+      "MeshId": 799352412,
+      "MeshName": "body",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 4118976711,
+      "MeshId": 4118976711,
+      "MeshName": "body_bottom",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 2727805140,
+      "MeshId": 2727805140,
+      "MeshName": "bottom",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 1058529971,
+      "MeshId": 1058529971,
+      "MeshName": "brow_msh",
+      "ParentNodeId": 3847506657
+    },
+    {
+      "MeshIdx": 2804475689,
+      "MeshId": 2804475689,
+      "MeshName": "cape",
+      "ParentNodeId": 3749578693
+    },
+    {
+      "MeshIdx": 2804348212,
+      "MeshId": 2804348212,
+      "MeshName": "cape_hair",
+      "ParentNodeId": 2270651450
+    },
+    {
+      "MeshIdx": 2492247909,
+      "MeshId": 2492247909,
+      "MeshName": "dress",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 2854757657,
+      "MeshId": 2854757657,
+      "MeshName": "ear_msh",
+      "ParentNodeId": 3847506657
+    },
+    {
+      "MeshIdx": 1914656293,
+      "MeshId": 1914656293,
+      "MeshName": "eye_mouth",
+      "ParentNodeId": 3847506657
+    },
+    {
+      "MeshIdx": 4044969609,
+      "MeshId": 4044969609,
+      "MeshName": "face_msh",
+      "ParentNodeId": 3847506657
+    },
+    {
+      "MeshIdx": 3405412641,
+      "MeshId": 3405412641,
+      "MeshName": "feet",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 2648884048,
+      "MeshId": 2648884048,
+      "MeshName": "glasses_msh",
+      "ParentNodeId": 3562901750
+    },
+    {
+      "MeshIdx": 1761234167,
+      "MeshId": 1761234167,
+      "MeshName": "hair_msh",
+      "ParentNodeId": 3847506657
+    },
+    {
+      "MeshIdx": 3547295585,
+      "MeshId": 3547295585,
+      "MeshName": "hand",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 2077125129,
+      "MeshId": 2077125129,
+      "MeshName": "hand_feet",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 1267929983,
+      "MeshId": 1267929983,
+      "MeshName": "hat_msh",
+      "ParentNodeId": 4011325283
+    },
+    {
+      "MeshIdx": 582083518,
+      "MeshId": 582083518,
+      "MeshName": "hat_hair",
+      "ParentNodeId": 3847506657
+    },
+    {
+      "MeshIdx": 2668202529,
+      "MeshId": 2668202529,
+      "MeshName": "L_tool",
+      "ParentNodeId": 2564728015
+    },
+    {
+      "MeshIdx": 2881327171,
+      "MeshId": 2881327171,
+      "MeshName": "combine",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 2342333729,
+      "MeshId": 2342333729,
+      "MeshName": "",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 1961967933,
+      "MeshId": 1961967933,
+      "MeshName": "nose_msh",
+      "ParentNodeId": 3562901750
+    },
+    {
+      "MeshIdx": 2775635898,
+      "MeshId": 2775635898,
+      "MeshName": "other_msh",
+      "ParentNodeId": 3847506657
+    },
+    {
+      "MeshIdx": 655929138,
+      "MeshId": 655929138,
+      "MeshName": "other_glasses",
+      "ParentNodeId": 3847506657
+    },
+    {
+      "MeshIdx": 2799036874,
+      "MeshId": 2799036874,
+      "MeshName": "R_tool",
+      "ParentNodeId": 835658741
+    },
+    {
+      "MeshIdx": 1834826799,
+      "MeshId": 1834826799,
+      "MeshName": "skin_body_bottom_hand_feet",
+      "ParentNodeId": 1027062962
+    },
+    {
+      "MeshIdx": 3975543434,
+      "MeshId": 3975543434,
+      "MeshName": "skin_face_ear_nose",
+      "ParentNodeId": 3847506657
+    }
+  ],
+  "IdRef": {}
+}

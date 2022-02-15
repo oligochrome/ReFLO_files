@@ -1,0 +1,20 @@
+{
+  "TableAvatarBaseSkeletonType": [
+    {
+      "AvatarBaseSkeletonTypeId": 892137135,
+      "BaseSkeletonType": 892137135,
+      "ResswitchIndex": 0
+    },
+    {
+      "AvatarBaseSkeletonTypeId": 1110171193,
+      "BaseSkeletonType": 1110171193,
+      "ResswitchIndex": 1
+    },
+    {
+      "AvatarBaseSkeletonTypeId": 2250036010,
+      "BaseSkeletonType": 2250036010,
+      "ResswitchIndex": -1
+    }
+  ],
+  "IdRef": {}
+}

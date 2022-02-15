@@ -1,0 +1,209 @@
+{
+  "TableItemtypeSlot": [
+    {
+      "ItemtypeSlotId": 32552276,
+      "UnqID": 32552276,
+      "IconSpriteName": "icn_eqslot_weapon",
+      "TextID": 2350395920
+    },
+    {
+      "ItemtypeSlotId": 908865254,
+      "UnqID": 908865254,
+      "IconSpriteName": "gui_icon_life_sub001",
+      "TextID": 1044131945
+    },
+    {
+      "ItemtypeSlotId": 1586623052,
+      "UnqID": 1586623052,
+      "IconSpriteName": "icn_eqslot_head",
+      "TextID": 3791926215
+    },
+    {
+      "ItemtypeSlotId": 2579708266,
+      "UnqID": 2579708266,
+      "IconSpriteName": "icn_eqslot_tops",
+      "TextID": 202003179
+    },
+    {
+      "ItemtypeSlotId": 2715848362,
+      "UnqID": 2715848362,
+      "IconSpriteName": "icn_eqslot_bottom",
+      "TextID": 2456733512
+    },
+    {
+      "ItemtypeSlotId": 3724559967,
+      "UnqID": 3724559967,
+      "IconSpriteName": "icn_eqslot_hand",
+      "TextID": 2086708836
+    },
+    {
+      "ItemtypeSlotId": 820854083,
+      "UnqID": 820854083,
+      "IconSpriteName": "icn_eqslot_foot",
+      "TextID": 191338226
+    },
+    {
+      "ItemtypeSlotId": 3730786840,
+      "UnqID": 3730786840,
+      "IconSpriteName": "icn_eqslot_accessory",
+      "TextID": 3848927198
+    },
+    {
+      "ItemtypeSlotId": 3963587845,
+      "UnqID": 3963587845,
+      "IconSpriteName": "icn_eqslot_pickel",
+      "TextID": 1702598437
+    },
+    {
+      "ItemtypeSlotId": 1971815185,
+      "UnqID": 1971815185,
+      "IconSpriteName": "icn_eqslot_ax",
+      "TextID": 2064474749
+    },
+    {
+      "ItemtypeSlotId": 190785161,
+      "UnqID": 190785161,
+      "IconSpriteName": "icn_eqslot_fishingrod",
+      "TextID": 3954343916
+    },
+    {
+      "ItemtypeSlotId": 764899536,
+      "UnqID": 764899536,
+      "IconSpriteName": "icn_eqslot_hammer",
+      "TextID": 2339763721
+    },
+    {
+      "ItemtypeSlotId": 2520389859,
+      "UnqID": 2520389859,
+      "IconSpriteName": "icn_eqslot_needle",
+      "TextID": 310159283
+    },
+    {
+      "ItemtypeSlotId": 3379188397,
+      "UnqID": 3379188397,
+      "IconSpriteName": "icn_eqslot_saw",
+      "TextID": 4213113478
+    },
+    {
+      "ItemtypeSlotId": 2335544658,
+      "UnqID": 2335544658,
+      "IconSpriteName": "icn_eqslot_flypan",
+      "TextID": 4235380383
+    },
+    {
+      "ItemtypeSlotId": 3981222027,
+      "UnqID": 3981222027,
+      "IconSpriteName": "icn_eqslot_flask",
+      "TextID": 2629128058
+    },
+    {
+      "ItemtypeSlotId": 360988284,
+      "UnqID": 360988284,
+      "IconSpriteName": "icn_eqslot_mant",
+      "TextID": 1645630268
+    },
+    {
+      "ItemtypeSlotId": 2350405283,
+      "UnqID": 2350405283,
+      "IconSpriteName": "icn_eqslot_accessory",
+      "TextID": 4071181997
+    },
+    {
+      "ItemtypeSlotId": 217381524,
+      "UnqID": 217381524,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 2242805307
+    },
+    {
+      "ItemtypeSlotId": 2516429614,
+      "UnqID": 2516429614,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 3613365596
+    },
+    {
+      "ItemtypeSlotId": 3808074680,
+      "UnqID": 3808074680,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 2690164170
+    },
+    {
+      "ItemtypeSlotId": 2090733083,
+      "UnqID": 2090733083,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 1314309350
+    },
+    {
+      "ItemtypeSlotId": 194592397,
+      "UnqID": 194592397,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 3492958533
+    },
+    {
+      "ItemtypeSlotId": 2458939191,
+      "UnqID": 2458939191,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 2805293523
+    },
+    {
+      "ItemtypeSlotId": 998631010,
+      "UnqID": 998631010,
+      "IconSpriteName": "icn_eqslot_ride",
+      "TextID": 3271286617
+    },
+    {
+      "ItemtypeSlotId": 3851902881,
+      "UnqID": 3851902881,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 1228603647
+    },
+    {
+      "ItemtypeSlotId": 1965572656,
+      "UnqID": 1965572656,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 3649314158
+    },
+    {
+      "ItemtypeSlotId": 36663974,
+      "UnqID": 36663974,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 2927832568
+    },
+    {
+      "ItemtypeSlotId": 62225542,
+      "UnqID": 62225542,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 3460604957
+    },
+    {
+      "ItemtypeSlotId": 1957841936,
+      "UnqID": 1957841936,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 3108213899
+    },
+    {
+      "ItemtypeSlotId": 3988463018,
+      "UnqID": 3988463018,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 541771057
+    },
+    {
+      "ItemtypeSlotId": 2596023612,
+      "UnqID": 2596023612,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 1464726951
+    },
+    {
+      "ItemtypeSlotId": 81311903,
+      "UnqID": 81311903,
+      "IconSpriteName": "icn_eqslot_axe",
+      "TextID": 3374931972
+    },
+    {
+      "ItemtypeSlotId": 3743980157,
+      "UnqID": 3743980157,
+      "IconSpriteName": "",
+      "TextID": 4260187921
+    }
+  ],
+  "IdRef": {}
+}

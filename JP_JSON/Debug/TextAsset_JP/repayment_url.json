@@ -1,0 +1,20 @@
+{
+  "TableRepaymentUrl": [
+    {
+      "RepaymentUrlId": 3418991264,
+      "UnqId": 3418991264,
+      "Url": "https://secure.level5.co.jp/inquiry/support/fantasylife-online/"
+    },
+    {
+      "RepaymentUrlId": 1917866519,
+      "UnqId": 1917866519,
+      "Url": "https://www.fantasylife.jp/flo/topics/211115/"
+    },
+    {
+      "RepaymentUrlId": 315741510,
+      "UnqId": 315741510,
+      "Url": "https://refund-flo.dh-testing.com/request?player_id={0}"
+    }
+  ],
+  "IdRef": {}
+}

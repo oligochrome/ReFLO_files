@@ -1,0 +1,401 @@
+{
+  "TableResistEfficacyGroup": [
+    {
+      "ResistEfficacyGroupId": 1611998292,
+      "UniqId": 1611998292,
+      "ResistEfficacyGroupTypeID": 708049974,
+      "ResistEfficacyID": 1366188911
+    },
+    {
+      "ResistEfficacyGroupId": 4179391982,
+      "UniqId": 4179391982,
+      "ResistEfficacyGroupTypeID": 708049974,
+      "ResistEfficacyID": 644436985
+    },
+    {
+      "ResistEfficacyGroupId": 1269878172,
+      "UniqId": 1269878172,
+      "ResistEfficacyGroupTypeID": 822530297,
+      "ResistEfficacyID": 1366188911
+    },
+    {
+      "ResistEfficacyGroupId": 3535379494,
+      "UniqId": 3535379494,
+      "ResistEfficacyGroupTypeID": 822530297,
+      "ResistEfficacyID": 644436985
+    },
+    {
+      "ResistEfficacyGroupId": 2780736688,
+      "UniqId": 2780736688,
+      "ResistEfficacyGroupTypeID": 822530297,
+      "ResistEfficacyID": 2664772764
+    },
+    {
+      "ResistEfficacyGroupId": 3597137189,
+      "UniqId": 3597137189,
+      "ResistEfficacyGroupTypeID": 2819588419,
+      "ResistEfficacyID": 1366188911
+    },
+    {
+      "ResistEfficacyGroupId": 1332651167,
+      "UniqId": 1332651167,
+      "ResistEfficacyGroupTypeID": 2819588419,
+      "ResistEfficacyID": 644436985
+    },
+    {
+      "ResistEfficacyGroupId": 946443273,
+      "UniqId": 946443273,
+      "ResistEfficacyGroupTypeID": 2819588419,
+      "ResistEfficacyID": 2355141490
+    },
+    {
+      "ResistEfficacyGroupId": 1859883584,
+      "UniqId": 1859883584,
+      "ResistEfficacyGroupTypeID": 3741888981,
+      "ResistEfficacyID": 1366188911
+    },
+    {
+      "ResistEfficacyGroupId": 4157785082,
+      "UniqId": 4157785082,
+      "ResistEfficacyGroupTypeID": 3741888981,
+      "ResistEfficacyID": 644436985
+    },
+    {
+      "ResistEfficacyGroupId": 2161505132,
+      "UniqId": 2161505132,
+      "ResistEfficacyGroupTypeID": 3741888981,
+      "ResistEfficacyID": 2355141490
+    },
+    {
+      "ResistEfficacyGroupId": 514942671,
+      "UniqId": 514942671,
+      "ResistEfficacyGroupTypeID": 3741888981,
+      "ResistEfficacyID": 2664772764
+    },
+    {
+      "ResistEfficacyGroupId": 3494977418,
+      "UniqId": 3494977418,
+      "ResistEfficacyGroupTypeID": 598966039,
+      "ResistEfficacyID": 3922854922
+    },
+    {
+      "ResistEfficacyGroupId": 1230523952,
+      "UniqId": 1230523952,
+      "ResistEfficacyGroupTypeID": 598966039,
+      "ResistEfficacyID": 4217875428
+    },
+    {
+      "ResistEfficacyGroupId": 3269767268,
+      "UniqId": 3269767268,
+      "ResistEfficacyGroupTypeID": 3132763821,
+      "ResistEfficacyID": 2664772764
+    },
+    {
+      "ResistEfficacyGroupId": 1542316510,
+      "UniqId": 1542316510,
+      "ResistEfficacyGroupTypeID": 3132763821,
+      "ResistEfficacyID": 2355141490
+    },
+    {
+      "ResistEfficacyGroupId": 2052642561,
+      "UniqId": 2052642561,
+      "ResistEfficacyGroupTypeID": 3451723323,
+      "ResistEfficacyID": 2664772764
+    },
+    {
+      "ResistEfficacyGroupId": 3884969912,
+      "UniqId": 3884969912,
+      "ResistEfficacyGroupTypeID": 1406765976,
+      "ResistEfficacyID": 2355141490
+    },
+    {
+      "ResistEfficacyGroupId": 1982207038,
+      "UniqId": 1982207038,
+      "ResistEfficacyGroupTypeID": 2601457778,
+      "ResistEfficacyID": 1138478209
+    },
+    {
+      "ResistEfficacyGroupId": 4012852612,
+      "UniqId": 4012852612,
+      "ResistEfficacyGroupTypeID": 2601457778,
+      "ResistEfficacyID": 886897687
+    },
+    {
+      "ResistEfficacyGroupId": 2552788242,
+      "UniqId": 2552788242,
+      "ResistEfficacyGroupTypeID": 2601457778,
+      "ResistEfficacyID": 2916461997
+    },
+    {
+      "ResistEfficacyGroupId": 105701553,
+      "UniqId": 105701553,
+      "ResistEfficacyGroupTypeID": 2601457778,
+      "ResistEfficacyID": 3671235899
+    },
+    {
+      "ResistEfficacyGroupId": 1687403472,
+      "UniqId": 1687403472,
+      "ResistEfficacyGroupTypeID": 33966536,
+      "ResistEfficacyID": 1152780440
+    },
+    {
+      "ResistEfficacyGroupId": 4254788202,
+      "UniqId": 4254788202,
+      "ResistEfficacyGroupTypeID": 33966536,
+      "ResistEfficacyID": 867252238
+    },
+    {
+      "ResistEfficacyGroupId": 3694124213,
+      "UniqId": 3694124213,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 1138478209
+    },
+    {
+      "ResistEfficacyGroupId": 1160154383,
+      "UniqId": 1160154383,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 886897687
+    },
+    {
+      "ResistEfficacyGroupId": 841072025,
+      "UniqId": 841072025,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 2916461997
+    },
+    {
+      "ResistEfficacyGroupId": 2890213434,
+      "UniqId": 2890213434,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 3671235899
+    },
+    {
+      "ResistEfficacyGroupId": 3678541996,
+      "UniqId": 3678541996,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 1152780440
+    },
+    {
+      "ResistEfficacyGroupId": 1112230166,
+      "UniqId": 1112230166,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 867252238
+    },
+    {
+      "ResistEfficacyGroupId": 894204288,
+      "UniqId": 894204288,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 2864212404
+    },
+    {
+      "ResistEfficacyGroupId": 2784191505,
+      "UniqId": 2784191505,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 3720304930
+    },
+    {
+      "ResistEfficacyGroupId": 3539227783,
+      "UniqId": 3539227783,
+      "ResistEfficacyGroupTypeID": 1963030878,
+      "ResistEfficacyID": 1291863219
+    },
+    {
+      "ResistEfficacyGroupId": 3012201462,
+      "UniqId": 3012201462,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 1138478209
+    },
+    {
+      "ResistEfficacyGroupId": 713284172,
+      "UniqId": 713284172,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 886897687
+    },
+    {
+      "ResistEfficacyGroupId": 1568991962,
+      "UniqId": 1568991962,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 2916461997
+    },
+    {
+      "ResistEfficacyGroupId": 3286269817,
+      "UniqId": 3286269817,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 3671235899
+    },
+    {
+      "ResistEfficacyGroupId": 3035058159,
+      "UniqId": 3035058159,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 1152780440
+    },
+    {
+      "ResistEfficacyGroupId": 770580053,
+      "UniqId": 770580053,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 867252238
+    },
+    {
+      "ResistEfficacyGroupId": 1525231299,
+      "UniqId": 1525231299,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 2864212404
+    },
+    {
+      "ResistEfficacyGroupId": 3394646866,
+      "UniqId": 3394646866,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 3720304930
+    },
+    {
+      "ResistEfficacyGroupId": 3176203204,
+      "UniqId": 3176203204,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 1291863219
+    },
+    {
+      "ResistEfficacyGroupId": 3717630497,
+      "UniqId": 3717630497,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 1366188911
+    },
+    {
+      "ResistEfficacyGroupId": 2861677239,
+      "UniqId": 2861677239,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 644436985
+    },
+    {
+      "ResistEfficacyGroupId": 865659661,
+      "UniqId": 865659661,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 2836120750
+    },
+    {
+      "ResistEfficacyGroupId": 1151327131,
+      "UniqId": 1151327131,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 805475604
+    },
+    {
+      "ResistEfficacyGroupId": 3673902648,
+      "UniqId": 3673902648,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 1191552386
+    },
+    {
+      "ResistEfficacyGroupId": 2919005870,
+      "UniqId": 2919005870,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 2664772764
+    },
+    {
+      "ResistEfficacyGroupId": 888483604,
+      "UniqId": 888483604,
+      "ResistEfficacyGroupTypeID": 2763043821,
+      "ResistEfficacyID": 2355141490
+    },
+    {
+      "ResistEfficacyGroupId": 2623867906,
+      "UniqId": 2623867906,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 1138478209
+    },
+    {
+      "ResistEfficacyGroupId": 90987960,
+      "UniqId": 90987960,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 886897687
+    },
+    {
+      "ResistEfficacyGroupId": 1919642926,
+      "UniqId": 1919642926,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 2916461997
+    },
+    {
+      "ResistEfficacyGroupId": 3960469645,
+      "UniqId": 3960469645,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 3671235899
+    },
+    {
+      "ResistEfficacyGroupId": 2601043995,
+      "UniqId": 2601043995,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 1152780440
+    },
+    {
+      "ResistEfficacyGroupId": 33659297,
+      "UniqId": 33659297,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 867252238
+    },
+    {
+      "ResistEfficacyGroupId": 1963370807,
+      "UniqId": 1963370807,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 2864212404
+    },
+    {
+      "ResistEfficacyGroupId": 3854152870,
+      "UniqId": 3854152870,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 3720304930
+    },
+    {
+      "ResistEfficacyGroupId": 2461959216,
+      "UniqId": 2461959216,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 1291863219
+    },
+    {
+      "ResistEfficacyGroupId": 4068019669,
+      "UniqId": 4068019669,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 1366188911
+    },
+    {
+      "ResistEfficacyGroupId": 2239642947,
+      "UniqId": 2239642947,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 644436985
+    },
+    {
+      "ResistEfficacyGroupId": 477588729,
+      "UniqId": 477588729,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 2836120750
+    },
+    {
+      "ResistEfficacyGroupId": 1802525807,
+      "UniqId": 1802525807,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 805475604
+    },
+    {
+      "ResistEfficacyGroupId": 4111780300,
+      "UniqId": 4111780300,
+      "ResistEfficacyGroupTypeID": 3570566634,
+      "ResistEfficacyID": 1191552386
+    },
+    {
+      "ResistEfficacyGroupId": 2881223728,
+      "UniqId": 2881223728,
+      "ResistEfficacyGroupTypeID": 2763551077,
+      "ResistEfficacyID": 1366188911
+    },
+    {
+      "ResistEfficacyGroupId": 850570634,
+      "UniqId": 850570634,
+      "ResistEfficacyGroupTypeID": 2763551077,
+      "ResistEfficacyID": 644436985
+    },
+    {
+      "ResistEfficacyGroupId": 1169530140,
+      "UniqId": 1169530140,
+      "ResistEfficacyGroupTypeID": 2763551077,
+      "ResistEfficacyID": 2864212404
+    }
+  ],
+  "IdRef": {}
+}

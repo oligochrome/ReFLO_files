@@ -1,0 +1,173 @@
+{
+  "TableGachaKindType": [
+    {
+      "GachaKindTypeId": 1400798988,
+      "UnqId": 1400798988,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 1248153165,
+      "UnqId": 1248153165,
+      "LifeId": 1110543514,
+      "Count": 11
+    },
+    {
+      "GachaKindTypeId": 3652905734,
+      "UnqId": 3652905734,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 3081169617,
+      "UnqId": 3081169617,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 3231832647,
+      "UnqId": 3231832647,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 3076438625,
+      "UnqId": 3076438625,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 4141994158,
+      "UnqId": 4141994158,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 1877508372,
+      "UnqId": 1877508372,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 418361730,
+      "UnqId": 418361730,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 2803110403,
+      "UnqId": 2803110403,
+      "LifeId": 3929318351,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 1202793533,
+      "UnqId": 1202793533,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 1738255352,
+      "UnqId": 1738255352,
+      "LifeId": 1898503243,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 463797506,
+      "UnqId": 463797506,
+      "LifeId": 2187003451,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 1431758470,
+      "UnqId": 1431758470,
+      "LifeId": 1324894209,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 3461414358,
+      "UnqId": 3461414358,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 2868251406,
+      "UnqId": 2868251406,
+      "LifeId": 730741264,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 689854373,
+      "UnqId": 689854373,
+      "LifeId": 3355431860,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 2891748299,
+      "UnqId": 2891748299,
+      "LifeId": 2300705121,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 83692111,
+      "UnqId": 83692111,
+      "LifeId": 2524902084,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 2178645137,
+      "UnqId": 2178645137,
+      "LifeId": 3274547171,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 3990533012,
+      "UnqId": 3990533012,
+      "LifeId": 3262958588,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 281636553,
+      "UnqId": 281636553,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 1888727829,
+      "UnqId": 1888727829,
+      "LifeId": 1658945291,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 374052421,
+      "UnqId": 374052421,
+      "LifeId": 2762901997,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 4161360463,
+      "UnqId": 4161360463,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 2734003150,
+      "UnqId": 2734003150,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 1283360204,
+      "UnqId": 1283360204,
+      "LifeId": 1110543514,
+      "Count": 1
+    },
+    {
+      "GachaKindTypeId": 1527091599,
+      "UnqId": 1527091599,
+      "LifeId": 1110543514,
+      "Count": 1
+    }
+  ],
+  "IdRef": {}
+}

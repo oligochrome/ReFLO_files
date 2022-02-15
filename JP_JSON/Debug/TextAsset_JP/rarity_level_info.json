@@ -1,0 +1,311 @@
+{
+  "TableRarityLevelInfo": [
+    {
+      "RarityLevelInfoId": 1620482834,
+      "UniqueId": 1620482834,
+      "TypeId": 2634285812,
+      "Rarity": 0,
+      "Level": 1,
+      "RarityColorNumber": 0,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 4187998888,
+      "UniqueId": 4187998888,
+      "TypeId": 2634285812,
+      "Rarity": 0,
+      "Level": 30,
+      "RarityColorNumber": 0,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 2392390206,
+      "UniqueId": 2392390206,
+      "TypeId": 2634285812,
+      "Rarity": 0,
+      "Level": 60,
+      "RarityColorNumber": 0,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 3643432012,
+      "UniqueId": 3643432012,
+      "TypeId": 1647473044,
+      "Rarity": 0,
+      "Level": 1,
+      "RarityColorNumber": 0,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 461615870,
+      "UniqueId": 461615870,
+      "TypeId": 1647473044,
+      "Rarity": 3,
+      "Level": 1,
+      "RarityColorNumber": 1,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 2190140228,
+      "UniqueId": 2190140228,
+      "TypeId": 1647473044,
+      "Rarity": 3,
+      "Level": 20,
+      "RarityColorNumber": 1,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 4119712722,
+      "UniqueId": 4119712722,
+      "TypeId": 1647473044,
+      "Rarity": 3,
+      "Level": 40,
+      "RarityColorNumber": 1,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 516727931,
+      "UniqueId": 516727931,
+      "TypeId": 1647473044,
+      "Rarity": 4,
+      "Level": 1,
+      "RarityColorNumber": 2,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 2277897665,
+      "UniqueId": 2277897665,
+      "TypeId": 1647473044,
+      "Rarity": 4,
+      "Level": 25,
+      "RarityColorNumber": 2,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 4039296343,
+      "UniqueId": 4039296343,
+      "TypeId": 1647473044,
+      "Rarity": 4,
+      "Level": 50,
+      "RarityColorNumber": 2,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 521064012,
+      "UniqueId": 521064012,
+      "TypeId": 1647473044,
+      "Rarity": 5,
+      "Level": 1,
+      "RarityColorNumber": 3,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 2248646646,
+      "UniqueId": 2248646646,
+      "TypeId": 1647473044,
+      "Rarity": 5,
+      "Level": 30,
+      "RarityColorNumber": 3,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 4043353952,
+      "UniqueId": 4043353952,
+      "TypeId": 1647473044,
+      "Rarity": 5,
+      "Level": 60,
+      "RarityColorNumber": 3,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 491286549,
+      "UniqueId": 491286549,
+      "TypeId": 1647473044,
+      "Rarity": 6,
+      "Level": 1,
+      "RarityColorNumber": 4,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 2218860975,
+      "UniqueId": 2218860975,
+      "TypeId": 1647473044,
+      "Rarity": 6,
+      "Level": 80,
+      "RarityColorNumber": 4,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 4081455417,
+      "UniqueId": 4081455417,
+      "TypeId": 1647473044,
+      "Rarity": 6,
+      "Level": 100,
+      "RarityColorNumber": 4,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 1450799350,
+      "UniqueId": 1450799350,
+      "TypeId": 2936011,
+      "Rarity": 0,
+      "Level": 1,
+      "RarityColorNumber": 0,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 727623632,
+      "UniqueId": 727623632,
+      "TypeId": 2936011,
+      "Rarity": 3,
+      "Level": 1,
+      "RarityColorNumber": 1,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 2992109162,
+      "UniqueId": 2992109162,
+      "TypeId": 2936011,
+      "Rarity": 3,
+      "Level": 5,
+      "RarityColorNumber": 1,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 3310405372,
+      "UniqueId": 3310405372,
+      "TypeId": 2936011,
+      "Rarity": 3,
+      "Level": 10,
+      "RarityColorNumber": 1,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 1530155871,
+      "UniqueId": 1530155871,
+      "TypeId": 2936011,
+      "Rarity": 3,
+      "Level": 16,
+      "RarityColorNumber": 1,
+      "EffectNumber": 4
+    },
+    {
+      "RarityLevelInfoId": 772911445,
+      "UniqueId": 772911445,
+      "TypeId": 2936011,
+      "Rarity": 4,
+      "Level": 1,
+      "RarityColorNumber": 2,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 3071860975,
+      "UniqueId": 3071860975,
+      "TypeId": 2936011,
+      "Rarity": 4,
+      "Level": 5,
+      "RarityColorNumber": 2,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 3223310457,
+      "UniqueId": 3223310457,
+      "TypeId": 2936011,
+      "Rarity": 4,
+      "Level": 10,
+      "RarityColorNumber": 2,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 1585137114,
+      "UniqueId": 1585137114,
+      "TypeId": 2936011,
+      "Rarity": 4,
+      "Level": 16,
+      "RarityColorNumber": 2,
+      "EffectNumber": 4
+    },
+    {
+      "RarityLevelInfoId": 802413410,
+      "UniqueId": 802413410,
+      "TypeId": 2936011,
+      "Rarity": 5,
+      "Level": 1,
+      "RarityColorNumber": 3,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 3067775704,
+      "UniqueId": 3067775704,
+      "TypeId": 2936011,
+      "Rarity": 5,
+      "Level": 5,
+      "RarityColorNumber": 3,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 3252533838,
+      "UniqueId": 3252533838,
+      "TypeId": 2936011,
+      "Rarity": 5,
+      "Level": 10,
+      "RarityColorNumber": 3,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 1605971949,
+      "UniqueId": 1605971949,
+      "TypeId": 2936011,
+      "Rarity": 5,
+      "Level": 16,
+      "RarityColorNumber": 3,
+      "EffectNumber": 4
+    },
+    {
+      "RarityLevelInfoId": 764765499,
+      "UniqueId": 764765499,
+      "TypeId": 2936011,
+      "Rarity": 6,
+      "Level": 1,
+      "RarityColorNumber": 4,
+      "EffectNumber": 1
+    },
+    {
+      "RarityLevelInfoId": 3030135937,
+      "UniqueId": 3030135937,
+      "TypeId": 2936011,
+      "Rarity": 6,
+      "Level": 20,
+      "RarityColorNumber": 4,
+      "EffectNumber": 2
+    },
+    {
+      "RarityLevelInfoId": 3281716247,
+      "UniqueId": 3281716247,
+      "TypeId": 2936011,
+      "Rarity": 6,
+      "Level": 40,
+      "RarityColorNumber": 4,
+      "EffectNumber": 3
+    },
+    {
+      "RarityLevelInfoId": 1577030068,
+      "UniqueId": 1577030068,
+      "TypeId": 2936011,
+      "Rarity": 6,
+      "Level": 60,
+      "RarityColorNumber": 4,
+      "EffectNumber": 4
+    },
+    {
+      "RarityLevelInfoId": 1792228631,
+      "UniqueId": 1792228631,
+      "TypeId": 1621616922,
+      "Rarity": 0,
+      "Level": 0,
+      "RarityColorNumber": 0,
+      "EffectNumber": 0
+    }
+  ],
+  "IdRef": {}
+}

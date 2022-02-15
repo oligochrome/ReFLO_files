@@ -1,0 +1,124 @@
+{
+  "TableCharaSkinOpenCondition": [
+    {
+      "CharaSkinOpenConditionId": 92998172,
+      "UniqeId": 92998172,
+      "ConditionId": 4011557542,
+      "ConditionValue": 4,
+      "ConditionValueId": 1225125243
+    },
+    {
+      "CharaSkinOpenConditionId": 669380662,
+      "UniqeId": 669380662,
+      "ConditionId": 3378515023,
+      "ConditionValue": 10,
+      "ConditionValueId": 1225125243
+    },
+    {
+      "CharaSkinOpenConditionId": 1468990649,
+      "UniqeId": 1468990649,
+      "ConditionId": 3378515023,
+      "ConditionValue": 15,
+      "ConditionValueId": 1225125243
+    },
+    {
+      "CharaSkinOpenConditionId": 214475765,
+      "UniqeId": 214475765,
+      "ConditionId": 3378515023,
+      "ConditionValue": 20,
+      "ConditionValueId": 1225125243
+    },
+    {
+      "CharaSkinOpenConditionId": 1033672779,
+      "UniqeId": 1033672779,
+      "ConditionId": 3378515023,
+      "ConditionValue": 0,
+      "ConditionValueId": 1225125243
+    },
+    {
+      "CharaSkinOpenConditionId": 3887662903,
+      "UniqeId": 3887662903,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 1592238002
+    },
+    {
+      "CharaSkinOpenConditionId": 2428385185,
+      "UniqeId": 2428385185,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 702590756
+    },
+    {
+      "CharaSkinOpenConditionId": 163014171,
+      "UniqeId": 163014171,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 2968125086
+    },
+    {
+      "CharaSkinOpenConditionId": 2125485709,
+      "UniqeId": 2125485709,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 3354316296
+    },
+    {
+      "CharaSkinOpenConditionId": 3772039982,
+      "UniqeId": 3772039982,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 1502239659
+    },
+    {
+      "CharaSkinOpenConditionId": 2547250104,
+      "UniqeId": 2547250104,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 781019965
+    },
+    {
+      "CharaSkinOpenConditionId": 249209346,
+      "UniqeId": 249209346,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 3078896263
+    },
+    {
+      "CharaSkinOpenConditionId": 2044564116,
+      "UniqeId": 2044564116,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 3229813265
+    },
+    {
+      "CharaSkinOpenConditionId": 3915550469,
+      "UniqeId": 3915550469,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 1346115456
+    },
+    {
+      "CharaSkinOpenConditionId": 2657468307,
+      "UniqeId": 2657468307,
+      "ConditionId": 2332363431,
+      "ConditionValue": 0,
+      "ConditionValueId": 658188054
+    },
+    {
+      "CharaSkinOpenConditionId": 2729778661,
+      "UniqeId": 2729778661,
+      "ConditionId": 3951964022,
+      "ConditionValue": 0,
+      "ConditionValueId": 1225125243
+    },
+    {
+      "CharaSkinOpenConditionId": 1780870940,
+      "UniqeId": 1780870940,
+      "ConditionId": 2281440922,
+      "ConditionValue": 6,
+      "ConditionValueId": 1225125243
+    }
+  ],
+  "IdRef": {}
+}

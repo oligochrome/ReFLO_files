@@ -1,0 +1,29 @@
+{
+  "TableFishSize": [
+    {
+      "FishSizeIdIdx": 2444677830,
+      "FishsizeId": 2444677830,
+      "Nodename": "FishSizeS",
+      "HeadingtextId": 1637462420
+    },
+    {
+      "FishSizeIdIdx": 1807347621,
+      "FishsizeId": 1807347621,
+      "Nodename": "FishSizeM",
+      "HeadingtextId": 2610334967
+    },
+    {
+      "FishSizeIdIdx": 482271027,
+      "FishsizeId": 482271027,
+      "Nodename": "FishSizeL",
+      "HeadingtextId": 3968973921
+    },
+    {
+      "FishSizeIdIdx": 2419172229,
+      "FishsizeId": 2419172229,
+      "Nodename": "",
+      "HeadingtextId": 4260187921
+    }
+  ],
+  "IdRef": {}
+}

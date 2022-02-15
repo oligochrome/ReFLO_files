@@ -1,0 +1,53 @@
+{
+  "TableMultiplayFishPower": [
+    {
+      "MultiplayFishPowerId": 2120178319,
+      "Uniqid": 2120178319,
+      "Values": [
+        1.8,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "MultiplayFishPowerId": 3584962717,
+      "Uniqid": 3584962717,
+      "Values": [
+        2.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "MultiplayFishPowerId": 991556341,
+      "Uniqid": 991556341,
+      "Values": [
+        1.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "MultiplayFishPowerId": 2846605146,
+      "Uniqid": 2846605146,
+      "Values": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "IdRef": {}
+}

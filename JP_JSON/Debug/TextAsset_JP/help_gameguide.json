@@ -1,0 +1,95 @@
+{
+  "TableHelpGameguide": [
+    {
+      "HelpGameguideId": 4104398534,
+      "Helpid": 4104398534,
+      "Groupeid": 1,
+      "Menuhighid": 410420607,
+      "Menulowid": 4260187921,
+      "Dialogid": 1579161345,
+      "Url": "html_tmp/150801/test_20150807.html",
+      "Comment": ""
+    },
+    {
+      "HelpGameguideId": 3003407382,
+      "Helpid": 3003407382,
+      "Groupeid": 2,
+      "Menuhighid": 2410879277,
+      "Menulowid": 4260187921,
+      "Dialogid": 1579161345,
+      "Url": "html_tmp/info_2015_06_0002.html",
+      "Comment": ""
+    },
+    {
+      "HelpGameguideId": 2388948390,
+      "Helpid": 2388948390,
+      "Groupeid": 3,
+      "Menuhighid": 1421712390,
+      "Menulowid": 4260187921,
+      "Dialogid": 1579161345,
+      "Url": "html_tmp/info_2015_06_0003.html",
+      "Comment": ""
+    },
+    {
+      "HelpGameguideId": 1011132854,
+      "Helpid": 1011132854,
+      "Groupeid": 4,
+      "Menuhighid": 4144680935,
+      "Menulowid": 4260187921,
+      "Dialogid": 1579161345,
+      "Url": "html_tmp/info_2015_06_0003.html",
+      "Comment": ""
+    },
+    {
+      "HelpGameguideId": 19169286,
+      "Helpid": 19169286,
+      "Groupeid": 5,
+      "Menuhighid": 3201937863,
+      "Menulowid": 174132248,
+      "Dialogid": 1579161345,
+      "Url": "sound/test.html",
+      "Comment": ""
+    },
+    {
+      "HelpGameguideId": 1982050448,
+      "Helpid": 1982050448,
+      "Groupeid": 5,
+      "Menuhighid": 3201937863,
+      "Menulowid": 310620503,
+      "Dialogid": 1579161345,
+      "Url": "sound/test.html",
+      "Comment": ""
+    },
+    {
+      "HelpGameguideId": 1183120086,
+      "Helpid": 1183120086,
+      "Groupeid": 6,
+      "Menuhighid": 3622723358,
+      "Menulowid": 3777841537,
+      "Dialogid": 1579161345,
+      "Url": "sound/test.html",
+      "Comment": ""
+    },
+    {
+      "HelpGameguideId": 830720576,
+      "Helpid": 830720576,
+      "Groupeid": 6,
+      "Menuhighid": 3622723358,
+      "Menulowid": 2812929155,
+      "Dialogid": 1579161345,
+      "Url": "sound/test.html",
+      "Comment": ""
+    },
+    {
+      "HelpGameguideId": 2827656186,
+      "Helpid": 2827656186,
+      "Groupeid": 6,
+      "Menuhighid": 3622723358,
+      "Menulowid": 1665051635,
+      "Dialogid": 1579161345,
+      "Url": "sound/test.html",
+      "Comment": ""
+    }
+  ],
+  "IdRef": {}
+}
