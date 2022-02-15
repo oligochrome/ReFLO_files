@@ -1,0 +1,205 @@
+{
+  "TableLoginbonusEventTheater": [
+    {
+      "LoginbonusEventTheaterId": 3297566593,
+      "EventloginbonusID": 3297566593,
+      "Titletext": "第1話\n夏の思い出①",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 3297566593
+    },
+    {
+      "LoginbonusEventTheaterId": 1569033787,
+      "EventloginbonusID": 1569033787,
+      "Titletext": "第2話\n夏の思い出②",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 1569033787
+    },
+    {
+      "LoginbonusEventTheaterId": 713211565,
+      "EventloginbonusID": 713211565,
+      "Titletext": "第3話\n夏の思い出③",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 713211565
+    },
+    {
+      "LoginbonusEventTheaterId": 3034983182,
+      "EventloginbonusID": 3034983182,
+      "Titletext": "第4話\n夏の思い出④",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 3034983182
+    },
+    {
+      "LoginbonusEventTheaterId": 3286309784,
+      "EventloginbonusID": 3286309784,
+      "Titletext": "第5話\n夏の思い出⑤",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 3286309784
+    },
+    {
+      "LoginbonusEventTheaterId": 1525172770,
+      "EventloginbonusID": 1525172770,
+      "Titletext": "第6話\n夏の思い出⑥",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 1525172770
+    },
+    {
+      "LoginbonusEventTheaterId": 770669236,
+      "EventloginbonusID": 770669236,
+      "Titletext": "第7話\n夏の思い出⑦",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 770669236
+    },
+    {
+      "LoginbonusEventTheaterId": 2083567844,
+      "EventloginbonusID": 2083567844,
+      "Titletext": "第1話\n食欲の秋①",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 2083567844
+    },
+    {
+      "LoginbonusEventTheaterId": 3845777758,
+      "EventloginbonusID": 3845777758,
+      "Titletext": "第2話\n食欲の秋②",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 3845777758
+    },
+    {
+      "LoginbonusEventTheaterId": 2453592520,
+      "EventloginbonusID": 2453592520,
+      "Titletext": "第3話\n食欲の秋③",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 2453592520
+    },
+    {
+      "LoginbonusEventTheaterId": 207244395,
+      "EventloginbonusID": 207244395,
+      "Titletext": "第4話\n食欲の秋④",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 207244395
+    },
+    {
+      "LoginbonusEventTheaterId": 2069724413,
+      "EventloginbonusID": 2069724413,
+      "Titletext": "第5話\n食欲の秋⑤",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 2069724413
+    },
+    {
+      "LoginbonusEventTheaterId": 1854215946,
+      "EventloginbonusID": 1854215946,
+      "Titletext": "第1話\nホーリーナイト①",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 1854215946
+    },
+    {
+      "LoginbonusEventTheaterId": 4153165488,
+      "EventloginbonusID": 4153165488,
+      "Titletext": "第2話\nホーリーナイト②",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 4153165488
+    },
+    {
+      "LoginbonusEventTheaterId": 2156623398,
+      "EventloginbonusID": 2156623398,
+      "Titletext": "第3話\nホーリーナイト③",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 2156623398
+    },
+    {
+      "LoginbonusEventTheaterId": 519037829,
+      "EventloginbonusID": 519037829,
+      "Titletext": "第4話\nホーリーナイト④",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 519037829
+    },
+    {
+      "LoginbonusEventTheaterId": 1776866067,
+      "EventloginbonusID": 1776866067,
+      "Titletext": "第5話\nホーリーナイト⑤",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 1776866067
+    },
+    {
+      "LoginbonusEventTheaterId": 4041310889,
+      "EventloginbonusID": 4041310889,
+      "Titletext": "第6話\nホーリーナイト⑥",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 4041310889
+    },
+    {
+      "LoginbonusEventTheaterId": 2280043071,
+      "EventloginbonusID": 2280043071,
+      "Titletext": "第7話\nホーリーナイト⑦",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 2280043071
+    },
+    {
+      "LoginbonusEventTheaterId": 391753646,
+      "EventloginbonusID": 391753646,
+      "Titletext": "第8話\nホーリーナイト⑧",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 391753646
+    },
+    {
+      "LoginbonusEventTheaterId": 1616813880,
+      "EventloginbonusID": 1616813880,
+      "Titletext": "第9話\nホーリーナイト⑨",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 1616813880
+    },
+    {
+      "LoginbonusEventTheaterId": 10032861,
+      "EventloginbonusID": 10032861,
+      "Titletext": "第10話\nホーリーナイト⑩",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 10032861
+    },
+    {
+      "LoginbonusEventTheaterId": 2006853195,
+      "EventloginbonusID": 2006853195,
+      "Titletext": "第11話\nホーリーナイト⑪",
+      "MinitheaterID": "test_event",
+      "Comment": "",
+      "Uniqid": 2006853195
+    },
+    {
+      "LoginbonusEventTheaterId": 4002904049,
+      "EventloginbonusID": 4002904049,
+      "Titletext": "第12話\nホーリーナイト⑫",
+      "MinitheaterID": "test_knight_event",
+      "Comment": "",
+      "Uniqid": 4002904049
+    },
+    {
+      "LoginbonusEventTheaterId": 2705903063,
+      "EventloginbonusID": 2705903063,
+      "Titletext": "",
+      "MinitheaterID": "",
+      "Comment": "",
+      "Uniqid": 2705903063
+    }
+  ],
+  "IdRef": {}
+}

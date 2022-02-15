@@ -1,0 +1,88 @@
+{
+  "TableConstString": [
+    {
+      "ConstStringId": 1019233701,
+      "Uniqid": 1019233701,
+      "Value": "500",
+      "Type": "int",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 2781418527,
+      "Uniqid": 2781418527,
+      "Value": "40000000",
+      "Type": "long",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 3536725129,
+      "Uniqid": 3536725129,
+      "Value": "5",
+      "Type": "int",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 1286254890,
+      "Uniqid": 1286254890,
+      "Value": "1500",
+      "Type": "int",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 1001226684,
+      "Uniqid": 1001226684,
+      "Value": "5",
+      "Type": "int",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 2728710150,
+      "Uniqid": 2728710150,
+      "Value": "999999999",
+      "Type": "long",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 3584286864,
+      "Uniqid": 3584286864,
+      "Value": "20000000",
+      "Type": "int",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 1159527681,
+      "Uniqid": 1159527681,
+      "Value": "50",
+      "Type": "int",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 840682903,
+      "Uniqid": 840682903,
+      "Value": "200",
+      "Type": "int",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 1390167154,
+      "Uniqid": 1390167154,
+      "Value": "5",
+      "Type": "int",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 3242956625,
+      "Uniqid": 3242956625,
+      "Value": "99999999999",
+      "Type": "long",
+      "SignedType": 1
+    },
+    {
+      "ConstStringId": 2035105058,
+      "Uniqid": 2035105058,
+      "Value": "99999999999",
+      "Type": "long",
+      "SignedType": 1
+    }
+  ]
+}

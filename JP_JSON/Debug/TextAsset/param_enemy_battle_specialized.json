@@ -1,0 +1,85 @@
+{
+  "TableParamEnemyBattleSpecialized": [
+    {
+      "ParamEnemyBattleSpecializedId": 1122978741,
+      "Id": 1122978741,
+      "Type1": 4187862895,
+      "Param1": 3255840085,
+      "Type2": 1620371157,
+      "Param2": 3255840085,
+      "Type3": 395564611,
+      "Param3": 3255840085
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 3689290255,
+      "Id": 3689290255,
+      "Type1": 4187862895,
+      "Param1": 3255840085,
+      "Type2": 1620371157,
+      "Param2": 3815132302,
+      "Type3": 395564611,
+      "Param3": 3815132302
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 2900437657,
+      "Id": 2900437657,
+      "Type1": 4187862895,
+      "Param1": 106222016,
+      "Type2": 1620371157,
+      "Param2": 3255840085,
+      "Type3": 395564611,
+      "Param3": 106222016
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 847626042,
+      "Id": 847626042,
+      "Type1": 4187862895,
+      "Param1": 3815132302,
+      "Type2": 1620371157,
+      "Param2": 3815132302,
+      "Type3": 395564611,
+      "Param3": 3255840085
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 1166184364,
+      "Id": 1166184364,
+      "Type1": 4187862895,
+      "Param1": 3815132302,
+      "Type2": 1620371157,
+      "Param2": 3255840085,
+      "Type3": 395564611,
+      "Param3": 106222016
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 3700153878,
+      "Id": 3700153878,
+      "Type1": 4187862895,
+      "Param1": 2584321953,
+      "Type2": 1620371157,
+      "Param2": 2584321953,
+      "Type3": 395564611,
+      "Param3": 2584321953
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 2452046657,
+      "Id": 2452046657,
+      "Type1": 4187862895,
+      "Param1": 106222016,
+      "Type2": 1620371157,
+      "Param2": 106222016,
+      "Type3": 395564611,
+      "Param3": 106222016
+    },
+    {
+      "ParamEnemyBattleSpecializedId": 1195171448,
+      "Id": 1195171448,
+      "Type1": 3406081776,
+      "Param1": 3815132302,
+      "Type2": 3406081776,
+      "Param2": 3815132302,
+      "Type3": 3406081776,
+      "Param3": 3815132302
+    }
+  ],
+  "IdRef": {}
+}

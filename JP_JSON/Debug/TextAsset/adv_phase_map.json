@@ -1,0 +1,1814 @@
+{
+  "TableAdvPhaseMap": [
+    {
+      "AdvPhaseMapId": 837195654,
+      "UniqId": 837195654,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "modelsize_001",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2834286140,
+      "UniqId": 2834286140,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "modelsize_002",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3756586666,
+      "UniqId": 3756586666,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "modelsize_003",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1099719433,
+      "UniqId": 1099719433,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "model_01",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 915100575,
+      "UniqId": 915100575,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "model_02",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2944533029,
+      "UniqId": 2944533029,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "model_03",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3632607923,
+      "UniqId": 3632607923,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "gndbase_shadow000",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1211772706,
+      "UniqId": 1211772706,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "modelsize_000_col",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1060970420,
+      "UniqId": 1060970420,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "gndbase_shadow001",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1610258001,
+      "UniqId": 1610258001,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "modelsize_001_cole",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 687711943,
+      "UniqId": 687711943,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_01",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2985621373,
+      "UniqId": 2985621373,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_02",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3337865195,
+      "UniqId": 3337865195,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_03",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1486312008,
+      "UniqId": 1486312008,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_04",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 797991646,
+      "UniqId": 797991646,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_05",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3063493476,
+      "UniqId": 3063493476,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_06",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3248358386,
+      "UniqId": 3248358386,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_07",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1361124963,
+      "UniqId": 1361124963,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_08",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 640036597,
+      "UniqId": 640036597,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_09",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1960297874,
+      "UniqId": 1960297874,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_10",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 64025860,
+      "UniqId": 64025860,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_11",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2597954750,
+      "UniqId": 2597954750,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_12",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3990787112,
+      "UniqId": 3990787112,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_13",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1941569931,
+      "UniqId": 1941569931,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_14",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 79507741,
+      "UniqId": 79507741,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_15",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2645844135,
+      "UniqId": 2645844135,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_16",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3937620017,
+      "UniqId": 3937620017,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "convex_17",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2047626656,
+      "UniqId": 2047626656,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "gndbase_shadow002",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 218856758,
+      "UniqId": 218856758,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "modelsize_002_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1842148563,
+      "UniqId": 1842148563,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "model002",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 449561669,
+      "UniqId": 449561669,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "gndbase_shadow003",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2210567679,
+      "UniqId": 2210567679,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "modelsize_003_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4106593641,
+      "UniqId": 4106593641,
+      "PhaseMapId": 1856204282,
+      "ObjectName": "model003",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 592656488,
+      "UniqId": 592656488,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "modelsize_001",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3036717144,
+      "UniqId": 3036717144,
+      "PhaseMapId": 592656488,
+      "ObjectName": "modelsize_001",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 738849250,
+      "UniqId": 738849250,
+      "PhaseMapId": 592656488,
+      "ObjectName": "modelsize_002",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1527693684,
+      "UniqId": 1527693684,
+      "PhaseMapId": 592656488,
+      "ObjectName": "modelsize_003",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3312080087,
+      "UniqId": 3312080087,
+      "PhaseMapId": 592656488,
+      "ObjectName": "model_01",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2993513537,
+      "UniqId": 2993513537,
+      "PhaseMapId": 592656488,
+      "ObjectName": "model_02",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 727987707,
+      "UniqId": 727987707,
+      "PhaseMapId": 592656488,
+      "ObjectName": "model_03",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1549993325,
+      "UniqId": 1549993325,
+      "PhaseMapId": 592656488,
+      "ObjectName": "gndbase_shadow000",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3436976380,
+      "UniqId": 3436976380,
+      "PhaseMapId": 592656488,
+      "ObjectName": "modelsize_000_col",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3151702122,
+      "UniqId": 3151702122,
+      "PhaseMapId": 592656488,
+      "ObjectName": "gndbase_shadow001",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3676086671,
+      "UniqId": 3676086671,
+      "PhaseMapId": 592656488,
+      "ObjectName": "modelsize_001_cole",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2887487769,
+      "UniqId": 2887487769,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_01",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 890421411,
+      "UniqId": 890421411,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_02",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1108734005,
+      "UniqId": 1108734005,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_03",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3698419094,
+      "UniqId": 3698419094,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_04",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2876658944,
+      "UniqId": 2876658944,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_05",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 847185082,
+      "UniqId": 847185082,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_06",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1165505580,
+      "UniqId": 1165505580,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_07",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3586599357,
+      "UniqId": 3586599357,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_08",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2730498347,
+      "UniqId": 2730498347,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_09",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4029805132,
+      "UniqId": 4029805132,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_10",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2268512986,
+      "UniqId": 2268512986,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_11",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 507482976,
+      "UniqId": 507482976,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_12",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1765319670,
+      "UniqId": 1765319670,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_13",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4150015573,
+      "UniqId": 4150015573,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_14",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2153449155,
+      "UniqId": 2153449155,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_15",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 424826745,
+      "UniqId": 424826745,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_16",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1851090927,
+      "UniqId": 1851090927,
+      "PhaseMapId": 592656488,
+      "ObjectName": "convex_17",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4276779646,
+      "UniqId": 4276779646,
+      "PhaseMapId": 592656488,
+      "ObjectName": "gndbase_shadow002",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2314029800,
+      "UniqId": 2314029800,
+      "PhaseMapId": 592656488,
+      "ObjectName": "modelsize_002_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3911893773,
+      "UniqId": 3911893773,
+      "PhaseMapId": 592656488,
+      "ObjectName": "model002",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2653811611,
+      "UniqId": 2653811611,
+      "PhaseMapId": 592656488,
+      "ObjectName": "gndbase_shadow003",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 119841313,
+      "UniqId": 119841313,
+      "PhaseMapId": 592656488,
+      "ObjectName": "modelsize_003_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1881379511,
+      "UniqId": 1881379511,
+      "PhaseMapId": 592656488,
+      "ObjectName": "model003",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3126487506,
+      "UniqId": 3126487506,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "modelsize_002",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2813661110,
+      "UniqId": 2813661110,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "modelsize_001",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1052532236,
+      "UniqId": 1052532236,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "modelsize_002",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1237020314,
+      "UniqId": 1237020314,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "modelsize_003",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3621780281,
+      "UniqId": 3621780281,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "model_01",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2698562479,
+      "UniqId": 2698562479,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "model_02",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 970037781,
+      "UniqId": 970037781,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "model_03",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1322691203,
+      "UniqId": 1322691203,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "gndbase_shadow000",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3731470098,
+      "UniqId": 3731470098,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "modelsize_000_col",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2842593156,
+      "UniqId": 2842593156,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "gndbase_shadow001",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3383299681,
+      "UniqId": 3383299681,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "modelsize_001_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3199090423,
+      "UniqId": 3199090423,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_01",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 665284429,
+      "UniqId": 665284429,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_02",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1352687579,
+      "UniqId": 1352687579,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_03",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3469003384,
+      "UniqId": 3469003384,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_04",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3116628718,
+      "UniqId": 3116628718,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_05",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 550153044,
+      "UniqId": 550153044,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_06",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1473092546,
+      "UniqId": 1473092546,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_07",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3346171475,
+      "UniqId": 3346171475,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_08",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2960504517,
+      "UniqId": 2960504517,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_09",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3800325538,
+      "UniqId": 3800325538,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_10",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2508418356,
+      "UniqId": 2508418356,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_11",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 210386062,
+      "UniqId": 210386062,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_12",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2072841240,
+      "UniqId": 2072841240,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_13",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3857291707,
+      "UniqId": 3857291707,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_14",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2465114413,
+      "UniqId": 2465114413,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_15",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 199751831,
+      "UniqId": 199751831,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_16",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2095106049,
+      "UniqId": 2095106049,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "convex_17",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3965703568,
+      "UniqId": 3965703568,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "gndbase_shadow002",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2606294278,
+      "UniqId": 2606294278,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "modelsize_002_cole",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4221529315,
+      "UniqId": 4221529315,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "model002",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2358795381,
+      "UniqId": 2358795381,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "gndbase_shadow003",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 361827791,
+      "UniqId": 361827791,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "modelsize_003_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1654013273,
+      "UniqId": 1654013273,
+      "PhaseMapId": 3126487506,
+      "ObjectName": "model003",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3445446980,
+      "UniqId": 3445446980,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "modelsize_003",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 520710355,
+      "UniqId": 520710355,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "modelsize_001",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2248161641,
+      "UniqId": 2248161641,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "modelsize_002",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4043770367,
+      "UniqId": 4043770367,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "modelsize_003",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1868799068,
+      "UniqId": 1868799068,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "model_01",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 409251018,
+      "UniqId": 409251018,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "model_02",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2171469168,
+      "UniqId": 2171469168,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "model_03",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4134194662,
+      "UniqId": 4134194662,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "gndbase_shadow000",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1725288567,
+      "UniqId": 1725288567,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "modelsize_000_col",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 299032801,
+      "UniqId": 299032801,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "gndbase_shadow001",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1897228548,
+      "UniqId": 1897228548,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "modelsize_001_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 101865874,
+      "UniqId": 101865874,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_01",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2669348904,
+      "UniqId": 2669348904,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_02",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3894163646,
+      "UniqId": 3894163646,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_03",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1987620125,
+      "UniqId": 1987620125,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_04",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 25140619,
+      "UniqId": 25140619,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_05",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2557922353,
+      "UniqId": 2557922353,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_06",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4017224871,
+      "UniqId": 4017224871,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_07",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2144264502,
+      "UniqId": 2144264502,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_08",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 147444128,
+      "UniqId": 147444128,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_09",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1513634503,
+      "UniqId": 1513634503,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_10",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 759106129,
+      "UniqId": 759106129,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_11",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3023461355,
+      "UniqId": 3023461355,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_12",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3274795901,
+      "UniqId": 3274795901,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_13",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1565916894,
+      "UniqId": 1565916894,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_14",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 710069832,
+      "UniqId": 710069832,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_15",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3009126386,
+      "UniqId": 3009126386,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_16",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3294408548,
+      "UniqId": 3294408548,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "convex_17",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1424208629,
+      "UniqId": 1424208629,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "gndbase_shadow002",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 602178147,
+      "UniqId": 602178147,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "modelsize_002_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1126370182,
+      "UniqId": 1126370182,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "model002",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 874789648,
+      "UniqId": 874789648,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "gndbase_shadow003",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2905434794,
+      "UniqId": 2905434794,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "modelsize_003_cole",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3660208700,
+      "UniqId": 3660208700,
+      "PhaseMapId": 3445446980,
+      "ObjectName": "model003",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1396296935,
+      "UniqId": 1396296935,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "model_01",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 608107633,
+      "UniqId": 608107633,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "model_02",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3174542795,
+      "UniqId": 3174542795,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "model_03",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3392183645,
+      "UniqId": 3392183645,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "gndbase_shadow000",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1519354060,
+      "UniqId": 1519354060,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "modelsize_000_col",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 763932762,
+      "UniqId": 763932762,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "gndbase_shadow001",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1297037759,
+      "UniqId": 1297037759,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "modelsize_001_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 977799465,
+      "UniqId": 977799465,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_01",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2738968723,
+      "UniqId": 2738968723,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_02",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3561383941,
+      "UniqId": 3561383941,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_03",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1243807142,
+      "UniqId": 1243807142,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_04",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1025887536,
+      "UniqId": 1025887536,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_05",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2754387082,
+      "UniqId": 2754387082,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_06",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3542854684,
+      "UniqId": 3542854684,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_07",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1133818253,
+      "UniqId": 1133818253,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_08",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 882082075,
+      "UniqId": 882082075,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_09",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1717725820,
+      "UniqId": 1717725820,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_10",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 291855082,
+      "UniqId": 291855082,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_11",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2288782160,
+      "UniqId": 2288782160,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_12",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4285217734,
+      "UniqId": 4285217734,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_13",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1628417637,
+      "UniqId": 1628417637,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_14",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 369663731,
+      "UniqId": 369663731,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_15",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2399260489,
+      "UniqId": 2399260489,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_16",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4161208287,
+      "UniqId": 4161208287,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "convex_17",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1757012558,
+      "UniqId": 1757012558,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "gndbase_shadow002",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 532599512,
+      "UniqId": 532599512,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "modelsize_002_cole",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2138659645,
+      "UniqId": 2138659645,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "model002",
+      "IsCollider": 1,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 142502827,
+      "UniqId": 142502827,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "gndbase_shadow003",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2440509969,
+      "UniqId": 2440509969,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "modelsize_003_cole",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3866102407,
+      "UniqId": 3866102407,
+      "PhaseMapId": 4155128896,
+      "ObjectName": "model003",
+      "IsCollider": 1,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2882260105,
+      "UniqId": 2882260105,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "uva_space2_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 851615027,
+      "UniqId": 851615027,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "uva_space2_2",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1170582949,
+      "UniqId": 1170582949,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "uva_space2_3",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3684775942,
+      "UniqId": 3684775942,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "uva_space2_4",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2896562320,
+      "UniqId": 2896562320,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "uva_space3_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 900684074,
+      "UniqId": 900684074,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "uva_space4_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1118333372,
+      "UniqId": 1118333372,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "uva_space5_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 219039574,
+      "UniqId": 219039574,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "fld_base01",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 1
+    },
+    {
+      "AdvPhaseMapId": 2047440832,
+      "UniqId": 2047440832,
+      "PhaseMapId": 3974655899,
+      "ObjectName": "uva_fld_line2_1",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 1
+    },
+    {
+      "AdvPhaseMapId": 326609900,
+      "UniqId": 326609900,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "uva_space2_1",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2323577430,
+      "UniqId": 2323577430,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "uva_space2_2",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4252617408,
+      "UniqId": 4252617408,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "uva_space2_3",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1662869347,
+      "UniqId": 1662869347,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "uva_space2_4",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 337276917,
+      "UniqId": 337276917,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "uva_space3_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2366848591,
+      "UniqId": 2366848591,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "uva_space4_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4195618521,
+      "UniqId": 4195618521,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "uva_space5_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3048349747,
+      "UniqId": 3048349747,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "fld_base01",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 1
+    },
+    {
+      "AdvPhaseMapId": 3266646181,
+      "UniqId": 3266646181,
+      "PhaseMapId": 2616155917,
+      "ObjectName": "uva_fld_line2_1",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 1
+    },
+    {
+      "AdvPhaseMapId": 29492226,
+      "UniqId": 29492226,
+      "PhaseMapId": 48631479,
+      "ObjectName": "uva_space2_1",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2563462584,
+      "UniqId": 2563462584,
+      "PhaseMapId": 48631479,
+      "ObjectName": "uva_space2_2",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 4023149870,
+      "UniqId": 4023149870,
+      "PhaseMapId": 48631479,
+      "ObjectName": "uva_space2_3",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1906897037,
+      "UniqId": 1906897037,
+      "PhaseMapId": 48631479,
+      "ObjectName": "uva_space2_4",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 112181275,
+      "UniqId": 112181275,
+      "PhaseMapId": 48631479,
+      "ObjectName": "uva_space3_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2678493601,
+      "UniqId": 2678493601,
+      "PhaseMapId": 48631479,
+      "ObjectName": "uva_space4_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3902906679,
+      "UniqId": 3902906679,
+      "PhaseMapId": 48631479,
+      "ObjectName": "uva_space5_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 2802290653,
+      "UniqId": 2802290653,
+      "PhaseMapId": 48631479,
+      "ObjectName": "fld_base01",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 1
+    },
+    {
+      "AdvPhaseMapId": 3489709899,
+      "UniqId": 3489709899,
+      "PhaseMapId": 48631479,
+      "ObjectName": "uva_fld_line2_1",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 1
+    },
+    {
+      "AdvPhaseMapId": 3112067943,
+      "UniqId": 3112067943,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "uva_space2_1",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 544682717,
+      "UniqId": 544682717,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "uva_space2_2",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1466958411,
+      "UniqId": 1466958411,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "uva_space2_3",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3373570024,
+      "UniqId": 3373570024,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "uva_space2_4",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 3188959102,
+      "UniqId": 3188959102,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "uva_space3_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 656078532,
+      "UniqId": 656078532,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "uva_space4_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 1344128594,
+      "UniqId": 1344128594,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "uva_space5_1",
+      "IsCollider": 0,
+      "IsActive": 1,
+      "QualityLimit": 2
+    },
+    {
+      "AdvPhaseMapId": 532408504,
+      "UniqId": 532408504,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "fld_base01",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 1
+    },
+    {
+      "AdvPhaseMapId": 1757206574,
+      "UniqId": 1757206574,
+      "PhaseMapId": 1977695777,
+      "ObjectName": "uva_fld_line2_1",
+      "IsCollider": 0,
+      "IsActive": 0,
+      "QualityLimit": 1
+    }
+  ],
+  "IdRef": {}
+}

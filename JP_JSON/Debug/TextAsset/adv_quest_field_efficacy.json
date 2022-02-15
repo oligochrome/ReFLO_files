@@ -1,0 +1,26 @@
+{
+  "TableAdvQuestFieldEfficacy": [
+    {
+      "AdvQuestFieldEfficacyId": 1963562246,
+      "UniqId": 1963562246,
+      "TermsAdvQuestId": 660868928,
+      "Target": "ALL",
+      "EfficacyId": 1965848853
+    },
+    {
+      "AdvQuestFieldEfficacyId": 3959473340,
+      "UniqId": 3959473340,
+      "TermsAdvQuestId": 3194838778,
+      "Target": "ALL",
+      "EfficacyId": 2287334081
+    },
+    {
+      "AdvQuestFieldEfficacyId": 2600989738,
+      "UniqId": 2600989738,
+      "TermsAdvQuestId": 3379195500,
+      "Target": "ALL",
+      "EfficacyId": 4138235919
+    }
+  ],
+  "IdRef": {}
+}

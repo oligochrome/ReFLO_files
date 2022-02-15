@@ -1,0 +1,105 @@
+{
+  "RefLicense": {
+    "362595422": "-",
+    "654695873": "みならい",
+    "3188493435": "かけだし",
+    "3372989677": "いっぱし",
+    "1466902862": "うできき",
+    "543693272": "たつじん",
+    "3110160482": "はながた",
+    "3462822132": "おおもの",
+    "1591305573": "マスター",
+    "702436851": "神みならい",
+    "1226431510": "ゴッド"
+  },
+  "TableLicense": [
+    {
+      "LicenseId": 362595422,
+      "UnqId": 362595422,
+      "TextId": 4260187921,
+      "Level": 0,
+      "EnableEquipMedalRank": 3,
+      "LimitRise": 0
+    },
+    {
+      "LicenseId": 654695873,
+      "UnqId": 654695873,
+      "TextId": 2637958196,
+      "Level": 1,
+      "EnableEquipMedalRank": 3,
+      "LimitRise": 0
+    },
+    {
+      "LicenseId": 3188493435,
+      "UnqId": 3188493435,
+      "TextId": 994772864,
+      "Level": 2,
+      "EnableEquipMedalRank": 3,
+      "LimitRise": 1
+    },
+    {
+      "LicenseId": 3372989677,
+      "UnqId": 3372989677,
+      "TextId": 178461981,
+      "Level": 3,
+      "EnableEquipMedalRank": 4,
+      "LimitRise": 2
+    },
+    {
+      "LicenseId": 1466902862,
+      "UnqId": 1466902862,
+      "TextId": 2899580585,
+      "Level": 4,
+      "EnableEquipMedalRank": 4,
+      "LimitRise": 3
+    },
+    {
+      "LicenseId": 543693272,
+      "UnqId": 543693272,
+      "TextId": 1769154599,
+      "Level": 5,
+      "EnableEquipMedalRank": 5,
+      "LimitRise": 4
+    },
+    {
+      "LicenseId": 3110160482,
+      "UnqId": 3110160482,
+      "TextId": 3473154963,
+      "Level": 6,
+      "EnableEquipMedalRank": 5,
+      "LimitRise": 5
+    },
+    {
+      "LicenseId": 3462822132,
+      "UnqId": 3462822132,
+      "TextId": 4276893966,
+      "Level": 7,
+      "EnableEquipMedalRank": 5,
+      "LimitRise": 6
+    },
+    {
+      "LicenseId": 1591305573,
+      "UnqId": 1591305573,
+      "TextId": 1486566074,
+      "Level": 8,
+      "EnableEquipMedalRank": 5,
+      "LimitRise": 7
+    },
+    {
+      "LicenseId": 702436851,
+      "UnqId": 702436851,
+      "TextId": 2933080659,
+      "Level": 9,
+      "EnableEquipMedalRank": 5,
+      "LimitRise": 8
+    },
+    {
+      "LicenseId": 1226431510,
+      "UnqId": 1226431510,
+      "TextId": 144984551,
+      "Level": 10,
+      "EnableEquipMedalRank": 5,
+      "LimitRise": 9
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "TableMapWorldmapFieldobj": [
+    {
+      "MapWorldmapFieldobjId": 237587403,
+      "FieldEventId": 117203830,
+      "MapId": 1116790078,
+      "ObjId": 986327055,
+      "PosX": 780.0,
+      "PosY": 14.0,
+      "ObjScale": 14.0,
+      "ObjRotateY": -160.0,
+      "ObjTouchWidth": 0.0,
+      "ObjTouchHeight": 0.0,
+      "ActionPeriod": 20.0,
+      "ActionId": 2968212066
+    }
+  ],
+  "IdRef": {}
+}

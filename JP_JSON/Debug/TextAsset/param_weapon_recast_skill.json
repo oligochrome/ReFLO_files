@@ -1,0 +1,263 @@
+{
+  "TableParamWeaponRecastSkill": [
+    {
+      "ParamWeaponRecastSkillId": 1974297730,
+      "Id": 1974297730,
+      "SkillId": 4069502534,
+      "RecastTime": 0.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2213291534,
+      "Id": 2213291534,
+      "SkillId": 1161123634,
+      "RecastTime": 25.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 265738446,
+      "Id": 265738446,
+      "SkillId": 2880473350,
+      "RecastTime": 70.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 3870653947,
+      "Id": 3870653947,
+      "SkillId": 108349109,
+      "RecastTime": 50.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 146480343,
+      "Id": 146480343,
+      "SkillId": 2448054172,
+      "RecastTime": 25.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2550399302,
+      "Id": 2550399302,
+      "SkillId": 1738680181,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 4173564067,
+      "Id": 4173564067,
+      "SkillId": 1049649720,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 382593423,
+      "Id": 382593423,
+      "SkillId": 2836362001,
+      "RecastTime": 45.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 295710102,
+      "Id": 295710102,
+      "SkillId": 1564497666,
+      "RecastTime": 30.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 4128768145,
+      "Id": 4128768145,
+      "SkillId": 226438239,
+      "RecastTime": 55.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 620464909,
+      "Id": 620464909,
+      "SkillId": 3945428076,
+      "RecastTime": 30.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 713418628,
+      "Id": 713418628,
+      "SkillId": 2243238245,
+      "RecastTime": 15.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 1525617419,
+      "Id": 1525617419,
+      "SkillId": 2993416535,
+      "RecastTime": 25.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2113573400,
+      "Id": 2113573400,
+      "SkillId": 3813587384,
+      "RecastTime": 30.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2588065567,
+      "Id": 2588065567,
+      "SkillId": 59887243,
+      "RecastTime": 50.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2203684446,
+      "Id": 2203684446,
+      "SkillId": 1056040763,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2796508591,
+      "Id": 2796508591,
+      "SkillId": 3169170692,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 1338831002,
+      "Id": 1338831002,
+      "SkillId": 2576280280,
+      "RecastTime": 15.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 4042650153,
+      "Id": 4042650153,
+      "SkillId": 866468004,
+      "RecastTime": 25.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 4153947696,
+      "Id": 4153947696,
+      "SkillId": 3167213555,
+      "RecastTime": 30.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 4264458779,
+      "Id": 4264458779,
+      "SkillId": 4128335947,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2874535240,
+      "Id": 2874535240,
+      "SkillId": 1631341726,
+      "RecastTime": 10.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2409682160,
+      "Id": 2409682160,
+      "SkillId": 1763862587,
+      "RecastTime": 10.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 268839780,
+      "Id": 268839780,
+      "SkillId": 1068073767,
+      "RecastTime": 15.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 3051524206,
+      "Id": 3051524206,
+      "SkillId": 2456311622,
+      "RecastTime": 35.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 190555260,
+      "Id": 190555260,
+      "SkillId": 2220742713,
+      "RecastTime": 70.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 306222397,
+      "Id": 306222397,
+      "SkillId": 3107844489,
+      "RecastTime": 40.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 1646944690,
+      "Id": 1646944690,
+      "SkillId": 2397241787,
+      "RecastTime": 70.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 963495678,
+      "Id": 963495678,
+      "SkillId": 4271737689,
+      "RecastTime": 30.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 1865900408,
+      "Id": 1865900408,
+      "SkillId": 1910341369,
+      "RecastTime": 15.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2253702221,
+      "Id": 2253702221,
+      "SkillId": 1421222181,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 592955242,
+      "Id": 592955242,
+      "SkillId": 3683677084,
+      "RecastTime": 6.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 435305433,
+      "Id": 435305433,
+      "SkillId": 37603897,
+      "RecastTime": 30.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2384519761,
+      "Id": 2384519761,
+      "SkillId": 3577498936,
+      "RecastTime": 12.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 1556310477,
+      "Id": 1556310477,
+      "SkillId": 3225550396,
+      "RecastTime": 40.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 1538174420,
+      "Id": 1538174420,
+      "SkillId": 1327720811,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 3680204034,
+      "Id": 3680204034,
+      "SkillId": 1108437485,
+      "RecastTime": 35.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 2753639036,
+      "Id": 2753639036,
+      "SkillId": 328625448,
+      "RecastTime": 15.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 3017902863,
+      "Id": 3017902863,
+      "SkillId": 3946998903,
+      "RecastTime": 15.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 1576004131,
+      "Id": 1576004131,
+      "SkillId": 1095476476,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 3029094166,
+      "Id": 3029094166,
+      "SkillId": 1679883040,
+      "RecastTime": 20.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 215517628,
+      "Id": 215517628,
+      "SkillId": 1097451019,
+      "RecastTime": 15.0
+    },
+    {
+      "ParamWeaponRecastSkillId": 1040798483,
+      "Id": 1040798483,
+      "SkillId": 424547251,
+      "RecastTime": 25.0
+    }
+  ],
+  "IdRef": {}
+}

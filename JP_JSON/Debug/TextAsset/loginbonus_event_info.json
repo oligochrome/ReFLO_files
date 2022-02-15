@@ -1,0 +1,275 @@
+{
+  "TableLoginbonusEventInfo": [
+    {
+      "LoginbonusEventInfoId": 2378157472,
+      "EventloginbonusID": 2378157472,
+      "EventName": "新人さん歓迎\nログインボーナス",
+      "EventInfo": "ようこそ　ＦＬＯの世界へ！\nともだちを誘ってみんなで楽しもう！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "歓迎ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 3984081989,
+      "EventloginbonusID": 3984081989,
+      "EventName": "武器・道具進化記念！\nログインボーナス",
+      "EventInfo": "武器・道具の進化実装を記念して\n特別なキャンペーンを実施中！\n素敵なアイテムをプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "装備進化実装記念ボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 58074473,
+      "EventloginbonusID": 58074473,
+      "EventName": "レベルキャップ解放記念　\nログインボーナス！",
+      "EventInfo": "「経験値だま特大」を中心に\n育成お役立ちアイテムなどを\nプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "レベルキャップ解放記念ボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 1004020471,
+      "EventloginbonusID": 1004020471,
+      "EventName": "迎春\nログインボーナス",
+      "EventInfo": "盛り沢山のライフジェムや\n普段なかなか手に入らない\n貴重なアイテムをプレゼント",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "迎春ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 1429273680,
+      "EventloginbonusID": 1429273680,
+      "EventName": "本格始動！\n記念ログインボーナス",
+      "EventInfo": "５日間ログインですべてもらえる、\n超オトクな大盤振る舞いプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "本格始動！\n記念ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 1018554094,
+      "EventloginbonusID": 1018554094,
+      "EventName": "ＧＷスペシャル\nログインボーナス",
+      "EventInfo": "７日間ログインですべてもらえる\n冒険に役立つアイテムをプレゼント\nＧＷはＦＬＯを遊びつくそう！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "ＧＷスペシャルログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 1752590718,
+      "EventloginbonusID": 1752590718,
+      "EventName": "ボイス実装記念\nログインボーナス",
+      "EventInfo": "７日間ログインですべてもらえる\n超★オールスター召喚で使える\nリミテッドコインをプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "ボイス実装記念ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 2908052369,
+      "EventloginbonusID": 2908052369,
+      "EventName": "ボイス実装記念\nログインボーナス",
+      "EventInfo": "７日間ログインですべてもらえる\n超★オールスター装備召喚で使える\nリミテッドコインをプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "ボイス実装記念ログインボーナス2"
+    },
+    {
+      "LoginbonusEventInfoId": 1819205566,
+      "EventloginbonusID": 1819205566,
+      "EventName": "1stアニバーサリー\nログインボーナス",
+      "EventInfo": "７日間ログインですべてもらえる\n１周年記念プレゼント！\nこれからもＦＬＯをよろしくね！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "1周年記念ログインボーナス・イネムリの方"
+    },
+    {
+      "LoginbonusEventInfoId": 4117204484,
+      "EventloginbonusID": 4117204484,
+      "EventName": "1stアニバーサリー\nログインボーナス",
+      "EventInfo": "７日間ログインですべてもらえる\n１周年記念プレゼント！\nこれからもＦＬＯをよろしくね！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "1周年記念ログインボーナス・ジェムの方"
+    },
+    {
+      "LoginbonusEventInfoId": 3367905734,
+      "EventloginbonusID": 3367905734,
+      "EventName": "コラボ記念\nログインボーナス",
+      "EventInfo": "１２日間ログインですべてもらえる\nコラボ記念プレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "FF14コラボ記念ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 1091737936,
+      "EventloginbonusID": 1091737936,
+      "EventName": "夏休み\nログインボーナス",
+      "EventInfo": "６日間ログインですべてもらえる\n育成応援プレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "夏休みログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 670687976,
+      "EventloginbonusID": 670687976,
+      "EventName": "大型アップデート記念\nログインボーナス",
+      "EventInfo": "７日間ログインですべてもらえる\n大型アップデート記念プレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "大型アップデートログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 1040495553,
+      "EventloginbonusID": 1040495553,
+      "EventName": "コラボ記念\nログインボーナス",
+      "EventInfo": "１２日間ログインですべてもらえる\nコラボ記念プレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "FF14コラボ記念ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 2554067237,
+      "EventloginbonusID": 2554067237,
+      "EventName": "強敵襲来！応援\nログインボーナス",
+      "EventInfo": "１２日間ログインですべてもらえる\n4月1日から利用できる\n期間限定召喚用コインをプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "強敵襲来！応援ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 995676516,
+      "EventloginbonusID": 995676516,
+      "EventName": "妖怪学園Ｙコラボ記念\nログインボーナス",
+      "EventInfo": "１２日間ログインですべてもらえる\n期間限定召喚用コインをプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "妖怪学園Ｙコラボ記念ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 2782490372,
+      "EventloginbonusID": 2782490372,
+      "EventName": "赤青スクランブル応援\nログインボーナス",
+      "EventInfo": "5日間ログインですべてもらえる\n「赤青スクランブル」開催は\n6/22（月）14：00から！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "赤青スクランブル応援 ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 2499742502,
+      "EventloginbonusID": 2499742502,
+      "EventName": "★6武器リリース記念　\nログインボーナス！",
+      "EventInfo": "7日間ログインですべてもらえる\n★6武器リリース記念プレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "★6武器リリース記念ボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 2958038429,
+      "EventloginbonusID": 2958038429,
+      "EventName": "スペシャル\nログインボーナス",
+      "EventInfo": "5日間ログインですべてもらえる\nスペシャルプレゼント！\nこれからもＦＬＯをよろしくね！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "スペシャルログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 314212633,
+      "EventloginbonusID": 314212633,
+      "EventName": "新強化システム応援\nログインボーナス",
+      "EventInfo": "１２日間ログインですべてもらえる\n9月1日から利用できる\n期間限定召喚用コインをプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "新強化システム応援ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 603786656,
+      "EventloginbonusID": 603786656,
+      "EventName": "おかえりスペシャル\nログインボーナス",
+      "EventInfo": "７日間ログインですべてもらえる\nカムバック限定プレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 1,
+      "HidePeriod": 1,
+      "Comment": "おかえりスペシャルログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 701976266,
+      "EventloginbonusID": 701976266,
+      "EventName": "2.5周年ログインボーナス",
+      "EventInfo": "FLOも2.5周年！\n日頃の感謝を込めたログインボーナス！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "2.5周年ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 4278851773,
+      "EventloginbonusID": 4278851773,
+      "EventName": "BuyBuyマーケット応援！\nログインボーナス",
+      "EventInfo": "BuyBuyマーケットを応援！\n売買がお得になるチケットをプレゼント！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "BuyBuyマーケット応援！ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 1634635038,
+      "EventloginbonusID": 1634635038,
+      "EventName": "リリース1000日記念！\nログインボーナス",
+      "EventInfo": "FLOリリース1000日記念！\n貰えるアイテムでFLOを楽しもう！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "リリース1000日記念！ログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 3789282031,
+      "EventloginbonusID": 3789282031,
+      "EventName": "全力ライフキャンペーン！\nログインボーナス",
+      "EventInfo": "全力ライフキャンペーン！\n限定ログインボーナス！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "[CAN01]全力ライフキャンペーンログインボーナス"
+    },
+    {
+      "LoginbonusEventInfoId": 3870695158,
+      "EventloginbonusID": 3870695158,
+      "EventName": "3周年感謝祭！\nログインボーナス",
+      "EventInfo": "貰えるアイテムでFLOを楽しもう！",
+      "IsOnlyNewbie": 0,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 0,
+      "Comment": "[CAN05]ログボ　2107　3ANV"
+    },
+    {
+      "LoginbonusEventInfoId": 3745449659,
+      "EventloginbonusID": 3745449659,
+      "EventName": "スタートダッシュ\nログインボーナス",
+      "EventInfo": "７日間ログインですべてもらえる\n初心者限定大盤振る舞いプレゼント！",
+      "IsOnlyNewbie": 1,
+      "IsOnlyComeBack": 0,
+      "HidePeriod": 1,
+      "Comment": "スタートダッシュログインボーナス"
+    }
+  ],
+  "IdRef": {}
+}

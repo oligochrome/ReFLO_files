@@ -1,0 +1,167 @@
+{
+  "TableAvatarParts": [
+    {
+      "AvatarPartsId": 3526954124,
+      "MeshId": 799352412,
+      "DefMaleObjId": 4045857351,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 90818132,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "body"
+    },
+    {
+      "AvatarPartsId": 4162122113,
+      "MeshId": 2727805140,
+      "DefMaleObjId": 3234789594,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 880925897,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "bottom"
+    },
+    {
+      "AvatarPartsId": 3263940707,
+      "MeshId": 1058529971,
+      "DefMaleObjId": 1229373271,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 1229373271,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "brow"
+    },
+    {
+      "AvatarPartsId": 1521798649,
+      "MeshId": 2804475689,
+      "DefMaleObjId": 986327055,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 986327055,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "cape"
+    },
+    {
+      "AvatarPartsId": 312664475,
+      "MeshId": 2492247909,
+      "DefMaleObjId": 986327055,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 986327055,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "dress"
+    },
+    {
+      "AvatarPartsId": 1425772291,
+      "MeshId": 2854757657,
+      "DefMaleObjId": 3108950158,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 3108950158,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "ear"
+    },
+    {
+      "AvatarPartsId": 1429443229,
+      "MeshId": 2342333729,
+      "DefMaleObjId": 1831951410,
+      "DefMaleColorObjId": 2240398625,
+      "DefFemaleObjId": 1557743279,
+      "DefFemaleColorObjId": 570006127,
+      "Name": "eye"
+    },
+    {
+      "AvatarPartsId": 210074713,
+      "MeshId": 4044969609,
+      "DefMaleObjId": 120495815,
+      "DefMaleColorObjId": 4165566460,
+      "DefFemaleObjId": 120495815,
+      "DefFemaleColorObjId": 4165566460,
+      "Name": "face"
+    },
+    {
+      "AvatarPartsId": 929453041,
+      "MeshId": 3405412641,
+      "DefMaleObjId": 1723462510,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 1723462510,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "feet"
+    },
+    {
+      "AvatarPartsId": 2260329946,
+      "MeshId": 2648884048,
+      "DefMaleObjId": 986327055,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 986327055,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "glasses"
+    },
+    {
+      "AvatarPartsId": 2506516007,
+      "MeshId": 1761234167,
+      "DefMaleObjId": 2596876529,
+      "DefMaleColorObjId": 2170266729,
+      "DefFemaleObjId": 1926651050,
+      "DefFemaleColorObjId": 265593738,
+      "Name": "hair"
+    },
+    {
+      "AvatarPartsId": 787695025,
+      "MeshId": 3547295585,
+      "DefMaleObjId": 2736704992,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 2736704992,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "hand"
+    },
+    {
+      "AvatarPartsId": 3040917861,
+      "MeshId": 1267929983,
+      "DefMaleObjId": 986327055,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 986327055,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "hat"
+    },
+    {
+      "AvatarPartsId": 3314187124,
+      "MeshId": 2668202529,
+      "DefMaleObjId": 986327055,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 986327055,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "L_tool"
+    },
+    {
+      "AvatarPartsId": 1690562803,
+      "MeshId": 2342333729,
+      "DefMaleObjId": 713254723,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 713254723,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "mouth"
+    },
+    {
+      "AvatarPartsId": 2305649645,
+      "MeshId": 1961967933,
+      "DefMaleObjId": 1502293541,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 1502293541,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "nose"
+    },
+    {
+      "AvatarPartsId": 593402180,
+      "MeshId": 2775635898,
+      "DefMaleObjId": 4218304346,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 4218304346,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "other"
+    },
+    {
+      "AvatarPartsId": 4233500831,
+      "MeshId": 2799036874,
+      "DefMaleObjId": 986327055,
+      "DefMaleColorObjId": 986327055,
+      "DefFemaleObjId": 986327055,
+      "DefFemaleColorObjId": 986327055,
+      "Name": "R_tool"
+    }
+  ],
+  "IdRef": {}
+}

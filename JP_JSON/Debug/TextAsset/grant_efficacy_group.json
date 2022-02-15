@@ -1,0 +1,1831 @@
+{
+  "TableGrantEfficacyGroup": [
+    {
+      "GrantEfficacyGroupId": 904327892,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 101,
+      "Efficacy": 2976843797,
+      "EfficacyWeight": 11
+    },
+    {
+      "GrantEfficacyGroupId": 2901386094,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 102,
+      "Efficacy": 1236994378,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 3689452536,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 103,
+      "Efficacy": 3151090071,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 1166804571,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 104,
+      "Efficacy": 677796271,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 847984333,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 105,
+      "Efficacy": 3501349104,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 2877450103,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 106,
+      "Efficacy": 584613933,
+      "EfficacyWeight": 201
+    },
+    {
+      "GrantEfficacyGroupId": 3699726305,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 107,
+      "Efficacy": 184644561,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1278888560,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 108,
+      "Efficacy": 2080785223,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 993884902,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 109,
+      "Efficacy": 3842970365,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1543172867,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 110,
+      "Efficacy": 1286463866,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 754828181,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 111,
+      "Efficacy": 1533892617,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3052704303,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 112,
+      "Efficacy": 635184308,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3270746809,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 113,
+      "Efficacy": 138908218,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1553413914,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 114,
+      "Efficacy": 2134942380,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 730859404,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 115,
+      "Efficacy": 3863606038,
+      "EfficacyWeight": 450
+    },
+    {
+      "GrantEfficacyGroupId": 3315492512,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 117,
+      "Efficacy": 1655598104,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1428257585,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 118,
+      "Efficacy": 363420814,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 572935079,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 119,
+      "Efficacy": 2359299380,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1893179584,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 120,
+      "Efficacy": 3637727280,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 131108950,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 121,
+      "Efficacy": 555583599,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2665071084,
+      "GrantEfficacyType": 1521547311,
+      "EfficacyLevel": 122,
+      "Efficacy": 682345540,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 484304727,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 101,
+      "Efficacy": 1818357768,
+      "EfficacyWeight": 11
+    },
+    {
+      "GrantEfficacyGroupId": 2245310189,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 102,
+      "Efficacy": 3328718979,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 4073948795,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 103,
+      "Efficacy": 1052522972,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 1823937496,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 104,
+      "Efficacy": 459718814,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 464528206,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 105,
+      "Efficacy": 2976843797,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 2193191668,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 106,
+      "Efficacy": 1236994378,
+      "EfficacyWeight": 201
+    },
+    {
+      "GrantEfficacyGroupId": 4122886754,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 107,
+      "Efficacy": 2506483314,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1694588915,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 108,
+      "Efficacy": 184644561,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 302411621,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 109,
+      "Efficacy": 2080785223,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1925310080,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 110,
+      "Efficacy": 1736487609,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 96917014,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 111,
+      "Efficacy": 1286463866,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2630846380,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 112,
+      "Efficacy": 1533892617,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3955799866,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 113,
+      "Efficacy": 2518878105,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1974215321,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 114,
+      "Efficacy": 138908218,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 44765711,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 115,
+      "Efficacy": 2134942380,
+      "EfficacyWeight": 450
+    },
+    {
+      "GrantEfficacyGroupId": 3970265891,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 117,
+      "Efficacy": 4241160635,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 2082107058,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 118,
+      "Efficacy": 1655598104,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 186474020,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 119,
+      "Efficacy": 363420814,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1508685123,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 120,
+      "Efficacy": 3637727280,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 787187157,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 121,
+      "Efficacy": 920465692,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3085096047,
+      "GrantEfficacyType": 2669135521,
+      "EfficacyLevel": 122,
+      "Efficacy": 555583599,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3713218711,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 101,
+      "Efficacy": 1876057362,
+      "EfficacyWeight": 11
+    },
+    {
+      "GrantEfficacyGroupId": 1146775853,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 102,
+      "Efficacy": 4060439979,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 861755835,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 103,
+      "Efficacy": 1477225760,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 2906246168,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 104,
+      "Efficacy": 4055287985,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 3661560974,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 105,
+      "Efficacy": 1818357768,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 1127722292,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 106,
+      "Efficacy": 3328718979,
+      "EfficacyWeight": 201
+    },
+    {
+      "GrantEfficacyGroupId": 875601314,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 107,
+      "Efficacy": 3798128356,
+      "EfficacyWeight": 300
+    },
+    {
+      "GrantEfficacyGroupId": 2760867891,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 108,
+      "Efficacy": 2506483314,
+      "EfficacyWeight": 800
+    },
+    {
+      "GrantEfficacyGroupId": 3008313664,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 110,
+      "Efficacy": 2124121080,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 3293055446,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 111,
+      "Efficacy": 1736487609,
+      "EfficacyWeight": 1200
+    },
+    {
+      "GrantEfficacyGroupId": 709257466,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 113,
+      "Efficacy": 3777246991,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 3022191961,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 114,
+      "Efficacy": 2518878105,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 3274034639,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 115,
+      "Efficacy": 138908218,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 757837027,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 117,
+      "Efficacy": 2345519405,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 3180638578,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 118,
+      "Efficacy": 4241160635,
+      "EfficacyWeight": 1200
+    },
+    {
+      "GrantEfficacyGroupId": 2556586627,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 120,
+      "Efficacy": 502293215,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 4016396821,
+      "GrantEfficacyType": 962645269,
+      "EfficacyLevel": 121,
+      "Efficacy": 1186448787,
+      "EfficacyWeight": 1200
+    },
+    {
+      "GrantEfficacyGroupId": 3365293735,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 301,
+      "Efficacy": 3444385804,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 1369382685,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 302,
+      "Efficacy": 3125418138,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 647507851,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 303,
+      "Efficacy": 607030585,
+      "EfficacyWeight": 251
+    },
+    {
+      "GrantEfficacyGroupId": 3103570472,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 304,
+      "Efficacy": 1402884161,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 3489368766,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 305,
+      "Efficacy": 614031575,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 1458756356,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 306,
+      "Efficacy": 3137205620,
+      "EfficacyWeight": 251
+    },
+    {
+      "GrantEfficacyGroupId": 569764754,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 307,
+      "Efficacy": 573581209,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2974479875,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 308,
+      "Efficacy": 3159667258,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3326985877,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 309,
+      "Efficacy": 1381683990,
+      "EfficacyWeight": 2000
+    },
+    {
+      "GrantEfficacyGroupId": 2794082160,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 310,
+      "Efficacy": 3642717385,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 3515711462,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 311,
+      "Efficacy": 2522800654,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 1216622172,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 312,
+      "Efficacy": 2403717967,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1065557706,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 313,
+      "Efficacy": 641848146,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 2716306281,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 314,
+      "Efficacy": 1761625493,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3605052415,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 315,
+      "Efficacy": 1880847572,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1340729925,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 316,
+      "Efficacy": 1293435759,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 955177683,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 317,
+      "Efficacy": 39441832,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2823931714,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 318,
+      "Efficacy": 457368809,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3659129169,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 419,
+      "Efficacy": 878111407,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2296908342,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 420,
+      "Efficacy": 597054428,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 4293868192,
+      "GrantEfficacyType": 408119417,
+      "EfficacyLevel": 421,
+      "Efficacy": 1562849121,
+      "EfficacyWeight": 2000
+    },
+    {
+      "GrantEfficacyGroupId": 152605031,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 301,
+      "Efficacy": 3019658417,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 2417082589,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 302,
+      "Efficacy": 3444385804,
+      "EfficacyWeight": 131
+    },
+    {
+      "GrantEfficacyGroupId": 3877040203,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 303,
+      "Efficacy": 3125418138,
+      "EfficacyWeight": 251
+    },
+    {
+      "GrantEfficacyGroupId": 2037540328,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 304,
+      "Efficacy": 758066428,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 242570622,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 305,
+      "Efficacy": 1402884161,
+      "EfficacyWeight": 131
+    },
+    {
+      "GrantEfficacyGroupId": 2541487300,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 306,
+      "Efficacy": 614031575,
+      "EfficacyWeight": 251
+    },
+    {
+      "GrantEfficacyGroupId": 3766170706,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 307,
+      "Efficacy": 2037874901,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 1891903939,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 308,
+      "Efficacy": 573581209,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 130226517,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 309,
+      "Efficacy": 3159667258,
+      "EfficacyWeight": 2000
+    },
+    {
+      "GrantEfficacyGroupId": 1728352432,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 310,
+      "Efficacy": 3221505416,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 268673062,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 311,
+      "Efficacy": 3642717385,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2299195804,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 312,
+      "Efficacy": 2522800654,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 4262314250,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 313,
+      "Efficacy": 1062920723,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 1617515689,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 314,
+      "Efficacy": 641848146,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 393110591,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 315,
+      "Efficacy": 1761625493,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 2389128581,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 316,
+      "Efficacy": 1409511982,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 4183819539,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 317,
+      "Efficacy": 1293435759,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 1776228482,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 318,
+      "Efficacy": 39441832,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 462896785,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 419,
+      "Efficacy": 1144790560,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 1231476214,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 420,
+      "Efficacy": 878111407,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1046603104,
+      "GrantEfficacyType": 3190055885,
+      "EfficacyLevel": 421,
+      "Efficacy": 597054428,
+      "EfficacyWeight": 2000
+    },
+    {
+      "GrantEfficacyGroupId": 539198692,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 301,
+      "Efficacy": 2755456450,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 3106592094,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 302,
+      "Efficacy": 3019658417,
+      "EfficacyWeight": 141
+    },
+    {
+      "GrantEfficacyGroupId": 3459114440,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 303,
+      "Efficacy": 988779919,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 1346990187,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 304,
+      "Efficacy": 758066428,
+      "EfficacyWeight": 141
+    },
+    {
+      "GrantEfficacyGroupId": 659439869,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 305,
+      "Efficacy": 152925274,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3192328519,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 306,
+      "Efficacy": 2037874901,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3376423377,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 307,
+      "Efficacy": 4063373066,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 1509899328,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 308,
+      "Efficacy": 3945338443,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 1312785715,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 310,
+      "Efficacy": 225214609,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 960017829,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 311,
+      "Efficacy": 343388624,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3610694793,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 313,
+      "Efficacy": 1714753708,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 1230127402,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 314,
+      "Efficacy": 2133729773,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2719168131,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 416,
+      "Efficacy": 528202092,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3574859285,
+      "GrantEfficacyType": 2072206659,
+      "EfficacyLevel": 417,
+      "Efficacy": 1144790560,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 982281729,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 101,
+      "Efficacy": 4139951872,
+      "EfficacyWeight": 31
+    },
+    {
+      "GrantEfficacyGroupId": 2743418811,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 102,
+      "Efficacy": 1884738990,
+      "EfficacyWeight": 71
+    },
+    {
+      "GrantEfficacyGroupId": 3565293357,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 103,
+      "Efficacy": 1875637946,
+      "EfficacyWeight": 71
+    },
+    {
+      "GrantEfficacyGroupId": 1256626830,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 104,
+      "Efficacy": 3915351060,
+      "EfficacyWeight": 171
+    },
+    {
+      "GrantEfficacyGroupId": 1038199320,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 105,
+      "Efficacy": 998064566,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 2766732194,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 106,
+      "Efficacy": 2031869610,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 3555707700,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 107,
+      "Efficacy": 2979962164,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1129371301,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 108,
+      "Efficacy": 2770228278,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 878175795,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 109,
+      "Efficacy": 1074130048,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1418751958,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 110,
+      "Efficacy": 2842053045,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 597122880,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 111,
+      "Efficacy": 3730929955,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3130920698,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 112,
+      "Efficacy": 1189791919,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3449372268,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 113,
+      "Efficacy": 3756235029,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1409133519,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 114,
+      "Efficacy": 2882141366,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 620403545,
+      "GrantEfficacyType": 1909892238,
+      "EfficacyLevel": 115,
+      "Efficacy": 851488012,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 912228980,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 101,
+      "Efficacy": 1251558451,
+      "EfficacyWeight": 11
+    },
+    {
+      "GrantEfficacyGroupId": 2941703118,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 102,
+      "Efficacy": 2177210262,
+      "EfficacyWeight": 21
+    },
+    {
+      "GrantEfficacyGroupId": 3629245272,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 103,
+      "Efficacy": 122807608,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 1177908987,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 104,
+      "Efficacy": 1033794725,
+      "EfficacyWeight": 21
+    },
+    {
+      "GrantEfficacyGroupId": 825378413,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 105,
+      "Efficacy": 4139951872,
+      "EfficacyWeight": 41
+    },
+    {
+      "GrantEfficacyGroupId": 2822445015,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 106,
+      "Efficacy": 1884738990,
+      "EfficacyWeight": 81
+    },
+    {
+      "GrantEfficacyGroupId": 3745261377,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 107,
+      "Efficacy": 2761368863,
+      "EfficacyWeight": 41
+    },
+    {
+      "GrantEfficacyGroupId": 1334000336,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 108,
+      "Efficacy": 1875637946,
+      "EfficacyWeight": 81
+    },
+    {
+      "GrantEfficacyGroupId": 948177478,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 109,
+      "Efficacy": 3915351060,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 1480819619,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 110,
+      "Efficacy": 998064566,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 793031477,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 111,
+      "Efficacy": 2031869610,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 3058557583,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 112,
+      "Efficacy": 2979962164,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 3242906137,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 113,
+      "Efficacy": 2770228278,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 1596868538,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 114,
+      "Efficacy": 1052020797,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 673806124,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 115,
+      "Efficacy": 1074130048,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2971674262,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 116,
+      "Efficacy": 2842053045,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3324450304,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 117,
+      "Efficacy": 837679161,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1452805009,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 118,
+      "Efficacy": 1189791919,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 564083463,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 119,
+      "Efficacy": 3756235029,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1936642144,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 120,
+      "Efficacy": 3704540192,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 74047734,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 121,
+      "Efficacy": 2882141366,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2640359756,
+      "GrantEfficacyType": 1791092414,
+      "EfficacyLevel": 122,
+      "Efficacy": 851488012,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 4157693364,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 101,
+      "Efficacy": 3388530984,
+      "EfficacyWeight": 11
+    },
+    {
+      "GrantEfficacyGroupId": 1859652622,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 102,
+      "Efficacy": 3573404048,
+      "EfficacyWeight": 21
+    },
+    {
+      "GrantEfficacyGroupId": 434060440,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 103,
+      "Efficacy": 530645557,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 2277222715,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 104,
+      "Efficacy": 1469871243,
+      "EfficacyWeight": 21
+    },
+    {
+      "GrantEfficacyGroupId": 4038891949,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 105,
+      "Efficacy": 1251558451,
+      "EfficacyWeight": 41
+    },
+    {
+      "GrantEfficacyGroupId": 1773520919,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 106,
+      "Efficacy": 2177210262,
+      "EfficacyWeight": 81
+    },
+    {
+      "GrantEfficacyGroupId": 515045505,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 107,
+      "Efficacy": 547046429,
+      "EfficacyWeight": 41
+    },
+    {
+      "GrantEfficacyGroupId": 2383275280,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 108,
+      "Efficacy": 1033794725,
+      "EfficacyWeight": 81
+    },
+    {
+      "GrantEfficacyGroupId": 4178236806,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 109,
+      "Efficacy": 4139951872,
+      "EfficacyWeight": 131
+    },
+    {
+      "GrantEfficacyGroupId": 2580372579,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 110,
+      "Efficacy": 2725515276,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 2009283919,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 112,
+      "Efficacy": 3759312656,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 2661324922,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 114,
+      "Efficacy": 681036942,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 1890515286,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 116,
+      "Efficacy": 1008141708,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 2534855761,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 118,
+      "Efficacy": 695478606,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 3759269063,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 119,
+      "Efficacy": 1052020797,
+      "EfficacyWeight": 1200
+    },
+    {
+      "GrantEfficacyGroupId": 3320266550,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 121,
+      "Efficacy": 2945019290,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 1559129740,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 122,
+      "Efficacy": 837679161,
+      "EfficacyWeight": 1200
+    },
+    {
+      "GrantEfficacyGroupId": 3045968825,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 124,
+      "Efficacy": 1118460291,
+      "EfficacyWeight": 400
+    },
+    {
+      "GrantEfficacyGroupId": 3263888175,
+      "GrantEfficacyType": 3434540298,
+      "EfficacyLevel": 125,
+      "Efficacy": 3704540192,
+      "EfficacyWeight": 1200
+    },
+    {
+      "GrantEfficacyGroupId": 3137943977,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 101,
+      "Efficacy": 716208318,
+      "EfficacyWeight": 11
+    },
+    {
+      "GrantEfficacyGroupId": 570451987,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 102,
+      "Efficacy": 3529800161,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 1426544773,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 103,
+      "Efficacy": 537829692,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 3412315430,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 104,
+      "Efficacy": 3015256324,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 3160735152,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 105,
+      "Efficacy": 1265444955,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 627944458,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 106,
+      "Efficacy": 3104305286,
+      "EfficacyWeight": 201
+    },
+    {
+      "GrantEfficacyGroupId": 1382718620,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 107,
+      "Efficacy": 184644561,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 3268772109,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 108,
+      "Efficacy": 2080785223,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3050484123,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 109,
+      "Efficacy": 3842970365,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3574937726,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 110,
+      "Efficacy": 1286463866,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 2719090920,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 111,
+      "Efficacy": 1533892617,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 991648082,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 112,
+      "Efficacy": 635184308,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1276930500,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 113,
+      "Efficacy": 138908218,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 3531144295,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 114,
+      "Efficacy": 2134942380,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 2776616177,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 115,
+      "Efficacy": 3863606038,
+      "EfficacyWeight": 450
+    },
+    {
+      "GrantEfficacyGroupId": 1265741277,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 117,
+      "Efficacy": 1655598104,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 3687755852,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 118,
+      "Efficacy": 363420814,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 2898886874,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 119,
+      "Efficacy": 2359299380,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 4265110461,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 120,
+      "Efficacy": 4000560472,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 2302630699,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 121,
+      "Efficacy": 4189260843,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 271977105,
+      "GrantEfficacyType": 2119830645,
+      "EfficacyLevel": 122,
+      "Efficacy": 2265084054,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 2055726697,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 101,
+      "Efficacy": 4156457123,
+      "EfficacyWeight": 11
+    },
+    {
+      "GrantEfficacyGroupId": 3817781203,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 102,
+      "Efficacy": 1572292648,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 2492041029,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 103,
+      "Efficacy": 2774747511,
+      "EfficacyWeight": 121
+    },
+    {
+      "GrantEfficacyGroupId": 183309030,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 104,
+      "Efficacy": 2159652917,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 2112496240,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 105,
+      "Efficacy": 716208318,
+      "EfficacyWeight": 121
+    },
+    {
+      "GrantEfficacyGroupId": 3840111562,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 106,
+      "Efficacy": 3529800161,
+      "EfficacyWeight": 201
+    },
+    {
+      "GrantEfficacyGroupId": 2481210204,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 107,
+      "Efficacy": 2506483314,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 56319693,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 108,
+      "Efficacy": 184644561,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 1952214619,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 109,
+      "Efficacy": 2080785223,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 345761726,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 110,
+      "Efficacy": 1736487609,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1671223080,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 111,
+      "Efficacy": 1286463866,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 4204103314,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 112,
+      "Efficacy": 1533892617,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 2375202308,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 113,
+      "Efficacy": 2518878105,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 334898087,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 114,
+      "Efficacy": 138908218,
+      "EfficacyWeight": 250
+    },
+    {
+      "GrantEfficacyGroupId": 1693520689,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 115,
+      "Efficacy": 2134942380,
+      "EfficacyWeight": 450
+    },
+    {
+      "GrantEfficacyGroupId": 2331996701,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 117,
+      "Efficacy": 4241160635,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 440430476,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 118,
+      "Efficacy": 1655598104,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 1833393946,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 119,
+      "Efficacy": 363420814,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1068938365,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 120,
+      "Efficacy": 8246388,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 1219593451,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 121,
+      "Efficacy": 4000560472,
+      "EfficacyWeight": 500
+    },
+    {
+      "GrantEfficacyGroupId": 3518551377,
+      "GrantEfficacyType": 3626829761,
+      "EfficacyLevel": 122,
+      "Efficacy": 4189260843,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 3917419183,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 101,
+      "Efficacy": 4094504377,
+      "EfficacyWeight": 11
+    },
+    {
+      "GrantEfficacyGroupId": 1886798613,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 102,
+      "Efficacy": 1775899904,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 124875651,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 103,
+      "Efficacy": 3285441931,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 2568349216,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 104,
+      "Efficacy": 1785313306,
+      "EfficacyWeight": 51
+    },
+    {
+      "GrantEfficacyGroupId": 3994212022,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 105,
+      "Efficacy": 4156457123,
+      "EfficacyWeight": 111
+    },
+    {
+      "GrantEfficacyGroupId": 1998292748,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 106,
+      "Efficacy": 1572292648,
+      "EfficacyWeight": 141
+    },
+    {
+      "GrantEfficacyGroupId": 1882010,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 107,
+      "Efficacy": 3798128356,
+      "EfficacyWeight": 300
+    },
+    {
+      "GrantEfficacyGroupId": 2426645003,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 108,
+      "Efficacy": 2506483314,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 2271417208,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 110,
+      "Efficacy": 2124121080,
+      "EfficacyWeight": 300
+    },
+    {
+      "GrantEfficacyGroupId": 4033094638,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 111,
+      "Efficacy": 1736487609,
+      "EfficacyWeight": 800
+    },
+    {
+      "GrantEfficacyGroupId": 510280386,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 113,
+      "Efficacy": 3777246991,
+      "EfficacyWeight": 100
+    },
+    {
+      "GrantEfficacyGroupId": 2148456289,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 114,
+      "Efficacy": 2518878105,
+      "EfficacyWeight": 300
+    },
+    {
+      "GrantEfficacyGroupId": 4144621559,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 115,
+      "Efficacy": 138908218,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 419923675,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 117,
+      "Efficacy": 2345519405,
+      "EfficacyWeight": 300
+    },
+    {
+      "GrantEfficacyGroupId": 2310576970,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 118,
+      "Efficacy": 4241160635,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 2890809531,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 120,
+      "Efficacy": 3311330971,
+      "EfficacyWeight": 300
+    },
+    {
+      "GrantEfficacyGroupId": 3679023149,
+      "GrantEfficacyType": 778401576,
+      "EfficacyLevel": 121,
+      "Efficacy": 2652455383,
+      "EfficacyWeight": 1000
+    },
+    {
+      "GrantEfficacyGroupId": 1137014385,
+      "GrantEfficacyType": 1174502171,
+      "EfficacyLevel": 1,
+      "Efficacy": 1074130048,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2446874015,
+      "GrantEfficacyType": 979896193,
+      "EfficacyLevel": 1,
+      "Efficacy": 3155544619,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 3207494937,
+      "GrantEfficacyType": 2918651560,
+      "EfficacyLevel": 1,
+      "Efficacy": 3712475745,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2011997835,
+      "GrantEfficacyType": 4257770997,
+      "EfficacyLevel": 1,
+      "Efficacy": 4000560472,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 603353005,
+      "GrantEfficacyType": 42803980,
+      "EfficacyLevel": 1,
+      "Efficacy": 4093953901,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 218122027,
+      "GrantEfficacyType": 2500997669,
+      "EfficacyLevel": 1,
+      "Efficacy": 1037289962,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2115649185,
+      "GrantEfficacyType": 4139910943,
+      "EfficacyLevel": 1,
+      "Efficacy": 878111407,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 1357649447,
+      "GrantEfficacyType": 1633490486,
+      "EfficacyLevel": 1,
+      "Efficacy": 1189791919,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2553204149,
+      "GrantEfficacyType": 828534123,
+      "EfficacyLevel": 1,
+      "Efficacy": 2882141366,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2400281900,
+      "GrantEfficacyType": 803345843,
+      "EfficacyLevel": 1,
+      "Efficacy": 2573414885,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2557112687,
+      "GrantEfficacyType": 2308251143,
+      "EfficacyLevel": 1,
+      "Efficacy": 696162688,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2716290474,
+      "GrantEfficacyType": 3095200922,
+      "EfficacyLevel": 1,
+      "Efficacy": 2426823834,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 3063699945,
+      "GrantEfficacyType": 503975726,
+      "EfficacyLevel": 1,
+      "Efficacy": 568561360,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 3016027840,
+      "GrantEfficacyType": 2524764435,
+      "EfficacyLevel": 1,
+      "Efficacy": 1390089250,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 3849179788,
+      "GrantEfficacyType": 3032977671,
+      "EfficacyLevel": 1,
+      "Efficacy": 920465692,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2785808361,
+      "GrantEfficacyType": 3992310858,
+      "EfficacyLevel": 1,
+      "Efficacy": 502293215,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2977373098,
+      "GrantEfficacyType": 1266868222,
+      "EfficacyLevel": 1,
+      "Efficacy": 82531230,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2298095471,
+      "GrantEfficacyType": 2053817699,
+      "EfficacyLevel": 1,
+      "Efficacy": 1269482841,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2676044588,
+      "GrantEfficacyType": 3692941015,
+      "EfficacyLevel": 1,
+      "Efficacy": 1387394072,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 4225785573,
+      "GrantEfficacyType": 431681625,
+      "EfficacyLevel": 1,
+      "Efficacy": 4000560472,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 3969600166,
+      "GrantEfficacyType": 3217947629,
+      "EfficacyLevel": 1,
+      "Efficacy": 3311330971,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 3575019107,
+      "GrantEfficacyType": 2384847216,
+      "EfficacyLevel": 1,
+      "Efficacy": 3695564762,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 3261948448,
+      "GrantEfficacyType": 676522692,
+      "EfficacyLevel": 1,
+      "Efficacy": 2466529565,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 500477425,
+      "GrantEfficacyType": 3726285357,
+      "EfficacyLevel": 1,
+      "Efficacy": 2317316188,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 179288498,
+      "GrantEfficacyType": 2020446617,
+      "EfficacyLevel": 1,
+      "Efficacy": 878111407,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 1460098148,
+      "GrantEfficacyType": 886425318,
+      "EfficacyLevel": 1,
+      "Efficacy": 528202092,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 1081884711,
+      "GrantEfficacyType": 2460142930,
+      "EfficacyLevel": 1,
+      "Efficacy": 106989613,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 2045869282,
+      "GrantEfficacyType": 2739591119,
+      "EfficacyLevel": 1,
+      "Efficacy": 1226907370,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 1854564513,
+      "GrantEfficacyType": 87940219,
+      "EfficacyLevel": 1,
+      "Efficacy": 1345990571,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 3974100604,
+      "GrantEfficacyType": 121276545,
+      "EfficacyLevel": 1,
+      "Efficacy": 1915981314,
+      "EfficacyWeight": 1
+    },
+    {
+      "GrantEfficacyGroupId": 4221887039,
+      "GrantEfficacyType": 2706211637,
+      "EfficacyLevel": 1,
+      "Efficacy": 695478606,
+      "EfficacyWeight": 1
+    }
+  ]
+}

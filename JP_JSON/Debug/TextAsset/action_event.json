@@ -1,0 +1,257 @@
+{
+  "TableActionEvent": [
+    {
+      "ActionEventId": 2958213701,
+      "Uqid": 2958213701,
+      "Name": "AIMING",
+      "ColorR": 1.0,
+      "ColorG": 0.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 1000236986,
+      "Uqid": 1000236986,
+      "Name": "AOE_COLLISION",
+      "ColorR": 1.0,
+      "ColorG": 0.4,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 1728329493,
+      "Uqid": 1728329493,
+      "Name": "ARMOUR",
+      "ColorR": 0.5,
+      "ColorG": 0.5,
+      "ColorB": 0.5,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 2050687819,
+      "Uqid": 2050687819,
+      "Name": "BASEEFFECT_STATUS",
+      "ColorR": 1.0,
+      "ColorG": 0.5,
+      "ColorB": 0.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 3656779376,
+      "Uqid": 3656779376,
+      "Name": "BITSWITCH",
+      "ColorR": 1.0,
+      "ColorG": 0.0,
+      "ColorB": 0.5,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 3101668348,
+      "Uqid": 3101668348,
+      "Name": "CHANGE_MODE",
+      "ColorR": 1.0,
+      "ColorG": 0.8,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 2596320245,
+      "Uqid": 2596320245,
+      "Name": "CHANGE_STATUS",
+      "ColorR": 1.0,
+      "ColorG": 0.0,
+      "ColorB": 0.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 1638529321,
+      "Uqid": 1638529321,
+      "Name": "CHASE",
+      "ColorR": 0.8,
+      "ColorG": 0.8,
+      "ColorB": 0.8,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 521092433,
+      "Uqid": 521092433,
+      "Name": "COLLISION",
+      "ColorR": 0.0,
+      "ColorG": 1.0,
+      "ColorB": 0.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 1575907054,
+      "Uqid": 1575907054,
+      "Name": "CREATE_ENEMY",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 2078092835,
+      "Uqid": 2078092835,
+      "Name": "CREATE_OBJECT",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 864130771,
+      "Uqid": 864130771,
+      "Name": "FACE",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 1883989405,
+      "Uqid": 1883989405,
+      "Name": "FOOT_STEP",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 402322214,
+      "Uqid": 402322214,
+      "Name": "FREE_STRING",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 333284973,
+      "Uqid": 333284973,
+      "Name": "MISSILE",
+      "ColorR": 0.0,
+      "ColorG": 0.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 3010801353,
+      "Uqid": 3010801353,
+      "Name": "MOVEPARAM",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 1225125243,
+      "Uqid": 1225125243,
+      "Name": "NONE",
+      "ColorR": 0.0,
+      "ColorG": 0.0,
+      "ColorB": 0.0,
+      "ColorA": 0.0
+    },
+    {
+      "ActionEventId": 2571341222,
+      "Uqid": 2571341222,
+      "Name": "PICKDAMAGE",
+      "ColorR": 0.5,
+      "ColorG": 0.0,
+      "ColorB": 0.5,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 922229446,
+      "Uqid": 922229446,
+      "Name": "PLAY_EFFECT",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 0.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 3849658122,
+      "Uqid": 3849658122,
+      "Name": "PLAY_SE",
+      "ColorR": 0.3,
+      "ColorG": 0.6,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 735999559,
+      "Uqid": 735999559,
+      "Name": "PLAY_SE_LOOPEX",
+      "ColorR": 0.3,
+      "ColorG": 0.6,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 1089548692,
+      "Uqid": 1089548692,
+      "Name": "POINT",
+      "ColorR": 0.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 3871546707,
+      "Uqid": 3871546707,
+      "Name": "RANDOM",
+      "ColorR": 0.2,
+      "ColorG": 0.8,
+      "ColorB": 0.5,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 777857058,
+      "Uqid": 777857058,
+      "Name": "SCREEN_EFFECT",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 2411985666,
+      "Uqid": 2411985666,
+      "Name": "STOP",
+      "ColorR": 1.0,
+      "ColorG": 0.0,
+      "ColorB": 0.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 2283442823,
+      "Uqid": 2283442823,
+      "Name": "TRAP",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 2028686053,
+      "Uqid": 2028686053,
+      "Name": "VELOCITY",
+      "ColorR": 1.0,
+      "ColorG": 1.0,
+      "ColorB": 1.0,
+      "ColorA": 1.0
+    },
+    {
+      "ActionEventId": 2131452636,
+      "Uqid": 2131452636,
+      "Name": "WARNING",
+      "ColorR": 1.0,
+      "ColorG": 0.0,
+      "ColorB": 0.5,
+      "ColorA": 1.0
+    }
+  ],
+  "IdRef": {}
+}

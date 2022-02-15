@@ -1,0 +1,65 @@
+{
+  "TableResistEfficacyGroupType": [
+    {
+      "ResistEfficacyGroupTypeId": 2763043821,
+      "UniqId": 2763043821
+    },
+    {
+      "ResistEfficacyGroupTypeId": 3570566634,
+      "UniqId": 3570566634
+    },
+    {
+      "ResistEfficacyGroupTypeId": 2763551077,
+      "UniqId": 2763551077
+    },
+    {
+      "ResistEfficacyGroupTypeId": 708049974,
+      "UniqId": 708049974
+    },
+    {
+      "ResistEfficacyGroupTypeId": 822530297,
+      "UniqId": 822530297
+    },
+    {
+      "ResistEfficacyGroupTypeId": 2819588419,
+      "UniqId": 2819588419
+    },
+    {
+      "ResistEfficacyGroupTypeId": 3741888981,
+      "UniqId": 3741888981
+    },
+    {
+      "ResistEfficacyGroupTypeId": 598966039,
+      "UniqId": 598966039
+    },
+    {
+      "ResistEfficacyGroupTypeId": 3132763821,
+      "UniqId": 3132763821
+    },
+    {
+      "ResistEfficacyGroupTypeId": 3451723323,
+      "UniqId": 3451723323
+    },
+    {
+      "ResistEfficacyGroupTypeId": 1406765976,
+      "UniqId": 1406765976
+    },
+    {
+      "ResistEfficacyGroupTypeId": 2601457778,
+      "UniqId": 2601457778
+    },
+    {
+      "ResistEfficacyGroupTypeId": 33966536,
+      "UniqId": 33966536
+    },
+    {
+      "ResistEfficacyGroupTypeId": 1963030878,
+      "UniqId": 1963030878
+    },
+    {
+      "ResistEfficacyGroupTypeId": 3238875887,
+      "UniqId": 3238875887
+    }
+  ],
+  "IdRef": {}
+}

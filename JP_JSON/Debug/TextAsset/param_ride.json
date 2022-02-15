@@ -1,0 +1,293 @@
+{
+  "TableParamRide": [
+    {
+      "ParamRideId": 3359056764,
+      "Uniqid": 3359056764,
+      "ContentsId": 1192409107,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 125.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 3665988754,
+      "Uniqid": 3665988754,
+      "ContentsId": 1437014013,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 125.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 1648290807,
+      "Uniqid": 1648290807,
+      "ContentsId": 3977998488,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 125.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 1196799019,
+      "Uniqid": 1196799019,
+      "ContentsId": 3362795332,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 125.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 1600045639,
+      "Uniqid": 1600045639,
+      "ContentsId": 3497744680,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 150.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1409588365,
+      "EfficacyIds": [
+        3795743834,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 3263822590,
+      "Uniqid": 3263822590,
+      "ContentsId": 1303142801,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 150.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        664357588,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 2050334107,
+      "Uniqid": 2050334107,
+      "ContentsId": 4111468276,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 125.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        2179875168,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 1753231989,
+      "Uniqid": 1753231989,
+      "ContentsId": 3886393626,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 155.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 2584677595,
+      "Uniqid": 2584677595,
+      "ContentsId": 355112884,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 150.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 2916220137,
+      "Uniqid": 2916220137,
+      "ContentsId": 586442630,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 150.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 3392173958,
+      "Uniqid": 3392173958,
+      "ContentsId": 1159064809,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 150.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 3632650344,
+      "Uniqid": 3632650344,
+      "ContentsId": 1470120711,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 150.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 896874879,
+      "Uniqid": 896874879,
+      "ContentsId": 3125846544,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 150.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 121222913,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 77407202,
+      "Uniqid": 77407202,
+      "ContentsId": 2344138893,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 160.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 787547123,
+      "EfficacyIds": [
+        2022029869,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 371756044,
+      "Uniqid": 371756044,
+      "ContentsId": 2567772003,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 165.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 787547123,
+      "EfficacyIds": [
+        2022029869,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 2733254742,
+      "Uniqid": 2733254742,
+      "ContentsId": 768586553,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 170.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 2157548130,
+      "EfficacyIds": [
+        2538066195,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 2959050680,
+      "Uniqid": 2959050680,
+      "ContentsId": 1064967383,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 170.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1028914860,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    },
+    {
+      "ParamRideId": 1166676260,
+      "Uniqid": 1166676260,
+      "ContentsId": 1586875562,
+      "RideTypeId": 520032210,
+      "SpeedRatio": 100.0,
+      "Bitfield0": 8191,
+      "EquipLicense": 362595422,
+      "Bitfield1": 1,
+      "ResActionORId": 1007313192,
+      "EfficacyIds": [
+        151410577,
+        151410577,
+        151410577
+      ]
+    }
+  ],
+  "IdRef": {}
+}

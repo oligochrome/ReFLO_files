@@ -1,0 +1,1725 @@
+{
+  "TableNpcFieldTalk": [
+    {
+      "NpcFieldTalkId": 1693779716,
+      "CharaId": 2266419948,
+      "MapId": 1395920365,
+      "MapDetailId": 2285183149,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 459759915,
+      "TextNight": 459759915
+    },
+    {
+      "NpcFieldTalkId": 4261172926,
+      "CharaId": 2266419948,
+      "MapId": 1395920365,
+      "MapDetailId": 2285183149,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 2188259473,
+      "TextNight": 2188259473
+    },
+    {
+      "NpcFieldTalkId": 2331731496,
+      "CharaId": 2266419948,
+      "MapId": 1395920365,
+      "MapDetailId": 2285183149,
+      "Gentype": 920692285,
+      "Genindex": 502,
+      "TextDaytime": 4117299207,
+      "TextNight": 4117299207
+    },
+    {
+      "NpcFieldTalkId": 650773742,
+      "CharaId": 2266419948,
+      "MapId": 3227438329,
+      "MapDetailId": 459268537,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 947731205,
+      "TextNight": 947731205
+    },
+    {
+      "NpcFieldTalkId": 3217249620,
+      "CharaId": 2266419948,
+      "MapId": 3227438329,
+      "MapDetailId": 459268537,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 2708761279,
+      "TextNight": 2708761279
+    },
+    {
+      "NpcFieldTalkId": 715582940,
+      "CharaId": 2266419948,
+      "MapId": 3299548356,
+      "MapDetailId": 531247492,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 2624286286,
+      "TextNight": 2624286286
+    },
+    {
+      "NpcFieldTalkId": 3014638694,
+      "CharaId": 2266419948,
+      "MapId": 3299548356,
+      "MapDetailId": 531247492,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 90324980,
+      "TextNight": 90324980
+    },
+    {
+      "NpcFieldTalkId": 3299380464,
+      "CharaId": 2266419948,
+      "MapId": 3299548356,
+      "MapDetailId": 531247492,
+      "Gentype": 920692285,
+      "Genindex": 502,
+      "TextDaytime": 1919225698,
+      "TextNight": 1919225698
+    },
+    {
+      "NpcFieldTalkId": 1523325267,
+      "CharaId": 2266419948,
+      "MapId": 3299548356,
+      "MapDetailId": 531247492,
+      "Gentype": 920692285,
+      "Genindex": 503,
+      "TextDaytime": 3959528129,
+      "TextNight": 3959528129
+    },
+    {
+      "NpcFieldTalkId": 3909455174,
+      "CharaId": 2266419948,
+      "MapId": 4191416380,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 4155683501,
+      "TextNight": 4155683501
+    },
+    {
+      "NpcFieldTalkId": 1879891196,
+      "CharaId": 2266419948,
+      "MapId": 4191416380,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 1857807127,
+      "TextNight": 1857807127
+    },
+    {
+      "NpcFieldTalkId": 118221930,
+      "CharaId": 2266419948,
+      "MapId": 4191416380,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 502,
+      "TextDaytime": 431805313,
+      "TextNight": 431805313
+    },
+    {
+      "NpcFieldTalkId": 2574219721,
+      "CharaId": 2266419948,
+      "MapId": 4191416380,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 503,
+      "TextDaytime": 2279097890,
+      "TextNight": 2279097890
+    },
+    {
+      "NpcFieldTalkId": 2829340737,
+      "CharaId": 2266419948,
+      "MapId": 1850532117,
+      "MapDetailId": 3041774677,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 3787041535,
+      "TextNight": 3787041535
+    },
+    {
+      "NpcFieldTalkId": 4025934084,
+      "CharaId": 2266419948,
+      "MapId": 370252546,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 157045305,
+      "TextNight": 157045305
+    },
+    {
+      "NpcFieldTalkId": 1996468414,
+      "CharaId": 2266419948,
+      "MapId": 370252546,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 2421490563,
+      "TextNight": 2421490563
+    },
+    {
+      "NpcFieldTalkId": 33062952,
+      "CharaId": 2266419948,
+      "MapId": 370252546,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 502,
+      "TextDaytime": 3880923925,
+      "TextNight": 3880923925
+    },
+    {
+      "NpcFieldTalkId": 2677806475,
+      "CharaId": 2266419948,
+      "MapId": 370252546,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 503,
+      "TextDaytime": 2033624758,
+      "TextNight": 2033624758
+    },
+    {
+      "NpcFieldTalkId": 2627573159,
+      "CharaId": 2266419948,
+      "MapId": 411556753,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 1163229252,
+      "TextNight": 1163229252
+    },
+    {
+      "NpcFieldTalkId": 93635613,
+      "CharaId": 2266419948,
+      "MapId": 411556753,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 844253394,
+      "TextNight": 844253394
+    },
+    {
+      "NpcFieldTalkId": 2165876112,
+      "CharaId": 2266419948,
+      "MapId": 3407466340,
+      "MapDetailId": 1492171792,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 695506652,
+      "TextNight": 695506652
+    },
+    {
+      "NpcFieldTalkId": 2335054719,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 3169359792,
+      "TextNight": 3169359792
+    },
+    {
+      "NpcFieldTalkId": 304564933,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 502,
+      "TextDaytime": 635553290,
+      "TextNight": 635553290
+    },
+    {
+      "NpcFieldTalkId": 1696627283,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 503,
+      "TextDaytime": 1390868124,
+      "TextNight": 1390868124
+    },
+    {
+      "NpcFieldTalkId": 4215599088,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 504,
+      "TextDaytime": 3431097151,
+      "TextNight": 3431097151
+    },
+    {
+      "NpcFieldTalkId": 2353258342,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 505,
+      "TextDaytime": 3146077097,
+      "TextNight": 3146077097
+    },
+    {
+      "NpcFieldTalkId": 357207772,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 506,
+      "TextDaytime": 579600915,
+      "TextNight": 579600915
+    },
+    {
+      "NpcFieldTalkId": 1649262154,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 507,
+      "TextDaytime": 1435185797,
+      "TextNight": 1435185797
+    },
+    {
+      "NpcFieldTalkId": 4075987931,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 508,
+      "TextDaytime": 3308531476,
+      "TextNight": 3308531476
+    },
+    {
+      "NpcFieldTalkId": 2247463757,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 509,
+      "TextDaytime": 2989694850,
+      "TextNight": 2989694850
+    },
+    {
+      "NpcFieldTalkId": 3845266088,
+      "CharaId": 2266419948,
+      "MapId": 492214431,
+      "MapDetailId": 3327636959,
+      "Gentype": 920692285,
+      "Genindex": 510,
+      "TextDaytime": 3539244647,
+      "TextNight": 3539244647
+    },
+    {
+      "NpcFieldTalkId": 1796040732,
+      "CharaId": 2266419948,
+      "MapId": 3469249642,
+      "MapDetailId": 365535530,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 1556866259,
+      "TextNight": 1556866259
+    },
+    {
+      "NpcFieldTalkId": 4060363174,
+      "CharaId": 2266419948,
+      "MapId": 3469249642,
+      "MapDetailId": 365535530,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 3317871977,
+      "TextNight": 3317871977
+    },
+    {
+      "NpcFieldTalkId": 2231568688,
+      "CharaId": 2266419948,
+      "MapId": 3469249642,
+      "MapDetailId": 365535530,
+      "Gentype": 920692285,
+      "Genindex": 502,
+      "TextDaytime": 2999289343,
+      "TextNight": 2999289343
+    },
+    {
+      "NpcFieldTalkId": 459775123,
+      "CharaId": 2266419948,
+      "MapId": 3469249642,
+      "MapDetailId": 365535530,
+      "Gentype": 920692285,
+      "Genindex": 503,
+      "TextDaytime": 748752988,
+      "TextNight": 748752988
+    },
+    {
+      "NpcFieldTalkId": 1818274821,
+      "CharaId": 2266419948,
+      "MapId": 3469249642,
+      "MapDetailId": 365535530,
+      "Gentype": 920692285,
+      "Genindex": 504,
+      "TextDaytime": 1537614026,
+      "TextNight": 1537614026
+    },
+    {
+      "NpcFieldTalkId": 4117364159,
+      "CharaId": 2266419948,
+      "MapId": 3469249642,
+      "MapDetailId": 365535530,
+      "Gentype": 920692285,
+      "Genindex": 505,
+      "TextDaytime": 3266277744,
+      "TextNight": 3266277744
+    },
+    {
+      "NpcFieldTalkId": 2188299561,
+      "CharaId": 2266419948,
+      "MapId": 3469249642,
+      "MapDetailId": 365535530,
+      "Gentype": 920692285,
+      "Genindex": 506,
+      "TextDaytime": 3047703014,
+      "TextNight": 3047703014
+    },
+    {
+      "NpcFieldTalkId": 315740344,
+      "CharaId": 2266419948,
+      "MapId": 3469249642,
+      "MapDetailId": 365535530,
+      "Gentype": 920692285,
+      "Genindex": 507,
+      "TextDaytime": 622287991,
+      "TextNight": 622287991
+    },
+    {
+      "NpcFieldTalkId": 1598537465,
+      "CharaId": 2266419948,
+      "MapId": 2547060059,
+      "MapDetailId": 1070225809,
+      "Gentype": 920692285,
+      "Genindex": 500,
+      "TextDaytime": 3918151019,
+      "TextNight": 3918151019
+    },
+    {
+      "NpcFieldTalkId": 3327061827,
+      "CharaId": 2266419948,
+      "MapId": 2547060059,
+      "MapDetailId": 1070225809,
+      "Gentype": 920692285,
+      "Genindex": 501,
+      "TextDaytime": 1887661265,
+      "TextNight": 1887661265
+    },
+    {
+      "NpcFieldTalkId": 2974408661,
+      "CharaId": 2266419948,
+      "MapId": 2547060059,
+      "MapDetailId": 1070225809,
+      "Gentype": 920692285,
+      "Genindex": 502,
+      "TextDaytime": 126114887,
+      "TextNight": 126114887
+    },
+    {
+      "NpcFieldTalkId": 791497334,
+      "CharaId": 2266419948,
+      "MapId": 2547060059,
+      "MapDetailId": 1070225809,
+      "Gentype": 920692285,
+      "Genindex": 503,
+      "TextDaytime": 2581645796,
+      "TextNight": 2581645796
+    },
+    {
+      "NpcFieldTalkId": 1578247529,
+      "CharaId": 682004273,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3425101153,
+      "TextNight": 3876304546
+    },
+    {
+      "NpcFieldTalkId": 2824492416,
+      "CharaId": 3740205016,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1608389031,
+      "TextNight": 1962099300
+    },
+    {
+      "NpcFieldTalkId": 3729483393,
+      "CharaId": 2835336409,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 737204754,
+      "TextNight": 14518737
+    },
+    {
+      "NpcFieldTalkId": 704922258,
+      "CharaId": 1555097802,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2603198864,
+      "TextNight": 2953116243
+    },
+    {
+      "NpcFieldTalkId": 1388524952,
+      "CharaId": 2390644555,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1030392027,
+      "TextNight": 373807896
+    },
+    {
+      "NpcFieldTalkId": 1081514614,
+      "CharaId": 329871346,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 934248898,
+      "TextNight": 478335489
+    },
+    {
+      "NpcFieldTalkId": 1615645634,
+      "CharaId": 385376666,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 275377086,
+      "TextNight": 994359421
+    },
+    {
+      "NpcFieldTalkId": 438516732,
+      "CharaId": 1821872548,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3891067062,
+      "TextNight": 3435244405
+    },
+    {
+      "NpcFieldTalkId": 1453026435,
+      "CharaId": 540002011,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3996473666,
+      "TextNight": 3306687105
+    },
+    {
+      "NpcFieldTalkId": 3603050347,
+      "CharaId": 2692121907,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 165897777,
+      "TextNight": 583939570
+    },
+    {
+      "NpcFieldTalkId": 458301069,
+      "CharaId": 1843770581,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1625788582,
+      "TextNight": 1271579493
+    },
+    {
+      "NpcFieldTalkId": 4174932063,
+      "CharaId": 2389492231,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1870947734,
+      "TextNight": 1151940181
+    },
+    {
+      "NpcFieldTalkId": 1755054957,
+      "CharaId": 505981237,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 356411448,
+      "TextNight": 1041447931
+    },
+    {
+      "NpcFieldTalkId": 3018871090,
+      "CharaId": 3309632362,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 824287973,
+      "TextNight": 437055782
+    },
+    {
+      "NpcFieldTalkId": 2686799585,
+      "CharaId": 3599885497,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1783308379,
+      "TextNight": 1097233304
+    },
+    {
+      "NpcFieldTalkId": 2995839247,
+      "CharaId": 3290712919,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3838060472,
+      "TextNight": 3488183419
+    },
+    {
+      "NpcFieldTalkId": 170690154,
+      "CharaId": 2090347570,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 678307622,
+      "TextNight": 54752485
+    },
+    {
+      "NpcFieldTalkId": 2549858003,
+      "CharaId": 3780056203,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 581643839,
+      "TextNight": 159809020
+    },
+    {
+      "NpcFieldTalkId": 793237942,
+      "CharaId": 1509127150,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3993054881,
+      "TextNight": 3308027234
+    },
+    {
+      "NpcFieldTalkId": 2414921919,
+      "CharaId": 4182008551,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 4089394171,
+      "TextNight": 3633471544
+    },
+    {
+      "NpcFieldTalkId": 927772634,
+      "CharaId": 1106773378,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1058354021,
+      "TextNight": 339239078
+    },
+    {
+      "NpcFieldTalkId": 2446152828,
+      "CharaId": 3883531812,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 4087957082,
+      "TextNight": 3632534937
+    },
+    {
+      "NpcFieldTalkId": 2205744018,
+      "CharaId": 4123808202,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2099659193,
+      "TextNight": 1443566202
+    },
+    {
+      "NpcFieldTalkId": 1002740983,
+      "CharaId": 1299199663,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2978758951,
+      "TextNight": 2594247396
+    },
+    {
+      "NpcFieldTalkId": 2786305102,
+      "CharaId": 3500609046,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3142142014,
+      "TextNight": 2422479869
+    },
+    {
+      "NpcFieldTalkId": 514835243,
+      "CharaId": 1746626931,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2011383968,
+      "TextNight": 1557011299
+    },
+    {
+      "NpcFieldTalkId": 203058373,
+      "CharaId": 2058274461,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 4184624963,
+      "TextNight": 3527482496
+    },
+    {
+      "NpcFieldTalkId": 3030780832,
+      "CharaId": 3256001016,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 902189021,
+      "TextNight": 518724638
+    },
+    {
+      "NpcFieldTalkId": 1763267875,
+      "CharaId": 531496827,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 926370220,
+      "TextNight": 471472751
+    },
+    {
+      "NpcFieldTalkId": 1404133497,
+      "CharaId": 621136417,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 301297218,
+      "TextNight": 987250049
+    },
+    {
+      "NpcFieldTalkId": 573591034,
+      "CharaId": 1417996194,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3675671172,
+      "TextNight": 4030404935
+    },
+    {
+      "NpcFieldTalkId": 3564649747,
+      "CharaId": 2731317067,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1223605826,
+      "TextNight": 1673784705
+    },
+    {
+      "NpcFieldTalkId": 2121397656,
+      "CharaId": 147152832,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 181123391,
+      "TextNight": 568781564
+    },
+    {
+      "NpcFieldTalkId": 3819359521,
+      "CharaId": 2501011321,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 962598,
+      "TextNight": 723772389
+    },
+    {
+      "NpcFieldTalkId": 2370467934,
+      "CharaId": 4227781126,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2819017896,
+      "TextNight": 2200674155
+    },
+    {
+      "NpcFieldTalkId": 3224757415,
+      "CharaId": 3061927679,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 128683013,
+      "TextNight": 747036614
+    },
+    {
+      "NpcFieldTalkId": 388462023,
+      "CharaId": 1637080991,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2686426725,
+      "TextNight": 2335362470
+    },
+    {
+      "NpcFieldTalkId": 93510185,
+      "CharaId": 1931898993,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 781228422,
+      "TextNight": 96324165
+    },
+    {
+      "NpcFieldTalkId": 3173956940,
+      "CharaId": 3415873300,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3795491096,
+      "TextNight": 3373779675
+    },
+    {
+      "NpcFieldTalkId": 553223669,
+      "CharaId": 1447899053,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3909062657,
+      "TextNight": 3285369794
+    },
+    {
+      "NpcFieldTalkId": 2554716816,
+      "CharaId": 4008790216,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 609587359,
+      "TextNight": 259572572
+    },
+    {
+      "NpcFieldTalkId": 2331004286,
+      "CharaId": 4232374054,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2866452348,
+      "TextNight": 2180498623
+    },
+    {
+      "NpcFieldTalkId": 843852315,
+      "CharaId": 1157136451,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1718654946,
+      "TextNight": 1297990689
+    },
+    {
+      "NpcFieldTalkId": 1781480013,
+      "CharaId": 479957013,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3209725262,
+      "TextNight": 2491274893
+    },
+    {
+      "NpcFieldTalkId": 1843865255,
+      "CharaId": 458460415,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2397681379,
+      "TextNight": 2781144352
+    },
+    {
+      "NpcFieldTalkId": 2136115529,
+      "CharaId": 166077201,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 6729984,
+      "TextNight": 726393539
+    },
+    {
+      "NpcFieldTalkId": 3354324524,
+      "CharaId": 2975482996,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3435966878,
+      "TextNight": 3890340445
+    },
+    {
+      "NpcFieldTalkId": 1513739925,
+      "CharaId": 747470029,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3322525831,
+      "TextNight": 3978619716
+    },
+    {
+      "NpcFieldTalkId": 3800412656,
+      "CharaId": 2486246312,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 178501657,
+      "TextNight": 563014618
+    },
+    {
+      "NpcFieldTalkId": 2822793401,
+      "CharaId": 3740582625,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1315121812,
+      "TextNight": 1699641687
+    },
+    {
+      "NpcFieldTalkId": 3443065577,
+      "CharaId": 3146623153,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 51068072,
+      "TextNight": 673607531
+    },
+    {
+      "NpcFieldTalkId": 2483767204,
+      "CharaId": 3804229116,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3823324738,
+      "TextNight": 3368951169
+    },
+    {
+      "NpcFieldTalkId": 847006736,
+      "CharaId": 1154016840,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 577606018,
+      "TextNight": 155238977
+    },
+    {
+      "NpcFieldTalkId": 60053133,
+      "CharaId": 1965096149,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3146774403,
+      "TextNight": 2426577984
+    },
+    {
+      "NpcFieldTalkId": 2783141177,
+      "CharaId": 3545757537,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2046896195,
+      "TextNight": 1361869696
+    },
+    {
+      "NpcFieldTalkId": 1615094711,
+      "CharaId": 384879087,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1396325824,
+      "TextNight": 2014801411
+    },
+    {
+      "NpcFieldTalkId": 1370257706,
+      "CharaId": 655938418,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3403176897,
+      "TextNight": 3790931970
+    },
+    {
+      "NpcFieldTalkId": 39288294,
+      "CharaId": 1961088958,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 4099971739,
+      "TextNight": 3746416984
+    },
+    {
+      "NpcFieldTalkId": 2753590866,
+      "CharaId": 3532971018,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 904807771,
+      "TextNight": 516101784
+    },
+    {
+      "NpcFieldTalkId": 2512940239,
+      "CharaId": 3816605335,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2886476634,
+      "TextNight": 2267115673
+    },
+    {
+      "NpcFieldTalkId": 868181883,
+      "CharaId": 1158401315,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1837300890,
+      "TextNight": 1185918809
+    },
+    {
+      "NpcFieldTalkId": 4128791029,
+      "CharaId": 2158818221,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1153034521,
+      "TextNight": 1872018138
+    },
+    {
+      "NpcFieldTalkId": 1349472833,
+      "CharaId": 651950105,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2234988249,
+      "TextNight": 2920965402
+    },
+    {
+      "NpcFieldTalkId": 1636255964,
+      "CharaId": 389276292,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 483741912,
+      "TextNight": 939000603
+    },
+    {
+      "NpcFieldTalkId": 4245828383,
+      "CharaId": 2342951239,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3573954481,
+      "TextNight": 4264256626
+    },
+    {
+      "NpcFieldTalkId": 1533360299,
+      "CharaId": 768709363,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 344516721,
+      "TextNight": 1067826098
+    },
+    {
+      "NpcFieldTalkId": 1081244315,
+      "CharaId": 918999235,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 408617988,
+      "TextNight": 863393735
+    },
+    {
+      "NpcFieldTalkId": 3859116335,
+      "CharaId": 2427575159,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3654671300,
+      "TextNight": 4076374023
+    },
+    {
+      "NpcFieldTalkId": 2362997253,
+      "CharaId": 4201435229,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2214479979,
+      "TextNight": 2832407464
+    },
+    {
+      "NpcFieldTalkId": 716140977,
+      "CharaId": 1545329641,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1114675115,
+      "TextNight": 1767752808
+    },
+    {
+      "NpcFieldTalkId": 457665324,
+      "CharaId": 1844691316,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3683840426,
+      "TextNight": 4039090793
+    },
+    {
+      "NpcFieldTalkId": 3174064280,
+      "CharaId": 3414477504,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 438054506,
+      "TextNight": 825327017
+    },
+    {
+      "NpcFieldTalkId": 2023185942,
+      "CharaId": 1315334717,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 858209257,
+      "TextNight": 403335210
+    },
+    {
+      "NpcFieldTalkId": 3739243938,
+      "CharaId": 2140041376,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 4071220265,
+      "TextNight": 3649353706
+    },
+    {
+      "NpcFieldTalkId": 4010299199,
+      "CharaId": 2266419948,
+      "MapId": 3512199481,
+      "MapDetailId": 1399064337,
+      "Gentype": 920692285,
+      "Genindex": 520,
+      "TextDaytime": 1800110632,
+      "TextNight": 1800110632
+    },
+    {
+      "NpcFieldTalkId": 1233077387,
+      "CharaId": 2266419948,
+      "MapId": 3512199481,
+      "MapDetailId": 1399064337,
+      "Gentype": 920692285,
+      "Genindex": 530,
+      "TextDaytime": 2865061352,
+      "TextNight": 2865061352
+    },
+    {
+      "NpcFieldTalkId": 3208066146,
+      "CharaId": 2266419948,
+      "MapId": 1214167171,
+      "MapDetailId": 2106732439,
+      "Gentype": 920692285,
+      "Genindex": 810,
+      "TextDaytime": 960342318,
+      "TextNight": 960342318
+    },
+    {
+      "NpcFieldTalkId": 423641046,
+      "CharaId": 2266419948,
+      "MapId": 2790316463,
+      "MapDetailId": 1142887250,
+      "Gentype": 920692285,
+      "Genindex": 810,
+      "TextDaytime": 4172510958,
+      "TextNight": 4172510958
+    },
+    {
+      "NpcFieldTalkId": 2250076956,
+      "CharaId": 2266419948,
+      "MapId": 2790316463,
+      "MapDetailId": 1142887250,
+      "Gentype": 920692285,
+      "Genindex": 830,
+      "TextDaytime": 4150698468,
+      "TextNight": 4150698468
+    },
+    {
+      "NpcFieldTalkId": 543848616,
+      "CharaId": 640918863,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 921206308,
+      "TextNight": 921206308
+    },
+    {
+      "NpcFieldTalkId": 293757493,
+      "CharaId": 2967725245,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2936674341,
+      "TextNight": 2936674341
+    },
+    {
+      "NpcFieldTalkId": 3086313857,
+      "CharaId": 703247623,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1854195685,
+      "TextNight": 1854195685
+    },
+    {
+      "NpcFieldTalkId": 1917998863,
+      "CharaId": 1592624529,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1203753574,
+      "TextNight": 1203753574
+    },
+    {
+      "NpcFieldTalkId": 3559218363,
+      "CharaId": 3230208050,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2251361702,
+      "TextNight": 2251361702
+    },
+    {
+      "NpcFieldTalkId": 3855435302,
+      "CharaId": 2266419948,
+      "MapId": 618374234,
+      "MapDetailId": 4292512026,
+      "Gentype": 920692285,
+      "Genindex": 850,
+      "TextDaytime": 533949351,
+      "TextNight": 533949351
+    },
+    {
+      "NpcFieldTalkId": 1727033175,
+      "CharaId": 2342681002,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3586913284,
+      "TextNight": 3586913284
+    },
+    {
+      "NpcFieldTalkId": 4132401862,
+      "CharaId": 2147991694,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1165289877,
+      "TextNight": 1165289877
+    },
+    {
+      "NpcFieldTalkId": 2168996432,
+      "CharaId": 3522680864,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 846452995,
+      "TextNight": 846452995
+    },
+    {
+      "NpcFieldTalkId": 3784297397,
+      "CharaId": 2004931476,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1387548902,
+      "TextNight": 1387548902
+    },
+    {
+      "NpcFieldTalkId": 2525559587,
+      "CharaId": 1181272329,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 632512624,
+      "TextNight": 632512624
+    },
+    {
+      "NpcFieldTalkId": 260156057,
+      "CharaId": 3760177853,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3166319050,
+      "TextNight": 3166319050
+    },
+    {
+      "NpcFieldTalkId": 2022087183,
+      "CharaId": 3793262151,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3418161500,
+      "TextNight": 3418161500
+    },
+    {
+      "NpcFieldTalkId": 3873574828,
+      "CharaId": 2923693823,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1440322815,
+      "TextNight": 1440322815
+    },
+    {
+      "NpcFieldTalkId": 2447720250,
+      "CharaId": 3253399802,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 585016425,
+      "TextNight": 585016425
+    },
+    {
+      "NpcFieldTalkId": 149712512,
+      "CharaId": 4026722919,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3151492563,
+      "TextNight": 3151492563
+    },
+    {
+      "NpcFieldTalkId": 2146131478,
+      "CharaId": 2872572880,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3436234053,
+      "TextNight": 3436234053
+    },
+    {
+      "NpcFieldTalkId": 4015276935,
+      "CharaId": 192289483,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1550833876,
+      "TextNight": 1550833876
+    },
+    {
+      "NpcFieldTalkId": 2555605777,
+      "CharaId": 2598363469,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 728295490,
+      "TextNight": 728295490
+    },
+    {
+      "NpcFieldTalkId": 3399653494,
+      "CharaId": 3694083387,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2040070949,
+      "TextNight": 2040070949
+    },
+    {
+      "NpcFieldTalkId": 3181750496,
+      "CharaId": 1687378526,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 245248947,
+      "TextNight": 245248947
+    },
+    {
+      "NpcFieldTalkId": 615315802,
+      "CharaId": 3159158675,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2543280649,
+      "TextNight": 2543280649
+    },
+    {
+      "NpcFieldTalkId": 1403767244,
+      "CharaId": 440132647,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3767554719,
+      "TextNight": 3767554719
+    },
+    {
+      "NpcFieldTalkId": 3452918895,
+      "CharaId": 1046080648,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2129971004,
+      "TextNight": 2129971004
+    },
+    {
+      "NpcFieldTalkId": 3133697273,
+      "CharaId": 2824142842,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 166983594,
+      "TextNight": 166983594
+    },
+    {
+      "NpcFieldTalkId": 599866691,
+      "CharaId": 283678879,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2432345616,
+      "TextNight": 2432345616
+    },
+    {
+      "NpcFieldTalkId": 1422265813,
+      "CharaId": 49677394,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3892156038,
+      "TextNight": 3892156038
+    },
+    {
+      "NpcFieldTalkId": 3296268356,
+      "CharaId": 3275913166,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 728295490,
+      "TextNight": 728295490
+    },
+    {
+      "NpcFieldTalkId": 3011387602,
+      "CharaId": 3081820146,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 4569985,
+      "TextNight": 4569985
+    },
+    {
+      "NpcFieldTalkId": 3552160055,
+      "CharaId": 856460163,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1619145316,
+      "TextNight": 1619145316
+    },
+    {
+      "NpcFieldTalkId": 2763954593,
+      "CharaId": 1982264752,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 394593010,
+      "TextNight": 394593010
+    },
+    {
+      "NpcFieldTalkId": 1035454491,
+      "CharaId": 3466236629,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2391561032,
+      "TextNight": 2391561032
+    },
+    {
+      "NpcFieldTalkId": 1253111949,
+      "CharaId": 2532934275,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 4186661854,
+      "TextNight": 4186661854
+    },
+    {
+      "NpcFieldTalkId": 3570691374,
+      "CharaId": 776332774,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1743779453,
+      "TextNight": 1743779453
+    },
+    {
+      "NpcFieldTalkId": 2748538296,
+      "CharaId": 2076490999,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 283690731,
+      "TextNight": 283690731
+    },
+    {
+      "NpcFieldTalkId": 987368450,
+      "CharaId": 3194192505,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2313262929,
+      "TextNight": 2313262929
+    },
+    {
+      "NpcFieldTalkId": 1306344596,
+      "CharaId": 4008913642,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 4276529095,
+      "TextNight": 4276529095
+    },
+    {
+      "NpcFieldTalkId": 3714195717,
+      "CharaId": 2342049270,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 1851374166,
+      "TextNight": 1851374166
+    },
+    {
+      "NpcFieldTalkId": 2858750355,
+      "CharaId": 4001237603,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 425626304,
+      "TextNight": 425626304
+    },
+    {
+      "NpcFieldTalkId": 1411495416,
+      "CharaId": 235875763,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3877252779,
+      "TextNight": 3877252779
+    },
+    {
+      "NpcFieldTalkId": 589727086,
+      "CharaId": 95065239,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2417827389,
+      "TextNight": 2417827389
+    },
+    {
+      "NpcFieldTalkId": 3123696852,
+      "CharaId": 3093630685,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 152326023,
+      "TextNight": 152326023
+    },
+    {
+      "NpcFieldTalkId": 3442009154,
+      "CharaId": 2266419948,
+      "MapId": 3308446617,
+      "MapDetailId": 3995971917,
+      "Gentype": 920692285,
+      "Genindex": 800,
+      "TextDaytime": 2115206929,
+      "TextNight": 2115206929
+    },
+    {
+      "NpcFieldTalkId": 1893790698,
+      "CharaId": 3125013783,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2504185851,
+      "TextNight": 3194979384
+    },
+    {
+      "NpcFieldTalkId": 1091103095,
+      "CharaId": 2343303050,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 211857914,
+      "TextNight": 663609913
+    },
+    {
+      "NpcFieldTalkId": 3883918019,
+      "CharaId": 769457214,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3442372154,
+      "TextNight": 3858972153
+    },
+    {
+      "NpcFieldTalkId": 584637517,
+      "CharaId": 3900424880,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3826613177,
+      "TextNight": 3476564090
+    },
+    {
+      "NpcFieldTalkId": 2226116601,
+      "CharaId": 1309460740,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 630957177,
+      "TextNight": 246871994
+    },
+    {
+      "NpcFieldTalkId": 3041381732,
+      "CharaId": 2145702809,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 3162096248,
+      "TextNight": 2538901947
+    },
+    {
+      "NpcFieldTalkId": 2929735885,
+      "CharaId": 986327055,
+      "MapId": 554427470,
+      "MapDetailId": 1492171792,
+      "Gentype": 1964731404,
+      "Genindex": -1,
+      "TextDaytime": 2838162855,
+      "TextNight": 1052114062
+    }
+  ],
+  "IdRef": {}
+}

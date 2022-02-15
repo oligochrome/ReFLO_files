@@ -1,0 +1,1949 @@
+{
+  "TableConstFloat": [
+    {
+      "ConstFloatId": 1324342728,
+      "CfId": 1324342728,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 971566430,
+      "CfId": 971566430,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 2699148516,
+      "CfId": 2699148516,
+      "Value": 15.0
+    },
+    {
+      "ConstFloatId": 2731512169,
+      "CfId": 2731512169,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 2344178689,
+      "CfId": 2344178689,
+      "Value": 14.0
+    },
+    {
+      "ConstFloatId": 3525508796,
+      "CfId": 3525508796,
+      "Value": 0.165
+    },
+    {
+      "ConstFloatId": 3762192748,
+      "CfId": 3762192748,
+      "Value": 0.19
+    },
+    {
+      "ConstFloatId": 223789520,
+      "CfId": 223789520,
+      "Value": 3.1
+    },
+    {
+      "ConstFloatId": 2532726564,
+      "CfId": 2532726564,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 3215877758,
+      "CfId": 3215877758,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 3348409290,
+      "CfId": 3348409290,
+      "Value": 0.1
+    },
+    {
+      "ConstFloatId": 2552700233,
+      "CfId": 2552700233,
+      "Value": 25.0
+    },
+    {
+      "ConstFloatId": 3465072443,
+      "CfId": 3465072443,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 3294928251,
+      "CfId": 3294928251,
+      "Value": 0.66
+    },
+    {
+      "ConstFloatId": 1320108947,
+      "CfId": 1320108947,
+      "Value": 25.0
+    },
+    {
+      "ConstFloatId": 1177810452,
+      "CfId": 1177810452,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 2650217157,
+      "CfId": 2650217157,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 251367938,
+      "CfId": 251367938,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 3097907739,
+      "CfId": 3097907739,
+      "Value": 0.15
+    },
+    {
+      "ConstFloatId": 794785149,
+      "CfId": 794785149,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 2233022554,
+      "CfId": 2233022554,
+      "Value": 33.0
+    },
+    {
+      "ConstFloatId": 883906802,
+      "CfId": 883906802,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 3393635722,
+      "CfId": 3393635722,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 3252594990,
+      "CfId": 3252594990,
+      "Value": 0.016
+    },
+    {
+      "ConstFloatId": 2611248346,
+      "CfId": 2611248346,
+      "Value": 48.0
+    },
+    {
+      "ConstFloatId": 1753505173,
+      "CfId": 1753505173,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 3034769874,
+      "CfId": 3034769874,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 309654953,
+      "CfId": 309654953,
+      "Value": 720.0
+    },
+    {
+      "ConstFloatId": 334700016,
+      "CfId": 334700016,
+      "Value": 144.0
+    },
+    {
+      "ConstFloatId": 290867322,
+      "CfId": 290867322,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 359865073,
+      "CfId": 359865073,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 430464403,
+      "CfId": 430464403,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 2616713272,
+      "CfId": 2616713272,
+      "Value": 15.0
+    },
+    {
+      "ConstFloatId": 4000392490,
+      "CfId": 4000392490,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 4170537244,
+      "CfId": 4170537244,
+      "Value": 7.0
+    },
+    {
+      "ConstFloatId": 3744934482,
+      "CfId": 3744934482,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 2670677741,
+      "CfId": 2670677741,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 816338994,
+      "CfId": 816338994,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 2871952613,
+      "CfId": 2871952613,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 421119057,
+      "CfId": 421119057,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 1680608733,
+      "CfId": 1680608733,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 3323146543,
+      "CfId": 3323146543,
+      "Value": 96.0
+    },
+    {
+      "ConstFloatId": 2403151845,
+      "CfId": 2403151845,
+      "Value": 96.0
+    },
+    {
+      "ConstFloatId": 1874714439,
+      "CfId": 1874714439,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 1404100638,
+      "CfId": 1404100638,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 600225710,
+      "CfId": 600225710,
+      "Value": 999.0
+    },
+    {
+      "ConstFloatId": 3780157530,
+      "CfId": 3780157530,
+      "Value": 500.0
+    },
+    {
+      "ConstFloatId": 2955563480,
+      "CfId": 2955563480,
+      "Value": 1E+07
+    },
+    {
+      "ConstFloatId": 4013484849,
+      "CfId": 4013484849,
+      "Value": 80.0
+    },
+    {
+      "ConstFloatId": 2240322647,
+      "CfId": 2240322647,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 4257111598,
+      "CfId": 4257111598,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 2935726691,
+      "CfId": 2935726691,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 3799554595,
+      "CfId": 3799554595,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 160186773,
+      "CfId": 160186773,
+      "Value": 300.0
+    },
+    {
+      "ConstFloatId": 2191262281,
+      "CfId": 2191262281,
+      "Value": 120.0
+    },
+    {
+      "ConstFloatId": 4138008980,
+      "CfId": 4138008980,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 2852860774,
+      "CfId": 2852860774,
+      "Value": 0.05
+    },
+    {
+      "ConstFloatId": 3029734874,
+      "CfId": 3029734874,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 401678013,
+      "CfId": 401678013,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 3702377752,
+      "CfId": 3702377752,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 354641737,
+      "CfId": 354641737,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 1554653781,
+      "CfId": 1554653781,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 3170634409,
+      "CfId": 3170634409,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 1755184255,
+      "CfId": 1755184255,
+      "Value": 24.0
+    },
+    {
+      "ConstFloatId": 2623393536,
+      "CfId": 2623393536,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3963042703,
+      "CfId": 3963042703,
+      "Value": 15.0
+    },
+    {
+      "ConstFloatId": 3705778695,
+      "CfId": 3705778695,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 3443335002,
+      "CfId": 3443335002,
+      "Value": 6.0
+    },
+    {
+      "ConstFloatId": 1649332066,
+      "CfId": 1649332066,
+      "Value": 80.0
+    },
+    {
+      "ConstFloatId": 2324986880,
+      "CfId": 2324986880,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 3736196461,
+      "CfId": 3736196461,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 2771739633,
+      "CfId": 2771739633,
+      "Value": 0.597
+    },
+    {
+      "ConstFloatId": 1532830862,
+      "CfId": 1532830862,
+      "Value": 0.2
+    },
+    {
+      "ConstFloatId": 597758303,
+      "CfId": 597758303,
+      "Value": 0.717
+    },
+    {
+      "ConstFloatId": 658243925,
+      "CfId": 658243925,
+      "Value": 0.6
+    },
+    {
+      "ConstFloatId": 4047344482,
+      "CfId": 4047344482,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 1267361750,
+      "CfId": 1267361750,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 399547666,
+      "CfId": 399547666,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 3208123645,
+      "CfId": 3208123645,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 2480685627,
+      "CfId": 2480685627,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1304205908,
+      "CfId": 1304205908,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 1184984585,
+      "CfId": 1184984585,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3656672856,
+      "CfId": 3656672856,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 1372025803,
+      "CfId": 1372025803,
+      "Value": 24.0
+    },
+    {
+      "ConstFloatId": 3368952433,
+      "CfId": 3368952433,
+      "Value": 21.0
+    },
+    {
+      "ConstFloatId": 3217625831,
+      "CfId": 3217625831,
+      "Value": 18.0
+    },
+    {
+      "ConstFloatId": 565020484,
+      "CfId": 565020484,
+      "Value": 12.0
+    },
+    {
+      "ConstFloatId": 1805257913,
+      "CfId": 1805257913,
+      "Value": 60.0
+    },
+    {
+      "ConstFloatId": 4069743875,
+      "CfId": 4069743875,
+      "Value": 105.0
+    },
+    {
+      "ConstFloatId": 2241097109,
+      "CfId": 2241097109,
+      "Value": 150.0
+    },
+    {
+      "ConstFloatId": 6979966,
+      "CfId": 6979966,
+      "Value": 70.0
+    },
+    {
+      "ConstFloatId": 2573455556,
+      "CfId": 2573455556,
+      "Value": 105.0
+    },
+    {
+      "ConstFloatId": 3999588434,
+      "CfId": 3999588434,
+      "Value": 140.0
+    },
+    {
+      "ConstFloatId": 2991218030,
+      "CfId": 2991218030,
+      "Value": 90.0
+    },
+    {
+      "ConstFloatId": 725814484,
+      "CfId": 725814484,
+      "Value": 105.0
+    },
+    {
+      "ConstFloatId": 1547975746,
+      "CfId": 1547975746,
+      "Value": 125.0
+    },
+    {
+      "ConstFloatId": 2401924318,
+      "CfId": 2401924318,
+      "Value": 95.0
+    },
+    {
+      "ConstFloatId": 371402084,
+      "CfId": 371402084,
+      "Value": 105.0
+    },
+    {
+      "ConstFloatId": 1629754866,
+      "CfId": 1629754866,
+      "Value": 120.0
+    },
+    {
+      "ConstFloatId": 3364490766,
+      "CfId": 3364490766,
+      "Value": 98.0
+    },
+    {
+      "ConstFloatId": 1367564212,
+      "CfId": 1367564212,
+      "Value": 105.0
+    },
+    {
+      "ConstFloatId": 646213410,
+      "CfId": 646213410,
+      "Value": 117.0
+    },
+    {
+      "ConstFloatId": 677949138,
+      "CfId": 677949138,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 2975989608,
+      "CfId": 2975989608,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 3328626686,
+      "CfId": 3328626686,
+      "Value": 2.5
+    },
+    {
+      "ConstFloatId": 1476549213,
+      "CfId": 1476549213,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 3175972999,
+      "CfId": 3175972999,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 608489789,
+      "CfId": 608489789,
+      "Value": 3.5
+    },
+    {
+      "ConstFloatId": 1396957611,
+      "CfId": 1396957611,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 3441914888,
+      "CfId": 3441914888,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 284332339,
+      "CfId": 284332339,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3151030747,
+      "CfId": 3151030747,
+      "Value": 1.2
+    },
+    {
+      "ConstFloatId": 2869334915,
+      "CfId": 2869334915,
+      "Value": 0.1
+    },
+    {
+      "ConstFloatId": 415966881,
+      "CfId": 415966881,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 1442596524,
+      "CfId": 1442596524,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 1789697325,
+      "CfId": 1789697325,
+      "Value": 35.0
+    },
+    {
+      "ConstFloatId": 1131827596,
+      "CfId": 1131827596,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 988717649,
+      "CfId": 988717649,
+      "Value": 1.2
+    },
+    {
+      "ConstFloatId": 2748544923,
+      "CfId": 2748544923,
+      "Value": 0.8
+    },
+    {
+      "ConstFloatId": 746400090,
+      "CfId": 746400090,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1538181583,
+      "CfId": 1538181583,
+      "Value": 0.8
+    },
+    {
+      "ConstFloatId": 3556808462,
+      "CfId": 3556808462,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 637594543,
+      "CfId": 637594543,
+      "Value": 0.05
+    },
+    {
+      "ConstFloatId": 1388813254,
+      "CfId": 1388813254,
+      "Value": 0.65
+    },
+    {
+      "ConstFloatId": 687506146,
+      "CfId": 687506146,
+      "Value": 0.65
+    },
+    {
+      "ConstFloatId": 787022028,
+      "CfId": 787022028,
+      "Value": 0.8
+    },
+    {
+      "ConstFloatId": 851055837,
+      "CfId": 851055837,
+      "Value": 1.2
+    },
+    {
+      "ConstFloatId": 2979974512,
+      "CfId": 2979974512,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 4176344304,
+      "CfId": 4176344304,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 2955128051,
+      "CfId": 2955128051,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3341065317,
+      "CfId": 3341065317,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 2370065918,
+      "CfId": 2370065918,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 430886161,
+      "CfId": 430886161,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 1743574392,
+      "CfId": 1743574392,
+      "Value": 2500.0
+    },
+    {
+      "ConstFloatId": 807355996,
+      "CfId": 807355996,
+      "Value": 5000.0
+    },
+    {
+      "ConstFloatId": 1896876147,
+      "CfId": 1896876147,
+      "Value": 0.2
+    },
+    {
+      "ConstFloatId": 161977058,
+      "CfId": 161977058,
+      "Value": 0.1
+    },
+    {
+      "ConstFloatId": 2427372376,
+      "CfId": 2427372376,
+      "Value": 0.15
+    },
+    {
+      "ConstFloatId": 3886674894,
+      "CfId": 3886674894,
+      "Value": 0.25
+    },
+    {
+      "ConstFloatId": 2043504237,
+      "CfId": 2043504237,
+      "Value": 0.35
+    },
+    {
+      "ConstFloatId": 248141563,
+      "CfId": 248141563,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 2546140993,
+      "CfId": 2546140993,
+      "Value": 14.0
+    },
+    {
+      "ConstFloatId": 2412969385,
+      "CfId": 2412969385,
+      "Value": 6.0
+    },
+    {
+      "ConstFloatId": 2014486123,
+      "CfId": 2014486123,
+      "Value": 1.9
+    },
+    {
+      "ConstFloatId": 3602371693,
+      "CfId": 3602371693,
+      "Value": 1.8
+    },
+    {
+      "ConstFloatId": 632176295,
+      "CfId": 632176295,
+      "Value": 1.3
+    },
+    {
+      "ConstFloatId": 1985173418,
+      "CfId": 1985173418,
+      "Value": 3.6
+    },
+    {
+      "ConstFloatId": 3239908006,
+      "CfId": 3239908006,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 2695210631,
+      "CfId": 2695210631,
+      "Value": 1.5
+    },
+    {
+      "ConstFloatId": 188532506,
+      "CfId": 188532506,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 1422210288,
+      "CfId": 1422210288,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 2789372378,
+      "CfId": 2789372378,
+      "Value": 3000.0
+    },
+    {
+      "ConstFloatId": 864280938,
+      "CfId": 864280938,
+      "Value": 5000.0
+    },
+    {
+      "ConstFloatId": 1225352211,
+      "CfId": 1225352211,
+      "Value": 0.1
+    },
+    {
+      "ConstFloatId": 3897733784,
+      "CfId": 3897733784,
+      "Value": 0.045
+    },
+    {
+      "ConstFloatId": 2860283424,
+      "CfId": 2860283424,
+      "Value": 0.045
+    },
+    {
+      "ConstFloatId": 863315866,
+      "CfId": 863315866,
+      "Value": 0.045
+    },
+    {
+      "ConstFloatId": 1148327692,
+      "CfId": 1148327692,
+      "Value": 0.045
+    },
+    {
+      "ConstFloatId": 3658908335,
+      "CfId": 3658908335,
+      "Value": 0.045
+    },
+    {
+      "ConstFloatId": 2903618105,
+      "CfId": 2903618105,
+      "Value": 0.05
+    },
+    {
+      "ConstFloatId": 874046339,
+      "CfId": 874046339,
+      "Value": 0.05
+    },
+    {
+      "ConstFloatId": 1638033215,
+      "CfId": 1638033215,
+      "Value": 0.04
+    },
+    {
+      "ConstFloatId": 3687968344,
+      "CfId": 3687968344,
+      "Value": 99.0
+    },
+    {
+      "ConstFloatId": 3013403075,
+      "CfId": 3013403075,
+      "Value": 40.0
+    },
+    {
+      "ConstFloatId": 3562869398,
+      "CfId": 3562869398,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3560838039,
+      "CfId": 3560838039,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 91857155,
+      "CfId": 91857155,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3117744406,
+      "CfId": 3117744406,
+      "Value": 600.0
+    },
+    {
+      "ConstFloatId": 1295493698,
+      "CfId": 1295493698,
+      "Value": 120.0
+    },
+    {
+      "ConstFloatId": 573883865,
+      "CfId": 573883865,
+      "Value": 100.0
+    },
+    {
+      "ConstFloatId": 2875406345,
+      "CfId": 2875406345,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 3858293882,
+      "CfId": 3858293882,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 2500432911,
+      "CfId": 2500432911,
+      "Value": 80.0
+    },
+    {
+      "ConstFloatId": 3790035167,
+      "CfId": 3790035167,
+      "Value": 100.0
+    },
+    {
+      "ConstFloatId": 127106873,
+      "CfId": 127106873,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 530066155,
+      "CfId": 530066155,
+      "Value": 241.0
+    },
+    {
+      "ConstFloatId": 3965055408,
+      "CfId": 3965055408,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 3462137966,
+      "CfId": 3462137966,
+      "Value": 15.0
+    },
+    {
+      "ConstFloatId": 3661477406,
+      "CfId": 3661477406,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 1794840333,
+      "CfId": 1794840333,
+      "Value": 130.0
+    },
+    {
+      "ConstFloatId": 393227979,
+      "CfId": 393227979,
+      "Value": 100.0
+    },
+    {
+      "ConstFloatId": 1294444725,
+      "CfId": 1294444725,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 62682310,
+      "CfId": 62682310,
+      "Value": 130.0
+    },
+    {
+      "ConstFloatId": 3674270100,
+      "CfId": 3674270100,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3649452821,
+      "CfId": 3649452821,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 1928713397,
+      "CfId": 1928713397,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 3392814011,
+      "CfId": 3392814011,
+      "Value": 50.0
+    },
+    {
+      "ConstFloatId": 932078069,
+      "CfId": 932078069,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1638480440,
+      "CfId": 1638480440,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3996809609,
+      "CfId": 3996809609,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1017864506,
+      "CfId": 1017864506,
+      "Value": 300.0
+    },
+    {
+      "ConstFloatId": 273342743,
+      "CfId": 273342743,
+      "Value": 9999.0
+    },
+    {
+      "ConstFloatId": 3402189553,
+      "CfId": 3402189553,
+      "Value": 50.0
+    },
+    {
+      "ConstFloatId": 922264922,
+      "CfId": 922264922,
+      "Value": 50.0
+    },
+    {
+      "ConstFloatId": 2534783244,
+      "CfId": 2534783244,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 4116660316,
+      "CfId": 4116660316,
+      "Value": 0.95
+    },
+    {
+      "ConstFloatId": 159564779,
+      "CfId": 159564779,
+      "Value": 0.8
+    },
+    {
+      "ConstFloatId": 889889627,
+      "CfId": 889889627,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 1774381744,
+      "CfId": 1774381744,
+      "Value": 100.0
+    },
+    {
+      "ConstFloatId": 3874566671,
+      "CfId": 3874566671,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 2593100653,
+      "CfId": 2593100653,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 3524964357,
+      "CfId": 3524964357,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 81572072,
+      "CfId": 81572072,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 2759958205,
+      "CfId": 2759958205,
+      "Value": 120.0
+    },
+    {
+      "ConstFloatId": 287131797,
+      "CfId": 287131797,
+      "Value": 1200.0
+    },
+    {
+      "ConstFloatId": 1031371286,
+      "CfId": 1031371286,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 2366625688,
+      "CfId": 2366625688,
+      "Value": 999.0
+    },
+    {
+      "ConstFloatId": 3988321371,
+      "CfId": 3988321371,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 4028575800,
+      "CfId": 4028575800,
+      "Value": 72.0
+    },
+    {
+      "ConstFloatId": 2454584598,
+      "CfId": 2454584598,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 2065907501,
+      "CfId": 2065907501,
+      "Value": 72.0
+    },
+    {
+      "ConstFloatId": 2816845370,
+      "CfId": 2816845370,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 1147574319,
+      "CfId": 1147574319,
+      "Value": 0.2
+    },
+    {
+      "ConstFloatId": 545643004,
+      "CfId": 545643004,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1468197226,
+      "CfId": 1468197226,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 3465263312,
+      "CfId": 3465263312,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 3112994886,
+      "CfId": 3112994886,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 669523429,
+      "CfId": 669523429,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 1540600716,
+      "CfId": 1540600716,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 137353636,
+      "CfId": 137353636,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3715402098,
+      "CfId": 3715402098,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3732616244,
+      "CfId": 3732616244,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3501617365,
+      "CfId": 3501617365,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 867970089,
+      "CfId": 867970089,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1129672991,
+      "CfId": 1129672991,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 2575551023,
+      "CfId": 2575551023,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 1052460016,
+      "CfId": 1052460016,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 332874343,
+      "CfId": 332874343,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 2941643511,
+      "CfId": 2941643511,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 1817908735,
+      "CfId": 1817908735,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 1425984149,
+      "CfId": 1425984149,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 645810417,
+      "CfId": 645810417,
+      "Value": 15.0
+    },
+    {
+      "ConstFloatId": 4156355512,
+      "CfId": 4156355512,
+      "Value": 14.0
+    },
+    {
+      "ConstFloatId": 1645781788,
+      "CfId": 1645781788,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 4135773093,
+      "CfId": 4135773093,
+      "Value": 25000.0
+    },
+    {
+      "ConstFloatId": 4016964685,
+      "CfId": 4016964685,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 1802969229,
+      "CfId": 1802969229,
+      "Value": 25000.0
+    },
+    {
+      "ConstFloatId": 925320794,
+      "CfId": 925320794,
+      "Value": 6.0
+    },
+    {
+      "ConstFloatId": 3755605574,
+      "CfId": 3755605574,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 2245335132,
+      "CfId": 2245335132,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 1556179685,
+      "CfId": 1556179685,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 2449914128,
+      "CfId": 2449914128,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 4170554013,
+      "CfId": 4170554013,
+      "Value": 500.0
+    },
+    {
+      "ConstFloatId": 124258814,
+      "CfId": 124258814,
+      "Value": 65.0
+    },
+    {
+      "ConstFloatId": 118163711,
+      "CfId": 118163711,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 94424314,
+      "CfId": 94424314,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 2461251267,
+      "CfId": 2461251267,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 1369866612,
+      "CfId": 1369866612,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 954339633,
+      "CfId": 954339633,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 2462189156,
+      "CfId": 2462189156,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3526930491,
+      "CfId": 3526930491,
+      "Value": 16.0
+    },
+    {
+      "ConstFloatId": 3475081740,
+      "CfId": 3475081740,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 3214774480,
+      "CfId": 3214774480,
+      "Value": 9999.0
+    },
+    {
+      "ConstFloatId": 4183983161,
+      "CfId": 4183983161,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 419372532,
+      "CfId": 419372532,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 2888201480,
+      "CfId": 2888201480,
+      "Value": 99.0
+    },
+    {
+      "ConstFloatId": 2131840662,
+      "CfId": 2131840662,
+      "Value": 100.0
+    },
+    {
+      "ConstFloatId": 1854554117,
+      "CfId": 1854554117,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 3140618925,
+      "CfId": 3140618925,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3212312590,
+      "CfId": 3212312590,
+      "Value": 0.45
+    },
+    {
+      "ConstFloatId": 2203450301,
+      "CfId": 2203450301,
+      "Value": 21600.0
+    },
+    {
+      "ConstFloatId": 693150069,
+      "CfId": 693150069,
+      "Value": 86400.0
+    },
+    {
+      "ConstFloatId": 2618323935,
+      "CfId": 2618323935,
+      "Value": 7.0
+    },
+    {
+      "ConstFloatId": 39749758,
+      "CfId": 39749758,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 1400004732,
+      "CfId": 1400004732,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 3511143793,
+      "CfId": 3511143793,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 2248684399,
+      "CfId": 2248684399,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 3496699248,
+      "CfId": 3496699248,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 1005723316,
+      "CfId": 1005723316,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 4037987601,
+      "CfId": 4037987601,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 2214268240,
+      "CfId": 2214268240,
+      "Value": 0.4
+    },
+    {
+      "ConstFloatId": 1084611019,
+      "CfId": 1084611019,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 612347135,
+      "CfId": 612347135,
+      "Value": 90.0
+    },
+    {
+      "ConstFloatId": 3634254217,
+      "CfId": 3634254217,
+      "Value": 1.5
+    },
+    {
+      "ConstFloatId": 4126351259,
+      "CfId": 4126351259,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 271818218,
+      "CfId": 271818218,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3105543609,
+      "CfId": 3105543609,
+      "Value": 8.0
+    },
+    {
+      "ConstFloatId": 827565056,
+      "CfId": 827565056,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 2328838391,
+      "CfId": 2328838391,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 208851587,
+      "CfId": 208851587,
+      "Value": 6.0
+    },
+    {
+      "ConstFloatId": 4199907778,
+      "CfId": 4199907778,
+      "Value": 1.1
+    },
+    {
+      "ConstFloatId": 1813024290,
+      "CfId": 1813024290,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 2123022877,
+      "CfId": 2123022877,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 4277093402,
+      "CfId": 4277093402,
+      "Value": 25.0
+    },
+    {
+      "ConstFloatId": 3202639457,
+      "CfId": 3202639457,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 3675396558,
+      "CfId": 3675396558,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3799644153,
+      "CfId": 3799644153,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 1417031533,
+      "CfId": 1417031533,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 502789942,
+      "CfId": 502789942,
+      "Value": 150.0
+    },
+    {
+      "ConstFloatId": 1513519761,
+      "CfId": 1513519761,
+      "Value": 120.0
+    },
+    {
+      "ConstFloatId": 2168372978,
+      "CfId": 2168372978,
+      "Value": 0.8
+    },
+    {
+      "ConstFloatId": 840240515,
+      "CfId": 840240515,
+      "Value": 0.8
+    },
+    {
+      "ConstFloatId": 3249903325,
+      "CfId": 3249903325,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1530175154,
+      "CfId": 1530175154,
+      "Value": 1.5
+    },
+    {
+      "ConstFloatId": 386958182,
+      "CfId": 386958182,
+      "Value": 0.3
+    },
+    {
+      "ConstFloatId": 2384057052,
+      "CfId": 2384057052,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 2544539452,
+      "CfId": 2544539452,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 245614214,
+      "CfId": 245614214,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 2040854032,
+      "CfId": 2040854032,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 3888145331,
+      "CfId": 3888145331,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 390204975,
+      "CfId": 390204975,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1615150777,
+      "CfId": 1615150777,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 1192304737,
+      "CfId": 1192304737,
+      "Value": 6.0
+    },
+    {
+      "ConstFloatId": 2054909099,
+      "CfId": 2054909099,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 226253885,
+      "CfId": 226253885,
+      "Value": 3.0
+    },
+    {
+      "ConstFloatId": 2241486025,
+      "CfId": 2241486025,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 4293024926,
+      "CfId": 4293024926,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 1702834300,
+      "CfId": 1702834300,
+      "Value": 33.0
+    },
+    {
+      "ConstFloatId": 4235616710,
+      "CfId": 4235616710,
+      "Value": 66.0
+    },
+    {
+      "ConstFloatId": 4284406370,
+      "CfId": 4284406370,
+      "Value": 0.017
+    },
+    {
+      "ConstFloatId": 3109984374,
+      "CfId": 3109984374,
+      "Value": 0.2
+    },
+    {
+      "ConstFloatId": 3263428772,
+      "CfId": 3263428772,
+      "Value": 1.2
+    },
+    {
+      "ConstFloatId": 1822003141,
+      "CfId": 1822003141,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 3599331960,
+      "CfId": 3599331960,
+      "Value": 0.3
+    },
+    {
+      "ConstFloatId": 3423414009,
+      "CfId": 3423414009,
+      "Value": 0.25
+    },
+    {
+      "ConstFloatId": 3610005459,
+      "CfId": 3610005459,
+      "Value": 0.05
+    },
+    {
+      "ConstFloatId": 971433755,
+      "CfId": 971433755,
+      "Value": 0.3
+    },
+    {
+      "ConstFloatId": 4235502727,
+      "CfId": 4235502727,
+      "Value": 0.6
+    },
+    {
+      "ConstFloatId": 3215509689,
+      "CfId": 3215509689,
+      "Value": 1.4
+    },
+    {
+      "ConstFloatId": 3916863116,
+      "CfId": 3916863116,
+      "Value": 0.4
+    },
+    {
+      "ConstFloatId": 144659212,
+      "CfId": 144659212,
+      "Value": 45.0
+    },
+    {
+      "ConstFloatId": 2442527414,
+      "CfId": 2442527414,
+      "Value": 55.0
+    },
+    {
+      "ConstFloatId": 3868275232,
+      "CfId": 3868275232,
+      "Value": 65.0
+    },
+    {
+      "ConstFloatId": 1448379952,
+      "CfId": 1448379952,
+      "Value": 25.0
+    },
+    {
+      "ConstFloatId": 3479033738,
+      "CfId": 3479033738,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 3092965148,
+      "CfId": 3092965148,
+      "Value": 17.0
+    },
+    {
+      "ConstFloatId": 315440965,
+      "CfId": 315440965,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 3072308966,
+      "CfId": 3072308966,
+      "Value": 0.015
+    },
+    {
+      "ConstFloatId": 1360089979,
+      "CfId": 1360089979,
+      "Value": 2.5
+    },
+    {
+      "ConstFloatId": 290477044,
+      "CfId": 290477044,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 2760875900,
+      "CfId": 2760875900,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 1052972171,
+      "CfId": 1052972171,
+      "Value": 99.0
+    },
+    {
+      "ConstFloatId": 2305636845,
+      "CfId": 2305636845,
+      "Value": 50.0
+    },
+    {
+      "ConstFloatId": 2573448120,
+      "CfId": 2573448120,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 1630285149,
+      "CfId": 1630285149,
+      "Value": 10000.0
+    },
+    {
+      "ConstFloatId": 1821540666,
+      "CfId": 1821540666,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 3012572761,
+      "CfId": 3012572761,
+      "Value": 99.0
+    },
+    {
+      "ConstFloatId": 1863353372,
+      "CfId": 1863353372,
+      "Value": 100.0
+    },
+    {
+      "ConstFloatId": 379601204,
+      "CfId": 379601204,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 2425625726,
+      "CfId": 2425625726,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 1716139230,
+      "CfId": 1716139230,
+      "Value": 12.0
+    },
+    {
+      "ConstFloatId": 1938629451,
+      "CfId": 1938629451,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 2621429747,
+      "CfId": 2621429747,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 661431582,
+      "CfId": 661431582,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 1349227912,
+      "CfId": 1349227912,
+      "Value": -230.0
+    },
+    {
+      "ConstFloatId": 3648758693,
+      "CfId": 3648758693,
+      "Value": 720.0
+    },
+    {
+      "ConstFloatId": 1387498019,
+      "CfId": 1387498019,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 103045162,
+      "CfId": 103045162,
+      "Value": 9.0
+    },
+    {
+      "ConstFloatId": 1930841894,
+      "CfId": 1930841894,
+      "Value": 0.75
+    },
+    {
+      "ConstFloatId": 4134929159,
+      "CfId": 4134929159,
+      "Value": 4.0
+    },
+    {
+      "ConstFloatId": 3320464956,
+      "CfId": 3320464956,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 512835477,
+      "CfId": 512835477,
+      "Value": 5.0
+    },
+    {
+      "ConstFloatId": 1384353843,
+      "CfId": 1384353843,
+      "Value": 9.0
+    },
+    {
+      "ConstFloatId": 2155090284,
+      "CfId": 2155090284,
+      "Value": 1200.0
+    },
+    {
+      "ConstFloatId": 3933434582,
+      "CfId": 3933434582,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 2641642048,
+      "CfId": 2641642048,
+      "Value": 100.0
+    },
+    {
+      "ConstFloatId": 2339337725,
+      "CfId": 2339337725,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3266736556,
+      "CfId": 3266736556,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 1491866061,
+      "CfId": 1491866061,
+      "Value": 1.36
+    },
+    {
+      "ConstFloatId": 331501061,
+      "CfId": 331501061,
+      "Value": -2.05
+    },
+    {
+      "ConstFloatId": 3167677840,
+      "CfId": 3167677840,
+      "Value": 2.0
+    },
+    {
+      "ConstFloatId": 3182595193,
+      "CfId": 3182595193,
+      "Value": -1.75
+    },
+    {
+      "ConstFloatId": 681334833,
+      "CfId": 681334833,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 1265381724,
+      "CfId": 1265381724,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 2782361649,
+      "CfId": 2782361649,
+      "Value": 60.0
+    },
+    {
+      "ConstFloatId": 1769830575,
+      "CfId": 1769830575,
+      "Value": 120.0
+    },
+    {
+      "ConstFloatId": 1673032118,
+      "CfId": 1673032118,
+      "Value": 200.0
+    },
+    {
+      "ConstFloatId": 1408471966,
+      "CfId": 1408471966,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 1816877366,
+      "CfId": 1816877366,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 171232723,
+      "CfId": 171232723,
+      "Value": 0.0
+    },
+    {
+      "ConstFloatId": 3747599195,
+      "CfId": 3747599195,
+      "Value": 30.0
+    },
+    {
+      "ConstFloatId": 3116186748,
+      "CfId": 3116186748,
+      "Value": 10.0
+    },
+    {
+      "ConstFloatId": 3068978948,
+      "CfId": 3068978948,
+      "Value": 10000.0
+    },
+    {
+      "ConstFloatId": 2663844603,
+      "CfId": 2663844603,
+      "Value": 20.0
+    },
+    {
+      "ConstFloatId": 275178349,
+      "CfId": 275178349,
+      "Value": 1000.0
+    },
+    {
+      "ConstFloatId": 585140101,
+      "CfId": 585140101,
+      "Value": 60.0
+    },
+    {
+      "ConstFloatId": 1791515222,
+      "CfId": 1791515222,
+      "Value": 0.1
+    },
+    {
+      "ConstFloatId": 3545929068,
+      "CfId": 3545929068,
+      "Value": 1800.0
+    },
+    {
+      "ConstFloatId": 2422427296,
+      "CfId": 2422427296,
+      "Value": 1.0
+    },
+    {
+      "ConstFloatId": 150370860,
+      "CfId": 150370860,
+      "Value": 0.2
+    },
+    {
+      "ConstFloatId": 2343192254,
+      "CfId": 2343192254,
+      "Value": 0.1
+    },
+    {
+      "ConstFloatId": 4239226408,
+      "CfId": 4239226408,
+      "Value": 0.3
+    },
+    {
+      "ConstFloatId": 1657398155,
+      "CfId": 1657398155,
+      "Value": 0.5
+    },
+    {
+      "ConstFloatId": 860553384,
+      "CfId": 860553384,
+      "Value": 60.0
+    },
+    {
+      "ConstFloatId": 2856472850,
+      "CfId": 2856472850,
+      "Value": 300.0
+    },
+    {
+      "ConstFloatId": 353944050,
+      "CfId": 353944050,
+      "Value": 50.0
+    },
+    {
+      "ConstFloatId": 1163250070,
+      "CfId": 1163250070,
+      "Value": 70.0
+    },
+    {
+      "ConstFloatId": 2477978018,
+      "CfId": 2477978018,
+      "Value": 120.0
+    },
+    {
+      "ConstFloatId": 2070527391,
+      "CfId": 2070527391,
+      "Value": 180.0
+    }
+  ]
+}

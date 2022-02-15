@@ -1,0 +1,23 @@
+{
+  "TableHiden": [
+    {
+      "HidenIdx": 2875601025,
+      "HidenId": 2875601025,
+      "ObjId": 3733633004,
+      "ItemTypeBackM": 843800178
+    },
+    {
+      "HidenIdx": 2789147266,
+      "HidenId": 2789147266,
+      "ObjId": 2029894744,
+      "ItemTypeBackM": 2181057409
+    },
+    {
+      "HidenIdx": 577259995,
+      "HidenId": 577259995,
+      "ObjId": 1226155717,
+      "ItemTypeBackM": 2775466507
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,3725 @@
+{
+  "TableGodMissionStep": [
+    {
+      "GodMissionStepId": 2597777914,
+      "Uniqid": 2597777914,
+      "GodmissionId": 4181374559,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 3,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 786002835
+    },
+    {
+      "GodMissionStepId": 3938190709,
+      "Uniqid": 3938190709,
+      "GodmissionId": 4181374559,
+      "Step": 25,
+      "AdvmapId": 492214431,
+      "Gentype": 3066015919,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1507738373
+    },
+    {
+      "GodMissionStepId": 2211299515,
+      "Uniqid": 2211299515,
+      "GodmissionId": 4181374559,
+      "Step": 30,
+      "AdvmapId": 492214431,
+      "Gentype": 3264635399,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3235320511
+    },
+    {
+      "GodMissionStepId": 3431749244,
+      "Uniqid": 3431749244,
+      "GodmissionId": 4181374559,
+      "Step": 40,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 3,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3083870761
+    },
+    {
+      "GodMissionStepId": 779411926,
+      "Uniqid": 779411926,
+      "GodmissionId": 1614014437,
+      "Step": 0,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 3,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 53778427,
+      "Uniqid": 53778427,
+      "GodmissionId": 2142160113,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 3,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 2928522902,
+      "Uniqid": 2928522902,
+      "GodmissionId": 3869742411,
+      "Step": 10,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 2,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 182319847
+    },
+    {
+      "GodMissionStepId": 2241914197,
+      "Uniqid": 2241914197,
+      "GodmissionId": 3869742411,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3264635399,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2111490673
+    },
+    {
+      "GodMissionStepId": 2629555220,
+      "Uniqid": 2629555220,
+      "GodmissionId": 3869742411,
+      "Step": 30,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 2,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3839073227
+    },
+    {
+      "GodMissionStepId": 1708221747,
+      "Uniqid": 1708221747,
+      "GodmissionId": 2443224541,
+      "Step": 10,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 9,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2440607368
+    },
+    {
+      "GodMissionStepId": 1325151984,
+      "Uniqid": 1325151984,
+      "GodmissionId": 2443224541,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3066015919,
+      "Pointindex": 705,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3867117086
+    },
+    {
+      "GodMissionStepId": 3623184202,
+      "Uniqid": 3623184202,
+      "GodmissionId": 2443224541,
+      "Step": 23,
+      "AdvmapId": 492214431,
+      "Gentype": 3264635399,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2138494884
+    },
+    {
+      "GodMissionStepId": 1050067583,
+      "Uniqid": 1050067583,
+      "GodmissionId": 2443224541,
+      "Step": 25,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 141682482
+    },
+    {
+      "GodMissionStepId": 1474758577,
+      "Uniqid": 1474758577,
+      "GodmissionId": 2443224541,
+      "Step": 30,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 9,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2517987985
+    },
+    {
+      "GodMissionStepId": 2027181451,
+      "Uniqid": 2027181451,
+      "GodmissionId": 264515710,
+      "Step": 10,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 703,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3856686855
+    },
+    {
+      "GodMissionStepId": 1408829000,
+      "Uniqid": 1408829000,
+      "GodmissionId": 264515710,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3264635399,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2464640913
+    },
+    {
+      "GodMissionStepId": 1256339209,
+      "Uniqid": 1256339209,
+      "GodmissionId": 264515710,
+      "Step": 30,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 703,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 200162859
+    },
+    {
+      "GodMissionStepId": 3266988091,
+      "Uniqid": 3266988091,
+      "GodmissionId": 3035764564,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 3,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 1862494550,
+      "Uniqid": 1862494550,
+      "GodmissionId": 771442414,
+      "Step": 10,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2373661092
+    },
+    {
+      "GodMissionStepId": 1143880341,
+      "Uniqid": 1143880341,
+      "GodmissionId": 771442414,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3264635399,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4202430770
+    },
+    {
+      "GodMissionStepId": 1563757524,
+      "Uniqid": 1563757524,
+      "GodmissionId": 771442414,
+      "Step": 30,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1668632712
+    },
+    {
+      "GodMissionStepId": 2757737203,
+      "Uniqid": 2757737203,
+      "GodmissionId": 1526494840,
+      "Step": 10,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 383679947
+    },
+    {
+      "GodMissionStepId": 2406672688,
+      "Uniqid": 2406672688,
+      "GodmissionId": 1526494840,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3264635399,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1641631069
+    },
+    {
+      "GodMissionStepId": 2523519089,
+      "Uniqid": 2523519089,
+      "GodmissionId": 1526494840,
+      "Step": 30,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4174388455
+    },
+    {
+      "GodMissionStepId": 3492499333,
+      "Uniqid": 3492499333,
+      "GodmissionId": 3298354139,
+      "Step": 5,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 803,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4216309246
+    },
+    {
+      "GodMissionStepId": 3109718603,
+      "Uniqid": 3109718603,
+      "GodmissionId": 3298354139,
+      "Step": 10,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 5,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1648792644
+    },
+    {
+      "GodMissionStepId": 2457328008,
+      "Uniqid": 2457328008,
+      "GodmissionId": 3298354139,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3264635399,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 356623570
+    },
+    {
+      "GodMissionStepId": 2339170505,
+      "Uniqid": 2339170505,
+      "GodmissionId": 3298354139,
+      "Step": 30,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 5,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2353591656
+    },
+    {
+      "GodMissionStepId": 3232501371,
+      "Uniqid": 3232501371,
+      "GodmissionId": 2851547116,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 900,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 1830104854,
+      "Uniqid": 1830104854,
+      "GodmissionId": 821982806,
+      "Step": 20,
+      "AdvmapId": 492214431,
+      "Gentype": 3444478594,
+      "Pointindex": 901,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2917748207
+    },
+    {
+      "GodMissionStepId": 1947082327,
+      "Uniqid": 1947082327,
+      "GodmissionId": 821982806,
+      "Step": 30,
+      "AdvmapId": 492214431,
+      "Gentype": 3066015919,
+      "Pointindex": 901,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3673062777
+    },
+    {
+      "GodMissionStepId": 995068048,
+      "Uniqid": 995068048,
+      "GodmissionId": 821982806,
+      "Step": 40,
+      "AdvmapId": 492214431,
+      "Gentype": 3264635399,
+      "Pointindex": 900,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1139223747
+    },
+    {
+      "GodMissionStepId": 575977937,
+      "Uniqid": 575977937,
+      "GodmissionId": 821982806,
+      "Step": 50,
+      "AdvmapId": 492214431,
+      "Gentype": 3066015919,
+      "Pointindex": 903,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 887102549
+    },
+    {
+      "GodMissionStepId": 158984722,
+      "Uniqid": 158984722,
+      "GodmissionId": 821982806,
+      "Step": 60,
+      "AdvmapId": 3907787485,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2860812790
+    },
+    {
+      "GodMissionStepId": 1207572194,
+      "Uniqid": 1207572194,
+      "GodmissionId": 821982806,
+      "Step": 110,
+      "AdvmapId": 492214431,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3716397408
+    },
+    {
+      "GodMissionStepId": 1259271500,
+      "Uniqid": 1259271500,
+      "GodmissionId": 1505680160,
+      "Step": 10,
+      "AdvmapId": 618374234,
+      "Gentype": 3444478594,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4142853289
+    },
+    {
+      "GodMissionStepId": 1612949135,
+      "Uniqid": 1612949135,
+      "GodmissionId": 1505680160,
+      "Step": 20,
+      "AdvmapId": 618374234,
+      "Gentype": 3264635399,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2179587135
+    },
+    {
+      "GodMissionStepId": 2033752014,
+      "Uniqid": 2033752014,
+      "GodmissionId": 1505680160,
+      "Step": 30,
+      "AdvmapId": 618374234,
+      "Gentype": 3444478594,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 417369477
+    },
+    {
+      "GodMissionStepId": 2152867561,
+      "Uniqid": 2152867561,
+      "GodmissionId": 783936438,
+      "Step": 10,
+      "AdvmapId": 618374234,
+      "Gentype": 3444478594,
+      "Pointindex": 1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1833672902
+    },
+    {
+      "GodMissionStepId": 2877257002,
+      "Uniqid": 2877257002,
+      "GodmissionId": 783936438,
+      "Step": 20,
+      "AdvmapId": 618374234,
+      "Gentype": 3264635399,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 441225296
+    },
+    {
+      "GodMissionStepId": 2992915563,
+      "Uniqid": 2992915563,
+      "GodmissionId": 783936438,
+      "Step": 30,
+      "AdvmapId": 618374234,
+      "Gentype": 3444478594,
+      "Pointindex": 1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2202386922
+    },
+    {
+      "GodMissionStepId": 3538719565,
+      "Uniqid": 3538719565,
+      "GodmissionId": 3744115086,
+      "Step": 10,
+      "AdvmapId": 618374234,
+      "Gentype": 3444478594,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2775889709
+    },
+    {
+      "GodMissionStepId": 4190224526,
+      "Uniqid": 4190224526,
+      "GodmissionId": 3744115086,
+      "Step": 20,
+      "AdvmapId": 618374234,
+      "Gentype": 3066015919,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3530786747
+    },
+    {
+      "GodMissionStepId": 3772445135,
+      "Uniqid": 3772445135,
+      "GodmissionId": 3744115086,
+      "Step": 30,
+      "AdvmapId": 618374234,
+      "Gentype": 3264635399,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3530786747
+    },
+    {
+      "GodMissionStepId": 2946197256,
+      "Uniqid": 2946197256,
+      "GodmissionId": 3744115086,
+      "Step": 40,
+      "AdvmapId": 618374234,
+      "Gentype": 3444478594,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1266341377
+    },
+    {
+      "GodMissionStepId": 430981352,
+      "Uniqid": 430981352,
+      "GodmissionId": 2821560600,
+      "Step": 10,
+      "AdvmapId": 618374234,
+      "Gentype": 3444478594,
+      "Pointindex": 1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 699068161
+    },
+    {
+      "GodMissionStepId": 1775940711,
+      "Uniqid": 1775940711,
+      "GodmissionId": 2821560600,
+      "Step": 15,
+      "AdvmapId": 618374234,
+      "Gentype": 920692285,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1588453271
+    },
+    {
+      "GodMissionStepId": 730210922,
+      "Uniqid": 730210922,
+      "GodmissionId": 2821560600,
+      "Step": 30,
+      "AdvmapId": 618374234,
+      "Gentype": 3444478594,
+      "Pointindex": 1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2963521211
+    },
+    {
+      "GodMissionStepId": 325209229,
+      "Uniqid": 325209229,
+      "GodmissionId": 343308843,
+      "Step": 10,
+      "AdvmapId": 618374234,
+      "Gentype": 3066015919,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 584219758
+    },
+    {
+      "GodMissionStepId": 944709454,
+      "Uniqid": 944709454,
+      "GodmissionId": 343308843,
+      "Step": 20,
+      "AdvmapId": 618374234,
+      "Gentype": 3264635399,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1440042232
+    },
+    {
+      "GodMissionStepId": 559164943,
+      "Uniqid": 559164943,
+      "GodmissionId": 343308843,
+      "Step": 30,
+      "AdvmapId": 618374234,
+      "Gentype": 3066015919,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3436977474
+    },
+    {
+      "GodMissionStepId": 1846917320,
+      "Uniqid": 1846917320,
+      "GodmissionId": 343308843,
+      "Step": 40,
+      "AdvmapId": 1154693369,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3151703508
+    },
+    {
+      "GodMissionStepId": 965571961,
+      "Uniqid": 965571961,
+      "GodmissionId": 343308843,
+      "Step": 120,
+      "AdvmapId": 618374234,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 633321591
+    },
+    {
+      "GodMissionStepId": 3590394938,
+      "Uniqid": 3590394938,
+      "GodmissionId": 1321586531,
+      "Step": 10,
+      "AdvmapId": 866168857,
+      "Gentype": 3066015919,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2405362746
+    },
+    {
+      "GodMissionStepId": 4247537657,
+      "Uniqid": 4247537657,
+      "GodmissionId": 1321586531,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 3264635399,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4166638764
+    },
+    {
+      "GodMissionStepId": 3828840120,
+      "Uniqid": 3828840120,
+      "GodmissionId": 1321586531,
+      "Step": 30,
+      "AdvmapId": 866168857,
+      "Gentype": 3066015919,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1632668950
+    },
+    {
+      "GodMissionStepId": 492685215,
+      "Uniqid": 492685215,
+      "GodmissionId": 969080821,
+      "Step": 10,
+      "AdvmapId": 866168857,
+      "Gentype": 3444478594,
+      "Pointindex": 602,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2552625273
+    },
+    {
+      "GodMissionStepId": 913347676,
+      "Uniqid": 913347676,
+      "GodmissionId": 969080821,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 3264635399,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4012034287
+    },
+    {
+      "GodMissionStepId": 795583773,
+      "Uniqid": 795583773,
+      "GodmissionId": 969080821,
+      "Step": 30,
+      "AdvmapId": 866168857,
+      "Gentype": 3444478594,
+      "Pointindex": 602,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1982568789
+    },
+    {
+      "GodMissionStepId": 3797570390,
+      "Uniqid": 3797570390,
+      "GodmissionId": 1364782199,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 1340305979,
+      "Uniqid": 1340305979,
+      "GodmissionId": 3360800205,
+      "Step": 10,
+      "AdvmapId": 866168857,
+      "Gentype": 3444478594,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 4081043937
+    },
+    {
+      "GodMissionStepId": 1691230712,
+      "Uniqid": 1691230712,
+      "GodmissionId": 3360800205,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 3444478594,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 2218326391
+    },
+    {
+      "GodMissionStepId": 2227151262,
+      "Uniqid": 2227151262,
+      "GodmissionId": 3210120539,
+      "Step": 10,
+      "AdvmapId": 866168857,
+      "Gentype": 3066015919,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 3829718434
+    },
+    {
+      "GodMissionStepId": 2945643101,
+      "Uniqid": 2945643101,
+      "GodmissionId": 3210120539,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 1980983683,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 2470702388
+    },
+    {
+      "GodMissionStepId": 3062481692,
+      "Uniqid": 3062481692,
+      "GodmissionId": 3210120539,
+      "Step": 30,
+      "AdvmapId": 866168857,
+      "Gentype": 3066015919,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 172670094
+    },
+    {
+      "GodMissionStepId": 2579140902,
+      "Uniqid": 2579140902,
+      "GodmissionId": 556931320,
+      "Step": 10,
+      "AdvmapId": 866168857,
+      "Gentype": 3066015919,
+      "Pointindex": 703,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 2149953643
+    },
+    {
+      "GodMissionStepId": 2996290277,
+      "Uniqid": 2996290277,
+      "GodmissionId": 556931320,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 3264635399,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 4146233597
+    },
+    {
+      "GodMissionStepId": 2878141348,
+      "Uniqid": 2878141348,
+      "GodmissionId": 556931320,
+      "Step": 30,
+      "AdvmapId": 866168857,
+      "Gentype": 3066015919,
+      "Pointindex": 703,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 1848365383
+    },
+    {
+      "GodMissionStepId": 2389552635,
+      "Uniqid": 2389552635,
+      "GodmissionId": 51211880,
+      "Step": 10,
+      "AdvmapId": 866168857,
+      "Gentype": 3444478594,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1848649879
+    },
+    {
+      "GodMissionStepId": 2772500024,
+      "Uniqid": 2772500024,
+      "GodmissionId": 51211880,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 3264635399,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 423041025
+    },
+    {
+      "GodMissionStepId": 3160133497,
+      "Uniqid": 3160133497,
+      "GodmissionId": 51211880,
+      "Step": 30,
+      "AdvmapId": 866168857,
+      "Gentype": 3444478594,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2151565755
+    },
+    {
+      "GodMissionStepId": 1160871518,
+      "Uniqid": 1160871518,
+      "GodmissionId": 1946836734,
+      "Step": 10,
+      "AdvmapId": 866168857,
+      "Gentype": 3444478594,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2034973908
+    },
+    {
+      "GodMissionStepId": 1847340445,
+      "Uniqid": 1847340445,
+      "GodmissionId": 1946836734,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 3264635399,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 239864898
+    },
+    {
+      "GodMissionStepId": 1996954844,
+      "Uniqid": 1996954844,
+      "GodmissionId": 1946836734,
+      "Step": 30,
+      "AdvmapId": 866168857,
+      "Gentype": 3444478594,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2537905656
+    },
+    {
+      "GodMissionStepId": 1479823078,
+      "Uniqid": 1479823078,
+      "GodmissionId": 3933129565,
+      "Step": 10,
+      "AdvmapId": 866168857,
+      "Gentype": 3066015919,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 489312541
+    },
+    {
+      "GodMissionStepId": 1931025701,
+      "Uniqid": 1931025701,
+      "GodmissionId": 3933129565,
+      "Step": 20,
+      "AdvmapId": 866168857,
+      "Gentype": 3066015919,
+      "Pointindex": 803,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1781358987
+    },
+    {
+      "GodMissionStepId": 1778527332,
+      "Uniqid": 1778527332,
+      "GodmissionId": 3933129565,
+      "Step": 30,
+      "AdvmapId": 866168857,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4079235121
+    },
+    {
+      "GodMissionStepId": 242149728,
+      "Uniqid": 242149728,
+      "GodmissionId": 3933129565,
+      "Step": 70,
+      "AdvmapId": 866168857,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2216886439
+    },
+    {
+      "GodMissionStepId": 2564943161,
+      "Uniqid": 2564943161,
+      "GodmissionId": 715432618,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2949419121
+    },
+    {
+      "GodMissionStepId": 2022731103,
+      "Uniqid": 2022731103,
+      "GodmissionId": 1571000892,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3099034674
+    },
+    {
+      "GodMissionStepId": 1404911260,
+      "Uniqid": 1404911260,
+      "GodmissionId": 1571000892,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3264635399,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3484464292
+    },
+    {
+      "GodMissionStepId": 1252397021,
+      "Uniqid": 1252397021,
+      "GodmissionId": 1571000892,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1455023390
+    },
+    {
+      "GodMissionStepId": 1704287719,
+      "Uniqid": 1704287719,
+      "GodmissionId": 3284600735,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3705072123
+    },
+    {
+      "GodMissionStepId": 1320685092,
+      "Uniqid": 1320685092,
+      "GodmissionId": 3284600735,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3264635399,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2882656621
+    },
+    {
+      "GodMissionStepId": 1470316389,
+      "Uniqid": 1470316389,
+      "GodmissionId": 3284600735,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 853051607
+    },
+    {
+      "GodMissionStepId": 17009464,
+      "Uniqid": 17009464,
+      "GodmissionId": 2888880132,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3551376810
+    },
+    {
+      "GodMissionStepId": 404273785,
+      "Uniqid": 404273785,
+      "GodmissionId": 2888880132,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2762638652
+    },
+    {
+      "GodMissionStepId": 1465461950,
+      "Uniqid": 1465461950,
+      "GodmissionId": 2888880132,
+      "Step": 40,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1034146950
+    },
+    {
+      "GodMissionStepId": 1312955903,
+      "Uniqid": 1312955903,
+      "GodmissionId": 2888880132,
+      "Step": 50,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1252320272
+    },
+    {
+      "GodMissionStepId": 3782347614,
+      "Uniqid": 3782347614,
+      "GodmissionId": 3677872274,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3302400489
+    },
+    {
+      "GodMissionStepId": 3395246237,
+      "Uniqid": 3395246237,
+      "GodmissionId": 3677872274,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3016855935
+    },
+    {
+      "GodMissionStepId": 3544476124,
+      "Uniqid": 3544476124,
+      "GodmissionId": 3677872274,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 718848197
+    },
+    {
+      "GodMissionStepId": 4235672550,
+      "Uniqid": 4235672550,
+      "GodmissionId": 1163097393,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2696399904
+    },
+    {
+      "GodMissionStepId": 3613026341,
+      "Uniqid": 3613026341,
+      "GodmissionId": 1163097393,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3264635399,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3618700470
+    },
+    {
+      "GodMissionStepId": 3460389220,
+      "Uniqid": 3460389220,
+      "GodmissionId": 1163097393,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1320791308
+    },
+    {
+      "GodMissionStepId": 1176053334,
+      "Uniqid": 1176053334,
+      "GodmissionId": 4268053019,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1999595545
+    },
+    {
+      "GodMissionStepId": 1593972503,
+      "Uniqid": 1593972503,
+      "GodmissionId": 4268053019,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 810,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2644111
+    },
+    {
+      "GodMissionStepId": 272859600,
+      "Uniqid": 272859600,
+      "GodmissionId": 4268053019,
+      "Step": 40,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2569079093
+    },
+    {
+      "GodMissionStepId": 3953133371,
+      "Uniqid": 3953133371,
+      "GodmissionId": 1735132065,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1319261404
+    },
+    {
+      "GodMissionStepId": 3230487800,
+      "Uniqid": 3230487800,
+      "GodmissionId": 1735132065,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 967140426
+    },
+    {
+      "GodMissionStepId": 3650512313,
+      "Uniqid": 3650512313,
+      "GodmissionId": 1735132065,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2695640560
+    },
+    {
+      "GodMissionStepId": 553440414,
+      "Uniqid": 553440414,
+      "GodmissionId": 275460919,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3444478594,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1507410079
+    },
+    {
+      "GodMissionStepId": 1352015889,
+      "Uniqid": 1352015889,
+      "GodmissionId": 275460919,
+      "Step": 15,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 786329609
+    },
+    {
+      "GodMissionStepId": 198281053,
+      "Uniqid": 198281053,
+      "GodmissionId": 275460919,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 814,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3084329395
+    },
+    {
+      "GodMissionStepId": 315274780,
+      "Uniqid": 315274780,
+      "GodmissionId": 275460919,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3084329395
+    },
+    {
+      "GodMissionStepId": 1990619928,
+      "Uniqid": 1990619928,
+      "GodmissionId": 275460919,
+      "Step": 70,
+      "AdvmapId": 1850532117,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3234861349
+    },
+    {
+      "GodMissionStepId": 784555916,
+      "Uniqid": 784555916,
+      "GodmissionId": 1038071529,
+      "Step": 10,
+      "AdvmapId": 3469249642,
+      "Gentype": 3066015919,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 678058802
+    },
+    {
+      "GodMissionStepId": 99486799,
+      "Uniqid": 99486799,
+      "GodmissionId": 1038071529,
+      "Step": 20,
+      "AdvmapId": 3469249642,
+      "Gentype": 3264635399,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1601006500
+    },
+    {
+      "GodMissionStepId": 1927888089,
+      "Uniqid": 1927888089,
+      "GodmissionId": 1038071529,
+      "Step": 20,
+      "AdvmapId": 3469249642,
+      "Gentype": 1980983683,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1601006500
+    },
+    {
+      "GodMissionStepId": 3852438569,
+      "Uniqid": 3852438569,
+      "GodmissionId": 1255704191,
+      "Step": 10,
+      "AdvmapId": 3469249642,
+      "Gentype": 3444478594,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1058099057
+    },
+    {
+      "GodMissionStepId": 833964835,
+      "Uniqid": 833964835,
+      "GodmissionId": 574789117,
+      "Step": 10,
+      "AdvmapId": 3469249642,
+      "Gentype": 3066015919,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1837515308
+    },
+    {
+      "GodMissionStepId": 3072407949,
+      "Uniqid": 3072407949,
+      "GodmissionId": 3142304839,
+      "Step": 10,
+      "AdvmapId": 1395920365,
+      "Gentype": 3066015919,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1410039529
+    },
+    {
+      "GodMissionStepId": 2618059342,
+      "Uniqid": 2618059342,
+      "GodmissionId": 3142304839,
+      "Step": 20,
+      "AdvmapId": 1395920365,
+      "Gentype": 3264635399,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 588009087
+    },
+    {
+      "GodMissionStepId": 2088626728,
+      "Uniqid": 2088626728,
+      "GodmissionId": 3427595473,
+      "Step": 10,
+      "AdvmapId": 1395920365,
+      "Gentype": 3066015919,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 1131440810
+    },
+    {
+      "GodMissionStepId": 1464908267,
+      "Uniqid": 1464908267,
+      "GodmissionId": 3427595473,
+      "Step": 20,
+      "AdvmapId": 1395920365,
+      "Gentype": 3264635399,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 880237116
+    },
+    {
+      "GodMissionStepId": 542607741,
+      "Uniqid": 542607741,
+      "GodmissionId": 3427595473,
+      "Step": 20,
+      "AdvmapId": 1395920365,
+      "Gentype": 1980983683,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 880237116
+    },
+    {
+      "GodMissionStepId": 1635310224,
+      "Uniqid": 1635310224,
+      "GodmissionId": 1378378098,
+      "Step": 10,
+      "AdvmapId": 3469249642,
+      "Gentype": 3066015919,
+      "Pointindex": 703,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 655427427
+    },
+    {
+      "GodMissionStepId": 4030436579,
+      "Uniqid": 4030436579,
+      "GodmissionId": 118499188,
+      "Step": 10,
+      "AdvmapId": 1472323024,
+      "Gentype": 3066015919,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3732900828
+    },
+    {
+      "GodMissionStepId": 3675703072,
+      "Uniqid": 3675703072,
+      "GodmissionId": 3911075416,
+      "Step": 20,
+      "AdvmapId": 3469249642,
+      "Gentype": 3444478594,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4035552090
+    },
+    {
+      "GodMissionStepId": 1991239245,
+      "Uniqid": 1991239245,
+      "GodmissionId": 1880561634,
+      "Step": 10,
+      "AdvmapId": 3469249642,
+      "Gentype": 3444478594,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3372523423
+    },
+    {
+      "GodMissionStepId": 1568847246,
+      "Uniqid": 1568847246,
+      "GodmissionId": 1880561634,
+      "Step": 20,
+      "AdvmapId": 3469249642,
+      "Gentype": 3264635399,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 3187912457
+    },
+    {
+      "GodMissionStepId": 713393432,
+      "Uniqid": 713393432,
+      "GodmissionId": 1880561634,
+      "Step": 20,
+      "AdvmapId": 3469249642,
+      "Gentype": 1980983683,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 3187912457
+    },
+    {
+      "GodMissionStepId": 1150911695,
+      "Uniqid": 1150911695,
+      "GodmissionId": 1880561634,
+      "Step": 30,
+      "AdvmapId": 3469249642,
+      "Gentype": 1980983683,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 655031987
+    },
+    {
+      "GodMissionStepId": 866038873,
+      "Uniqid": 866038873,
+      "GodmissionId": 1880561634,
+      "Step": 30,
+      "AdvmapId": 3469249642,
+      "Gentype": 3264635399,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 655031987
+    },
+    {
+      "GodMissionStepId": 3186832872,
+      "Uniqid": 3186832872,
+      "GodmissionId": 118499188,
+      "Step": 10,
+      "AdvmapId": 3469249642,
+      "Gentype": 3066015919,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        1,
+        0
+      ],
+      "Summary": 3732900828
+    },
+    {
+      "GodMissionStepId": 4279982906,
+      "Uniqid": 4279982906,
+      "GodmissionId": 2640042902,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 600,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1115503731
+    },
+    {
+      "GodMissionStepId": 1386379863,
+      "Uniqid": 1386379863,
+      "GodmissionId": 72518188,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2079326390
+    },
+    {
+      "GodMissionStepId": 2039425428,
+      "Uniqid": 2039425428,
+      "GodmissionId": 72518188,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 601,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 217526304
+    },
+    {
+      "GodMissionStepId": 2583603698,
+      "Uniqid": 2583603698,
+      "GodmissionId": 1934998202,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 602,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1821054197
+    },
+    {
+      "GodMissionStepId": 3000236593,
+      "Uniqid": 3000236593,
+      "GodmissionId": 1934998202,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 602,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 462169187
+    },
+    {
+      "GodMissionStepId": 1727610171,
+      "Uniqid": 1727610171,
+      "GodmissionId": 466594104,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1042028968
+    },
+    {
+      "GodMissionStepId": 3409976406,
+      "Uniqid": 3409976406,
+      "GodmissionId": 2194077826,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 126952813
+    },
+    {
+      "GodMissionStepId": 3765260181,
+      "Uniqid": 3765260181,
+      "GodmissionId": 2194077826,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 700,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 1888884219
+    },
+    {
+      "GodMissionStepId": 1888243,
+      "Uniqid": 1888243,
+      "GodmissionId": 4123117588,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 1980983683,
+      "Pointindex": 701,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 283783470
+    },
+    {
+      "GodMissionStepId": 488243019,
+      "Uniqid": 488243019,
+      "GodmissionId": 1805999543,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 1980983683,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        0,
+        2
+      ],
+      "Summary": 1955290343
+    },
+    {
+      "GodMissionStepId": 4251483949,
+      "Uniqid": 4251483949,
+      "GodmissionId": 480406817,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 702,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1676691620
+    },
+    {
+      "GodMissionStepId": 3832761964,
+      "Uniqid": 3832761964,
+      "GodmissionId": 480406817,
+      "Step": 30,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 703,
+      "PartyStatus": [
+        0,
+        0,
+        1
+      ],
+      "Summary": 351762482
+    },
+    {
+      "GodMissionStepId": 2872236203,
+      "Uniqid": 2872236203,
+      "GodmissionId": 480406817,
+      "Step": 40,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 704,
+      "PartyStatus": [
+        0,
+        0,
+        2
+      ],
+      "Summary": 2382244232
+    },
+    {
+      "GodMissionStepId": 2989091306,
+      "Uniqid": 2989091306,
+      "GodmissionId": 480406817,
+      "Step": 50,
+      "AdvmapId": 2547060059,
+      "Gentype": 1980983683,
+      "Pointindex": 703,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4210628894
+    },
+    {
+      "GodMissionStepId": 2809651963,
+      "Uniqid": 2809651963,
+      "GodmissionId": 3499326109,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2735995102
+    },
+    {
+      "GodMissionStepId": 3194803130,
+      "Uniqid": 3194803130,
+      "GodmissionId": 3499326109,
+      "Step": 30,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3558131784
+    },
+    {
+      "GodMissionStepId": 3379290924,
+      "Uniqid": 3379290924,
+      "GodmissionId": 3499326109,
+      "Step": 30,
+      "AdvmapId": 2547060059,
+      "Gentype": 1980983683,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3558131784
+    },
+    {
+      "GodMissionStepId": 181322646,
+      "Uniqid": 181322646,
+      "GodmissionId": 1234840359,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2594096155
+    },
+    {
+      "GodMissionStepId": 568561749,
+      "Uniqid": 568561749,
+      "GodmissionId": 1234840359,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3986289805
+    },
+    {
+      "GodMissionStepId": 3247575091,
+      "Uniqid": 3247575091,
+      "GodmissionId": 1050483633,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2380648536
+    },
+    {
+      "GodMissionStepId": 3938403312,
+      "Uniqid": 3938403312,
+      "GodmissionId": 1050483633,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4209172686
+    },
+    {
+      "GodMissionStepId": 3700891787,
+      "Uniqid": 3700891787,
+      "GodmissionId": 2700709394,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 803,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3917790609
+    },
+    {
+      "GodMissionStepId": 4156191560,
+      "Uniqid": 4156191560,
+      "GodmissionId": 2700709394,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 804,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2659421447
+    },
+    {
+      "GodMissionStepId": 1645525580,
+      "Uniqid": 1645525580,
+      "GodmissionId": 2317406165,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 1100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3319527216
+    },
+    {
+      "GodMissionStepId": 2064616205,
+      "Uniqid": 2064616205,
+      "GodmissionId": 2317406165,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3264635399,
+      "Pointindex": 1100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3000813478
+    },
+    {
+      "GodMissionStepId": 3484261153,
+      "Uniqid": 3484261153,
+      "GodmissionId": 321494639,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 1102,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4233546741
+    },
+    {
+      "GodMissionStepId": 3833645282,
+      "Uniqid": 3833645282,
+      "GodmissionId": 321494639,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 1101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4233546741
+    },
+    {
+      "GodMissionStepId": 82921604,
+      "Uniqid": 82921604,
+      "GodmissionId": 1680781049,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 1102,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3945652150
+    },
+    {
+      "GodMissionStepId": 802954055,
+      "Uniqid": 802954055,
+      "GodmissionId": 1680781049,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 1103,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2620059424
+    },
+    {
+      "GodMissionStepId": 4227259469,
+      "Uniqid": 4227259469,
+      "GodmissionId": 213171579,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 1203,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3116028651
+    },
+    {
+      "GodMissionStepId": 3807243532,
+      "Uniqid": 3807243532,
+      "GodmissionId": 213171579,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3264635399,
+      "Pointindex": 1200,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3468550781
+    },
+    {
+      "GodMissionStepId": 2913762251,
+      "Uniqid": 2913762251,
+      "GodmissionId": 213171579,
+      "Step": 40,
+      "AdvmapId": 1850532117,
+      "Gentype": 3264635399,
+      "Pointindex": 1202,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1471460295
+    },
+    {
+      "GodMissionStepId": 3031911050,
+      "Uniqid": 3031911050,
+      "GodmissionId": 213171579,
+      "Step": 50,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 1203,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3116028651
+    },
+    {
+      "GodMissionStepId": 2677676361,
+      "Uniqid": 2677676361,
+      "GodmissionId": 213171579,
+      "Step": 60,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 1203,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 548635473
+    },
+    {
+      "GodMissionStepId": 2256611336,
+      "Uniqid": 2256611336,
+      "GodmissionId": 213171579,
+      "Step": 70,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 1203,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3116028651
+    },
+    {
+      "GodMissionStepId": 1448082720,
+      "Uniqid": 1448082720,
+      "GodmissionId": 2512252097,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 1980983683,
+      "Pointindex": 1204,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2151149102
+    },
+    {
+      "GodMissionStepId": 980943757,
+      "Uniqid": 980943757,
+      "GodmissionId": 3353898718,
+      "Step": 20,
+      "AdvmapId": 1850532117,
+      "Gentype": 3264635399,
+      "Pointindex": 1300,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 615855005
+    },
+    {
+      "GodMissionStepId": 593703628,
+      "Uniqid": 593703628,
+      "GodmissionId": 3353898718,
+      "Step": 30,
+      "AdvmapId": 1850532117,
+      "Gentype": 3264635399,
+      "Pointindex": 1301,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 615855005
+    },
+    {
+      "GodMissionStepId": 2546016992,
+      "Uniqid": 2546016992,
+      "GodmissionId": 1591820132,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 1300,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 490213208
+    },
+    {
+      "GodMissionStepId": 1553854789,
+      "Uniqid": 1553854789,
+      "GodmissionId": 702943218,
+      "Step": 10,
+      "AdvmapId": 1850532117,
+      "Gentype": 3066015919,
+      "Pointindex": 1301,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 172170011
+    },
+    {
+      "GodMissionStepId": 2008064646,
+      "Uniqid": 2008064646,
+      "GodmissionId": 702943218,
+      "Step": 20,
+      "AdvmapId": 384505694,
+      "Gentype": 1980983683,
+      "Pointindex": 100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 172170011
+    },
+    {
+      "GodMissionStepId": 1856738247,
+      "Uniqid": 1856738247,
+      "GodmissionId": 702943218,
+      "Step": 30,
+      "AdvmapId": 384505694,
+      "Gentype": 1980983683,
+      "Pointindex": 100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2101619597
+    },
+    {
+      "GodMissionStepId": 568984832,
+      "Uniqid": 568984832,
+      "GodmissionId": 702943218,
+      "Step": 40,
+      "AdvmapId": 384505694,
+      "Gentype": 1980983683,
+      "Pointindex": 101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3830282807
+    },
+    {
+      "GodMissionStepId": 2570661847,
+      "Uniqid": 2570661847,
+      "GodmissionId": 3432010174,
+      "Step": 10,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 987035680
+    },
+    {
+      "GodMissionStepId": 2987686932,
+      "Uniqid": 2987686932,
+      "GodmissionId": 3432010174,
+      "Step": 20,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 1305725110
+    },
+    {
+      "GodMissionStepId": 2869906773,
+      "Uniqid": 2869906773,
+      "GodmissionId": 3432010174,
+      "Step": 30,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 987035680
+    },
+    {
+      "GodMissionStepId": 3830373266,
+      "Uniqid": 3830373266,
+      "GodmissionId": 3432010174,
+      "Step": 40,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 801,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 3571095820
+    },
+    {
+      "GodMissionStepId": 4250266323,
+      "Uniqid": 4250266323,
+      "GodmissionId": 3432010174,
+      "Step": 50,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 987035680
+    },
+    {
+      "GodMissionStepId": 1382415474,
+      "Uniqid": 1382415474,
+      "GodmissionId": 3147260200,
+      "Step": 10,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 803,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 766504035
+    },
+    {
+      "GodMissionStepId": 2034806705,
+      "Uniqid": 2034806705,
+      "GodmissionId": 3147260200,
+      "Step": 20,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 802,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 1521016053
+    },
+    {
+      "GodMissionStepId": 1331743946,
+      "Uniqid": 1331743946,
+      "GodmissionId": 636744843,
+      "Step": 10,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 804,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 1238270378
+    },
+    {
+      "GodMissionStepId": 1682808585,
+      "Uniqid": 1682808585,
+      "GodmissionId": 636744843,
+      "Step": 20,
+      "AdvmapId": 1252699964,
+      "Gentype": 3066015919,
+      "Pointindex": 100,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 1238270378
+    },
+    {
+      "GodMissionStepId": 2102832712,
+      "Uniqid": 2102832712,
+      "GodmissionId": 636744843,
+      "Step": 30,
+      "AdvmapId": 1252699964,
+      "Gentype": 3264635399,
+      "Pointindex": 101,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 1053405500
+    },
+    {
+      "GodMissionStepId": 173121246,
+      "Uniqid": 173121246,
+      "GodmissionId": 636744843,
+      "Step": 30,
+      "AdvmapId": 1252699964,
+      "Gentype": 1980983683,
+      "Pointindex": 100,
+      "PartyStatus": [
+        0,
+        1,
+        1
+      ],
+      "Summary": 1053405500
+    },
+    {
+      "GodMissionStepId": 2908907707,
+      "Uniqid": 2908907707,
+      "GodmissionId": 3540873898,
+      "Step": 20,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 810,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2134434110
+    },
+    {
+      "GodMissionStepId": 3027851770,
+      "Uniqid": 3027851770,
+      "GodmissionId": 3540873898,
+      "Step": 30,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 810,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 138400168
+    },
+    {
+      "GodMissionStepId": 14371286,
+      "Uniqid": 14371286,
+      "GodmissionId": 1241785104,
+      "Step": 10,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 811,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1186323963
+    },
+    {
+      "GodMissionStepId": 737548821,
+      "Uniqid": 737548821,
+      "GodmissionId": 1241785104,
+      "Step": 20,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 811,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 833809773
+    },
+    {
+      "GodMissionStepId": 1559308931,
+      "Uniqid": 1559308931,
+      "GodmissionId": 1241785104,
+      "Step": 20,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 812,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 833809773
+    },
+    {
+      "GodMissionStepId": 3414661747,
+      "Uniqid": 3414661747,
+      "GodmissionId": 1023611782,
+      "Step": 10,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 813,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 833809773
+    },
+    {
+      "GodMissionStepId": 3162548965,
+      "Uniqid": 3162548965,
+      "GodmissionId": 1023611782,
+      "Step": 10,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 814,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 833809773
+    },
+    {
+      "GodMissionStepId": 3769289136,
+      "Uniqid": 3769289136,
+      "GodmissionId": 1023611782,
+      "Step": 20,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 812,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1372506552
+    },
+    {
+      "GodMissionStepId": 4189190385,
+      "Uniqid": 4189190385,
+      "GodmissionId": 1023611782,
+      "Step": 30,
+      "AdvmapId": 1478426834,
+      "Gentype": 3066015919,
+      "Pointindex": 100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1372506552
+    },
+    {
+      "GodMissionStepId": 3069210166,
+      "Uniqid": 3069210166,
+      "GodmissionId": 1023611782,
+      "Step": 40,
+      "AdvmapId": 1478426834,
+      "Gentype": 1980983683,
+      "Pointindex": 800,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 650770734
+    },
+    {
+      "GodMissionStepId": 3454340405,
+      "Uniqid": 3454340405,
+      "GodmissionId": 2924768047,
+      "Step": 0,
+      "AdvmapId": 554427470,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 992086925,
+      "Uniqid": 992086925,
+      "GodmissionId": 1656552717,
+      "Step": 10,
+      "AdvmapId": 1085983123,
+      "Gentype": 3066015919,
+      "Pointindex": 1000,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2628579936
+    },
+    {
+      "GodMissionStepId": 269441102,
+      "Uniqid": 269441102,
+      "GodmissionId": 1656552717,
+      "Step": 20,
+      "AdvmapId": 1085983123,
+      "Gentype": 3264635399,
+      "Pointindex": 1000,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3953902326
+    },
+    {
+      "GodMissionStepId": 259607777,
+      "Uniqid": 259607777,
+      "GodmissionId": 2099371545,
+      "Step": 20,
+      "AdvmapId": 3469249642,
+      "Gentype": 3066015919,
+      "Pointindex": 1100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3098049300
+    },
+    {
+      "GodMissionStepId": 375553440,
+      "Uniqid": 375553440,
+      "GodmissionId": 2099371545,
+      "Step": 30,
+      "AdvmapId": 3469249642,
+      "Gentype": 3264635399,
+      "Pointindex": 1100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3484371842
+    },
+    {
+      "GodMissionStepId": 2730519948,
+      "Uniqid": 2730519948,
+      "GodmissionId": 3827863459,
+      "Step": 10,
+      "AdvmapId": 3469249642,
+      "Gentype": 3066015919,
+      "Pointindex": 1101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3476466148
+    },
+    {
+      "GodMissionStepId": 2314026575,
+      "Uniqid": 2314026575,
+      "GodmissionId": 3827863459,
+      "Step": 20,
+      "AdvmapId": 3469249642,
+      "Gentype": 3264635399,
+      "Pointindex": 1101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3090258290
+    },
+    {
+      "GodMissionStepId": 1771879977,
+      "Uniqid": 1771879977,
+      "GodmissionId": 2469379893,
+      "Step": 10,
+      "AdvmapId": 3469249642,
+      "Gentype": 3066015919,
+      "Pointindex": 1102,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1418978699
+    },
+    {
+      "GodMissionStepId": 1118957034,
+      "Uniqid": 1118957034,
+      "GodmissionId": 2469379893,
+      "Step": 20,
+      "AdvmapId": 3469249642,
+      "Gentype": 1980983683,
+      "Pointindex": 1100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 596956445
+    },
+    {
+      "GodMissionStepId": 3942256443,
+      "Uniqid": 3942256443,
+      "GodmissionId": 3258486898,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 2001,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1151036762
+    },
+    {
+      "GodMissionStepId": 1195585110,
+      "Uniqid": 1195585110,
+      "GodmissionId": 1529987528,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 2002,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 856014762
+    },
+    {
+      "GodMissionStepId": 1819180437,
+      "Uniqid": 1819180437,
+      "GodmissionId": 1529987528,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2000,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1141018428
+    },
+    {
+      "GodMissionStepId": 1970621652,
+      "Uniqid": 1970621652,
+      "GodmissionId": 1529987528,
+      "Step": 30,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 2003,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 856014762
+    },
+    {
+      "GodMissionStepId": 976542227,
+      "Uniqid": 976542227,
+      "GodmissionId": 1529987528,
+      "Step": 40,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2001,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1141018428
+    },
+    {
+      "GodMissionStepId": 590342994,
+      "Uniqid": 590342994,
+      "GodmissionId": 1529987528,
+      "Step": 50,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 2004,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 856014762
+    },
+    {
+      "GodMissionStepId": 2350906867,
+      "Uniqid": 2350906867,
+      "GodmissionId": 741798238,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 2005,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2829120453
+    },
+    {
+      "GodMissionStepId": 2805116464,
+      "Uniqid": 2805116464,
+      "GodmissionId": 741798238,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 1980983683,
+      "Pointindex": 2002,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2829120453
+    },
+    {
+      "GodMissionStepId": 3735111767,
+      "Uniqid": 3735111767,
+      "GodmissionId": 3718624102,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 2100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1621091374
+    },
+    {
+      "GodMissionStepId": 4119600020,
+      "Uniqid": 4119600020,
+      "GodmissionId": 3718624102,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1621091374
+    },
+    {
+      "GodMissionStepId": 3969329877,
+      "Uniqid": 3969329877,
+      "GodmissionId": 3718624102,
+      "Step": 30,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1621091374
+    },
+    {
+      "GodMissionStepId": 2609912387,
+      "Uniqid": 2609912387,
+      "GodmissionId": 3718624102,
+      "Step": 30,
+      "AdvmapId": 2547060059,
+      "Gentype": 1980983683,
+      "Pointindex": 2101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1621091374
+    },
+    {
+      "GodMissionStepId": 368942066,
+      "Uniqid": 368942066,
+      "GodmissionId": 2862777328,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2102,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4214925377
+    },
+    {
+      "GodMissionStepId": 1053870129,
+      "Uniqid": 1053870129,
+      "GodmissionId": 2862777328,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2103,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4214925377
+    },
+    {
+      "GodMissionStepId": 1238890663,
+      "Uniqid": 1238890663,
+      "GodmissionId": 2862777328,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 1980983683,
+      "Pointindex": 2103,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4214925377
+    },
+    {
+      "GodMissionStepId": 2996221690,
+      "Uniqid": 2996221690,
+      "GodmissionId": 2414883193,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3066015919,
+      "Pointindex": 2200,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2426928541
+    },
+    {
+      "GodMissionStepId": 523212695,
+      "Uniqid": 523212695,
+      "GodmissionId": 385441987,
+      "Step": 10,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2200,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3879284589
+    },
+    {
+      "GodMissionStepId": 872596564,
+      "Uniqid": 872596564,
+      "GodmissionId": 385441987,
+      "Step": 20,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2201,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3879284589
+    },
+    {
+      "GodMissionStepId": 756675861,
+      "Uniqid": 756675861,
+      "GodmissionId": 385441987,
+      "Step": 30,
+      "AdvmapId": 2547060059,
+      "Gentype": 3264635399,
+      "Pointindex": 2202,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3879284589
+    },
+    {
+      "GodMissionStepId": 1649959890,
+      "Uniqid": 1649959890,
+      "GodmissionId": 385441987,
+      "Step": 40,
+      "AdvmapId": 2547060059,
+      "Gentype": 1980983683,
+      "Pointindex": 2203,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2090623746
+    },
+    {
+      "GodMissionStepId": 2012606029,
+      "Uniqid": 2012606029,
+      "GodmissionId": 3577971761,
+      "Step": 20,
+      "AdvmapId": 2985635524,
+      "Gentype": 3066015919,
+      "Pointindex": 1000,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 570185244
+    },
+    {
+      "GodMissionStepId": 1861148428,
+      "Uniqid": 1861148428,
+      "GodmissionId": 3577971761,
+      "Step": 30,
+      "AdvmapId": 2985635524,
+      "Gentype": 3264635399,
+      "Pointindex": 1000,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1459316362
+    },
+    {
+      "GodMissionStepId": 3662466848,
+      "Uniqid": 3662466848,
+      "GodmissionId": 1279972747,
+      "Step": 10,
+      "AdvmapId": 2985635524,
+      "Gentype": 3066015919,
+      "Pointindex": 1001,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1449297132
+    },
+    {
+      "GodMissionStepId": 4049706211,
+      "Uniqid": 4049706211,
+      "GodmissionId": 1279972747,
+      "Step": 20,
+      "AdvmapId": 2985635524,
+      "Gentype": 3264635399,
+      "Pointindex": 1001,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 560313466
+    },
+    {
+      "GodMissionStepId": 286268549,
+      "Uniqid": 286268549,
+      "GodmissionId": 994960669,
+      "Step": 10,
+      "AdvmapId": 2985635524,
+      "Gentype": 3066015919,
+      "Pointindex": 1002,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3452422275
+    },
+    {
+      "GodMissionStepId": 977096518,
+      "Uniqid": 977096518,
+      "GodmissionId": 994960669,
+      "Step": 20,
+      "AdvmapId": 1507007979,
+      "Gentype": 3066015919,
+      "Pointindex": 0,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3452422275
+    },
+    {
+      "GodMissionStepId": 589725191,
+      "Uniqid": 589725191,
+      "GodmissionId": 994960669,
+      "Step": 30,
+      "AdvmapId": 1507007979,
+      "Gentype": 3264635399,
+      "Pointindex": 100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3133208597
+    },
+    {
+      "GodMissionStepId": 1818749120,
+      "Uniqid": 1818749120,
+      "GodmissionId": 994960669,
+      "Step": 40,
+      "AdvmapId": 1507007979,
+      "Gentype": 3264635399,
+      "Pointindex": 101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3133208597
+    },
+    {
+      "GodMissionStepId": 1971116417,
+      "Uniqid": 1971116417,
+      "GodmissionId": 994960669,
+      "Step": 50,
+      "AdvmapId": 1507007979,
+      "Gentype": 1980983683,
+      "Pointindex": 103,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3133208597
+    },
+    {
+      "GodMissionStepId": 1582402114,
+      "Uniqid": 1582402114,
+      "GodmissionId": 994960669,
+      "Step": 60,
+      "AdvmapId": 1507007979,
+      "Gentype": 3066015919,
+      "Pointindex": 1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 600418735
+    },
+    {
+      "GodMissionStepId": 3994519628,
+      "Uniqid": 3994519628,
+      "GodmissionId": 1406662303,
+      "Step": 20,
+      "AdvmapId": 1214167171,
+      "Gentype": 3066015919,
+      "Pointindex": 1000,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1919290776
+    },
+    {
+      "GodMissionStepId": 4144806157,
+      "Uniqid": 4144806157,
+      "GodmissionId": 1406662303,
+      "Step": 30,
+      "AdvmapId": 1214167171,
+      "Gentype": 3264635399,
+      "Pointindex": 1000,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 90258702
+    },
+    {
+      "GodMissionStepId": 1135520033,
+      "Uniqid": 1135520033,
+      "GodmissionId": 3403589413,
+      "Step": 10,
+      "AdvmapId": 1214167171,
+      "Gentype": 3066015919,
+      "Pointindex": 1001,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 100196200
+    },
+    {
+      "GodMissionStepId": 1753479906,
+      "Uniqid": 1753479906,
+      "GodmissionId": 3403589413,
+      "Step": 20,
+      "AdvmapId": 1995467687,
+      "Gentype": 3066015919,
+      "Pointindex": 0,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1929375742
+    },
+    {
+      "GodMissionStepId": 1905839011,
+      "Uniqid": 1905839011,
+      "GodmissionId": 3403589413,
+      "Step": 30,
+      "AdvmapId": 1995467687,
+      "Gentype": 3264635399,
+      "Pointindex": 1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 3958816324
+    },
+    {
+      "GodMissionStepId": 1054432612,
+      "Uniqid": 1054432612,
+      "GodmissionId": 3403589413,
+      "Step": 40,
+      "AdvmapId": 1995467687,
+      "Gentype": 3066015919,
+      "Pointindex": 1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1929375742
+    },
+    {
+      "GodMissionStepId": 667053093,
+      "Uniqid": 667053093,
+      "GodmissionId": 3403589413,
+      "Step": 50,
+      "AdvmapId": 1995467687,
+      "Gentype": 1980983683,
+      "Pointindex": 2,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2633076434
+    },
+    {
+      "GodMissionStepId": 798578572,
+      "Uniqid": 798578572,
+      "GodmissionId": 2559255866,
+      "Step": 20,
+      "AdvmapId": 1214167171,
+      "Gentype": 3066015919,
+      "Pointindex": 1100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4123051739
+    },
+    {
+      "GodMissionStepId": 914515661,
+      "Uniqid": 914515661,
+      "GodmissionId": 2559255866,
+      "Step": 30,
+      "AdvmapId": 1214167171,
+      "Gentype": 3264635399,
+      "Pointindex": 1100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2194142797
+    },
+    {
+      "GodMissionStepId": 2042884106,
+      "Uniqid": 2042884106,
+      "GodmissionId": 2559255866,
+      "Step": 40,
+      "AdvmapId": 1214167171,
+      "Gentype": 3264635399,
+      "Pointindex": 1101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2194142797
+    },
+    {
+      "GodMissionStepId": 2183165665,
+      "Uniqid": 2183165665,
+      "GodmissionId": 25326720,
+      "Step": 10,
+      "AdvmapId": 1214167171,
+      "Gentype": 3066015919,
+      "Pointindex": 1101,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2187203627
+    },
+    {
+      "GodMissionStepId": 2836210978,
+      "Uniqid": 2836210978,
+      "GodmissionId": 25326720,
+      "Step": 20,
+      "AdvmapId": 3461090498,
+      "Gentype": 3066015919,
+      "Pointindex": 0,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2187203627
+    },
+    {
+      "GodMissionStepId": 2954237027,
+      "Uniqid": 2954237027,
+      "GodmissionId": 25326720,
+      "Step": 30,
+      "AdvmapId": 3461090498,
+      "Gentype": 3264635399,
+      "Pointindex": 100,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4116260029
+    },
+    {
+      "GodMissionStepId": 4283925156,
+      "Uniqid": 4283925156,
+      "GodmissionId": 25326720,
+      "Step": 30,
+      "AdvmapId": 3461090498,
+      "Gentype": 3264635399,
+      "Pointindex": 0,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4116260029
+    },
+    {
+      "GodMissionStepId": 3863786469,
+      "Uniqid": 3863786469,
+      "GodmissionId": 25326720,
+      "Step": 40,
+      "AdvmapId": 3461090498,
+      "Gentype": 3066015919,
+      "Pointindex": 1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 2187203627
+    },
+    {
+      "GodMissionStepId": 3445743654,
+      "Uniqid": 3445743654,
+      "GodmissionId": 25326720,
+      "Step": 50,
+      "AdvmapId": 3461090498,
+      "Gentype": 1980983683,
+      "Pointindex": 0,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 1817212167
+    },
+    {
+      "GodMissionStepId": 1497866595,
+      "Uniqid": 1497866595,
+      "GodmissionId": 2924768047,
+      "Step": 0,
+      "AdvmapId": 554427470,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 775983605,
+      "Uniqid": 775983605,
+      "GodmissionId": 2924768047,
+      "Step": 0,
+      "AdvmapId": 554427470,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 3075063887,
+      "Uniqid": 3075063887,
+      "GodmissionId": 2924768047,
+      "Step": 0,
+      "AdvmapId": 554427470,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    },
+    {
+      "GodMissionStepId": 3226398937,
+      "Uniqid": 3226398937,
+      "GodmissionId": 2924768047,
+      "Step": 0,
+      "AdvmapId": 554427470,
+      "Gentype": 1964731404,
+      "Pointindex": -1,
+      "PartyStatus": [
+        0,
+        0,
+        0
+      ],
+      "Summary": 4260187921
+    }
+  ],
+  "IdRef": {}
+}
