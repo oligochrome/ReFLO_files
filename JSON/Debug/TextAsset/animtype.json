@@ -1,0 +1,65 @@
+{
+  "TableAnimtype": [
+    {
+      "AnimtypeInd": 4055178757,
+      "AnimationControllerId": 3915324072
+    },
+    {
+      "AnimtypeInd": 1613721453,
+      "AnimationControllerId": 3915324072
+    },
+    {
+      "AnimtypeInd": 2271655543,
+      "AnimationControllerId": 3915324072
+    },
+    {
+      "AnimtypeInd": 535688006,
+      "AnimationControllerId": 3915324072
+    },
+    {
+      "AnimtypeInd": 963950446,
+      "AnimationControllerId": 3915324072
+    },
+    {
+      "AnimtypeInd": 2125905466,
+      "AnimationControllerId": 3915324072
+    },
+    {
+      "AnimtypeInd": 3282657749,
+      "AnimationControllerId": 3915324072
+    },
+    {
+      "AnimtypeInd": 1124695798,
+      "AnimationControllerId": 2769432608
+    },
+    {
+      "AnimtypeInd": 684263517,
+      "AnimationControllerId": 2687541216
+    },
+    {
+      "AnimtypeInd": 2915811666,
+      "AnimationControllerId": 2785044110
+    },
+    {
+      "AnimtypeInd": 3755775915,
+      "AnimationControllerId": 3207947625
+    },
+    {
+      "AnimtypeInd": 3988842619,
+      "AnimationControllerId": 3207947625
+    },
+    {
+      "AnimtypeInd": 3152617914,
+      "AnimationControllerId": 3233528369
+    },
+    {
+      "AnimtypeInd": 2589427782,
+      "AnimationControllerId": 652653925
+    },
+    {
+      "AnimtypeInd": 1598315941,
+      "AnimationControllerId": 605472302
+    }
+  ],
+  "IdRef": {}
+}

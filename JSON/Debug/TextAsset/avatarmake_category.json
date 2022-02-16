@@ -1,0 +1,291 @@
+{
+  "TableAvatarmakeCategory": [
+    {
+      "AvatarmakeCategoryInd": 2495842715,
+      "Index": -1,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_NONE",
+      "UniqId": 2495842715,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 4260187921,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 2988245522,
+      "Index": 0,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_SEX",
+      "UniqId": 2988245522,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 1505939698,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 2754201899,
+      "Index": 1,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_BODYFORM",
+      "UniqId": 2754201899,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 2945097755,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 3360290487,
+      "Index": 2,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_FACEFORM",
+      "UniqId": 3360290487,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 167619503,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 2007296077,
+      "Index": 3,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_HAIR",
+      "UniqId": 2007296077,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 2527127397,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 3788651539,
+      "Index": 4,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_FACEPARTS",
+      "UniqId": 3788651539,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 819457233,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 836087365,
+      "Index": 5,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_COLOR",
+      "UniqId": 836087365,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 20969036,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 2960703127,
+      "Index": 6,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_VOICE",
+      "UniqId": 2960703127,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 2806578680,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 3044079442,
+      "Index": 7,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_NAME",
+      "UniqId": 3044079442,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 1810038118,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 4070487978,
+      "Index": 8,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_LIFE",
+      "UniqId": 4070487978,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 2923807720,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 1793213445,
+      "Index": 9,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_CONFIRM",
+      "UniqId": 1793213445,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 137545820,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2495842715,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 801631316,
+      "Index": 1000,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_EYE",
+      "UniqId": 801631316,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 1659880310,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 3788651539,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 541672969,
+      "Index": 1001,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_BROW",
+      "UniqId": 541672969,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 1393023467,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 3788651539,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 1806689671,
+      "Index": 1002,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_NOSE",
+      "UniqId": 1806689671,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 3298347202,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 3788651539,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 772796874,
+      "Index": 1003,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_EAR",
+      "UniqId": 772796874,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 2773461250,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 3788651539,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 3376855611,
+      "Index": 1004,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_MOUTH",
+      "UniqId": 3376855611,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 4117811807,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 3788651539,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 2396771212,
+      "Index": 1005,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_OTHER",
+      "UniqId": 2396771212,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 54043318,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 3788651539,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 3388016085,
+      "Index": 2000,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_SKIN_COLOR",
+      "UniqId": 3388016085,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 1510664187,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 836087365,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 602866670,
+      "Index": 2001,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_HAIR_COLOR",
+      "UniqId": 602866670,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 4236110927,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 836087365,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 3112882584,
+      "Index": 2002,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_EYE_COLOR",
+      "UniqId": 3112882584,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 3449157330,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 836087365,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 1471165414,
+      "Index": 300000,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_EYE_ADJUST",
+      "UniqId": 1471165414,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 970642113,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 801631316,
+      "AdjustCount": 3
+    },
+    {
+      "AvatarmakeCategoryInd": 920054717,
+      "Index": 400000,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_EAR_ADJUST",
+      "UniqId": 920054717,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 3565543448,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 772796874,
+      "AdjustCount": 0
+    },
+    {
+      "AvatarmakeCategoryInd": 4219508668,
+      "Index": 500000,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_BROW_ADJUST",
+      "UniqId": 4219508668,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 3482493480,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 541672969,
+      "AdjustCount": 3
+    },
+    {
+      "AvatarmakeCategoryInd": 2399888326,
+      "Index": 600000,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_MOUTH_ADJUST",
+      "UniqId": 2399888326,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 1776658844,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 3376855611,
+      "AdjustCount": 2
+    },
+    {
+      "AvatarmakeCategoryInd": 1470138384,
+      "Index": 700000,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_NOSE_ADJUST",
+      "UniqId": 1470138384,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 2678970741,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 1806689671,
+      "AdjustCount": 2
+    },
+    {
+      "AvatarmakeCategoryInd": 1786236767,
+      "Index": 800000,
+      "UniqIdStr": "AVATARMAKE_CATEGORY_OTHER_ADJUST",
+      "UniqId": 1786236767,
+      "CategoryNameTextId": 4260187921,
+      "DescriptionTextId": 1928522668,
+      "TabNameTextId": 4260187921,
+      "ParentUniqId": 2396771212,
+      "AdjustCount": 0
+    }
+  ],
+  "IdRef": {}
+}

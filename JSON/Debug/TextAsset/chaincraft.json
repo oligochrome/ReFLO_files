@@ -1,0 +1,26 @@
+{
+  "TableChaincraft": [
+    {
+      "ChaincraftInd": 2575465341,
+      "UniqId": 2575465341,
+      "StarquestId": 171232723,
+      "AdvquestId": 276280323,
+      "TextIds": [
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "RecipeIds": [
+        1279911932,
+        1279911932,
+        1279911932
+      ],
+      "MemberNums": [
+        4,
+        4,
+        4
+      ]
+    }
+  ],
+  "IdRef": {}
+}

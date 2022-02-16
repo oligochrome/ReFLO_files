@@ -1,0 +1,29 @@
+{
+  "TableBattleSpecializedType": [
+    {
+      "BattleSpecializedTypeInd": 4187862895,
+      "UnqId": 4187862895,
+      "TextId": 2010316384,
+      "IconName": "none"
+    },
+    {
+      "BattleSpecializedTypeInd": 1620371157,
+      "UnqId": 1620371157,
+      "TextId": 4007374810,
+      "IconName": "none"
+    },
+    {
+      "BattleSpecializedTypeInd": 395564611,
+      "UnqId": 395564611,
+      "TextId": 2581372748,
+      "IconName": "none"
+    },
+    {
+      "BattleSpecializedTypeInd": 3406081776,
+      "UnqId": 3406081776,
+      "TextId": 2106865584,
+      "IconName": "none"
+    }
+  ],
+  "IdRef": {}
+}

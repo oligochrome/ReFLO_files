@@ -1,0 +1,26 @@
+{
+  "TableChainbattle": [
+    {
+      "ChainbattleInd": 3727792340,
+      "UniqId": 3727792340,
+      "StarquestId": 171232723,
+      "AdvquestId": 276280323,
+      "TextIds": [
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "ObjIds": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "MemberNums": [
+        4,
+        4,
+        4
+      ]
+    }
+  ],
+  "IdRef": {}
+}

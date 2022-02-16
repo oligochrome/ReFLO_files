@@ -1,0 +1,25 @@
+{
+  "TableConditionType": [
+    {
+      "ConditionTypeInd": 3678609668,
+      "ConditionTypeID": 3678609668
+    },
+    {
+      "ConditionTypeInd": 4183370360,
+      "ConditionTypeID": 4183370360
+    },
+    {
+      "ConditionTypeInd": 1505194789,
+      "ConditionTypeID": 1505194789
+    },
+    {
+      "ConditionTypeInd": 3893359099,
+      "ConditionTypeID": 3893359099
+    },
+    {
+      "ConditionTypeInd": 763612432,
+      "ConditionTypeID": 763612432
+    }
+  ],
+  "IdRef": {}
+}

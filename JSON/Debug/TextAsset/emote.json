@@ -1,0 +1,197 @@
+{
+  "TableEmote": [
+    {
+      "EmoteInd": 1390295351,
+      "Emoteid": 1390295351,
+      "Textid": 4250079850,
+      "Actionid": 972364292,
+      "Emotetype": 1,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 3419891853,
+      "Emoteid": 3419891853,
+      "Textid": 1683637200,
+      "Actionid": 2700889022,
+      "Emotetype": 2,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 3167770651,
+      "Emoteid": 3167770651,
+      "Textid": 324891462,
+      "Actionid": 3623582504,
+      "Emotetype": 3,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 582274488,
+      "Emoteid": 582274488,
+      "Textid": 2369382117,
+      "Actionid": 925798966,
+      "Emotetype": 4,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 1437859118,
+      "Emoteid": 1437859118,
+      "Textid": 4198422131,
+      "Actionid": 552479557,
+      "Emotetype": 5,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 3434785940,
+      "Emoteid": 3434785940,
+      "Textid": 1664583625,
+      "Actionid": 3381497456,
+      "Emotetype": 6,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 3149765634,
+      "Emoteid": 3149765634,
+      "Textid": 338736991,
+      "Actionid": 2462722364,
+      "Emotetype": 7,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 721584531,
+      "Emoteid": 721584531,
+      "Textid": 3829932843,
+      "Actionid": 1474894803,
+      "Emotetype": 11,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 1543876869,
+      "Emoteid": 1543876869,
+      "Textid": 2101441169,
+      "Actionid": 3118955263,
+      "Emotetype": 12,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 1019361504,
+      "Emoteid": 1019361504,
+      "Textid": 172376583,
+      "Actionid": 3470805609,
+      "Emotetype": 13,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 1271203958,
+      "Emoteid": 1271203958,
+      "Textid": 2485311396,
+      "Actionid": 662957916,
+      "Emotetype": 14,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 3536607692,
+      "Emoteid": 3536607692,
+      "Textid": 3810912050,
+      "Actionid": 1709144401,
+      "Emotetype": 15,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 2781571418,
+      "Emoteid": 2781571418,
+      "Textid": 2049750664,
+      "Actionid": 376636710,
+      "Emotetype": 16,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 1001389305,
+      "Emoteid": 1001389305,
+      "Textid": 2643762063,
+      "Actionid": 2767225225,
+      "Emotetype": 18,
+      "Loop": 1
+    },
+    {
+      "EmoteInd": 1286130799,
+      "Emoteid": 1286130799,
+      "Textid": 3935546137,
+      "Actionid": 775267191,
+      "Emotetype": 19,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 3584138709,
+      "Emoteid": 3584138709,
+      "Textid": 3205465191,
+      "Actionid": 364219870,
+      "Emotetype": 24,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 2728832323,
+      "Emoteid": 2728832323,
+      "Textid": 2224007886,
+      "Actionid": 1757575579,
+      "Emotetype": 8,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 840544466,
+      "Emoteid": 840544466,
+      "Textid": 4085815896,
+      "Actionid": 1050205725,
+      "Emotetype": 9,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 1159626820,
+      "Emoteid": 1159626820,
+      "Textid": 2471433149,
+      "Actionid": 2811334567,
+      "Emotetype": 10,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 401566499,
+      "Emoteid": 401566499,
+      "Textid": 220956190,
+      "Actionid": 1235218059,
+      "Emotetype": 17,
+      "Loop": 1
+    },
+    {
+      "EmoteInd": 1625840565,
+      "Emoteid": 1625840565,
+      "Textid": 3093446782,
+      "Actionid": 2093238288,
+      "Emotetype": 20,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 4192274959,
+      "Emoteid": 4192274959,
+      "Textid": 3479531752,
+      "Actionid": 197359750,
+      "Emotetype": 21,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 2397452953,
+      "Emoteid": 2397452953,
+      "Textid": 1449926994,
+      "Actionid": 3855423914,
+      "Emotetype": 22,
+      "Loop": 0
+    },
+    {
+      "EmoteInd": 276999994,
+      "Emoteid": 276999994,
+      "Textid": 560665028,
+      "Actionid": 3802193331,
+      "Emotetype": 23,
+      "Loop": 0
+    }
+  ],
+  "IdRef": {}
+}

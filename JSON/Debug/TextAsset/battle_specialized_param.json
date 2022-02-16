@@ -1,0 +1,35 @@
+{
+  "TableBattleSpecializedParam": [
+    {
+      "BattleSpecializedParamInd": 3815132302,
+      "Id": 3815132302,
+      "Rate": 0.0,
+      "TextId": 3618710850
+    },
+    {
+      "BattleSpecializedParamInd": 3217011288,
+      "Id": 3217011288,
+      "Rate": 50.0,
+      "TextId": 874085468
+    },
+    {
+      "BattleSpecializedParamInd": 3255840085,
+      "Id": 3255840085,
+      "Rate": 90.0,
+      "TextId": 4140254361
+    },
+    {
+      "BattleSpecializedParamInd": 2584321953,
+      "Id": 2584321953,
+      "Rate": -50.0,
+      "TextId": 875286329
+    },
+    {
+      "BattleSpecializedParamInd": 106222016,
+      "Id": 106222016,
+      "Rate": -90.0,
+      "TextId": 3219448233
+    }
+  ],
+  "IdRef": {}
+}

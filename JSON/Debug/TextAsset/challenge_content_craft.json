@@ -1,0 +1,69 @@
+{
+  "TableChallengeContentCraft": [
+    {
+      "ChallengeContentCraftInd": 3597873208,
+      "Id": 3597873208,
+      "UseLifeId": 501904881,
+      "RewardValue": 0,
+      "ItemObjId": 986327055,
+      "MiniGameCreateTime": 0,
+      "MiniGameHp": 0,
+      "FirstClearRewardObjId1": 986327055,
+      "FirstClearRewardNum1": 0,
+      "FirstClearRewardObjId2": 986327055,
+      "FirstClearRewardNum2": 0,
+      "FirstClearRewardObjId3": 986327055,
+      "FirstClearRewardNum3": 0,
+      "RewardSubmissionId": [
+        416653387,
+        416653387,
+        416653387
+      ],
+      "RewardSubmissionObjId": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "RewardSubmissionNum": [
+        0,
+        0,
+        0
+      ],
+      "RewardSubComp": 986327055,
+      "RewardSubCompNum": 0
+    },
+    {
+      "ChallengeContentCraftInd": 3192624887,
+      "Id": 3192624887,
+      "UseLifeId": 3929318351,
+      "RewardValue": 100,
+      "ItemObjId": 986327055,
+      "MiniGameCreateTime": 100,
+      "MiniGameHp": 100,
+      "FirstClearRewardObjId1": 741211534,
+      "FirstClearRewardNum1": 1,
+      "FirstClearRewardObjId2": 3790595416,
+      "FirstClearRewardNum2": 1,
+      "FirstClearRewardObjId3": 2010282213,
+      "FirstClearRewardNum3": 1,
+      "RewardSubmissionId": [
+        3377784123,
+        416653387,
+        416653387
+      ],
+      "RewardSubmissionObjId": [
+        986327055,
+        986327055,
+        986327055
+      ],
+      "RewardSubmissionNum": [
+        0,
+        0,
+        0
+      ],
+      "RewardSubComp": 986327055,
+      "RewardSubCompNum": 0
+    }
+  ],
+  "IdRef": {}
+}

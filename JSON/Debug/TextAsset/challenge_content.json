@@ -1,0 +1,41 @@
+{
+  "TableChallengeContent": [
+    {
+      "ChallengeContentInd": 13005030,
+      "Id": 13005030,
+      "Number": 1,
+      "ChallengeContentTypeId": 3884057053,
+      "LifeId": 501904881,
+      "AdvQuestDataId": 4092091581,
+      "ChallengeContentCraftId": 3597873208,
+      "OpenDate": 1606752000,
+      "FirstStartTheaterId": 3597393834,
+      "FirstClearTheaterId": 1331858960
+    },
+    {
+      "ChallengeContentInd": 2580488540,
+      "Id": 2580488540,
+      "Number": 2,
+      "ChallengeContentTypeId": 3884057053,
+      "LifeId": 501904881,
+      "AdvQuestDataId": 3395641464,
+      "ChallengeContentCraftId": 3597873208,
+      "OpenDate": 1612108800,
+      "FirstStartTheaterId": 1491392585,
+      "FirstClearTheaterId": 3443712117
+    },
+    {
+      "ChallengeContentInd": 904911308,
+      "Id": 904911308,
+      "Number": 0,
+      "ChallengeContentTypeId": 4196143380,
+      "LifeId": 501904881,
+      "AdvQuestDataId": 276280323,
+      "ChallengeContentCraftId": 3597873208,
+      "OpenDate": 1420041600,
+      "FirstStartTheaterId": 3443712117,
+      "FirstClearTheaterId": 3443712117
+    }
+  ],
+  "IdRef": {}
+}
