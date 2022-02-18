@@ -1,0 +1,32 @@
+{
+  "TableTheaterTarget": [
+    {
+      "TheaterTargetInd": 2583914020,
+      "UniqId": 2583914020,
+      "TargetObjId": 986327055,
+      "NodeId": "root",
+      "OffsetX": 0.0,
+      "OffsetY": 0.0,
+      "OffsetZ": 0.0
+    },
+    {
+      "TheaterTargetInd": 2074300020,
+      "UniqId": 2074300020,
+      "TargetObjId": 200512055,
+      "NodeId": "neck",
+      "OffsetX": 0.55,
+      "OffsetY": -1.0,
+      "OffsetZ": 3.7
+    },
+    {
+      "TheaterTargetInd": 3721676224,
+      "UniqId": 3721676224,
+      "TargetObjId": 2911148419,
+      "NodeId": "neck",
+      "OffsetX": 0.55,
+      "OffsetY": -1.0,
+      "OffsetZ": 3.7
+    }
+  ],
+  "IdRef": {}
+}

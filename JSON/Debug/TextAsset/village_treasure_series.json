@@ -1,0 +1,53 @@
+{
+  "TableVillageTreasureSeries": [
+    {
+      "VillageTreasureSeriesInd": 1506287225,
+      "Uniqid": 1506287225,
+      "TreasureCategoryId": 1,
+      "RareFlag": 0,
+      "SealedFlag": 0,
+      "EmissionRate": 0.98,
+      "TreasureSeriesName": "å®ç®±",
+      "CostItemId": 986327055,
+      "CostItemNum": 0,
+      "SubstituteGemNum": 0
+    },
+    {
+      "VillageTreasureSeriesInd": 2021468326,
+      "Uniqid": 2021468326,
+      "TreasureCategoryId": 1,
+      "RareFlag": 0,
+      "SealedFlag": 1,
+      "EmissionRate": 0.9,
+      "TreasureSeriesName": "å°å°ãããå®ç®±",
+      "CostItemId": 41414899,
+      "CostItemNum": 1,
+      "SubstituteGemNum": 5
+    },
+    {
+      "VillageTreasureSeriesInd": 1688745929,
+      "Uniqid": 1688745929,
+      "TreasureCategoryId": 1,
+      "RareFlag": 1,
+      "SealedFlag": 0,
+      "EmissionRate": 0.02,
+      "TreasureSeriesName": "è±ªè¯ãªå®ç®±",
+      "CostItemId": 986327055,
+      "CostItemNum": 0,
+      "SubstituteGemNum": 0
+    },
+    {
+      "VillageTreasureSeriesInd": 3306119661,
+      "Uniqid": 3306119661,
+      "TreasureCategoryId": 1,
+      "RareFlag": 1,
+      "SealedFlag": 1,
+      "EmissionRate": 0.1,
+      "TreasureSeriesName": "å°å°ãããè±ªè¯ãªå®ç®±",
+      "CostItemId": 866118254,
+      "CostItemNum": 1,
+      "SubstituteGemNum": 10
+    }
+  ],
+  "IdRef": {}
+}

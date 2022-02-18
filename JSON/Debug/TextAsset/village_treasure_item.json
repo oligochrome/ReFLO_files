@@ -1,0 +1,26 @@
+{
+  "TableVillageTreasureItem": [
+    {
+      "VillageTreasureItemInd": 356284801,
+      "Uniqid": 2321563945,
+      "ItemObjId": 4243351823,
+      "GetNum": 1,
+      "ItemsName": "ã¢ã¤ãã ãã²ããï¼"
+    },
+    {
+      "VillageTreasureItemInd": 1925144971,
+      "Uniqid": 3146275764,
+      "ItemObjId": 2286372982,
+      "GetNum": 1,
+      "ItemsName": "ã¢ã¤ãã ãã²ããï¼"
+    },
+    {
+      "VillageTreasureItemInd": 3922826149,
+      "Uniqid": 503271424,
+      "ItemObjId": 3838986191,
+      "GetNum": 1,
+      "ItemsName": "ã¢ã¤ãã ãã²ããï¼"
+    }
+  ],
+  "IdRef": {}
+}

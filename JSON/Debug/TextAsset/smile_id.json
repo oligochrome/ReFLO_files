@@ -1,0 +1,101 @@
+{
+  "TableSmileId": [
+    {
+      "SmileIdInd": 3100899366,
+      "SmileId": 3100899366,
+      "Sex": 1,
+      "ResName": "gui_icon_smile_01sml_002",
+      "ResId": 0,
+      "SortNo": 101
+    },
+    {
+      "SmileIdInd": 2858833864,
+      "SmileId": 2858833864,
+      "Sex": 2,
+      "ResName": "gui_icon_smile_01sml_001",
+      "ResId": 0,
+      "SortNo": 201
+    },
+    {
+      "SmileIdInd": 2302403259,
+      "SmileId": 2302403259,
+      "Sex": 1,
+      "ResName": "gui_icon_smile_02lgh_002",
+      "ResId": 0,
+      "SortNo": 102
+    },
+    {
+      "SmileIdInd": 2609794389,
+      "SmileId": 2609794389,
+      "Sex": 2,
+      "ResName": "gui_icon_smile_02lgh_001",
+      "ResId": 0,
+      "SortNo": 202
+    },
+    {
+      "SmileIdInd": 793569551,
+      "SmileId": 793569551,
+      "Sex": 1,
+      "ResName": "gui_icon_smile_03goo_002",
+      "ResId": 0,
+      "SortNo": 103
+    },
+    {
+      "SmileIdInd": 1039746785,
+      "SmileId": 1039746785,
+      "Sex": 2,
+      "ResName": "gui_icon_smile_03goo_001",
+      "ResId": 0,
+      "SortNo": 203
+    },
+    {
+      "SmileIdInd": 3941324673,
+      "SmileId": 3941324673,
+      "Sex": 1,
+      "ResName": "gui_icon_smile_04flt_002",
+      "ResId": 0,
+      "SortNo": 104
+    },
+    {
+      "SmileIdInd": 4166940783,
+      "SmileId": 4166940783,
+      "Sex": 2,
+      "ResName": "gui_icon_smile_04flt_001",
+      "ResId": 0,
+      "SortNo": 204
+    },
+    {
+      "SmileIdInd": 1285348405,
+      "SmileId": 1285348405,
+      "Sex": 1,
+      "ResName": "gui_icon_smile_05spr_002",
+      "ResId": 0,
+      "SortNo": 105
+    },
+    {
+      "SmileIdInd": 1579774939,
+      "SmileId": 1579774939,
+      "Sex": 2,
+      "ResName": "gui_icon_smile_05spr_001",
+      "ResId": 0,
+      "SortNo": 205
+    },
+    {
+      "SmileIdInd": 2104805032,
+      "SmileId": 2104805032,
+      "Sex": 1,
+      "ResName": "gui_icon_smile_06cry_002",
+      "ResId": 0,
+      "SortNo": 106
+    },
+    {
+      "SmileIdInd": 1874946374,
+      "SmileId": 1874946374,
+      "Sex": 2,
+      "ResName": "gui_icon_smile_06cry_001",
+      "ResId": 0,
+      "SortNo": 206
+    }
+  ],
+  "IdRef": {}
+}

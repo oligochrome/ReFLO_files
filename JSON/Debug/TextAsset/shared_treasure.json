@@ -1,0 +1,29 @@
+{
+  "TableSharedTreasure": [
+    {
+      "SharedTreasureInd": 2666543798,
+      "Uniqid": 2666543798,
+      "BoxName": "ã´ãããã¬ã¸ã£ã¼",
+      "ObjId": 2197427019,
+      "Text1": 326306033,
+      "Text2": 0
+    },
+    {
+      "SharedTreasureInd": 2798200616,
+      "Uniqid": 2798200616,
+      "BoxName": "ãªã",
+      "ObjId": 986327055,
+      "Text1": 108583760,
+      "Text2": 2675018474
+    },
+    {
+      "SharedTreasureInd": 897848616,
+      "Uniqid": 897848616,
+      "BoxName": "ã´ãããã¬ã¸ã£ã¼",
+      "ObjId": 3687339526,
+      "Text1": 326306033,
+      "Text2": 0
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,40 @@
+{
+  "TableVillageTile": [
+    {
+      "VillageTileInd": 2862974590,
+      "Number": 0,
+      "ObjId": 986327055
+    },
+    {
+      "VillageTileInd": 3718428392,
+      "Number": 1,
+      "ObjId": 2689451194
+    },
+    {
+      "VillageTileInd": 1152116562,
+      "Number": 2,
+      "ObjId": 104517390
+    },
+    {
+      "VillageTileInd": 866965444,
+      "Number": 3,
+      "ObjId": 936564115
+    },
+    {
+      "VillageTileInd": 2915582567,
+      "Number": 4,
+      "ObjId": 2443566631
+    },
+    {
+      "VillageTileInd": 3671028465,
+      "Number": 5,
+      "ObjId": 1409474729
+    },
+    {
+      "VillageTileInd": 1137058635,
+      "Number": 6,
+      "ObjId": 4067814173
+    }
+  ],
+  "IdRef": {}
+}

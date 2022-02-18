@@ -1,0 +1,20 @@
+{
+  "TableTutorialQuest": [
+    {
+      "TutorialQuestInd": 385944706,
+      "UniqId": 385944706,
+      "StartAdvMap": 541018906
+    },
+    {
+      "TutorialQuestInd": 2382912824,
+      "UniqId": 2382912824,
+      "StartAdvMap": 2341507426
+    },
+    {
+      "TutorialQuestInd": 2885624937,
+      "UniqId": 2885624937,
+      "StartAdvMap": 554427470
+    }
+  ],
+  "IdRef": {}
+}

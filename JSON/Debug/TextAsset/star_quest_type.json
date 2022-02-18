@@ -1,0 +1,45 @@
+{
+  "TableStarQuestType": [
+    {
+      "StarQuestTypeInd": 35942921,
+      "Uniqid": 35942921,
+      "Title": 4260187921
+    },
+    {
+      "StarQuestTypeInd": 1702158519,
+      "Uniqid": 1702158519,
+      "Title": 4260187921
+    },
+    {
+      "StarQuestTypeInd": 4075694138,
+      "Uniqid": 4075694138,
+      "Title": 4260187921
+    },
+    {
+      "StarQuestTypeInd": 2376973902,
+      "Uniqid": 2376973902,
+      "Title": 4260187921
+    },
+    {
+      "StarQuestTypeInd": 2068292010,
+      "Uniqid": 2068292010,
+      "Title": 4260187921
+    },
+    {
+      "StarQuestTypeInd": 3657238475,
+      "Uniqid": 3657238475,
+      "Title": 4260187921
+    },
+    {
+      "StarQuestTypeInd": 2928414392,
+      "Uniqid": 2928414392,
+      "Title": 4260187921
+    },
+    {
+      "StarQuestTypeInd": 835518670,
+      "Uniqid": 835518670,
+      "Title": 4260187921
+    }
+  ],
+  "IdRef": {}
+}

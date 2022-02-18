@@ -1,0 +1,3498 @@
+{
+  "TableShopHighprice": [
+    {
+      "ShopHighpriceInd": 2695966576,
+      "Uniqid": 1222279947,
+      "Level": 1,
+      "Objid": 986327055,
+      "SortNumber": 0
+    },
+    {
+      "ShopHighpriceInd": 3228120618,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 1501198012,
+      "SortNumber": 580
+    },
+    {
+      "ShopHighpriceInd": 21706642,
+      "Uniqid": 1494947958,
+      "Level": 5,
+      "Objid": 2648996170,
+      "SortNumber": 590
+    },
+    {
+      "ShopHighpriceInd": 1954986604,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 4009623744,
+      "SortNumber": 470
+    },
+    {
+      "ShopHighpriceInd": 1292601001,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 3614653445,
+      "SortNumber": 520
+    },
+    {
+      "ShopHighpriceInd": 3236920176,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 1509702630,
+      "SortNumber": 530
+    },
+    {
+      "ShopHighpriceInd": 273587113,
+      "Uniqid": 1494947958,
+      "Level": 2,
+      "Objid": 2296915490,
+      "SortNumber": 540
+    },
+    {
+      "ShopHighpriceInd": 3646461305,
+      "Uniqid": 1494947958,
+      "Level": 4,
+      "Objid": 1145185980,
+      "SortNumber": 550
+    },
+    {
+      "ShopHighpriceInd": 2663488586,
+      "Uniqid": 1494947958,
+      "Level": 2,
+      "Objid": 107422145,
+      "SortNumber": 560
+    },
+    {
+      "ShopHighpriceInd": 1113424040,
+      "Uniqid": 1494947958,
+      "Level": 4,
+      "Objid": 3745985389,
+      "SortNumber": 570
+    },
+    {
+      "ShopHighpriceInd": 2121949092,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 2709571805,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 625954323,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 4206221674,
+      "SortNumber": 30
+    },
+    {
+      "ShopHighpriceInd": 3773329565,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 1058203620,
+      "SortNumber": 50
+    },
+    {
+      "ShopHighpriceInd": 1184856873,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 2573593680,
+      "SortNumber": 40
+    },
+    {
+      "ShopHighpriceInd": 2255358161,
+      "Uniqid": 1494947958,
+      "Level": 5,
+      "Objid": 251329913,
+      "SortNumber": 60
+    },
+    {
+      "ShopHighpriceInd": 4231951759,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 600105718,
+      "SortNumber": 340
+    },
+    {
+      "ShopHighpriceInd": 3464422356,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 3616261861,
+      "SortNumber": 350
+    },
+    {
+      "ShopHighpriceInd": 3363840612,
+      "Uniqid": 1494947958,
+      "Level": 5,
+      "Objid": 1075107788,
+      "SortNumber": 355
+    },
+    {
+      "ShopHighpriceInd": 2609316645,
+      "Uniqid": 1494947958,
+      "Level": 2,
+      "Objid": 3782606640,
+      "SortNumber": 390
+    },
+    {
+      "ShopHighpriceInd": 1406441201,
+      "Uniqid": 1494947958,
+      "Level": 4,
+      "Objid": 3091708541,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 2482112791,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 1275633262,
+      "SortNumber": 80
+    },
+    {
+      "ShopHighpriceInd": 897909411,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 3934229978,
+      "SortNumber": 90
+    },
+    {
+      "ShopHighpriceInd": 2719617930,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 2111866099,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 2144669676,
+      "Uniqid": 1494947958,
+      "Level": 2,
+      "Objid": 86504441,
+      "SortNumber": 320
+    },
+    {
+      "ShopHighpriceInd": 1220793537,
+      "Uniqid": 1494947958,
+      "Level": 4,
+      "Objid": 2739992653,
+      "SortNumber": 330
+    },
+    {
+      "ShopHighpriceInd": 376923166,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 3381523303,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 3914502440,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 4037522457,
+      "SortNumber": 210
+    },
+    {
+      "ShopHighpriceInd": 2301241556,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 1456521133,
+      "SortNumber": 240
+    },
+    {
+      "ShopHighpriceInd": 2127396865,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 1731765552,
+      "SortNumber": 250
+    },
+    {
+      "ShopHighpriceInd": 2103774407,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 2728369086,
+      "SortNumber": 260
+    },
+    {
+      "ShopHighpriceInd": 3917839670,
+      "Uniqid": 1494947958,
+      "Level": 2,
+      "Objid": 2474082595,
+      "SortNumber": 270
+    },
+    {
+      "ShopHighpriceInd": 754298790,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 889227927,
+      "SortNumber": 280
+    },
+    {
+      "ShopHighpriceInd": 2393693510,
+      "Uniqid": 1494947958,
+      "Level": 4,
+      "Objid": 1698689482,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 3029942575,
+      "Uniqid": 1494947958,
+      "Level": 5,
+      "Objid": 1007531143,
+      "SortNumber": 310
+    },
+    {
+      "ShopHighpriceInd": 1998017039,
+      "Uniqid": 1494947958,
+      "Level": 2,
+      "Objid": 233156122,
+      "SortNumber": 410
+    },
+    {
+      "ShopHighpriceInd": 600947736,
+      "Uniqid": 1494947958,
+      "Level": 4,
+      "Objid": 3359805588,
+      "SortNumber": 420
+    },
+    {
+      "ShopHighpriceInd": 642784624,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 4188703241,
+      "SortNumber": 220
+    },
+    {
+      "ShopHighpriceInd": 370663377,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 266533600,
+      "SortNumber": 230
+    },
+    {
+      "ShopHighpriceInd": 3406770089,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 351647952,
+      "SortNumber": 160
+    },
+    {
+      "ShopHighpriceInd": 4209456436,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 622699085,
+      "SortNumber": 170
+    },
+    {
+      "ShopHighpriceInd": 1061161914,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 3770326211,
+      "SortNumber": 110
+    },
+    {
+      "ShopHighpriceInd": 985770706,
+      "Uniqid": 1494947958,
+      "Level": 4,
+      "Objid": 3511846494,
+      "SortNumber": 140
+    },
+    {
+      "ShopHighpriceInd": 1859168475,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 1998949866,
+      "SortNumber": 130
+    },
+    {
+      "ShopHighpriceInd": 1575488162,
+      "Uniqid": 1494947958,
+      "Level": 2,
+      "Objid": 656078519,
+      "SortNumber": 120
+    },
+    {
+      "ShopHighpriceInd": 4266213028,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 565422557,
+      "SortNumber": 290
+    },
+    {
+      "ShopHighpriceInd": 3483444281,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 274445120,
+      "SortNumber": 70
+    },
+    {
+      "ShopHighpriceInd": 3700679311,
+      "Uniqid": 1494947958,
+      "Level": 2,
+      "Objid": 2791382682,
+      "SortNumber": 20
+    },
+    {
+      "ShopHighpriceInd": 2223673463,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 1132694262,
+      "SortNumber": 430
+    },
+    {
+      "ShopHighpriceInd": 1210093801,
+      "Uniqid": 1494947958,
+      "Level": 1,
+      "Objid": 2401864296,
+      "SortNumber": 440
+    },
+    {
+      "ShopHighpriceInd": 1276687559,
+      "Uniqid": 1494947958,
+      "Level": 3,
+      "Objid": 1443469508,
+      "SortNumber": 450
+    },
+    {
+      "ShopHighpriceInd": 4187396184,
+      "Uniqid": 1494947958,
+      "Level": 5,
+      "Objid": 1608444316,
+      "SortNumber": 460
+    },
+    {
+      "ShopHighpriceInd": 2696408780,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 4142673903,
+      "SortNumber": 620
+    },
+    {
+      "ShopHighpriceInd": 1813900882,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 977678193,
+      "SortNumber": 640
+    },
+    {
+      "ShopHighpriceInd": 3296710409,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 2432305421,
+      "SortNumber": 110
+    },
+    {
+      "ShopHighpriceInd": 1257294058,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 510988014,
+      "SortNumber": 150
+    },
+    {
+      "ShopHighpriceInd": 2223296339,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 3537833584,
+      "SortNumber": 60
+    },
+    {
+      "ShopHighpriceInd": 1098923246,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 347080695,
+      "SortNumber": 240
+    },
+    {
+      "ShopHighpriceInd": 2511233598,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3307362153,
+      "SortNumber": 706
+    },
+    {
+      "ShopHighpriceInd": 1493459616,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 159930359,
+      "SortNumber": 704
+    },
+    {
+      "ShopHighpriceInd": 1362128328,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 29120671,
+      "SortNumber": 700
+    },
+    {
+      "ShopHighpriceInd": 2644143446,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3440793601,
+      "SortNumber": 702
+    },
+    {
+      "ShopHighpriceInd": 1514183116,
+      "Uniqid": 525994835,
+      "Level": 4,
+      "Objid": 192500102,
+      "SortNumber": 500
+    },
+    {
+      "ShopHighpriceInd": 1297786320,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 409640649,
+      "SortNumber": 310
+    },
+    {
+      "ShopHighpriceInd": 2180031822,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 3569393239,
+      "SortNumber": 340
+    },
+    {
+      "ShopHighpriceInd": 2618741533,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 3394048574,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 1161216433,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 325910674,
+      "SortNumber": 30
+    },
+    {
+      "ShopHighpriceInd": 2336409096,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 3754360844,
+      "SortNumber": 120
+    },
+    {
+      "ShopHighpriceInd": 2910904806,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 4177864674,
+      "SortNumber": 160
+    },
+    {
+      "ShopHighpriceInd": 1696797227,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 900671356,
+      "SortNumber": 800
+    },
+    {
+      "ShopHighpriceInd": 3984318908,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 3139444895,
+      "SortNumber": 70
+    },
+    {
+      "ShopHighpriceInd": 582621976,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 2005540865,
+      "SortNumber": 210
+    },
+    {
+      "ShopHighpriceInd": 4135462054,
+      "Uniqid": 525994835,
+      "Level": 4,
+      "Objid": 2806508780,
+      "SortNumber": 501
+    },
+    {
+      "ShopHighpriceInd": 3404093985,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 2629671682,
+      "SortNumber": 20
+    },
+    {
+      "ShopHighpriceInd": 3223540536,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 2524484123,
+      "SortNumber": 40
+    },
+    {
+      "ShopHighpriceInd": 2161660770,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 3562902886,
+      "SortNumber": 170
+    },
+    {
+      "ShopHighpriceInd": 1216061615,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 418878968,
+      "SortNumber": 810
+    },
+    {
+      "ShopHighpriceInd": 2542552695,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 3252127572,
+      "SortNumber": 80
+    },
+    {
+      "ShopHighpriceInd": 1481489619,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 226330570,
+      "SortNumber": 220
+    },
+    {
+      "ShopHighpriceInd": 2324518177,
+      "Uniqid": 525994835,
+      "Level": 4,
+      "Objid": 3686047083,
+      "SortNumber": 502
+    },
+    {
+      "ShopHighpriceInd": 1266701775,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 500929772,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 2303714071,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3653490240,
+      "SortNumber": 830
+    },
+    {
+      "ShopHighpriceInd": 1439956981,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 14927084,
+      "SortNumber": 250
+    },
+    {
+      "ShopHighpriceInd": 2630218021,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3427386482,
+      "SortNumber": 707
+    },
+    {
+      "ShopHighpriceInd": 2498887245,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3296578330,
+      "SortNumber": 705
+    },
+    {
+      "ShopHighpriceInd": 1482424019,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 148360068,
+      "SortNumber": 701
+    },
+    {
+      "ShopHighpriceInd": 3604281648,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 2253966439,
+      "SortNumber": 703
+    },
+    {
+      "ShopHighpriceInd": 2382555944,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 3677540401,
+      "SortNumber": 320
+    },
+    {
+      "ShopHighpriceInd": 2831207622,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 4260427743,
+      "SortNumber": 350
+    },
+    {
+      "ShopHighpriceInd": 1857013057,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 1000341080,
+      "SortNumber": 280
+    },
+    {
+      "ShopHighpriceInd": 1043132526,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 1789474410,
+      "SortNumber": 130
+    },
+    {
+      "ShopHighpriceInd": 2963535757,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 3827708297,
+      "SortNumber": 180
+    },
+    {
+      "ShopHighpriceInd": 2109475342,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 680276247,
+      "SortNumber": 260
+    },
+    {
+      "ShopHighpriceInd": 2641785347,
+      "Uniqid": 525994835,
+      "Level": 4,
+      "Objid": 3427777097,
+      "SortNumber": 503
+    },
+    {
+      "ShopHighpriceInd": 1848636960,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 991939897,
+      "SortNumber": 290
+    },
+    {
+      "ShopHighpriceInd": 1422471391,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 43184636,
+      "SortNumber": 670
+    },
+    {
+      "ShopHighpriceInd": 406971831,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 1310336148,
+      "SortNumber": 50
+    },
+    {
+      "ShopHighpriceInd": 274393993,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 1155476877,
+      "SortNumber": 140
+    },
+    {
+      "ShopHighpriceInd": 3706776343,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 2289380627,
+      "SortNumber": 190
+    },
+    {
+      "ShopHighpriceInd": 1450581927,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 117058288,
+      "SortNumber": 820
+    },
+    {
+      "ShopHighpriceInd": 2598117177,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3394251374,
+      "SortNumber": 840
+    },
+    {
+      "ShopHighpriceInd": 1160509921,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 326121666,
+      "SortNumber": 90
+    },
+    {
+      "ShopHighpriceInd": 2330592069,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 3755620444,
+      "SortNumber": 230
+    },
+    {
+      "ShopHighpriceInd": 3603219723,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 2213871122,
+      "SortNumber": 270
+    },
+    {
+      "ShopHighpriceInd": 2401331028,
+      "Uniqid": 525994835,
+      "Level": 4,
+      "Objid": 3726159646,
+      "SortNumber": 504
+    },
+    {
+      "ShopHighpriceInd": 1296539008,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 410494617,
+      "SortNumber": 330
+    },
+    {
+      "ShopHighpriceInd": 2179833118,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 3571295751,
+      "SortNumber": 360
+    },
+    {
+      "ShopHighpriceInd": 1672590598,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 914460191,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 4197026450,
+      "Uniqid": 525994835,
+      "Level": 2,
+      "Objid": 2930527382,
+      "SortNumber": 850
+    },
+    {
+      "ShopHighpriceInd": 926316305,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 1644579848,
+      "SortNumber": 860
+    },
+    {
+      "ShopHighpriceInd": 654338925,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 2005687866,
+      "SortNumber": 870
+    },
+    {
+      "ShopHighpriceInd": 4049850767,
+      "Uniqid": 525994835,
+      "Level": 3,
+      "Objid": 2756962966,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 2550984762,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3363882349,
+      "SortNumber": 600
+    },
+    {
+      "ShopHighpriceInd": 1420226724,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 69912051,
+      "SortNumber": 601
+    },
+    {
+      "ShopHighpriceInd": 1583610301,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 250596586,
+      "SortNumber": 602
+    },
+    {
+      "ShopHighpriceInd": 2462710051,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3259354228,
+      "SortNumber": 603
+    },
+    {
+      "ShopHighpriceInd": 474414784,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 1288358807,
+      "SortNumber": 604
+    },
+    {
+      "ShopHighpriceInd": 1107280046,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 396624269,
+      "SortNumber": 680
+    },
+    {
+      "ShopHighpriceInd": 1262143927,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 492898452,
+      "SortNumber": 690
+    },
+    {
+      "ShopHighpriceInd": 2168929629,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3519744010,
+      "SortNumber": 790
+    },
+    {
+      "ShopHighpriceInd": 153079498,
+      "Uniqid": 525994835,
+      "Level": 1,
+      "Objid": 1598296041,
+      "SortNumber": 660
+    },
+    {
+      "ShopHighpriceInd": 3277994528,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 2481852279,
+      "SortNumber": 780
+    },
+    {
+      "ShopHighpriceInd": 3423436663,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 2625718816,
+      "SortNumber": 605
+    },
+    {
+      "ShopHighpriceInd": 10977257,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 1345014462,
+      "SortNumber": 606
+    },
+    {
+      "ShopHighpriceInd": 143880321,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 1478444502,
+      "SortNumber": 607
+    },
+    {
+      "ShopHighpriceInd": 3292098591,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 2494907720,
+      "SortNumber": 608
+    },
+    {
+      "ShopHighpriceInd": 1253472252,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 440025771,
+      "SortNumber": 609
+    },
+    {
+      "ShopHighpriceInd": 2250012514,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3599778357,
+      "SortNumber": 610
+    },
+    {
+      "ShopHighpriceInd": 2363063931,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 3696577324,
+      "SortNumber": 611
+    },
+    {
+      "ShopHighpriceInd": 1081310949,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 285166514,
+      "SortNumber": 612
+    },
+    {
+      "ShopHighpriceInd": 3472652550,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 2658159697,
+      "SortNumber": 613
+    },
+    {
+      "ShopHighpriceInd": 39221656,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 1390038223,
+      "SortNumber": 614
+    },
+    {
+      "ShopHighpriceInd": 3681970996,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 2348441187,
+      "SortNumber": 615
+    },
+    {
+      "ShopHighpriceInd": 400321450,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 1196449533,
+      "SortNumber": 616
+    },
+    {
+      "ShopHighpriceInd": 824069188,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 1636989203,
+      "SortNumber": 617
+    },
+    {
+      "ShopHighpriceInd": 4256451802,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 2906159501,
+      "SortNumber": 618
+    },
+    {
+      "ShopHighpriceInd": 1933265721,
+      "Uniqid": 525994835,
+      "Level": 5,
+      "Objid": 599228014,
+      "SortNumber": 619
+    },
+    {
+      "ShopHighpriceInd": 268705073,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 484475225,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 2404995579,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 2210254227,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 690903631,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 634045991,
+      "SortNumber": 12
+    },
+    {
+      "ShopHighpriceInd": 3737776794,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 337829050,
+      "SortNumber": 19
+    },
+    {
+      "ShopHighpriceInd": 3199290214,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 2991970062,
+      "SortNumber": 15
+    },
+    {
+      "ShopHighpriceInd": 3726515844,
+      "Uniqid": 225028001,
+      "Level": 2,
+      "Objid": 2012408192,
+      "SortNumber": 102
+    },
+    {
+      "ShopHighpriceInd": 1233194925,
+      "Uniqid": 225028001,
+      "Level": 2,
+      "Objid": 3765303465,
+      "SortNumber": 14
+    },
+    {
+      "ShopHighpriceInd": 2364661053,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 1176171293,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 1408137663,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 1594549719,
+      "SortNumber": 13
+    },
+    {
+      "ShopHighpriceInd": 1635320826,
+      "Uniqid": 225028001,
+      "Level": 2,
+      "Objid": 3365270782,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 1467010848,
+      "Uniqid": 225028001,
+      "Level": 2,
+      "Objid": 4271650852,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 4043818132,
+      "Uniqid": 225028001,
+      "Level": 2,
+      "Objid": 1491809168,
+      "SortNumber": 16
+    },
+    {
+      "ShopHighpriceInd": 2749892397,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 1761814797,
+      "SortNumber": 17
+    },
+    {
+      "ShopHighpriceInd": 106380176,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 3434878384,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 1238436205,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 2201626445,
+      "SortNumber": 18
+    },
+    {
+      "ShopHighpriceInd": 2017006576,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 3000122832,
+      "SortNumber": 20
+    },
+    {
+      "ShopHighpriceInd": 3729659972,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 346371684,
+      "SortNumber": 104
+    },
+    {
+      "ShopHighpriceInd": 587989575,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 3924241511,
+      "SortNumber": 103
+    },
+    {
+      "ShopHighpriceInd": 1131723707,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 1334847443,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 1922867494,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 2121809230,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 1910751742,
+      "Uniqid": 225028001,
+      "Level": 2,
+      "Objid": 3624875770,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 3836504115,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 776422931,
+      "SortNumber": 303
+    },
+    {
+      "ShopHighpriceInd": 3713811940,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 854505559,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 3617148157,
+      "Uniqid": 225028001,
+      "Level": 1,
+      "Objid": 942387534,
+      "SortNumber": 401
+    },
+    {
+      "ShopHighpriceInd": 2829541792,
+      "Uniqid": 225028001,
+      "Level": 2,
+      "Objid": 4102140368,
+      "SortNumber": 402
+    },
+    {
+      "ShopHighpriceInd": 117196649,
+      "Uniqid": 225028001,
+      "Level": 3,
+      "Objid": 878087256,
+      "SortNumber": 403
+    },
+    {
+      "ShopHighpriceInd": 722576881,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 2871446158,
+      "SortNumber": 211
+    },
+    {
+      "ShopHighpriceInd": 527212245,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 1854010368,
+      "SortNumber": 259
+    },
+    {
+      "ShopHighpriceInd": 2405563071,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 257332672,
+      "SortNumber": 212
+    },
+    {
+      "ShopHighpriceInd": 663337560,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 1449447565,
+      "SortNumber": 260
+    },
+    {
+      "ShopHighpriceInd": 2221641813,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 73203498,
+      "SortNumber": 703
+    },
+    {
+      "ShopHighpriceInd": 3794699478,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 2479091203,
+      "SortNumber": 701
+    },
+    {
+      "ShopHighpriceInd": 342291519,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 1703649002,
+      "SortNumber": 702
+    },
+    {
+      "ShopHighpriceInd": 1137441313,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 3288110430,
+      "SortNumber": 704
+    },
+    {
+      "ShopHighpriceInd": 3085214874,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 2124209370,
+      "SortNumber": 51
+    },
+    {
+      "ShopHighpriceInd": 2248982023,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 1333052999,
+      "SortNumber": 52
+    },
+    {
+      "ShopHighpriceInd": 1976692567,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 1299419837,
+      "SortNumber": 204
+    },
+    {
+      "ShopHighpriceInd": 1705819429,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 339859440,
+      "SortNumber": 254
+    },
+    {
+      "ShopHighpriceInd": 2128315837,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 1182398551,
+      "SortNumber": 203
+    },
+    {
+      "ShopHighpriceInd": 108824607,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 2006049482,
+      "SortNumber": 253
+    },
+    {
+      "ShopHighpriceInd": 1289454001,
+      "Uniqid": 2545056378,
+      "Level": 1,
+      "Objid": 1287450958,
+      "SortNumber": 17
+    },
+    {
+      "ShopHighpriceInd": 3678703768,
+      "Uniqid": 2545056378,
+      "Level": 1,
+      "Objid": 3676561511,
+      "SortNumber": 12
+    },
+    {
+      "ShopHighpriceInd": 516130702,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 643955300,
+      "SortNumber": 206
+    },
+    {
+      "ShopHighpriceInd": 4059798277,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 2148987344,
+      "SortNumber": 256
+    },
+    {
+      "ShopHighpriceInd": 1677960318,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 1554110868,
+      "SortNumber": 205
+    },
+    {
+      "ShopHighpriceInd": 2335946997,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 4208382496,
+      "SortNumber": 255
+    },
+    {
+      "ShopHighpriceInd": 1475144217,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 1867421683,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 3100964498,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 3375995975,
+      "SortNumber": 251
+    },
+    {
+      "ShopHighpriceInd": 4203842375,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 3258185389,
+      "SortNumber": 202
+    },
+    {
+      "ShopHighpriceInd": 2184611557,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 4091276336,
+      "SortNumber": 252
+    },
+    {
+      "ShopHighpriceInd": 3171131210,
+      "Uniqid": 2545056378,
+      "Level": 1,
+      "Objid": 3177508789,
+      "SortNumber": 16
+    },
+    {
+      "ShopHighpriceInd": 714903139,
+      "Uniqid": 2545056378,
+      "Level": 1,
+      "Objid": 721157788,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 878624474,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 3026833829,
+      "SortNumber": 210
+    },
+    {
+      "ShopHighpriceInd": 2328062,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 1909387051,
+      "SortNumber": 258
+    },
+    {
+      "ShopHighpriceInd": 1643439166,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 270110443,
+      "SortNumber": 700
+    },
+    {
+      "ShopHighpriceInd": 1154333712,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 2377499728,
+      "SortNumber": 50
+    },
+    {
+      "ShopHighpriceInd": 1013625266,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 3160268493,
+      "SortNumber": 213
+    },
+    {
+      "ShopHighpriceInd": 135760534,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 2046484547,
+      "SortNumber": 261
+    },
+    {
+      "ShopHighpriceInd": 1213572025,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 1895292499,
+      "SortNumber": 208
+    },
+    {
+      "ShopHighpriceInd": 1304461824,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 2226715200,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 503314781,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 3565650205,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 2497874941,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 2889938455,
+      "SortNumber": 209
+    },
+    {
+      "ShopHighpriceInd": 2315293404,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 171441571,
+      "SortNumber": 214
+    },
+    {
+      "ShopHighpriceInd": 2375215007,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 4236217674,
+      "SortNumber": 262
+    },
+    {
+      "ShopHighpriceInd": 4050626679,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 941084727,
+      "SortNumber": 151
+    },
+    {
+      "ShopHighpriceInd": 2462031181,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 1539826957,
+      "SortNumber": 150
+    },
+    {
+      "ShopHighpriceInd": 3809849087,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 1663222144,
+      "SortNumber": 1001
+    },
+    {
+      "ShopHighpriceInd": 391809772,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 2540561811,
+      "SortNumber": 1000
+    },
+    {
+      "ShopHighpriceInd": 1878886222,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 2793799438,
+      "SortNumber": 1107
+    },
+    {
+      "ShopHighpriceInd": 555803954,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 1355648999,
+      "SortNumber": 1108
+    },
+    {
+      "ShopHighpriceInd": 1838852380,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 3987588707,
+      "SortNumber": 800
+    },
+    {
+      "ShopHighpriceInd": 3070207787,
+      "Uniqid": 2545056378,
+      "Level": 1,
+      "Objid": 3063470036,
+      "SortNumber": 1102
+    },
+    {
+      "ShopHighpriceInd": 472947374,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 3578323694,
+      "SortNumber": 1100
+    },
+    {
+      "ShopHighpriceInd": 769163315,
+      "Uniqid": 2545056378,
+      "Level": 2,
+      "Objid": 3835754611,
+      "SortNumber": 1103
+    },
+    {
+      "ShopHighpriceInd": 311425125,
+      "Uniqid": 2545056378,
+      "Level": 1,
+      "Objid": 317229210,
+      "SortNumber": 1101
+    },
+    {
+      "ShopHighpriceInd": 3731337370,
+      "Uniqid": 2545056378,
+      "Level": 4,
+      "Objid": 1582358501,
+      "SortNumber": 1104
+    },
+    {
+      "ShopHighpriceInd": 3229985211,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 4163359825,
+      "SortNumber": 1105
+    },
+    {
+      "ShopHighpriceInd": 186170508,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 867877222,
+      "SortNumber": 1106
+    },
+    {
+      "ShopHighpriceInd": 1407556146,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 1799874520,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 2038085687,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 144167650,
+      "SortNumber": 250
+    },
+    {
+      "ShopHighpriceInd": 3853488324,
+      "Uniqid": 2545056378,
+      "Level": 1,
+      "Objid": 3855147067,
+      "SortNumber": 15
+    },
+    {
+      "ShopHighpriceInd": 2256512510,
+      "Uniqid": 2545056378,
+      "Level": 1,
+      "Objid": 2249774337,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 539527122,
+      "Uniqid": 2545056378,
+      "Level": 3,
+      "Objid": 411761208,
+      "SortNumber": 207
+    },
+    {
+      "ShopHighpriceInd": 1485802096,
+      "Uniqid": 2545056378,
+      "Level": 5,
+      "Objid": 694345893,
+      "SortNumber": 257
+    },
+    {
+      "ShopHighpriceInd": 3675812690,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 1576788902,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 2324222003,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 3395613327,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 684827347,
+      "Uniqid": 3270129749,
+      "Level": 4,
+      "Objid": 2589690322,
+      "SortNumber": 50
+    },
+    {
+      "ShopHighpriceInd": 1593512574,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 2406932571,
+      "SortNumber": 51
+    },
+    {
+      "ShopHighpriceInd": 2651480454,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 417984882,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 1003874036,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 2067383368,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 1580007008,
+      "Uniqid": 3270129749,
+      "Level": 4,
+      "Objid": 3970356577,
+      "SortNumber": 150
+    },
+    {
+      "ShopHighpriceInd": 1830050841,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 3164188220,
+      "SortNumber": 151
+    },
+    {
+      "ShopHighpriceInd": 3266938275,
+      "Uniqid": 3270129749,
+      "Level": 4,
+      "Objid": 1882435234,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 3896958222,
+      "Uniqid": 3270129749,
+      "Level": 4,
+      "Objid": 1523381775,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 470415645,
+      "Uniqid": 3270129749,
+      "Level": 4,
+      "Objid": 2927874588,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 3838460534,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 1646908034,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 3035969835,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 840346079,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 440430460,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 2627993480,
+      "SortNumber": 202
+    },
+    {
+      "ShopHighpriceInd": 2528650164,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 274445120,
+      "SortNumber": 550
+    },
+    {
+      "ShopHighpriceInd": 1636329343,
+      "Uniqid": 3270129749,
+      "Level": 2,
+      "Objid": 1113824487,
+      "SortNumber": 600
+    },
+    {
+      "ShopHighpriceInd": 1453243474,
+      "Uniqid": 3270129749,
+      "Level": 4,
+      "Objid": 3826554707,
+      "SortNumber": 601
+    },
+    {
+      "ShopHighpriceInd": 4234487966,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 2055649386,
+      "SortNumber": 501
+    },
+    {
+      "ShopHighpriceInd": 969020944,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 3206645476,
+      "SortNumber": 500
+    },
+    {
+      "ShopHighpriceInd": 2925332281,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 683579341,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 1477801936,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 3740722980,
+      "SortNumber": 402
+    },
+    {
+      "ShopHighpriceInd": 1533679368,
+      "Uniqid": 3270129749,
+      "Level": 2,
+      "Objid": 2021780624,
+      "SortNumber": 401
+    },
+    {
+      "ShopHighpriceInd": 3291962306,
+      "Uniqid": 3270129749,
+      "Level": 2,
+      "Objid": 3889995866,
+      "SortNumber": 403
+    },
+    {
+      "ShopHighpriceInd": 21465426,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 1101769710,
+      "SortNumber": 404
+    },
+    {
+      "ShopHighpriceInd": 3267992178,
+      "Uniqid": 3270129749,
+      "Level": 4,
+      "Objid": 1883484531,
+      "SortNumber": 406
+    },
+    {
+      "ShopHighpriceInd": 2702815048,
+      "Uniqid": 3270129749,
+      "Level": 4,
+      "Objid": 328434761,
+      "SortNumber": 405
+    },
+    {
+      "ShopHighpriceInd": 3447964554,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 979171941,
+      "SortNumber": 1000
+    },
+    {
+      "ShopHighpriceInd": 1124910185,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 3033791878,
+      "SortNumber": 1001
+    },
+    {
+      "ShopHighpriceInd": 1388245621,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 2021260568,
+      "SortNumber": 1002
+    },
+    {
+      "ShopHighpriceInd": 2451102125,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 1707597890,
+      "SortNumber": 800
+    },
+    {
+      "ShopHighpriceInd": 1588779315,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 2842550492,
+      "SortNumber": 801
+    },
+    {
+      "ShopHighpriceInd": 220588114,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 669181759,
+      "SortNumber": 802
+    },
+    {
+      "ShopHighpriceInd": 622518923,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 3536182116,
+      "SortNumber": 700
+    },
+    {
+      "ShopHighpriceInd": 4231720999,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 199608776,
+      "SortNumber": 701
+    },
+    {
+      "ShopHighpriceInd": 3985163835,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 3343894870,
+      "SortNumber": 702
+    },
+    {
+      "ShopHighpriceInd": 1556451864,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 2870651895,
+      "SortNumber": 1100
+    },
+    {
+      "ShopHighpriceInd": 2423231110,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 1739631465,
+      "SortNumber": 1101
+    },
+    {
+      "ShopHighpriceInd": 3287852007,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 3913264266,
+      "SortNumber": 1102
+    },
+    {
+      "ShopHighpriceInd": 3308356024,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 854505559,
+      "SortNumber": 900
+    },
+    {
+      "ShopHighpriceInd": 3488909473,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 942387534,
+      "SortNumber": 901
+    },
+    {
+      "ShopHighpriceInd": 3729178301,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 4102140368,
+      "SortNumber": 902
+    },
+    {
+      "ShopHighpriceInd": 3025974041,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 1132694262,
+      "SortNumber": 1400
+    },
+    {
+      "ShopHighpriceInd": 2029433735,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 2401864296,
+      "SortNumber": 1401
+    },
+    {
+      "ShopHighpriceInd": 2093914025,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 1443469508,
+      "SortNumber": 1402
+    },
+    {
+      "ShopHighpriceInd": 2047325686,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 2379779097,
+      "SortNumber": 1200
+    },
+    {
+      "ShopHighpriceInd": 3136381196,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 1294883043,
+      "SortNumber": 1201
+    },
+    {
+      "ShopHighpriceInd": 2873317136,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 2172934269,
+      "SortNumber": 1202
+    },
+    {
+      "ShopHighpriceInd": 587559596,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 3571075907,
+      "SortNumber": 1300
+    },
+    {
+      "ShopHighpriceInd": 700480437,
+      "Uniqid": 3270129749,
+      "Level": 1,
+      "Objid": 3726590554,
+      "SortNumber": 1301
+    },
+    {
+      "ShopHighpriceInd": 947015081,
+      "Uniqid": 3270129749,
+      "Level": 3,
+      "Objid": 313868996,
+      "SortNumber": 1302
+    },
+    {
+      "ShopHighpriceInd": 2716235665,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 930620731,
+      "SortNumber": 1003
+    },
+    {
+      "ShopHighpriceInd": 2190351409,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 336613019,
+      "SortNumber": 803
+    },
+    {
+      "ShopHighpriceInd": 3879117009,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 1906897531,
+      "SortNumber": 703
+    },
+    {
+      "ShopHighpriceInd": 1255263378,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 3696205368,
+      "SortNumber": 1103
+    },
+    {
+      "ShopHighpriceInd": 2731073266,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 878087256,
+      "SortNumber": 903
+    },
+    {
+      "ShopHighpriceInd": 3376462646,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 1608444316,
+      "SortNumber": 1403
+    },
+    {
+      "ShopHighpriceInd": 2901936086,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 979785084,
+      "SortNumber": 1203
+    },
+    {
+      "ShopHighpriceInd": 1127902440,
+      "Uniqid": 3270129749,
+      "Level": 5,
+      "Objid": 3584310850,
+      "SortNumber": 1303
+    },
+    {
+      "ShopHighpriceInd": 2226360610,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 3287253445,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 2278355450,
+      "Uniqid": 4041708462,
+      "Level": 2,
+      "Objid": 1704495729,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 1317530563,
+      "Uniqid": 4041708462,
+      "Level": 5,
+      "Objid": 1588959733,
+      "SortNumber": 13
+    },
+    {
+      "ShopHighpriceInd": 3214836390,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 4173500993,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 3894873193,
+      "Uniqid": 4041708462,
+      "Level": 4,
+      "Objid": 2601691003,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 1917629978,
+      "Uniqid": 4041708462,
+      "Level": 2,
+      "Objid": 2417544593,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 457811539,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 1544926900,
+      "SortNumber": 500
+    },
+    {
+      "ShopHighpriceInd": 3970829958,
+      "Uniqid": 4041708462,
+      "Level": 3,
+      "Objid": 1845341225,
+      "SortNumber": 501
+    },
+    {
+      "ShopHighpriceInd": 3681499573,
+      "Uniqid": 4041708462,
+      "Level": 4,
+      "Objid": 2824508071,
+      "SortNumber": 600
+    },
+    {
+      "ShopHighpriceInd": 2078733233,
+      "Uniqid": 4041708462,
+      "Level": 2,
+      "Objid": 2578614330,
+      "SortNumber": 601
+    },
+    {
+      "ShopHighpriceInd": 2722182363,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 3843892284,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 475929991,
+      "Uniqid": 4041708462,
+      "Level": 2,
+      "Objid": 4262094348,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 2229608208,
+      "Uniqid": 4041708462,
+      "Level": 5,
+      "Objid": 2497146150,
+      "SortNumber": 203
+    },
+    {
+      "ShopHighpriceInd": 1301220560,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 181607479,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 771208492,
+      "Uniqid": 4041708462,
+      "Level": 3,
+      "Objid": 2896435075,
+      "SortNumber": 12
+    },
+    {
+      "ShopHighpriceInd": 2373877544,
+      "Uniqid": 4041708462,
+      "Level": 5,
+      "Objid": 2639007006,
+      "SortNumber": 102
+    },
+    {
+      "ShopHighpriceInd": 3127419909,
+      "Uniqid": 4041708462,
+      "Level": 3,
+      "Objid": 993724074,
+      "SortNumber": 202
+    },
+    {
+      "ShopHighpriceInd": 66156747,
+      "Uniqid": 4041708462,
+      "Level": 5,
+      "Objid": 331549437,
+      "SortNumber": 502
+    },
+    {
+      "ShopHighpriceInd": 4047543656,
+      "Uniqid": 4041708462,
+      "Level": 3,
+      "Objid": 1880309703,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 1479838749,
+      "Uniqid": 4041708462,
+      "Level": 3,
+      "Objid": 3647418034,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 3023970880,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 1707597890,
+      "SortNumber": 700
+    },
+    {
+      "ShopHighpriceInd": 2022974174,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 2842550492,
+      "SortNumber": 701
+    },
+    {
+      "ShopHighpriceInd": 721621951,
+      "Uniqid": 4041708462,
+      "Level": 3,
+      "Objid": 669181759,
+      "SortNumber": 702
+    },
+    {
+      "ShopHighpriceInd": 2061724149,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 2870651895,
+      "SortNumber": 800
+    },
+    {
+      "ShopHighpriceInd": 3058264427,
+      "Uniqid": 4041708462,
+      "Level": 1,
+      "Objid": 1739631465,
+      "SortNumber": 801
+    },
+    {
+      "ShopHighpriceInd": 3856553994,
+      "Uniqid": 4041708462,
+      "Level": 3,
+      "Objid": 3913264266,
+      "SortNumber": 802
+    },
+    {
+      "ShopHighpriceInd": 2762532828,
+      "Uniqid": 4041708462,
+      "Level": 5,
+      "Objid": 336613019,
+      "SortNumber": 703
+    },
+    {
+      "ShopHighpriceInd": 1828140927,
+      "Uniqid": 4041708462,
+      "Level": 5,
+      "Objid": 3696205368,
+      "SortNumber": 803
+    },
+    {
+      "ShopHighpriceInd": 1599003057,
+      "Uniqid": 1556505396,
+      "Level": 1,
+      "Objid": 1680340563,
+      "SortNumber": 500
+    },
+    {
+      "ShopHighpriceInd": 1546762601,
+      "Uniqid": 1556505396,
+      "Level": 2,
+      "Objid": 3260087783,
+      "SortNumber": 501
+    },
+    {
+      "ShopHighpriceInd": 1862867728,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 2456782522,
+      "SortNumber": 502
+    },
+    {
+      "ShopHighpriceInd": 387547140,
+      "Uniqid": 1556505396,
+      "Level": 2,
+      "Objid": 2306393226,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 342286556,
+      "Uniqid": 1556505396,
+      "Level": 1,
+      "Objid": 789565246,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 630127169,
+      "Uniqid": 1556505396,
+      "Level": 1,
+      "Objid": 518509987,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 2655513775,
+      "Uniqid": 1556505396,
+      "Level": 1,
+      "Objid": 2771305293,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 2649710697,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 1619656131,
+      "SortNumber": 401
+    },
+    {
+      "ShopHighpriceInd": 1769449572,
+      "Uniqid": 1556505396,
+      "Level": 2,
+      "Objid": 4145474794,
+      "SortNumber": 450
+    },
+    {
+      "ShopHighpriceInd": 1515129373,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 2804520887,
+      "SortNumber": 451
+    },
+    {
+      "ShopHighpriceInd": 4103792517,
+      "Uniqid": 1556505396,
+      "Level": 1,
+      "Objid": 3488860263,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 2497863289,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 1770308563,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 242845983,
+      "Uniqid": 1556505396,
+      "Level": 2,
+      "Objid": 2417544593,
+      "SortNumber": 601
+    },
+    {
+      "ShopHighpriceInd": 834286549,
+      "Uniqid": 1556505396,
+      "Level": 1,
+      "Objid": 181607479,
+      "SortNumber": 600
+    },
+    {
+      "ShopHighpriceInd": 2373296749,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 1880309703,
+      "SortNumber": 602
+    },
+    {
+      "ShopHighpriceInd": 421692493,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 3829668327,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 2940774179,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 1378761353,
+      "SortNumber": 202
+    },
+    {
+      "ShopHighpriceInd": 953660938,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 3316722592,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 4219382869,
+      "Uniqid": 1556505396,
+      "Level": 3,
+      "Objid": 102248959,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 3115559192,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 1202032447,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 1219149949,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 3788670091,
+      "SortNumber": 19
+    },
+    {
+      "ShopHighpriceInd": 1308396811,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 3018500908,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 729478471,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 2181214641,
+      "SortNumber": 20
+    },
+    {
+      "ShopHighpriceInd": 3336876032,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 955422247,
+      "SortNumber": 12
+    },
+    {
+      "ShopHighpriceInd": 822286549,
+      "Uniqid": 2680882632,
+      "Level": 3,
+      "Objid": 152734906,
+      "SortNumber": 13
+    },
+    {
+      "ShopHighpriceInd": 102089720,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 2943190798,
+      "SortNumber": 21
+    },
+    {
+      "ShopHighpriceInd": 2696225874,
+      "Uniqid": 2680882632,
+      "Level": 4,
+      "Objid": 1791670656,
+      "SortNumber": 14
+    },
+    {
+      "ShopHighpriceInd": 54759054,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 4250249385,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 2771682618,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 1528996637,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 1400698323,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 2909459444,
+      "SortNumber": 102
+    },
+    {
+      "ShopHighpriceInd": 4216838651,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 1378852109,
+      "SortNumber": 109
+    },
+    {
+      "ShopHighpriceInd": 3426812630,
+      "Uniqid": 2680882632,
+      "Level": 3,
+      "Objid": 4099446457,
+      "SortNumber": 103
+    },
+    {
+      "ShopHighpriceInd": 3401565030,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 1674020752,
+      "SortNumber": 110
+    },
+    {
+      "ShopHighpriceInd": 253296104,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 2791356702,
+      "SortNumber": 111
+    },
+    {
+      "ShopHighpriceInd": 4219483621,
+      "Uniqid": 2680882632,
+      "Level": 4,
+      "Objid": 838838327,
+      "SortNumber": 104
+    },
+    {
+      "ShopHighpriceInd": 505146677,
+      "Uniqid": 2680882632,
+      "Level": 2,
+      "Objid": 1157996670,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 4271271201,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 8407814,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 4259909113,
+      "Uniqid": 2680882632,
+      "Level": 2,
+      "Objid": 2801221810,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 2551190893,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 828920219,
+      "SortNumber": 305
+    },
+    {
+      "ShopHighpriceInd": 224378016,
+      "Uniqid": 2680882632,
+      "Level": 4,
+      "Objid": 3340771698,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 331964408,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 3990845919,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 280379168,
+      "Uniqid": 2680882632,
+      "Level": 2,
+      "Objid": 1269330539,
+      "SortNumber": 401
+    },
+    {
+      "ShopHighpriceInd": 1148244279,
+      "Uniqid": 2680882632,
+      "Level": 4,
+      "Objid": 2383367397,
+      "SortNumber": 402
+    },
+    {
+      "ShopHighpriceInd": 3082354870,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 1236215441,
+      "SortNumber": 500
+    },
+    {
+      "ShopHighpriceInd": 3032899694,
+      "Uniqid": 2680882632,
+      "Level": 2,
+      "Objid": 4023921957,
+      "SortNumber": 501
+    },
+    {
+      "ShopHighpriceInd": 2090202554,
+      "Uniqid": 2680882632,
+      "Level": 4,
+      "Objid": 3068815464,
+      "SortNumber": 502
+    },
+    {
+      "ShopHighpriceInd": 1324640792,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 3884723950,
+      "SortNumber": 16
+    },
+    {
+      "ShopHighpriceInd": 1207522312,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 4001435902,
+      "SortNumber": 15
+    },
+    {
+      "ShopHighpriceInd": 365001647,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 3166256985,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 939294433,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 2659465751,
+      "SortNumber": 106
+    },
+    {
+      "ShopHighpriceInd": 763728755,
+      "Uniqid": 2680882632,
+      "Level": 3,
+      "Objid": 362546972,
+      "SortNumber": 303
+    },
+    {
+      "ShopHighpriceInd": 2366396791,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 611589505,
+      "SortNumber": 105
+    },
+    {
+      "ShopHighpriceInd": 1735832485,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 2379779097,
+      "SortNumber": 600
+    },
+    {
+      "ShopHighpriceInd": 2810210143,
+      "Uniqid": 2680882632,
+      "Level": 1,
+      "Objid": 1294883043,
+      "SortNumber": 601
+    },
+    {
+      "ShopHighpriceInd": 3056750915,
+      "Uniqid": 2680882632,
+      "Level": 3,
+      "Objid": 2172934269,
+      "SortNumber": 602
+    },
+    {
+      "ShopHighpriceInd": 1213074425,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 3282132736,
+      "SortNumber": 605
+    },
+    {
+      "ShopHighpriceInd": 2978546053,
+      "Uniqid": 2680882632,
+      "Level": 5,
+      "Objid": 979785084,
+      "SortNumber": 603
+    },
+    {
+      "ShopHighpriceInd": 1963914631,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 3254899927,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 614356710,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 1436468734,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 1956720059,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 94486179,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 2306203388,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 1048248236,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 3968648808,
+      "Uniqid": 1736407806,
+      "Level": 4,
+      "Objid": 2850418309,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 3965397622,
+      "Uniqid": 1736407806,
+      "Level": 5,
+      "Objid": 3392527295,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 2309108450,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 1571474070,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 2220267960,
+      "Uniqid": 1736407806,
+      "Level": 4,
+      "Objid": 3242176853,
+      "SortNumber": 401
+    },
+    {
+      "ShopHighpriceInd": 1070076300,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 3955288568,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 1545086134,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 2282806466,
+      "SortNumber": 202
+    },
+    {
+      "ShopHighpriceInd": 1555002215,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 766500991,
+      "SortNumber": 800
+    },
+    {
+      "ShopHighpriceInd": 4184929301,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 1317000517,
+      "SortNumber": 802
+    },
+    {
+      "ShopHighpriceInd": 4175375401,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 2313142065,
+      "SortNumber": 801
+    },
+    {
+      "ShopHighpriceInd": 2727479740,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 1989865928,
+      "SortNumber": 900
+    },
+    {
+      "ShopHighpriceInd": 3145867126,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 1871374082,
+      "SortNumber": 1000
+    },
+    {
+      "ShopHighpriceInd": 3440366688,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 2046883120,
+      "SortNumber": 901
+    },
+    {
+      "ShopHighpriceInd": 1119447695,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 2528219899,
+      "SortNumber": 600
+    },
+    {
+      "ShopHighpriceInd": 658534939,
+      "Uniqid": 1736407806,
+      "Level": 5,
+      "Objid": 19825618,
+      "SortNumber": 602
+    },
+    {
+      "ShopHighpriceInd": 2953350956,
+      "Uniqid": 1736407806,
+      "Level": 4,
+      "Objid": 4116817857,
+      "SortNumber": 502
+    },
+    {
+      "ShopHighpriceInd": 3562950532,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 2774457500,
+      "SortNumber": 501
+    },
+    {
+      "ShopHighpriceInd": 950969697,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 2409727025,
+      "SortNumber": 704
+    },
+    {
+      "ShopHighpriceInd": 4107487713,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 551268757,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 3326358436,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 3074728124,
+      "SortNumber": 500
+    },
+    {
+      "ShopHighpriceInd": 153486387,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 2015794987,
+      "SortNumber": 700
+    },
+    {
+      "ShopHighpriceInd": 2662929690,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 4021913090,
+      "SortNumber": 701
+    },
+    {
+      "ShopHighpriceInd": 3372260309,
+      "Uniqid": 1736407806,
+      "Level": 4,
+      "Objid": 2355737400,
+      "SortNumber": 705
+    },
+    {
+      "ShopHighpriceInd": 1616085983,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 3613172367,
+      "SortNumber": 702
+    },
+    {
+      "ShopHighpriceInd": 4007429180,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 1507042668,
+      "SortNumber": 703
+    },
+    {
+      "ShopHighpriceInd": 3833149162,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 2507777522,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 1813932857,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 3088487245,
+      "SortNumber": 1500
+    },
+    {
+      "ShopHighpriceInd": 675575988,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 2672515556,
+      "SortNumber": 601
+    },
+    {
+      "ShopHighpriceInd": 1732393101,
+      "Uniqid": 1736407806,
+      "Level": 4,
+      "Objid": 573247584,
+      "SortNumber": 1001
+    },
+    {
+      "ShopHighpriceInd": 164063932,
+      "Uniqid": 1736407806,
+      "Level": 4,
+      "Objid": 1286488657,
+      "SortNumber": 14
+    },
+    {
+      "ShopHighpriceInd": 3176855625,
+      "Uniqid": 1736407806,
+      "Level": 2,
+      "Objid": 1766981693,
+      "SortNumber": 12
+    },
+    {
+      "ShopHighpriceInd": 2682752963,
+      "Uniqid": 1736407806,
+      "Level": 5,
+      "Objid": 3112795658,
+      "SortNumber": 13
+    },
+    {
+      "ShopHighpriceInd": 3382848376,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 3571075907,
+      "SortNumber": 1600
+    },
+    {
+      "ShopHighpriceInd": 3278316129,
+      "Uniqid": 1736407806,
+      "Level": 1,
+      "Objid": 3726590554,
+      "SortNumber": 1601
+    },
+    {
+      "ShopHighpriceInd": 3537179773,
+      "Uniqid": 1736407806,
+      "Level": 3,
+      "Objid": 313868996,
+      "SortNumber": 1602
+    },
+    {
+      "ShopHighpriceInd": 2845652284,
+      "Uniqid": 1736407806,
+      "Level": 5,
+      "Objid": 3584310850,
+      "SortNumber": 1603
+    },
+    {
+      "ShopHighpriceInd": 1517787901,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 1298171430,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 1493760549,
+      "Uniqid": 954473037,
+      "Level": 2,
+      "Objid": 3944189330,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 1793569858,
+      "Uniqid": 954473037,
+      "Level": 2,
+      "Objid": 3640181749,
+      "SortNumber": 401
+    },
+    {
+      "ShopHighpriceInd": 2531105379,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 2177533624,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 1445783963,
+      "Uniqid": 954473037,
+      "Level": 5,
+      "Objid": 374708113,
+      "SortNumber": 404
+    },
+    {
+      "ShopHighpriceInd": 1459291525,
+      "Uniqid": 954473037,
+      "Level": 4,
+      "Objid": 1971692203,
+      "SortNumber": 403
+    },
+    {
+      "ShopHighpriceInd": 3190134324,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 2838661871,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 717612997,
+      "Uniqid": 954473037,
+      "Level": 2,
+      "Objid": 2564460658,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 3723862798,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 3403857877,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 3987890607,
+      "Uniqid": 954473037,
+      "Level": 3,
+      "Objid": 1017827132,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 4267109507,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 3913412696,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 238032582,
+      "Uniqid": 954473037,
+      "Level": 2,
+      "Objid": 3157221745,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 2150190861,
+      "Uniqid": 954473037,
+      "Level": 2,
+      "Objid": 842414266,
+      "SortNumber": 150
+    },
+    {
+      "ShopHighpriceInd": 1163500957,
+      "Uniqid": 954473037,
+      "Level": 3,
+      "Objid": 2487300878,
+      "SortNumber": 402
+    },
+    {
+      "ShopHighpriceInd": 1957791488,
+      "Uniqid": 954473037,
+      "Level": 3,
+      "Objid": 2779326867,
+      "SortNumber": 12
+    },
+    {
+      "ShopHighpriceInd": 3536227508,
+      "Uniqid": 954473037,
+      "Level": 3,
+      "Objid": 64889383,
+      "SortNumber": 202
+    },
+    {
+      "ShopHighpriceInd": 613350493,
+      "Uniqid": 954473037,
+      "Level": 3,
+      "Objid": 4120269518,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 328738672,
+      "Uniqid": 954473037,
+      "Level": 5,
+      "Objid": 1407277434,
+      "SortNumber": 304
+    },
+    {
+      "ShopHighpriceInd": 1534601492,
+      "Uniqid": 954473037,
+      "Level": 5,
+      "Objid": 453072670,
+      "SortNumber": 350
+    },
+    {
+      "ShopHighpriceInd": 1081043748,
+      "Uniqid": 954473037,
+      "Level": 5,
+      "Objid": 1447214,
+      "SortNumber": 305
+    },
+    {
+      "ShopHighpriceInd": 1410049136,
+      "Uniqid": 954473037,
+      "Level": 4,
+      "Objid": 2004157278,
+      "SortNumber": 303
+    },
+    {
+      "ShopHighpriceInd": 1267946309,
+      "Uniqid": 954473037,
+      "Level": 5,
+      "Objid": 199896399,
+      "SortNumber": 405
+    },
+    {
+      "ShopHighpriceInd": 2451971205,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 979171941,
+      "SortNumber": 600
+    },
+    {
+      "ShopHighpriceInd": 480844646,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 3033791878,
+      "SortNumber": 601
+    },
+    {
+      "ShopHighpriceInd": 219884922,
+      "Uniqid": 954473037,
+      "Level": 3,
+      "Objid": 2021260568,
+      "SortNumber": 602
+    },
+    {
+      "ShopHighpriceInd": 2059353476,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 3536182116,
+      "SortNumber": 500
+    },
+    {
+      "ShopHighpriceInd": 2745118504,
+      "Uniqid": 954473037,
+      "Level": 1,
+      "Objid": 199608776,
+      "SortNumber": 501
+    },
+    {
+      "ShopHighpriceInd": 2989300020,
+      "Uniqid": 954473037,
+      "Level": 3,
+      "Objid": 3343894870,
+      "SortNumber": 502
+    },
+    {
+      "ShopHighpriceInd": 4265846942,
+      "Uniqid": 954473037,
+      "Level": 5,
+      "Objid": 930620731,
+      "SortNumber": 603
+    },
+    {
+      "ShopHighpriceInd": 3096674270,
+      "Uniqid": 954473037,
+      "Level": 5,
+      "Objid": 1906897531,
+      "SortNumber": 503
+    },
+    {
+      "ShopHighpriceInd": 1665515806,
+      "Uniqid": 3609397435,
+      "Level": 1,
+      "Objid": 637727022,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 54360290,
+      "Uniqid": 3609397435,
+      "Level": 3,
+      "Objid": 2155215514,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 1282188801,
+      "Uniqid": 3609397435,
+      "Level": 2,
+      "Objid": 2888039773,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 2300343441,
+      "Uniqid": 3609397435,
+      "Level": 3,
+      "Objid": 173340393,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 3633108976,
+      "Uniqid": 3609397435,
+      "Level": 1,
+      "Objid": 2647386048,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 2345454709,
+      "Uniqid": 3609397435,
+      "Level": 2,
+      "Objid": 1803786025,
+      "SortNumber": 305
+    },
+    {
+      "ShopHighpriceInd": 2293476525,
+      "Uniqid": 3609397435,
+      "Level": 1,
+      "Objid": 3455360157,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 917276145,
+      "Uniqid": 3609397435,
+      "Level": 2,
+      "Objid": 3605257901,
+      "SortNumber": 308
+    },
+    {
+      "ShopHighpriceInd": 903079209,
+      "Uniqid": 3609397435,
+      "Level": 1,
+      "Objid": 1888802073,
+      "SortNumber": 304
+    },
+    {
+      "ShopHighpriceInd": 2722952192,
+      "Uniqid": 3609397435,
+      "Level": 1,
+      "Objid": 3876308016,
+      "SortNumber": 303
+    },
+    {
+      "ShopHighpriceInd": 1687464534,
+      "Uniqid": 3609397435,
+      "Level": 2,
+      "Objid": 2229006602,
+      "SortNumber": 307
+    },
+    {
+      "ShopHighpriceInd": 1434235083,
+      "Uniqid": 3609397435,
+      "Level": 2,
+      "Objid": 3040078743,
+      "SortNumber": 306
+    },
+    {
+      "ShopHighpriceInd": 3365011242,
+      "Uniqid": 3609397435,
+      "Level": 1,
+      "Objid": 2379665178,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 2833860310,
+      "Uniqid": 3609397435,
+      "Level": 3,
+      "Objid": 732021934,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 888920011,
+      "Uniqid": 3609397435,
+      "Level": 3,
+      "Objid": 3081983411,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 3149640667,
+      "Uniqid": 3609397435,
+      "Level": 3,
+      "Objid": 955462051,
+      "SortNumber": 12
+    },
+    {
+      "ShopHighpriceInd": 3205871691,
+      "Uniqid": 3609397435,
+      "Level": 3,
+      "Objid": 1012742707,
+      "SortNumber": 102
+    },
+    {
+      "ShopHighpriceInd": 1208854361,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 3911547294,
+      "SortNumber": 500
+    },
+    {
+      "ShopHighpriceInd": 2210770606,
+      "Uniqid": 1380976933,
+      "Level": 4,
+      "Objid": 630159616,
+      "SortNumber": 505
+    },
+    {
+      "ShopHighpriceInd": 3039925564,
+      "Uniqid": 1380976933,
+      "Level": 2,
+      "Objid": 382160092,
+      "SortNumber": 600
+    },
+    {
+      "ShopHighpriceInd": 4137774940,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 1424116641,
+      "SortNumber": 705
+    },
+    {
+      "ShopHighpriceInd": 1262368362,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 3927369901,
+      "SortNumber": 501
+    },
+    {
+      "ShopHighpriceInd": 3268622560,
+      "Uniqid": 1380976933,
+      "Level": 4,
+      "Objid": 1687809870,
+      "SortNumber": 506
+    },
+    {
+      "ShopHighpriceInd": 3450486711,
+      "Uniqid": 1380976933,
+      "Level": 2,
+      "Objid": 1851582039,
+      "SortNumber": 601
+    },
+    {
+      "ShopHighpriceInd": 2386216407,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 746185002,
+      "SortNumber": 706
+    },
+    {
+      "ShopHighpriceInd": 1717994734,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 3343800873,
+      "SortNumber": 502
+    },
+    {
+      "ShopHighpriceInd": 3089407787,
+      "Uniqid": 1380976933,
+      "Level": 4,
+      "Objid": 510544005,
+      "SortNumber": 507
+    },
+    {
+      "ShopHighpriceInd": 3786823467,
+      "Uniqid": 1380976933,
+      "Level": 2,
+      "Objid": 1111527115,
+      "SortNumber": 602
+    },
+    {
+      "ShopHighpriceInd": 2720443723,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 6654390,
+      "SortNumber": 707
+    },
+    {
+      "ShopHighpriceInd": 3353035506,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 1727241269,
+      "SortNumber": 503
+    },
+    {
+      "ShopHighpriceInd": 429480247,
+      "Uniqid": 1380976933,
+      "Level": 4,
+      "Objid": 3218312857,
+      "SortNumber": 508
+    },
+    {
+      "ShopHighpriceInd": 336680977,
+      "Uniqid": 1380976933,
+      "Level": 2,
+      "Objid": 3085402609,
+      "SortNumber": 603
+    },
+    {
+      "ShopHighpriceInd": 1468113521,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 4123166348,
+      "SortNumber": 708
+    },
+    {
+      "ShopHighpriceInd": 2287994537,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 692639854,
+      "SortNumber": 504
+    },
+    {
+      "ShopHighpriceInd": 1135087454,
+      "Uniqid": 1380976933,
+      "Level": 4,
+      "Objid": 3856849136,
+      "SortNumber": 509
+    },
+    {
+      "ShopHighpriceInd": 3708884161,
+      "Uniqid": 1380976933,
+      "Level": 2,
+      "Objid": 2129120545,
+      "SortNumber": 604
+    },
+    {
+      "ShopHighpriceInd": 406513194,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 3128541911,
+      "SortNumber": 709
+    },
+    {
+      "ShopHighpriceInd": 1121293840,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 3825027287,
+      "SortNumber": 100
+    },
+    {
+      "ShopHighpriceInd": 3428487667,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 1836207924,
+      "SortNumber": 101
+    },
+    {
+      "ShopHighpriceInd": 60517207,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 2715307946,
+      "SortNumber": 102
+    },
+    {
+      "ShopHighpriceInd": 909312397,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 2535186250,
+      "SortNumber": 700
+    },
+    {
+      "ShopHighpriceInd": 4011004705,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 1312542182,
+      "SortNumber": 701
+    },
+    {
+      "ShopHighpriceInd": 599331775,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 2190593400,
+      "SortNumber": 702
+    },
+    {
+      "ShopHighpriceInd": 1486316893,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 4190092186,
+      "SortNumber": 703
+    },
+    {
+      "ShopHighpriceInd": 2487051715,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 890616580,
+      "SortNumber": 704
+    },
+    {
+      "ShopHighpriceInd": 4087872874,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 1415108569,
+      "SortNumber": 103
+    },
+    {
+      "ShopHighpriceInd": 3644395232,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 2126914643,
+      "SortNumber": 710
+    },
+    {
+      "ShopHighpriceInd": 3556509689,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 1946365258,
+      "SortNumber": 711
+    },
+    {
+      "ShopHighpriceInd": 525731687,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 3098095060,
+      "SortNumber": 712
+    },
+    {
+      "ShopHighpriceInd": 2446917764,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 908470839,
+      "SortNumber": 713
+    },
+    {
+      "ShopHighpriceInd": 1567817754,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 4203489961,
+      "SortNumber": 714
+    },
+    {
+      "ShopHighpriceInd": 4130644082,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 4086685631,
+      "SortNumber": 10
+    },
+    {
+      "ShopHighpriceInd": 2025564049,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 2098911324,
+      "SortNumber": 11
+    },
+    {
+      "ShopHighpriceInd": 1914574151,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 2981157058,
+      "SortNumber": 12
+    },
+    {
+      "ShopHighpriceInd": 1552451086,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 1495923139,
+      "SortNumber": 200
+    },
+    {
+      "ShopHighpriceInd": 3523707373,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 3618045472,
+      "SortNumber": 201
+    },
+    {
+      "ShopHighpriceInd": 3634508603,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 453836478,
+      "SortNumber": 202
+    },
+    {
+      "ShopHighpriceInd": 4270252608,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 4213677453,
+      "SortNumber": 300
+    },
+    {
+      "ShopHighpriceInd": 4098091865,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 4058158228,
+      "SortNumber": 301
+    },
+    {
+      "ShopHighpriceInd": 4276509071,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 1028166666,
+      "SortNumber": 302
+    },
+    {
+      "ShopHighpriceInd": 1456194125,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 1399504256,
+      "SortNumber": 400
+    },
+    {
+      "ShopHighpriceInd": 1593822501,
+      "Uniqid": 1380976933,
+      "Level": 1,
+      "Objid": 1532932840,
+      "SortNumber": 401
+    },
+    {
+      "ShopHighpriceInd": 1415217139,
+      "Uniqid": 1380976933,
+      "Level": 3,
+      "Objid": 2549396086,
+      "SortNumber": 402
+    },
+    {
+      "ShopHighpriceInd": 4179627715,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 2884572127,
+      "SortNumber": 13
+    },
+    {
+      "ShopHighpriceInd": 26833342,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 1398172834,
+      "SortNumber": 203
+    },
+    {
+      "ShopHighpriceInd": 2166796153,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 3555308133,
+      "SortNumber": 303
+    },
+    {
+      "ShopHighpriceInd": 3887119098,
+      "Uniqid": 1380976933,
+      "Level": 5,
+      "Objid": 3045042150,
+      "SortNumber": 403
+    }
+  ],
+  "IdRef": {}
+}

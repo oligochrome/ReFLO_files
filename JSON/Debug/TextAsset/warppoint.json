@@ -1,0 +1,149 @@
+{
+  "TableWarppoint": [
+    {
+      "WarppointInd": 1011463855,
+      "WarppointId": 1011463855,
+      "MmiconId": 849380876,
+      "NameTextId": 3440986389
+    },
+    {
+      "WarppointInd": 2772494101,
+      "WarppointId": 2772494101,
+      "MmiconId": 158813899,
+      "NameTextId": 146700187
+    },
+    {
+      "WarppointInd": 3527923587,
+      "WarppointId": 3527923587,
+      "MmiconId": 158813899,
+      "NameTextId": 2932440111
+    },
+    {
+      "WarppointInd": 1277379104,
+      "WarppointId": 1277379104,
+      "MmiconId": 3125755483,
+      "NameTextId": 2669766322
+    },
+    {
+      "WarppointInd": 992244406,
+      "WarppointId": 992244406,
+      "MmiconId": 158813899,
+      "NameTextId": 961965318
+    },
+    {
+      "WarppointInd": 2720867084,
+      "WarppointId": 2720867084,
+      "MmiconId": 158813899,
+      "NameTextId": 3474857455
+    },
+    {
+      "WarppointInd": 3576304538,
+      "WarppointId": 3576304538,
+      "MmiconId": 158813899,
+      "NameTextId": 1768494683
+    },
+    {
+      "WarppointInd": 1167396363,
+      "WarppointId": 1167396363,
+      "MmiconId": 158813899,
+      "NameTextId": 4130626193
+    },
+    {
+      "WarppointInd": 3615362476,
+      "WarppointId": 3615362476,
+      "MmiconId": 158813899,
+      "NameTextId": 983456271
+    },
+    {
+      "WarppointInd": 2172901985,
+      "WarppointId": 2172901985,
+      "MmiconId": 849380876,
+      "NameTextId": 1346588965
+    },
+    {
+      "WarppointInd": 1544881124,
+      "WarppointId": 1544881124,
+      "MmiconId": 849380876,
+      "NameTextId": 1638615992
+    },
+    {
+      "WarppointInd": 3306967646,
+      "WarppointId": 3306967646,
+      "MmiconId": 158813899,
+      "NameTextId": 2632536507
+    },
+    {
+      "WarppointInd": 560334268,
+      "WarppointId": 560334268,
+      "MmiconId": 849380876,
+      "NameTextId": 3353100300
+    },
+    {
+      "WarppointInd": 3094303750,
+      "WarppointId": 3094303750,
+      "MmiconId": 158813899,
+      "NameTextId": 41647746
+    },
+    {
+      "WarppointInd": 3479725200,
+      "WarppointId": 3479725200,
+      "MmiconId": 158813899,
+      "NameTextId": 2752279862
+    },
+    {
+      "WarppointInd": 1359802675,
+      "WarppointId": 1359802675,
+      "MmiconId": 158813899,
+      "NameTextId": 2902543142
+    },
+    {
+      "WarppointInd": 638304677,
+      "WarppointId": 638304677,
+      "MmiconId": 158813899,
+      "NameTextId": 192299154
+    },
+    {
+      "WarppointInd": 2628544882,
+      "WarppointId": 2628544882,
+      "MmiconId": 3125755483,
+      "NameTextId": 2514775979
+    },
+    {
+      "WarppointInd": 94714056,
+      "WarppointId": 94714056,
+      "MmiconId": 158813899,
+      "NameTextId": 865297439
+    },
+    {
+      "WarppointInd": 1923221598,
+      "WarppointId": 1923221598,
+      "MmiconId": 849380876,
+      "NameTextId": 865297439
+    },
+    {
+      "WarppointInd": 3151805511,
+      "WarppointId": 3151805511,
+      "MmiconId": 849380876,
+      "NameTextId": 3319469302
+    },
+    {
+      "WarppointInd": 584445437,
+      "WarppointId": 584445437,
+      "MmiconId": 158813899,
+      "NameTextId": 3469835804
+    },
+    {
+      "WarppointInd": 2705741785,
+      "WarppointId": 2705741785,
+      "MmiconId": 849380876,
+      "NameTextId": 1672224578
+    },
+    {
+      "WarppointInd": 2220684515,
+      "WarppointId": 2220684515,
+      "MmiconId": 1178918383,
+      "NameTextId": 4260187921
+    }
+  ],
+  "IdRef": {}
+}

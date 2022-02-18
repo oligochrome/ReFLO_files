@@ -1,0 +1,300 @@
+{
+  "TableVoicePack": [
+    {
+      "VoicePackInd": 1263890496,
+      "AssetBundleId": 1546871998,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1517829003,
+      "AssetBundleId": 3408532869,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1561722770,
+      "AssetBundleId": 1051374405,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 3131953813,
+      "AssetBundleId": 2174356772,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 356101452,
+      "AssetBundleId": 3593413949,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 669546467,
+      "AssetBundleId": 332216662,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1499007838,
+      "AssetBundleId": 3948805607,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 232846906,
+      "AssetBundleId": 3137666348,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2062010028,
+      "AssetBundleId": 2254754972,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1337038230,
+      "AssetBundleId": 3445252673,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2798792867,
+      "AssetBundleId": 1109039073,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2942598280,
+      "AssetBundleId": 2280291040,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 3630386206,
+      "AssetBundleId": 3129627472,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1454023895,
+      "AssetBundleId": 101102052,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 3834554030,
+      "AssetBundleId": 3341990298,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2382324576,
+      "AssetBundleId": 3297699151,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 4210578422,
+      "AssetBundleId": 4193176831,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 351679194,
+      "AssetBundleId": 2200870815,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 4081983453,
+      "AssetBundleId": 1008607742,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1557815300,
+      "AssetBundleId": 1806371303,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1538761757,
+      "AssetBundleId": 2653663015,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1170297157,
+      "AssetBundleId": 2700597826,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2896360560,
+      "AssetBundleId": 800534498,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 900441546,
+      "AssetBundleId": 1746359602,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 4159001404,
+      "AssetBundleId": 1640223292,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 434844176,
+      "AssetBundleId": 453214556,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1860960902,
+      "AssetBundleId": 644065516,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 4009648765,
+      "AssetBundleId": 2862547353,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2660538098,
+      "AssetBundleId": 1652526825,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 127780680,
+      "AssetBundleId": 635434041,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 420252221,
+      "AssetBundleId": 2468953148,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1555324,
+      "AssetBundleId": 1484124057,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1466486496,
+      "AssetBundleId": 2691807824,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1647536251,
+      "AssetBundleId": 406437275,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 3289471881,
+      "AssetBundleId": 2323413123,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 879349757,
+      "AssetBundleId": 3462422150,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1131347819,
+      "AssetBundleId": 4076894006,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 3553747706,
+      "AssetBundleId": 1901125863,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 405362727,
+      "AssetBundleId": 3178531560,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 4048223506,
+      "AssetBundleId": 842301256,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2253245828,
+      "AssetBundleId": 257185528,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 524590142,
+      "AssetBundleId": 1223961640,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 4177310009,
+      "AssetBundleId": 4156854857,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2415624623,
+      "AssetBundleId": 3399793657,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 4013688906,
+      "AssetBundleId": 216533549,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2554018012,
+      "AssetBundleId": 831005597,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 20080998,
+      "AssetBundleId": 1982355789,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1983207920,
+      "AssetBundleId": 1263038717,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 3897674835,
+      "AssetBundleId": 4184386797,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 106933631,
+      "AssetBundleId": 2208890765,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1901633001,
+      "AssetBundleId": 3200833085,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 3790045304,
+      "AssetBundleId": 1016611308,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2531307758,
+      "AssetBundleId": 33056860,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1755583621,
+      "AssetBundleId": 4257134840,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2803139837,
+      "AssetBundleId": 1094253026,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 20363023,
+      "AssetBundleId": 1658960959,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 2875431480,
+      "AssetBundleId": 1398675703,
+      "VoicePackVersion": 0
+    },
+    {
+      "VoicePackInd": 210560251,
+      "AssetBundleId": 1398675703,
+      "VoicePackVersion": 1
+    },
+    {
+      "VoicePackInd": 1010841469,
+      "AssetBundleId": 3294562741,
+      "VoicePackVersion": 1
+    }
+  ],
+  "IdRef": {}
+}

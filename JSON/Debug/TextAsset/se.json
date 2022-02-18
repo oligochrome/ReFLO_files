@@ -1,0 +1,4427 @@
+{
+  "TableSe": [
+    {
+      "SeInd": 559966979,
+      "Uqid": 559966979,
+      "Setypeid": 970794671,
+      "CriName": "ME_BECOMES_A_PARTY"
+    },
+    {
+      "SeInd": 667514102,
+      "Uqid": 667514102,
+      "Setypeid": 970794671,
+      "CriName": "ME_CURSE"
+    },
+    {
+      "SeInd": 2497744914,
+      "Uqid": 2497744914,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_BREAK_SEAL"
+    },
+    {
+      "SeInd": 355576754,
+      "Uqid": 355576754,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_CLOSE_HARDWOOD"
+    },
+    {
+      "SeInd": 1172125404,
+      "Uqid": 1172125404,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_CLOSE_WARDROBE"
+    },
+    {
+      "SeInd": 1443243437,
+      "Uqid": 1443243437,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_CLOSE_WOOD"
+    },
+    {
+      "SeInd": 2982320593,
+      "Uqid": 2982320593,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_OPEN_CLOTH"
+    },
+    {
+      "SeInd": 807056461,
+      "Uqid": 807056461,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_OPEN_HARDWOOD"
+    },
+    {
+      "SeInd": 1115492913,
+      "Uqid": 1115492913,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_OPEN_IRON"
+    },
+    {
+      "SeInd": 4143736412,
+      "Uqid": 4143736412,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_OPEN_JAIL"
+    },
+    {
+      "SeInd": 3520341265,
+      "Uqid": 3520341265,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_OPEN_MOUNTAIN"
+    },
+    {
+      "SeInd": 704126299,
+      "Uqid": 704126299,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_OPEN_WALL"
+    },
+    {
+      "SeInd": 1626745123,
+      "Uqid": 1626745123,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_OPEN_WARDROBE"
+    },
+    {
+      "SeInd": 110160800,
+      "Uqid": 110160800,
+      "Setypeid": 970794671,
+      "CriName": "ME_DOOR_OPEN_WOOD"
+    },
+    {
+      "SeInd": 2377653645,
+      "Uqid": 2377653645,
+      "Setypeid": 970794671,
+      "CriName": "ME_END_OF_THE_GAME"
+    },
+    {
+      "SeInd": 4084705332,
+      "Uqid": 4084705332,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_BELL"
+    },
+    {
+      "SeInd": 1094835039,
+      "Uqid": 1094835039,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_BE_PROUD"
+    },
+    {
+      "SeInd": 1731800547,
+      "Uqid": 1731800547,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_CHEER"
+    },
+    {
+      "SeInd": 623500104,
+      "Uqid": 623500104,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_CHIME"
+    },
+    {
+      "SeInd": 3881635831,
+      "Uqid": 3881635831,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_COLLISION"
+    },
+    {
+      "SeInd": 3504705225,
+      "Uqid": 3504705225,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_CRYSTAL_FLASH"
+    },
+    {
+      "SeInd": 3344977124,
+      "Uqid": 3344977124,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_CRY_DRAGON_PUPPY"
+    },
+    {
+      "SeInd": 2629032072,
+      "Uqid": 2629032072,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_DOWN"
+    },
+    {
+      "SeInd": 3235991601,
+      "Uqid": 3235991601,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_ELEMENTAL_VOICE"
+    },
+    {
+      "SeInd": 2891682338,
+      "Uqid": 2891682338,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_ELEMENTAL_YAWN"
+    },
+    {
+      "SeInd": 2507114593,
+      "Uqid": 2507114593,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_ENGINE_START"
+    },
+    {
+      "SeInd": 1694435116,
+      "Uqid": 1694435116,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_FENCE_FALLS"
+    },
+    {
+      "SeInd": 842293400,
+      "Uqid": 842293400,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_GROUND_BAIT"
+    },
+    {
+      "SeInd": 3601922023,
+      "Uqid": 3601922023,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_HAND_CLAP"
+    },
+    {
+      "SeInd": 269616830,
+      "Uqid": 269616830,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_HANG_ONES_HEAD"
+    },
+    {
+      "SeInd": 617972632,
+      "Uqid": 617972632,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_HIDE"
+    },
+    {
+      "SeInd": 671043237,
+      "Uqid": 671043237,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_JUMP"
+    },
+    {
+      "SeInd": 3337553879,
+      "Uqid": 3337553879,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_JUMP_OFF"
+    },
+    {
+      "SeInd": 676109675,
+      "Uqid": 676109675,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_LAND"
+    },
+    {
+      "SeInd": 2268989572,
+      "Uqid": 2268989572,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_MAGIC_SQUARE"
+    },
+    {
+      "SeInd": 1078027780,
+      "Uqid": 1078027780,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_NECK_SHAKEN"
+    },
+    {
+      "SeInd": 3645325036,
+      "Uqid": 3645325036,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_OPEN_TREE_GATE"
+    },
+    {
+      "SeInd": 1025086590,
+      "Uqid": 1025086590,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_ORCHESTRAL_HIT"
+    },
+    {
+      "SeInd": 1789048140,
+      "Uqid": 1789048140,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_RUN_OFF"
+    },
+    {
+      "SeInd": 3563256811,
+      "Uqid": 3563256811,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_SALUTE"
+    },
+    {
+      "SeInd": 4223159705,
+      "Uqid": 4223159705,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_SEAL_SPIRIT_CHANT"
+    },
+    {
+      "SeInd": 346730629,
+      "Uqid": 346730629,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_SEAL_SPIRIT_MOVE"
+    },
+    {
+      "SeInd": 739523659,
+      "Uqid": 739523659,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_SHELL"
+    },
+    {
+      "SeInd": 2295165355,
+      "Uqid": 2295165355,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_SPARKLE"
+    },
+    {
+      "SeInd": 2776320214,
+      "Uqid": 2776320214,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_STAND_UP"
+    },
+    {
+      "SeInd": 264277592,
+      "Uqid": 264277592,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_SURPRISE"
+    },
+    {
+      "SeInd": 2401196307,
+      "Uqid": 2401196307,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_TILL"
+    },
+    {
+      "SeInd": 2060375432,
+      "Uqid": 2060375432,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_TURN_LEFT"
+    },
+    {
+      "SeInd": 799940246,
+      "Uqid": 799940246,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_TURN_RIGHT"
+    },
+    {
+      "SeInd": 2017437611,
+      "Uqid": 2017437611,
+      "Setypeid": 970794671,
+      "CriName": "ME_EVENT_WAVE_HAND"
+    },
+    {
+      "SeInd": 3587003961,
+      "Uqid": 3587003961,
+      "Setypeid": 970794671,
+      "CriName": "ME_FANFARE"
+    },
+    {
+      "SeInd": 1456464165,
+      "Uqid": 1456464165,
+      "Setypeid": 970794671,
+      "CriName": "ME_FLYING_STONE"
+    },
+    {
+      "SeInd": 117109289,
+      "Uqid": 117109289,
+      "Setypeid": 970794671,
+      "CriName": "ME_GAME_OVER"
+    },
+    {
+      "SeInd": 631807099,
+      "Uqid": 631807099,
+      "Setypeid": 970794671,
+      "CriName": "ME_GODMODE_START"
+    },
+    {
+      "SeInd": 1452511081,
+      "Uqid": 1452511081,
+      "Setypeid": 970794671,
+      "CriName": "ME_GOOD_NIGHT"
+    },
+    {
+      "SeInd": 191700838,
+      "Uqid": 191700838,
+      "Setypeid": 970794671,
+      "CriName": "ME_HERO_JINGLE"
+    },
+    {
+      "SeInd": 730110882,
+      "Uqid": 730110882,
+      "Setypeid": 970794671,
+      "CriName": "ME_ITEM_BOMB01"
+    },
+    {
+      "SeInd": 2995636760,
+      "Uqid": 2995636760,
+      "Setypeid": 970794671,
+      "CriName": "ME_ITEM_BOMB02"
+    },
+    {
+      "SeInd": 2129884459,
+      "Uqid": 2129884459,
+      "Setypeid": 970794671,
+      "CriName": "ME_ITEM_DRINK"
+    },
+    {
+      "SeInd": 3720744820,
+      "Uqid": 3720744820,
+      "Setypeid": 970794671,
+      "CriName": "ME_ITEM_EAT"
+    },
+    {
+      "SeInd": 3123584542,
+      "Uqid": 3123584542,
+      "Setypeid": 970794671,
+      "CriName": "ME_ITEM_GET"
+    },
+    {
+      "SeInd": 709751554,
+      "Uqid": 709751554,
+      "Setypeid": 970794671,
+      "CriName": "ME_ITEM_GET_NORMAL"
+    },
+    {
+      "SeInd": 2162635479,
+      "Uqid": 2162635479,
+      "Setypeid": 970794671,
+      "CriName": "ME_ITEM_HEAL01"
+    },
+    {
+      "SeInd": 3033694480,
+      "Uqid": 3033694480,
+      "Setypeid": 970794671,
+      "CriName": "ME_ITEM_POWERUP01"
+    },
+    {
+      "SeInd": 3184400317,
+      "Uqid": 3184400317,
+      "Setypeid": 970794671,
+      "CriName": "ME_KAMIWAZA_CHARGE"
+    },
+    {
+      "SeInd": 1758886663,
+      "Uqid": 1758886663,
+      "Setypeid": 970794671,
+      "CriName": "ME_LIFE_ACTION"
+    },
+    {
+      "SeInd": 1867319733,
+      "Uqid": 1867319733,
+      "Setypeid": 970794671,
+      "CriName": "ME_LIFE_CHANGE"
+    },
+    {
+      "SeInd": 992090025,
+      "Uqid": 992090025,
+      "Setypeid": 970794671,
+      "CriName": "ME_MARS_SHIP_ACCIDENT"
+    },
+    {
+      "SeInd": 1687010327,
+      "Uqid": 1687010327,
+      "Setypeid": 970794671,
+      "CriName": "ME_MARS_SHIP_DRIVE"
+    },
+    {
+      "SeInd": 3847782847,
+      "Uqid": 3847782847,
+      "Setypeid": 970794671,
+      "CriName": "ME_MARS_SHIP_ENGINE_START"
+    },
+    {
+      "SeInd": 11545066,
+      "Uqid": 11545066,
+      "Setypeid": 970794671,
+      "CriName": "ME_MARS_SHIP_PROPELLER"
+    },
+    {
+      "SeInd": 3769100174,
+      "Uqid": 3769100174,
+      "Setypeid": 970794671,
+      "CriName": "ME_MICHIBIKI_APPEAR"
+    },
+    {
+      "SeInd": 978222832,
+      "Uqid": 978222832,
+      "Setypeid": 970794671,
+      "CriName": "ME_QUEST_CLEAR01"
+    },
+    {
+      "SeInd": 2739351370,
+      "Uqid": 2739351370,
+      "Setypeid": 970794671,
+      "CriName": "ME_QUEST_CLEAR02"
+    },
+    {
+      "SeInd": 1291650604,
+      "Uqid": 1291650604,
+      "Setypeid": 970794671,
+      "CriName": "ME_QUEST_FAILED"
+    },
+    {
+      "SeInd": 1931016098,
+      "Uqid": 1931016098,
+      "Setypeid": 970794671,
+      "CriName": "ME_QUEST_PROGRESS"
+    },
+    {
+      "SeInd": 2286541693,
+      "Uqid": 2286541693,
+      "Setypeid": 970794671,
+      "CriName": "ME_RICH_COUNTER"
+    },
+    {
+      "SeInd": 2011870531,
+      "Uqid": 2011870531,
+      "Setypeid": 970794671,
+      "CriName": "ME_RICH_DOWN"
+    },
+    {
+      "SeInd": 3967171724,
+      "Uqid": 3967171724,
+      "Setypeid": 970794671,
+      "CriName": "ME_RICH_JINGLE"
+    },
+    {
+      "SeInd": 2254709597,
+      "Uqid": 2254709597,
+      "Setypeid": 970794671,
+      "CriName": "ME_RICH_UP"
+    },
+    {
+      "SeInd": 956392654,
+      "Uqid": 956392654,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_CHANGE_PARTS"
+    },
+    {
+      "SeInd": 2876825127,
+      "Uqid": 2876825127,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_LIFT_UP_FURNITURE"
+    },
+    {
+      "SeInd": 4197096620,
+      "Uqid": 4197096620,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_MAKE_UP"
+    },
+    {
+      "SeInd": 451901488,
+      "Uqid": 451901488,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_PUT_FURNITURE"
+    },
+    {
+      "SeInd": 2948697195,
+      "Uqid": 2948697195,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_PUT_ON_ACCESSORY"
+    },
+    {
+      "SeInd": 3347729823,
+      "Uqid": 3347729823,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_PUT_ON_CLOTH"
+    },
+    {
+      "SeInd": 3605580913,
+      "Uqid": 3605580913,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_PUT_ON_IRON"
+    },
+    {
+      "SeInd": 4232453274,
+      "Uqid": 4232453274,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_TAKE_OFF_ACCESSORY"
+    },
+    {
+      "SeInd": 2536760871,
+      "Uqid": 2536760871,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_TAKE_OFF_CLOTH"
+    },
+    {
+      "SeInd": 1781680129,
+      "Uqid": 1781680129,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_TAKE_OFF_IRON"
+    },
+    {
+      "SeInd": 1964613178,
+      "Uqid": 1964613178,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_TURN_AVATAR"
+    },
+    {
+      "SeInd": 3000371582,
+      "Uqid": 3000371582,
+      "Setypeid": 970794671,
+      "CriName": "ME_ROOM_TURN_FURNITURE"
+    },
+    {
+      "SeInd": 2957149011,
+      "Uqid": 2957149011,
+      "Setypeid": 970794671,
+      "CriName": "ME_SEE_YOU_AGAIN"
+    },
+    {
+      "SeInd": 782643211,
+      "Uqid": 782643211,
+      "Setypeid": 970794671,
+      "CriName": "ME_SOMETHING_AWAY"
+    },
+    {
+      "SeInd": 217256584,
+      "Uqid": 217256584,
+      "Setypeid": 970794671,
+      "CriName": "ME_SOMETHING_GET"
+    },
+    {
+      "SeInd": 1599649068,
+      "Uqid": 1599649068,
+      "Setypeid": 970794671,
+      "CriName": "ME_SOMETHING_PUT"
+    },
+    {
+      "SeInd": 1335493876,
+      "Uqid": 1335493876,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_BUNNER"
+    },
+    {
+      "SeInd": 2345586576,
+      "Uqid": 2345586576,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_BUZZER"
+    },
+    {
+      "SeInd": 2020207712,
+      "Uqid": 2020207712,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_COMUNICATION"
+    },
+    {
+      "SeInd": 1400430392,
+      "Uqid": 1400430392,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_CONNECT"
+    },
+    {
+      "SeInd": 322934198,
+      "Uqid": 322934198,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_DATA_COMPLETE"
+    },
+    {
+      "SeInd": 1740881510,
+      "Uqid": 1740881510,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_DATA_EXEC"
+    },
+    {
+      "SeInd": 2543361781,
+      "Uqid": 2543361781,
+      "Setypeid": 3495411190,
+      "CriName": "ME_SYSTEM_GAME_START"
+    },
+    {
+      "SeInd": 4141158416,
+      "Uqid": 4141158416,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_MULTI_START"
+    },
+    {
+      "SeInd": 1220810518,
+      "Uqid": 1220810518,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_RECEIVE"
+    },
+    {
+      "SeInd": 3119523130,
+      "Uqid": 3119523130,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_RELEASE"
+    },
+    {
+      "SeInd": 1690272297,
+      "Uqid": 1690272297,
+      "Setypeid": 970794671,
+      "CriName": "ME_SYSTEM_TRANSMISSION"
+    },
+    {
+      "SeInd": 4180521702,
+      "Uqid": 4180521702,
+      "Setypeid": 970794671,
+      "CriName": "ME_TIME_CHANGE"
+    },
+    {
+      "SeInd": 3242466388,
+      "Uqid": 3242466388,
+      "Setypeid": 970794671,
+      "CriName": "ME_WINDOW_QUEST_OPEN"
+    },
+    {
+      "SeInd": 585717566,
+      "Uqid": 585717566,
+      "Setypeid": 970794671,
+      "CriName": "SE_ADV_MAP_OPEN"
+    },
+    {
+      "SeInd": 854993982,
+      "Uqid": 854993982,
+      "Setypeid": 970794671,
+      "CriName": "SE_ADV_WARP_START"
+    },
+    {
+      "SeInd": 1369956860,
+      "Uqid": 1369956860,
+      "Setypeid": 970794671,
+      "CriName": "SE_ADV_WARP_STOP"
+    },
+    {
+      "SeInd": 1399090630,
+      "Uqid": 1399090630,
+      "Setypeid": 970794671,
+      "CriName": "SE_ALCHEMY_BURN"
+    },
+    {
+      "SeInd": 2658709098,
+      "Uqid": 2658709098,
+      "Setypeid": 970794671,
+      "CriName": "SE_ALCHEMY_POT"
+    },
+    {
+      "SeInd": 1950131729,
+      "Uqid": 1950131729,
+      "Setypeid": 970794671,
+      "CriName": "SE_ALCHEMY_POT_PINCH"
+    },
+    {
+      "SeInd": 2711933461,
+      "Uqid": 2711933461,
+      "Setypeid": 970794671,
+      "CriName": "SE_ALCHEMY_POT_STIR"
+    },
+    {
+      "SeInd": 3817152252,
+      "Uqid": 3817152252,
+      "Setypeid": 970794671,
+      "CriName": "SE_ALCHEMY_POUR"
+    },
+    {
+      "SeInd": 973373798,
+      "Uqid": 973373798,
+      "Setypeid": 970794671,
+      "CriName": "SE_ALCHEMY_SHAKE"
+    },
+    {
+      "SeInd": 3254389930,
+      "Uqid": 3254389930,
+      "Setypeid": 970794671,
+      "CriName": "SE_ALCHEMY_SPECIAL_HIT"
+    },
+    {
+      "SeInd": 1584176114,
+      "Uqid": 1584176114,
+      "Setypeid": 970794671,
+      "CriName": "SE_APPEARANCE01"
+    },
+    {
+      "SeInd": 2959276766,
+      "Uqid": 2959276766,
+      "Setypeid": 970794671,
+      "CriName": "SE_APPEARANCE03"
+    },
+    {
+      "SeInd": 1146776398,
+      "Uqid": 1146776398,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_ALERT"
+    },
+    {
+      "SeInd": 2182628014,
+      "Uqid": 2182628014,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_BREAK_FINISH"
+    },
+    {
+      "SeInd": 698454412,
+      "Uqid": 698454412,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_BREAK_START"
+    },
+    {
+      "SeInd": 4029643041,
+      "Uqid": 4029643041,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_DANGER"
+    },
+    {
+      "SeInd": 3326699544,
+      "Uqid": 3326699544,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_DEFENCE"
+    },
+    {
+      "SeInd": 1674750426,
+      "Uqid": 1674750426,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_ESCAPE"
+    },
+    {
+      "SeInd": 11267406,
+      "Uqid": 11267406,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_FREEZE"
+    },
+    {
+      "SeInd": 1285765810,
+      "Uqid": 1285765810,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_GROGGY"
+    },
+    {
+      "SeInd": 3206656407,
+      "Uqid": 3206656407,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_MAX_POWER"
+    },
+    {
+      "SeInd": 3739279824,
+      "Uqid": 3739279824,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_MAX_POWER_CONTINUING"
+    },
+    {
+      "SeInd": 2095027053,
+      "Uqid": 2095027053,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_MAX_POWER_CONTINUING_01"
+    },
+    {
+      "SeInd": 3856057047,
+      "Uqid": 3856057047,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_MAX_POWER_CONTINUING_02"
+    },
+    {
+      "SeInd": 1943768466,
+      "Uqid": 1943768466,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_PARALYSIS"
+    },
+    {
+      "SeInd": 3209560093,
+      "Uqid": 3209560093,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_POISON"
+    },
+    {
+      "SeInd": 1874386420,
+      "Uqid": 1874386420,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_POWER_CHARGE"
+    },
+    {
+      "SeInd": 4069195650,
+      "Uqid": 4069195650,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_PRESENT_BOX_ARRIVAL"
+    },
+    {
+      "SeInd": 1820438699,
+      "Uqid": 1820438699,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_PRESENT_BOX_GET"
+    },
+    {
+      "SeInd": 2531154353,
+      "Uqid": 2531154353,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_R_REVIVAL"
+    },
+    {
+      "SeInd": 451003637,
+      "Uqid": 451003637,
+      "Setypeid": 970794671,
+      "CriName": "SE_BATTLE_SMOKE"
+    },
+    {
+      "SeInd": 4277927631,
+      "Uqid": 4277927631,
+      "Setypeid": 970794671,
+      "CriName": "SE_BIKE_DRIVE_ONESHOT"
+    },
+    {
+      "SeInd": 3865254356,
+      "Uqid": 3865254356,
+      "Setypeid": 970794671,
+      "CriName": "SE_BIKE_DRIVING01_a"
+    },
+    {
+      "SeInd": 3827672973,
+      "Uqid": 3827672973,
+      "Setypeid": 970794671,
+      "CriName": "SE_BIKE_DRIVING02_a"
+    },
+    {
+      "SeInd": 2855307020,
+      "Uqid": 2855307020,
+      "Setypeid": 970794671,
+      "CriName": "SE_BIKE_IDOLING01"
+    },
+    {
+      "SeInd": 859428534,
+      "Uqid": 859428534,
+      "Setypeid": 970794671,
+      "CriName": "SE_BIKE_IDOLING02"
+    },
+    {
+      "SeInd": 3101018274,
+      "Uqid": 3101018274,
+      "Setypeid": 970794671,
+      "CriName": "SE_BOSS_APPEARANCE_1"
+    },
+    {
+      "SeInd": 568105240,
+      "Uqid": 568105240,
+      "Setypeid": 970794671,
+      "CriName": "SE_BOSS_APPEARANCE_2"
+    },
+    {
+      "SeInd": 1457236366,
+      "Uqid": 1457236366,
+      "Setypeid": 970794671,
+      "CriName": "SE_BOSS_APPEARANCE_3"
+    },
+    {
+      "SeInd": 2257803025,
+      "Uqid": 2257803025,
+      "Setypeid": 970794671,
+      "CriName": "SE_BOX_OPEN_TRETURE"
+    },
+    {
+      "SeInd": 2878367807,
+      "Uqid": 2878367807,
+      "Setypeid": 970794671,
+      "CriName": "SE_BOX_UNROCK"
+    },
+    {
+      "SeInd": 934732845,
+      "Uqid": 934732845,
+      "Setypeid": 970794671,
+      "CriName": "SE_BUTTON_TOUCH"
+    },
+    {
+      "SeInd": 236625821,
+      "Uqid": 236625821,
+      "Setypeid": 3495411190,
+      "CriName": "SE_CANCEL"
+    },
+    {
+      "SeInd": 3590323991,
+      "Uqid": 3590323991,
+      "Setypeid": 970794671,
+      "CriName": "SE_CARPENTER_ENVIROMENT"
+    },
+    {
+      "SeInd": 469405542,
+      "Uqid": 469405542,
+      "Setypeid": 970794671,
+      "CriName": "SE_CARPENTER_HAMMER"
+    },
+    {
+      "SeInd": 2276784392,
+      "Uqid": 2276784392,
+      "Setypeid": 970794671,
+      "CriName": "SE_CARPENTER_PAINT_PLUS"
+    },
+    {
+      "SeInd": 1955447576,
+      "Uqid": 1955447576,
+      "Setypeid": 970794671,
+      "CriName": "SE_CARPENTER_PLANE"
+    },
+    {
+      "SeInd": 884539456,
+      "Uqid": 884539456,
+      "Setypeid": 970794671,
+      "CriName": "SE_CARPENTER_SAW"
+    },
+    {
+      "SeInd": 1045739206,
+      "Uqid": 1045739206,
+      "Setypeid": 970794671,
+      "CriName": "SE_CARPENTER_SHAVE"
+    },
+    {
+      "SeInd": 2045699617,
+      "Uqid": 2045699617,
+      "Setypeid": 970794671,
+      "CriName": "SE_CARPENTER_SHAVE_PINCH"
+    },
+    {
+      "SeInd": 3764255318,
+      "Uqid": 3764255318,
+      "Setypeid": 970794671,
+      "CriName": "SE_CARPENTER_SPECIAL_HIT"
+    },
+    {
+      "SeInd": 3773519855,
+      "Uqid": 3773519855,
+      "Setypeid": 970794671,
+      "CriName": "SE_CHARISMA_DOWN"
+    },
+    {
+      "SeInd": 1807012666,
+      "Uqid": 1807012666,
+      "Setypeid": 970794671,
+      "CriName": "SE_CHARISMA_UP"
+    },
+    {
+      "SeInd": 201078041,
+      "Uqid": 201078041,
+      "Setypeid": 970794671,
+      "CriName": "SE_CHAT_NORMAL"
+    },
+    {
+      "SeInd": 1861146171,
+      "Uqid": 1861146171,
+      "Setypeid": 970794671,
+      "CriName": "SE_COMPOUND_BOOST"
+    },
+    {
+      "SeInd": 2623475267,
+      "Uqid": 2623475267,
+      "Setypeid": 970794671,
+      "CriName": "SE_COMPOUND_CHARGE"
+    },
+    {
+      "SeInd": 1535739682,
+      "Uqid": 1535739682,
+      "Setypeid": 970794671,
+      "CriName": "SE_COMPOUND_END"
+    },
+    {
+      "SeInd": 3562926908,
+      "Uqid": 3562926908,
+      "Setypeid": 970794671,
+      "CriName": "SE_COMPOUND_FAILURE"
+    },
+    {
+      "SeInd": 3446730523,
+      "Uqid": 3446730523,
+      "Setypeid": 970794671,
+      "CriName": "SE_COMPOUND_HIGH_SENSE"
+    },
+    {
+      "SeInd": 2432771191,
+      "Uqid": 2432771191,
+      "Setypeid": 970794671,
+      "CriName": "SE_COMPOUND_PREPARE"
+    },
+    {
+      "SeInd": 2817762524,
+      "Uqid": 2817762524,
+      "Setypeid": 970794671,
+      "CriName": "SE_COMPOUND_START"
+    },
+    {
+      "SeInd": 2596679503,
+      "Uqid": 2596679503,
+      "Setypeid": 970794671,
+      "CriName": "SE_COMPOUND_SUCCESS"
+    },
+    {
+      "SeInd": 2686891171,
+      "Uqid": 2686891171,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_ENVIROMENT"
+    },
+    {
+      "SeInd": 1654957969,
+      "Uqid": 1654957969,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_FLYING_PAN"
+    },
+    {
+      "SeInd": 2483883282,
+      "Uqid": 2483883282,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_FLYING_PAN_SHAKE"
+    },
+    {
+      "SeInd": 827736574,
+      "Uqid": 827736574,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_FRYING_PAN_BAKE"
+    },
+    {
+      "SeInd": 1937795271,
+      "Uqid": 1937795271,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_FRYING_PAN_BAKE_SHORT"
+    },
+    {
+      "SeInd": 2767856866,
+      "Uqid": 2767856866,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_KITCHEN_KNIFE"
+    },
+    {
+      "SeInd": 3655693027,
+      "Uqid": 3655693027,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_PINCH_SAFE"
+    },
+    {
+      "SeInd": 740578440,
+      "Uqid": 740578440,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_SPECIAL_HIT"
+    },
+    {
+      "SeInd": 1811934726,
+      "Uqid": 1811934726,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_STEAM"
+    },
+    {
+      "SeInd": 2423787200,
+      "Uqid": 2423787200,
+      "Setypeid": 970794671,
+      "CriName": "SE_COOK_STEAM_PINCH"
+    },
+    {
+      "SeInd": 1702198784,
+      "Uqid": 1702198784,
+      "Setypeid": 3495411190,
+      "CriName": "SE_DECISION01"
+    },
+    {
+      "SeInd": 4235997114,
+      "Uqid": 4235997114,
+      "Setypeid": 3495411190,
+      "CriName": "SE_DECISION02"
+    },
+    {
+      "SeInd": 885613934,
+      "Uqid": 885613934,
+      "Setypeid": 970794671,
+      "CriName": "SE_DIRECTION_BOSS_NAME"
+    },
+    {
+      "SeInd": 1687812340,
+      "Uqid": 1687812340,
+      "Setypeid": 970794671,
+      "CriName": "SE_DIRECTION_TARGET_APPEARANCE"
+    },
+    {
+      "SeInd": 1488683362,
+      "Uqid": 1488683362,
+      "Setypeid": 970794671,
+      "CriName": "SE_DIRECTION_TARGET_LEVEL"
+    },
+    {
+      "SeInd": 3038902742,
+      "Uqid": 3038902742,
+      "Setypeid": 970794671,
+      "CriName": "SE_ENVIROMENT_STOVE"
+    },
+    {
+      "SeInd": 3164824691,
+      "Uqid": 3164824691,
+      "Setypeid": 970794671,
+      "CriName": "SE_ENVIROMENT_WIND_NPC"
+    },
+    {
+      "SeInd": 2090445841,
+      "Uqid": 2090445841,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_ALCHEMY"
+    },
+    {
+      "SeInd": 569069390,
+      "Uqid": 569069390,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_BLACKSMITH"
+    },
+    {
+      "SeInd": 1152991051,
+      "Uqid": 1152991051,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_CARPENTER"
+    },
+    {
+      "SeInd": 393827293,
+      "Uqid": 393827293,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_INSTALLATION"
+    },
+    {
+      "SeInd": 2929822647,
+      "Uqid": 2929822647,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_MOVE"
+    },
+    {
+      "SeInd": 325922168,
+      "Uqid": 325922168,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_ORDERLINESS"
+    },
+    {
+      "SeInd": 1997359762,
+      "Uqid": 1997359762,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_RECEIPT"
+    },
+    {
+      "SeInd": 2676402082,
+      "Uqid": 2676402082,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_TILE_IN"
+    },
+    {
+      "SeInd": 737708331,
+      "Uqid": 737708331,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_TILE_OUT"
+    },
+    {
+      "SeInd": 2387380314,
+      "Uqid": 2387380314,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_TRAPEZE"
+    },
+    {
+      "SeInd": 3615892626,
+      "Uqid": 3615892626,
+      "Setypeid": 970794671,
+      "CriName": "SE_FACILITY_WATERRING"
+    },
+    {
+      "SeInd": 2653618748,
+      "Uqid": 2653618748,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_CUT_TREE"
+    },
+    {
+      "SeInd": 2502255262,
+      "Uqid": 2502255262,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_CUT_TREE_CHARGE"
+    },
+    {
+      "SeInd": 1699486473,
+      "Uqid": 1699486473,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_FALLEN_TREE"
+    },
+    {
+      "SeInd": 3192693308,
+      "Uqid": 3192693308,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_FALLEN_TREE_BOSS"
+    },
+    {
+      "SeInd": 2325726624,
+      "Uqid": 2325726624,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_GOD"
+    },
+    {
+      "SeInd": 707155831,
+      "Uqid": 707155831,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_REPEL"
+    },
+    {
+      "SeInd": 3934001873,
+      "Uqid": 3934001873,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_SHAKE_TREE_BOSS"
+    },
+    {
+      "SeInd": 369214987,
+      "Uqid": 369214987,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_SPECIAL_HIT"
+    },
+    {
+      "SeInd": 1257495276,
+      "Uqid": 1257495276,
+      "Setypeid": 970794671,
+      "CriName": "SE_FELLING_SWEET_HIT"
+    },
+    {
+      "SeInd": 3408364415,
+      "Uqid": 3408364415,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_DEMO_FLASH"
+    },
+    {
+      "SeInd": 2050306104,
+      "Uqid": 2050306104,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_DEMO_SCREAM_DEAD"
+    },
+    {
+      "SeInd": 2961258865,
+      "Uqid": 2961258865,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_DEMO_SCREAM_START"
+    },
+    {
+      "SeInd": 980859261,
+      "Uqid": 980859261,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_DEMO_WING"
+    },
+    {
+      "SeInd": 43028167,
+      "Uqid": 43028167,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_AKHMORN01"
+    },
+    {
+      "SeInd": 2610552701,
+      "Uqid": 2610552701,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_AKHMORN02"
+    },
+    {
+      "SeInd": 1302281659,
+      "Uqid": 1302281659,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_ATTACK01"
+    },
+    {
+      "SeInd": 3566627841,
+      "Uqid": 3566627841,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_ATTACK02"
+    },
+    {
+      "SeInd": 3651286537,
+      "Uqid": 3651286537,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_DOWN"
+    },
+    {
+      "SeInd": 3985334803,
+      "Uqid": 3985334803,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_EARTH_SHAKER"
+    },
+    {
+      "SeInd": 3146988962,
+      "Uqid": 3146988962,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_FLARE_BREATH"
+    },
+    {
+      "SeInd": 3248024555,
+      "Uqid": 3248024555,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_FLARE_STAR"
+    },
+    {
+      "SeInd": 4152645136,
+      "Uqid": 4152645136,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_FLATTEN"
+    },
+    {
+      "SeInd": 701107041,
+      "Uqid": 701107041,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_GIGA_FLARE01"
+    },
+    {
+      "SeInd": 2965592795,
+      "Uqid": 2965592795,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_GIGA_FLARE02"
+    },
+    {
+      "SeInd": 79048499,
+      "Uqid": 79048499,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_MEGA_DIVE"
+    },
+    {
+      "SeInd": 3387388359,
+      "Uqid": 3387388359,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_MEGA_FLARE01"
+    },
+    {
+      "SeInd": 1357783165,
+      "Uqid": 1357783165,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_MEGA_FLARE02"
+    },
+    {
+      "SeInd": 1541627508,
+      "Uqid": 1541627508,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_RISE"
+    },
+    {
+      "SeInd": 77762379,
+      "Uqid": 77762379,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_RYUJIN_HOUKOU"
+    },
+    {
+      "SeInd": 2521200003,
+      "Uqid": 2521200003,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_TEMPEST"
+    },
+    {
+      "SeInd": 2580671494,
+      "Uqid": 2580671494,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_TERA_FLARE01"
+    },
+    {
+      "SeInd": 14204348,
+      "Uqid": 14204348,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_BAHAMUT_SKILL_TERA_FLARE02"
+    },
+    {
+      "SeInd": 1808779358,
+      "Uqid": 1808779358,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SKILL_CIRCLE_OF_DOOM"
+    },
+    {
+      "SeInd": 2695938782,
+      "Uqid": 2695938782,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SKILL_CUREGA01"
+    },
+    {
+      "SeInd": 968463204,
+      "Uqid": 968463204,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SKILL_CUREGA02"
+    },
+    {
+      "SeInd": 1321116658,
+      "Uqid": 1321116658,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SKILL_CUREGA03"
+    },
+    {
+      "SeInd": 3549050457,
+      "Uqid": 3549050457,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SKILL_FLARE"
+    },
+    {
+      "SeInd": 87991253,
+      "Uqid": 87991253,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SKILL_SENTINEL"
+    },
+    {
+      "SeInd": 1367302072,
+      "Uqid": 1367302072,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SKILL_SOULEATER01"
+    },
+    {
+      "SeInd": 3363180034,
+      "Uqid": 3363180034,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SKILL_SOULEATER02"
+    },
+    {
+      "SeInd": 1201514,
+      "Uqid": 1201514,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SYSTEM_CANCEL"
+    },
+    {
+      "SeInd": 1481828155,
+      "Uqid": 1481828155,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SYSTEM_DECISION"
+    },
+    {
+      "SeInd": 2634392214,
+      "Uqid": 2634392214,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SYSTEM_GO_BATTLE"
+    },
+    {
+      "SeInd": 2878148467,
+      "Uqid": 2878148467,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SYSTEM_PAGE_SLIDE"
+    },
+    {
+      "SeInd": 2135473113,
+      "Uqid": 2135473113,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_SYSTEM_TIME_COUNT"
+    },
+    {
+      "SeInd": 1320756649,
+      "Uqid": 1320756649,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_DEMO_DOWN"
+    },
+    {
+      "SeInd": 2033429998,
+      "Uqid": 2033429998,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_DEMO_FIST"
+    },
+    {
+      "SeInd": 2331233046,
+      "Uqid": 2331233046,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_DEMO_FLASH"
+    },
+    {
+      "SeInd": 3844322331,
+      "Uqid": 3844322331,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_DEMO_SCREAM_DEAD"
+    },
+    {
+      "SeInd": 309943943,
+      "Uqid": 309943943,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_DEMO_SCREAM_START"
+    },
+    {
+      "SeInd": 949553905,
+      "Uqid": 949553905,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_GEKISHIN"
+    },
+    {
+      "SeInd": 4104965708,
+      "Uqid": 4104965708,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_GEO_CRASH_FALL"
+    },
+    {
+      "SeInd": 4006976631,
+      "Uqid": 4006976631,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_GEO_CRASH_LANDING"
+    },
+    {
+      "SeInd": 419877094,
+      "Uqid": 419877094,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_IKARI"
+    },
+    {
+      "SeInd": 3763366298,
+      "Uqid": 3763366298,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_LAND_SLIDE"
+    },
+    {
+      "SeInd": 2424331585,
+      "Uqid": 2424331585,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_MOUNTAIN_BUSTER"
+    },
+    {
+      "SeInd": 4096572729,
+      "Uqid": 4096572729,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_OMOMI_ATTACK"
+    },
+    {
+      "SeInd": 361986391,
+      "Uqid": 361986391,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_OMOMI_START"
+    },
+    {
+      "SeInd": 193195941,
+      "Uqid": 193195941,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_ROCK_BUSTER"
+    },
+    {
+      "SeInd": 2088289898,
+      "Uqid": 2088289898,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_SHINKAKU"
+    },
+    {
+      "SeInd": 1479177429,
+      "Uqid": 1479177429,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_START"
+    },
+    {
+      "SeInd": 642094592,
+      "Uqid": 642094592,
+      "Setypeid": 970794671,
+      "CriName": "SE_FF14_TITAN_SKILL_SWING"
+    },
+    {
+      "SeInd": 2979005893,
+      "Uqid": 2979005893,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_BREAK_LINE"
+    },
+    {
+      "SeInd": 1769234728,
+      "Uqid": 1769234728,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_CAST"
+    },
+    {
+      "SeInd": 2668980391,
+      "Uqid": 2668980391,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_CATCH"
+    },
+    {
+      "SeInd": 1944288578,
+      "Uqid": 1944288578,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_CATCH_CLOUD"
+    },
+    {
+      "SeInd": 3781185413,
+      "Uqid": 3781185413,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_CATCH_LAVA"
+    },
+    {
+      "SeInd": 460022938,
+      "Uqid": 460022938,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_CATCH_SAND"
+    },
+    {
+      "SeInd": 1747059991,
+      "Uqid": 1747059991,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_CLOUD"
+    },
+    {
+      "SeInd": 656496299,
+      "Uqid": 656496299,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_HIT"
+    },
+    {
+      "SeInd": 2118905892,
+      "Uqid": 2118905892,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_LAND_LAVA"
+    },
+    {
+      "SeInd": 2218842939,
+      "Uqid": 2218842939,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_LAND_SAND"
+    },
+    {
+      "SeInd": 465749901,
+      "Uqid": 465749901,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_LAND_WATER"
+    },
+    {
+      "SeInd": 3413172868,
+      "Uqid": 3413172868,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_LINE_PINCH"
+    },
+    {
+      "SeInd": 2301416591,
+      "Uqid": 2301416591,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_REEL"
+    },
+    {
+      "SeInd": 253385006,
+      "Uqid": 253385006,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_SPECIAL_HIT"
+    },
+    {
+      "SeInd": 2204227873,
+      "Uqid": 2204227873,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_SPLASH"
+    },
+    {
+      "SeInd": 1741473532,
+      "Uqid": 1741473532,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_SPLASH_CLOUD"
+    },
+    {
+      "SeInd": 3481779865,
+      "Uqid": 3481779865,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_SPLASH_LAVA"
+    },
+    {
+      "SeInd": 898405766,
+      "Uqid": 898405766,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_SPLASH_SAND"
+    },
+    {
+      "SeInd": 3835157229,
+      "Uqid": 3835157229,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_SWEET_HIT"
+    },
+    {
+      "SeInd": 3957735888,
+      "Uqid": 3957735888,
+      "Setypeid": 970794671,
+      "CriName": "SE_FISHING_TENSION_MOVE"
+    },
+    {
+      "SeInd": 3166145545,
+      "Uqid": 3166145545,
+      "Setypeid": 970794671,
+      "CriName": "SE_FLAMEBOMB_TIMEOVER"
+    },
+    {
+      "SeInd": 318479878,
+      "Uqid": 318479878,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_BRAKE"
+    },
+    {
+      "SeInd": 3771202063,
+      "Uqid": 3771202063,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_BRIDGE_1"
+    },
+    {
+      "SeInd": 2043587509,
+      "Uqid": 2043587509,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_BRIDGE_2"
+    },
+    {
+      "SeInd": 248093475,
+      "Uqid": 248093475,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_BRIDGE_3"
+    },
+    {
+      "SeInd": 835173908,
+      "Uqid": 835173908,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_CARPET_1"
+    },
+    {
+      "SeInd": 2832134062,
+      "Uqid": 2832134062,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_CARPET_2"
+    },
+    {
+      "SeInd": 2288091995,
+      "Uqid": 2288091995,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_FLOOR_1"
+    },
+    {
+      "SeInd": 292082401,
+      "Uqid": 292082401,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_FLOOR_2"
+    },
+    {
+      "SeInd": 3019364213,
+      "Uqid": 3019364213,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_GRASS_1"
+    },
+    {
+      "SeInd": 721323727,
+      "Uqid": 721323727,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_GRASS_2"
+    },
+    {
+      "SeInd": 1576646233,
+      "Uqid": 1576646233,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_GRASS_3"
+    },
+    {
+      "SeInd": 4081145153,
+      "Uqid": 4081145153,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_ICE_1"
+    },
+    {
+      "SeInd": 1783104763,
+      "Uqid": 1783104763,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_ICE_2"
+    },
+    {
+      "SeInd": 4145916208,
+      "Uqid": 4145916208,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_LAVA_01"
+    },
+    {
+      "SeInd": 1846868106,
+      "Uqid": 1846868106,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_LAVA_02"
+    },
+    {
+      "SeInd": 2903134525,
+      "Uqid": 2903134525,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_MAD_1"
+    },
+    {
+      "SeInd": 872611975,
+      "Uqid": 872611975,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_MAD_2"
+    },
+    {
+      "SeInd": 1718952128,
+      "Uqid": 1718952128,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SAND_1"
+    },
+    {
+      "SeInd": 4286345594,
+      "Uqid": 4286345594,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SAND_2"
+    },
+    {
+      "SeInd": 1123667293,
+      "Uqid": 1123667293,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SNOW_1"
+    },
+    {
+      "SeInd": 3689979111,
+      "Uqid": 3689979111,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SNOW_2"
+    },
+    {
+      "SeInd": 2901912689,
+      "Uqid": 2901912689,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SNOW_3"
+    },
+    {
+      "SeInd": 1369992805,
+      "Uqid": 1369992805,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SOIL_1_001"
+    },
+    {
+      "SeInd": 3366010847,
+      "Uqid": 3366010847,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SOIL_1_002"
+    },
+    {
+      "SeInd": 3215331145,
+      "Uqid": 3215331145,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SOIL_1_003"
+    },
+    {
+      "SeInd": 566401770,
+      "Uqid": 566401770,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SOIL_1_004"
+    },
+    {
+      "SeInd": 369628341,
+      "Uqid": 369628341,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SOIL_2_001"
+    },
+    {
+      "SeInd": 2399225103,
+      "Uqid": 2399225103,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SOIL_2_002"
+    },
+    {
+      "SeInd": 4161172889,
+      "Uqid": 4161172889,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SOIL_2_003"
+    },
+    {
+      "SeInd": 1717755962,
+      "Uqid": 1717755962,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_SOIL_2_004"
+    },
+    {
+      "SeInd": 4090978900,
+      "Uqid": 4090978900,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_STONE_1"
+    },
+    {
+      "SeInd": 1792947182,
+      "Uqid": 1792947182,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_STONE_2"
+    },
+    {
+      "SeInd": 2996042674,
+      "Uqid": 2996042674,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_VILLAGE_1"
+    },
+    {
+      "SeInd": 731556360,
+      "Uqid": 731556360,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_VILLAGE_2"
+    },
+    {
+      "SeInd": 1553832606,
+      "Uqid": 1553832606,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_VILLAGE_3"
+    },
+    {
+      "SeInd": 3271102269,
+      "Uqid": 3271102269,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_VILLAGE_4"
+    },
+    {
+      "SeInd": 1931020272,
+      "Uqid": 1931020272,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_WATER_DEEP_01"
+    },
+    {
+      "SeInd": 3926939210,
+      "Uqid": 3926939210,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_WATER_DEEP_02"
+    },
+    {
+      "SeInd": 57930623,
+      "Uqid": 57930623,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_WATER_DEEP_04"
+    },
+    {
+      "SeInd": 638618649,
+      "Uqid": 638618649,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_WATER_DEEP_IDLE_1"
+    },
+    {
+      "SeInd": 3206143395,
+      "Uqid": 3206143395,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_WATER_DEEP_IDLE_2"
+    },
+    {
+      "SeInd": 742744777,
+      "Uqid": 742744777,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_WATER_SHALLOW_1"
+    },
+    {
+      "SeInd": 3041670003,
+      "Uqid": 3041670003,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_WATER_SHALLOW_2"
+    },
+    {
+      "SeInd": 3259696101,
+      "Uqid": 3259696101,
+      "Setypeid": 970794671,
+      "CriName": "SE_FOOTSTEP_WATER_SHALLOW_3"
+    },
+    {
+      "SeInd": 292408361,
+      "Uqid": 292408361,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_AWAKENING"
+    },
+    {
+      "SeInd": 3907575764,
+      "Uqid": 3907575764,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_AWAKENING_WO"
+    },
+    {
+      "SeInd": 4054170946,
+      "Uqid": 4054170946,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_FT"
+    },
+    {
+      "SeInd": 1045751318,
+      "Uqid": 1045751318,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_FT_LAST"
+    },
+    {
+      "SeInd": 267516352,
+      "Uqid": 267516352,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_FT_WO"
+    },
+    {
+      "SeInd": 378135041,
+      "Uqid": 378135041,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_HAKURYU"
+    },
+    {
+      "SeInd": 3793265922,
+      "Uqid": 3793265922,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_MASTERRARE"
+    },
+    {
+      "SeInd": 3437236124,
+      "Uqid": 3437236124,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_PRAM_UP"
+    },
+    {
+      "SeInd": 2112563830,
+      "Uqid": 2112563830,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_RARE"
+    },
+    {
+      "SeInd": 2999289091,
+      "Uqid": 2999289091,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_SHT_STAR"
+    },
+    {
+      "SeInd": 4183680651,
+      "Uqid": 4183680651,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_STARRARE"
+    },
+    {
+      "SeInd": 1423751231,
+      "Uqid": 1423751231,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_STAR_APP"
+    },
+    {
+      "SeInd": 1313417913,
+      "Uqid": 1313417913,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_STAR_BIG"
+    },
+    {
+      "SeInd": 596992573,
+      "Uqid": 596992573,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_STAR_BREAK"
+    },
+    {
+      "SeInd": 2099166992,
+      "Uqid": 2099166992,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_STAR_FALL"
+    },
+    {
+      "SeInd": 1062457835,
+      "Uqid": 1062457835,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_STAR_IN"
+    },
+    {
+      "SeInd": 1615992885,
+      "Uqid": 1615992885,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_STAR_STICK"
+    },
+    {
+      "SeInd": 1865846511,
+      "Uqid": 1865846511,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_WPN_11_APP"
+    },
+    {
+      "SeInd": 4262595588,
+      "Uqid": 4262595588,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_WPN_11_START"
+    },
+    {
+      "SeInd": 1820927204,
+      "Uqid": 1820927204,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_WPN_N_APP"
+    },
+    {
+      "SeInd": 736468102,
+      "Uqid": 736468102,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_WPN_N_START"
+    },
+    {
+      "SeInd": 3899123370,
+      "Uqid": 3899123370,
+      "Setypeid": 970794671,
+      "CriName": "SE_GACHA_YUERIA"
+    },
+    {
+      "SeInd": 3809301582,
+      "Uqid": 3809301582,
+      "Setypeid": 970794671,
+      "CriName": "SE_GODMODE_START"
+    },
+    {
+      "SeInd": 3138709354,
+      "Uqid": 3138709354,
+      "Setypeid": 970794671,
+      "CriName": "SE_GOD_BOARD_CLEAR_VER1"
+    },
+    {
+      "SeInd": 572372688,
+      "Uqid": 572372688,
+      "Setypeid": 970794671,
+      "CriName": "SE_GOD_BOARD_CLEAR_VER2"
+    },
+    {
+      "SeInd": 3908600120,
+      "Uqid": 3908600120,
+      "Setypeid": 970794671,
+      "CriName": "SE_GOD_ITEM"
+    },
+    {
+      "SeInd": 3548000918,
+      "Uqid": 3548000918,
+      "Setypeid": 970794671,
+      "CriName": "SE_GOD_MISSION_CLEAR"
+    },
+    {
+      "SeInd": 1109280561,
+      "Uqid": 1109280561,
+      "Setypeid": 970794671,
+      "CriName": "SE_GOD_POWER"
+    },
+    {
+      "SeInd": 253858418,
+      "Uqid": 253858418,
+      "Setypeid": 970794671,
+      "CriName": "SE_GREETING_1"
+    },
+    {
+      "SeInd": 2519253960,
+      "Uqid": 2519253960,
+      "Setypeid": 970794671,
+      "CriName": "SE_GREETING_2"
+    },
+    {
+      "SeInd": 1344871912,
+      "Uqid": 1344871912,
+      "Setypeid": 970794671,
+      "CriName": "SE_HAPPY_DOWN"
+    },
+    {
+      "SeInd": 242809187,
+      "Uqid": 242809187,
+      "Setypeid": 970794671,
+      "CriName": "SE_HAPPY_UP"
+    },
+    {
+      "SeInd": 3198494830,
+      "Uqid": 3198494830,
+      "Setypeid": 970794671,
+      "CriName": "SE_ICON_EXCLAMATION"
+    },
+    {
+      "SeInd": 3635729210,
+      "Uqid": 3635729210,
+      "Setypeid": 970794671,
+      "CriName": "SE_ICON_INSPIRATION"
+    },
+    {
+      "SeInd": 2389314881,
+      "Uqid": 2389314881,
+      "Setypeid": 970794671,
+      "CriName": "SE_ICON_JOY"
+    },
+    {
+      "SeInd": 2246192619,
+      "Uqid": 2246192619,
+      "Setypeid": 970794671,
+      "CriName": "SE_ICON_QUESTION"
+    },
+    {
+      "SeInd": 2747253372,
+      "Uqid": 2747253372,
+      "Setypeid": 970794671,
+      "CriName": "SE_INFO_HAPPY"
+    },
+    {
+      "SeInd": 747277092,
+      "Uqid": 747277092,
+      "Setypeid": 970794671,
+      "CriName": "SE_INFO_STAR"
+    },
+    {
+      "SeInd": 1855551914,
+      "Uqid": 1855551914,
+      "Setypeid": 970794671,
+      "CriName": "SE_ITEM_REJECT"
+    },
+    {
+      "SeInd": 2979296531,
+      "Uqid": 2979296531,
+      "Setypeid": 970794671,
+      "CriName": "SE_JEM_GET"
+    },
+    {
+      "SeInd": 475852440,
+      "Uqid": 475852440,
+      "Setypeid": 970794671,
+      "CriName": "SE_LOGIN_BONUS"
+    },
+    {
+      "SeInd": 1018698068,
+      "Uqid": 1018698068,
+      "Setypeid": 970794671,
+      "CriName": "SE_MAP_MAKER"
+    },
+    {
+      "SeInd": 1682936441,
+      "Uqid": 1682936441,
+      "Setypeid": 970794671,
+      "CriName": "SE_MEDAL_SET"
+    },
+    {
+      "SeInd": 1137070267,
+      "Uqid": 1137070267,
+      "Setypeid": 970794671,
+      "CriName": "SE_MESSAGE_FEMALE01"
+    },
+    {
+      "SeInd": 4132563884,
+      "Uqid": 4132563884,
+      "Setypeid": 970794671,
+      "CriName": "SE_MESSAGE_HAKURYU"
+    },
+    {
+      "SeInd": 574188947,
+      "Uqid": 574188947,
+      "Setypeid": 970794671,
+      "CriName": "SE_MESSAGE_MALE01"
+    },
+    {
+      "SeInd": 1732458636,
+      "Uqid": 1732458636,
+      "Setypeid": 970794671,
+      "CriName": "SE_MESSAGE_SPECIAL"
+    },
+    {
+      "SeInd": 1886727340,
+      "Uqid": 1886727340,
+      "Setypeid": 970794671,
+      "CriName": "SE_MESSAGE_SPECIAL01"
+    },
+    {
+      "SeInd": 1427172369,
+      "Uqid": 1427172369,
+      "Setypeid": 970794671,
+      "CriName": "SE_MESSAGE_SYSTEM"
+    },
+    {
+      "SeInd": 2665545807,
+      "Uqid": 2665545807,
+      "Setypeid": 970794671,
+      "CriName": "SE_MICHIBIKI_POWER"
+    },
+    {
+      "SeInd": 1099808947,
+      "Uqid": 1099808947,
+      "Setypeid": 970794671,
+      "CriName": "SE_MICHIBIKI_TALK"
+    },
+    {
+      "SeInd": 1164923211,
+      "Uqid": 1164923211,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_BEAT"
+    },
+    {
+      "SeInd": 1792423539,
+      "Uqid": 1792423539,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_BEAT_CHARGE"
+    },
+    {
+      "SeInd": 792043826,
+      "Uqid": 792043826,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_BREAK"
+    },
+    {
+      "SeInd": 1271165189,
+      "Uqid": 1271165189,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_BREAK_BOSS"
+    },
+    {
+      "SeInd": 858362033,
+      "Uqid": 858362033,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_GOD"
+    },
+    {
+      "SeInd": 1660840106,
+      "Uqid": 1660840106,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_REPEL"
+    },
+    {
+      "SeInd": 2692113400,
+      "Uqid": 2692113400,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_SHAKE_BOSS"
+    },
+    {
+      "SeInd": 112831395,
+      "Uqid": 112831395,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_SPECIAL_HIT"
+    },
+    {
+      "SeInd": 2149359536,
+      "Uqid": 2149359536,
+      "Setypeid": 970794671,
+      "CriName": "SE_MINING_SWEET_HIT"
+    },
+    {
+      "SeInd": 3603990212,
+      "Uqid": 3603990212,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_DODEKA_STAR"
+    },
+    {
+      "SeInd": 2248828962,
+      "Uqid": 2248828962,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_DODEKA_STAR2"
+    },
+    {
+      "SeInd": 4044183732,
+      "Uqid": 4044183732,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_DODEKA_STAR3"
+    },
+    {
+      "SeInd": 1869204759,
+      "Uqid": 1869204759,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_DODEKA_STAR4"
+    },
+    {
+      "SeInd": 802097214,
+      "Uqid": 802097214,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_EXPLOSION"
+    },
+    {
+      "SeInd": 97308498,
+      "Uqid": 97308498,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_FALL"
+    },
+    {
+      "SeInd": 2679456282,
+      "Uqid": 2679456282,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_FALL2"
+    },
+    {
+      "SeInd": 3904008844,
+      "Uqid": 3904008844,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_FALL3"
+    },
+    {
+      "SeInd": 1993795375,
+      "Uqid": 1993795375,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_FALL4"
+    },
+    {
+      "SeInd": 2789349777,
+      "Uqid": 2789349777,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_FIRE"
+    },
+    {
+      "SeInd": 3686956824,
+      "Uqid": 3686956824,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_FIRE_STORM"
+    },
+    {
+      "SeInd": 2202315958,
+      "Uqid": 2202315958,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_ICE"
+    },
+    {
+      "SeInd": 2046954681,
+      "Uqid": 2046954681,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_KAMAITACHI"
+    },
+    {
+      "SeInd": 3871824427,
+      "Uqid": 3871824427,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_LIGHT_ARROW"
+    },
+    {
+      "SeInd": 562440448,
+      "Uqid": 562440448,
+      "Setypeid": 970794671,
+      "CriName": "SE_MISSILE_THUNDER"
+    },
+    {
+      "SeInd": 837561034,
+      "Uqid": 837561034,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BAT_ATTACK"
+    },
+    {
+      "SeInd": 385987662,
+      "Uqid": 385987662,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BAT_DEATH"
+    },
+    {
+      "SeInd": 3102696016,
+      "Uqid": 3102696016,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BAT_GUY_ATTACK"
+    },
+    {
+      "SeInd": 3345141463,
+      "Uqid": 3345141463,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BAT_GUY_DEATH"
+    },
+    {
+      "SeInd": 2894850306,
+      "Uqid": 2894850306,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BAT_GUY_SPECIAL01"
+    },
+    {
+      "SeInd": 897759416,
+      "Uqid": 897759416,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BAT_GUY_SPECIAL02"
+    },
+    {
+      "SeInd": 1116047406,
+      "Uqid": 1116047406,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BAT_GUY_SPECIAL03"
+    },
+    {
+      "SeInd": 4255531034,
+      "Uqid": 4255531034,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BAT_SPECIAL01"
+    },
+    {
+      "SeInd": 3929648829,
+      "Uqid": 3929648829,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BEAT_HEAVY"
+    },
+    {
+      "SeInd": 4212295701,
+      "Uqid": 4212295701,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BEAT_LIGHT"
+    },
+    {
+      "SeInd": 3950686599,
+      "Uqid": 3950686599,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BEAT_MIDDLE"
+    },
+    {
+      "SeInd": 1196768219,
+      "Uqid": 1196768219,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BITE01"
+    },
+    {
+      "SeInd": 3730598497,
+      "Uqid": 3730598497,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BITE02"
+    },
+    {
+      "SeInd": 2492728206,
+      "Uqid": 2492728206,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BLEAT_GOAT"
+    },
+    {
+      "SeInd": 4019848810,
+      "Uqid": 4019848810,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BLEAT_SHEEP"
+    },
+    {
+      "SeInd": 2872122066,
+      "Uqid": 2872122066,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BREATH01"
+    },
+    {
+      "SeInd": 842550120,
+      "Uqid": 842550120,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BREATH02"
+    },
+    {
+      "SeInd": 1161788414,
+      "Uqid": 1161788414,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BREATH03"
+    },
+    {
+      "SeInd": 3680235101,
+      "Uqid": 3680235101,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BREATH04"
+    },
+    {
+      "SeInd": 2891767499,
+      "Uqid": 2891767499,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BREATH05"
+    },
+    {
+      "SeInd": 894799729,
+      "Uqid": 894799729,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_BREATH06"
+    },
+    {
+      "SeInd": 878110481,
+      "Uqid": 878110481,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_CRAWL_INSECT"
+    },
+    {
+      "SeInd": 2265371432,
+      "Uqid": 2265371432,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_CRAWL_SLIME"
+    },
+    {
+      "SeInd": 1967582621,
+      "Uqid": 1967582621,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_CRAWL_SNAKE"
+    },
+    {
+      "SeInd": 3704875193,
+      "Uqid": 3704875193,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_CROAK_FLOG"
+    },
+    {
+      "SeInd": 3676973943,
+      "Uqid": 3676973943,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_CROW"
+    },
+    {
+      "SeInd": 1282526620,
+      "Uqid": 1282526620,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_DRAGON_SPECIAL01"
+    },
+    {
+      "SeInd": 3581451302,
+      "Uqid": 3581451302,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_DRAGON_SPECIAL02"
+    },
+    {
+      "SeInd": 426111663,
+      "Uqid": 426111663,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_FLY_GIANT"
+    },
+    {
+      "SeInd": 2207836392,
+      "Uqid": 2207836392,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_FLY_INSECT"
+    },
+    {
+      "SeInd": 952778782,
+      "Uqid": 952778782,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_GARGOYLE_KOBUN_VO01"
+    },
+    {
+      "SeInd": 2713915812,
+      "Uqid": 2713915812,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_GARGOYLE_KOBUN_VO02"
+    },
+    {
+      "SeInd": 1222135457,
+      "Uqid": 1222135457,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_GROAN_ANIMAL"
+    },
+    {
+      "SeInd": 1027767716,
+      "Uqid": 1027767716,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_GROAN_DINOSAUR"
+    },
+    {
+      "SeInd": 3160007596,
+      "Uqid": 3160007596,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_HINOSIN2_DAMAGE01"
+    },
+    {
+      "SeInd": 626045462,
+      "Uqid": 626045462,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_HINOSIN2_DAMAGE02"
+    },
+    {
+      "SeInd": 1599977826,
+      "Uqid": 1599977826,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_HINOSIN_DAMAGE01"
+    },
+    {
+      "SeInd": 3327453400,
+      "Uqid": 3327453400,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_HINOSIN_DAMAGE02"
+    },
+    {
+      "SeInd": 2975062094,
+      "Uqid": 2975062094,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_HINOSIN_DAMAGE03"
+    },
+    {
+      "SeInd": 3810894309,
+      "Uqid": 3810894309,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_HOOT_OWL"
+    },
+    {
+      "SeInd": 2432358966,
+      "Uqid": 2432358966,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_HOWLING"
+    },
+    {
+      "SeInd": 1128166840,
+      "Uqid": 1128166840,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_JIBANYAN_SWING01"
+    },
+    {
+      "SeInd": 3661046786,
+      "Uqid": 3661046786,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_JIBANYAN_SWING02"
+    },
+    {
+      "SeInd": 2905609364,
+      "Uqid": 2905609364,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_JIBANYAN_SWING03"
+    },
+    {
+      "SeInd": 971684539,
+      "Uqid": 971684539,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_JUMP01"
+    },
+    {
+      "SeInd": 2699291393,
+      "Uqid": 2699291393,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_JUMP02"
+    },
+    {
+      "SeInd": 3622099863,
+      "Uqid": 3622099863,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_JUMP03"
+    },
+    {
+      "SeInd": 981111890,
+      "Uqid": 981111890,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_KAMENZOKU_VO01"
+    },
+    {
+      "SeInd": 2742273512,
+      "Uqid": 2742273512,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_KAMENZOKU_VO02"
+    },
+    {
+      "SeInd": 110267568,
+      "Uqid": 110267568,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_KOMASAN_SWING01"
+    },
+    {
+      "SeInd": 1982334525,
+      "Uqid": 1982334525,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_LANDING01"
+    },
+    {
+      "SeInd": 4011939719,
+      "Uqid": 4011939719,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_LANDING02"
+    },
+    {
+      "SeInd": 2552653585,
+      "Uqid": 2552653585,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_LANDING03"
+    },
+    {
+      "SeInd": 105050802,
+      "Uqid": 105050802,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_LANDING04"
+    },
+    {
+      "SeInd": 3961609383,
+      "Uqid": 3961609383,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_MINOTAUR_VO01"
+    },
+    {
+      "SeInd": 1965559069,
+      "Uqid": 1965559069,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_MINOTAUR_VO02"
+    },
+    {
+      "SeInd": 3336699118,
+      "Uqid": 3336699118,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_MOO_BULL"
+    },
+    {
+      "SeInd": 1671706601,
+      "Uqid": 1671706601,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_OPEN_BOX"
+    },
+    {
+      "SeInd": 1510811265,
+      "Uqid": 1510811265,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_PUNCH01"
+    },
+    {
+      "SeInd": 3271849787,
+      "Uqid": 3271849787,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_PUNCH02"
+    },
+    {
+      "SeInd": 1611296034,
+      "Uqid": 1611296034,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_ROAR_BEAR"
+    },
+    {
+      "SeInd": 1586312559,
+      "Uqid": 1586312559,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_ROAR_DINOSAUR"
+    },
+    {
+      "SeInd": 2204271534,
+      "Uqid": 2204271534,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_ROAR_GORILLA"
+    },
+    {
+      "SeInd": 1027754692,
+      "Uqid": 1027754692,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_ROAR_HANIWA"
+    },
+    {
+      "SeInd": 3598788410,
+      "Uqid": 3598788410,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SCRATCH01"
+    },
+    {
+      "SeInd": 1334343296,
+      "Uqid": 1334343296,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SCRATCH02"
+    },
+    {
+      "SeInd": 3331371278,
+      "Uqid": 3331371278,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SHOT_HEAVY"
+    },
+    {
+      "SeInd": 3619395494,
+      "Uqid": 3619395494,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SHOT_LIGHT"
+    },
+    {
+      "SeInd": 3107912366,
+      "Uqid": 3107912366,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SHOT_MIDDLE"
+    },
+    {
+      "SeInd": 544073422,
+      "Uqid": 544073422,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SLIME_ATTACK"
+    },
+    {
+      "SeInd": 2546396309,
+      "Uqid": 2546396309,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SLIME_DEATH"
+    },
+    {
+      "SeInd": 4060089051,
+      "Uqid": 4060089051,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SLIME_LIFE"
+    },
+    {
+      "SeInd": 123716387,
+      "Uqid": 123716387,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SLIME_SPECIAL01"
+    },
+    {
+      "SeInd": 3756606557,
+      "Uqid": 3756606557,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SNORE01"
+    },
+    {
+      "SeInd": 1189090791,
+      "Uqid": 1189090791,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SNORE02"
+    },
+    {
+      "SeInd": 394410310,
+      "Uqid": 394410310,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SPLASH"
+    },
+    {
+      "SeInd": 3438161713,
+      "Uqid": 3438161713,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SWING_HEAVY"
+    },
+    {
+      "SeInd": 3720677785,
+      "Uqid": 3720677785,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SWING_LIGHT"
+    },
+    {
+      "SeInd": 257075469,
+      "Uqid": 257075469,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_SWING_MIDDLE"
+    },
+    {
+      "SeInd": 2647544267,
+      "Uqid": 2647544267,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_THREAT_SNAKE"
+    },
+    {
+      "SeInd": 1759090473,
+      "Uqid": 1759090473,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_THUNDER_BOLT"
+    },
+    {
+      "SeInd": 2336335121,
+      "Uqid": 2336335121,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_TORARAI_VO"
+    },
+    {
+      "SeInd": 273107146,
+      "Uqid": 273107146,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_ULTRASONIC_WAVE"
+    },
+    {
+      "SeInd": 2727088294,
+      "Uqid": 2727088294,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_BAT"
+    },
+    {
+      "SeInd": 3303872247,
+      "Uqid": 3303872247,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_BIRD"
+    },
+    {
+      "SeInd": 1365474861,
+      "Uqid": 1365474861,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_DEMON"
+    },
+    {
+      "SeInd": 4231572585,
+      "Uqid": 4231572585,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_GHOST"
+    },
+    {
+      "SeInd": 3749021277,
+      "Uqid": 3749021277,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_GORILLA"
+    },
+    {
+      "SeInd": 1967954658,
+      "Uqid": 1967954658,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN01"
+    },
+    {
+      "SeInd": 3963997016,
+      "Uqid": 3963997016,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN02"
+    },
+    {
+      "SeInd": 2604858318,
+      "Uqid": 2604858318,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN03"
+    },
+    {
+      "SeInd": 86404717,
+      "Uqid": 86404717,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN04"
+    },
+    {
+      "SeInd": 1914789627,
+      "Uqid": 1914789627,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN05"
+    },
+    {
+      "SeInd": 3610428758,
+      "Uqid": 3610428758,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN201"
+    },
+    {
+      "SeInd": 1312527596,
+      "Uqid": 1312527596,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN202"
+    },
+    {
+      "SeInd": 960275578,
+      "Uqid": 960275578,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN203"
+    },
+    {
+      "SeInd": 2807575001,
+      "Uqid": 2807575001,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN204"
+    },
+    {
+      "SeInd": 3495887183,
+      "Uqid": 3495887183,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_HINOSIN205"
+    },
+    {
+      "SeInd": 242711772,
+      "Uqid": 242711772,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_JIBANYAN01"
+    },
+    {
+      "SeInd": 2541628774,
+      "Uqid": 2541628774,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_JIBANYAN02"
+    },
+    {
+      "SeInd": 3766033904,
+      "Uqid": 3766033904,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_JIBANYAN03"
+    },
+    {
+      "SeInd": 2115864659,
+      "Uqid": 2115864659,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_JIBANYAN04"
+    },
+    {
+      "SeInd": 152746181,
+      "Uqid": 152746181,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_JIBANYAN05"
+    },
+    {
+      "SeInd": 2417224063,
+      "Uqid": 2417224063,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_JIBANYAN06"
+    },
+    {
+      "SeInd": 3876903401,
+      "Uqid": 3876903401,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_JIBANYAN07"
+    },
+    {
+      "SeInd": 2007745656,
+      "Uqid": 2007745656,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_JIBANYAN08"
+    },
+    {
+      "SeInd": 1157168290,
+      "Uqid": 1157168290,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_KOMASAN01"
+    },
+    {
+      "SeInd": 3723603224,
+      "Uqid": 3723603224,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_KOMASAN02"
+    },
+    {
+      "SeInd": 3459987692,
+      "Uqid": 3459987692,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_MANDRAKE"
+    },
+    {
+      "SeInd": 1028368933,
+      "Uqid": 1028368933,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_RUB_TREE"
+    },
+    {
+      "SeInd": 628530137,
+      "Uqid": 628530137,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_STONE_ATTACK"
+    },
+    {
+      "SeInd": 2364336210,
+      "Uqid": 2364336210,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_STONE_DEATH"
+    },
+    {
+      "SeInd": 1667658958,
+      "Uqid": 1667658958,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_WHISPER01"
+    },
+    {
+      "SeInd": 4201588084,
+      "Uqid": 4201588084,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_WHISPER02"
+    },
+    {
+      "SeInd": 2781813575,
+      "Uqid": 2781813575,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_VOICE_ZOMBIE"
+    },
+    {
+      "SeInd": 2561637936,
+      "Uqid": 2561637936,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_WHISPER_SWING01"
+    },
+    {
+      "SeInd": 27668362,
+      "Uqid": 27668362,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_WHISPER_SWING02"
+    },
+    {
+      "SeInd": 678349670,
+      "Uqid": 678349670,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_WING01"
+    },
+    {
+      "SeInd": 2976357084,
+      "Uqid": 2976357084,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_WING02"
+    },
+    {
+      "SeInd": 3328223818,
+      "Uqid": 3328223818,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_WING03"
+    },
+    {
+      "SeInd": 13943373,
+      "Uqid": 13943373,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_YAWN01"
+    },
+    {
+      "SeInd": 2581435383,
+      "Uqid": 2581435383,
+      "Setypeid": 970794671,
+      "CriName": "SE_MONSTER_YAWN02"
+    },
+    {
+      "SeInd": 2229352728,
+      "Uqid": 2229352728,
+      "Setypeid": 970794671,
+      "CriName": "SE_NEEDLEWORK_MACHINE"
+    },
+    {
+      "SeInd": 2662491267,
+      "Uqid": 2662491267,
+      "Setypeid": 970794671,
+      "CriName": "SE_NEEDLEWORK_MACHINE_READY"
+    },
+    {
+      "SeInd": 1080588339,
+      "Uqid": 1080588339,
+      "Setypeid": 970794671,
+      "CriName": "SE_NEEDLEWORK_SCISSORS"
+    },
+    {
+      "SeInd": 1952704937,
+      "Uqid": 1952704937,
+      "Setypeid": 970794671,
+      "CriName": "SE_NEEDLEWORK_SPECIAL_HIT"
+    },
+    {
+      "SeInd": 2698481511,
+      "Uqid": 2698481511,
+      "Setypeid": 970794671,
+      "CriName": "SE_NEEDLEWORK_STICK"
+    },
+    {
+      "SeInd": 2394688193,
+      "Uqid": 2394688193,
+      "Setypeid": 970794671,
+      "CriName": "SE_NEEDLEWORK_WHEEL"
+    },
+    {
+      "SeInd": 1732879435,
+      "Uqid": 1732879435,
+      "Setypeid": 970794671,
+      "CriName": "SE_NEEDLEWORK_WHEEL_PINCH"
+    },
+    {
+      "SeInd": 2490337120,
+      "Uqid": 2490337120,
+      "Setypeid": 970794671,
+      "CriName": "SE_NEEDLEWORK_WHEEL_REPAIR"
+    },
+    {
+      "SeInd": 46587382,
+      "Uqid": 46587382,
+      "Setypeid": 970794671,
+      "CriName": "SE_NONE"
+    },
+    {
+      "SeInd": 3867687828,
+      "Uqid": 3867687828,
+      "Setypeid": 970794671,
+      "CriName": "SE_NO_SELECT"
+    },
+    {
+      "SeInd": 1486692726,
+      "Uqid": 1486692726,
+      "Setypeid": 970794671,
+      "CriName": "SE_NULL"
+    },
+    {
+      "SeInd": 2827375381,
+      "Uqid": 2827375381,
+      "Setypeid": 970794671,
+      "CriName": "SE_ORGANIZATION_IN"
+    },
+    {
+      "SeInd": 2127212528,
+      "Uqid": 2127212528,
+      "Setypeid": 970794671,
+      "CriName": "SE_ORGANIZATION_OUT"
+    },
+    {
+      "SeInd": 2256564175,
+      "Uqid": 2256564175,
+      "Setypeid": 970794671,
+      "CriName": "SE_PET_BIRD"
+    },
+    {
+      "SeInd": 2091855544,
+      "Uqid": 2091855544,
+      "Setypeid": 970794671,
+      "CriName": "SE_PET_CAT"
+    },
+    {
+      "SeInd": 3852535435,
+      "Uqid": 3852535435,
+      "Setypeid": 970794671,
+      "CriName": "SE_PET_CAT_DAMAGE"
+    },
+    {
+      "SeInd": 1675449453,
+      "Uqid": 1675449453,
+      "Setypeid": 970794671,
+      "CriName": "SE_PET_DOG"
+    },
+    {
+      "SeInd": 1032581288,
+      "Uqid": 1032581288,
+      "Setypeid": 970794671,
+      "CriName": "SE_PET_DOG_DAMAGE"
+    },
+    {
+      "SeInd": 768579095,
+      "Uqid": 768579095,
+      "Setypeid": 970794671,
+      "CriName": "SE_PICK_TAKE_IT"
+    },
+    {
+      "SeInd": 737259213,
+      "Uqid": 737259213,
+      "Setypeid": 970794671,
+      "CriName": "SE_POCKET_IN_1"
+    },
+    {
+      "SeInd": 3002662775,
+      "Uqid": 3002662775,
+      "Setypeid": 970794671,
+      "CriName": "SE_POCKET_IN_2"
+    },
+    {
+      "SeInd": 3478218095,
+      "Uqid": 3478218095,
+      "Setypeid": 970794671,
+      "CriName": "SE_POP_UP"
+    },
+    {
+      "SeInd": 440904678,
+      "Uqid": 440904678,
+      "Setypeid": 970794671,
+      "CriName": "SE_POP_UP_ERASE"
+    },
+    {
+      "SeInd": 867712748,
+      "Uqid": 867712748,
+      "Setypeid": 970794671,
+      "CriName": "SE_QUEST_CLEAR"
+    },
+    {
+      "SeInd": 1578606322,
+      "Uqid": 1578606322,
+      "Setypeid": 970794671,
+      "CriName": "SE_QUEST_RETIRE"
+    },
+    {
+      "SeInd": 1232116325,
+      "Uqid": 1232116325,
+      "Setypeid": 970794671,
+      "CriName": "SE_QUEST_START"
+    },
+    {
+      "SeInd": 4248811393,
+      "Uqid": 4248811393,
+      "Setypeid": 970794671,
+      "CriName": "SE_QUEST_TITLE"
+    },
+    {
+      "SeInd": 1010481533,
+      "Uqid": 1010481533,
+      "Setypeid": 970794671,
+      "CriName": "SE_RESULT_BOX"
+    },
+    {
+      "SeInd": 1054464695,
+      "Uqid": 1054464695,
+      "Setypeid": 970794671,
+      "CriName": "SE_RESULT_CLEAR"
+    },
+    {
+      "SeInd": 2654361963,
+      "Uqid": 2654361963,
+      "Setypeid": 970794671,
+      "CriName": "SE_RESULT_EXP_COUNTER"
+    },
+    {
+      "SeInd": 2730767623,
+      "Uqid": 2730767623,
+      "Setypeid": 970794671,
+      "CriName": "SE_RESULT_IN"
+    },
+    {
+      "SeInd": 4235413010,
+      "Uqid": 4235413010,
+      "Setypeid": 970794671,
+      "CriName": "SE_RESULT_LEVEL_UP"
+    },
+    {
+      "SeInd": 670371048,
+      "Uqid": 670371048,
+      "Setypeid": 970794671,
+      "CriName": "SE_RESULT_SUBMISSION_CLEAR"
+    },
+    {
+      "SeInd": 2144292301,
+      "Uqid": 2144292301,
+      "Setypeid": 970794671,
+      "CriName": "SE_RICH_GET"
+    },
+    {
+      "SeInd": 3464077104,
+      "Uqid": 3464077104,
+      "Setypeid": 970794671,
+      "CriName": "SE_RICH_LOST"
+    },
+    {
+      "SeInd": 2069232541,
+      "Uqid": 2069232541,
+      "Setypeid": 970794671,
+      "CriName": "SE_SEAL_RELRASE"
+    },
+    {
+      "SeInd": 335458351,
+      "Uqid": 335458351,
+      "Setypeid": 970794671,
+      "CriName": "SE_SELECT"
+    },
+    {
+      "SeInd": 3586611464,
+      "Uqid": 3586611464,
+      "Setypeid": 970794671,
+      "CriName": "SE_SHIREN_KAISHI"
+    },
+    {
+      "SeInd": 3279937540,
+      "Uqid": 3279937540,
+      "Setypeid": 970794671,
+      "CriName": "SE_SKILLBOARD_01"
+    },
+    {
+      "SeInd": 1517728190,
+      "Uqid": 1517728190,
+      "Setypeid": 970794671,
+      "CriName": "SE_SKILLBOARD_02"
+    },
+    {
+      "SeInd": 1805324954,
+      "Uqid": 1805324954,
+      "Setypeid": 970794671,
+      "CriName": "SE_SKILL_LEARNING"
+    },
+    {
+      "SeInd": 3269561647,
+      "Uqid": 3269561647,
+      "Setypeid": 970794671,
+      "CriName": "SE_SKILL_TENSION"
+    },
+    {
+      "SeInd": 896755354,
+      "Uqid": 896755354,
+      "Setypeid": 970794671,
+      "CriName": "SE_SLASH_CHARGE"
+    },
+    {
+      "SeInd": 1168033525,
+      "Uqid": 1168033525,
+      "Setypeid": 970794671,
+      "CriName": "SE_SMITH_EVAPORATE"
+    },
+    {
+      "SeInd": 2608294120,
+      "Uqid": 2608294120,
+      "Setypeid": 970794671,
+      "CriName": "SE_SMITH_HEATING"
+    },
+    {
+      "SeInd": 16957908,
+      "Uqid": 16957908,
+      "Setypeid": 970794671,
+      "CriName": "SE_SMITH_HEATING_READY"
+    },
+    {
+      "SeInd": 1391278953,
+      "Uqid": 1391278953,
+      "Setypeid": 970794671,
+      "CriName": "SE_SMITH_IRON"
+    },
+    {
+      "SeInd": 4184146541,
+      "Uqid": 4184146541,
+      "Setypeid": 970794671,
+      "CriName": "SE_SMITH_IRON_PINCH"
+    },
+    {
+      "SeInd": 855033946,
+      "Uqid": 855033946,
+      "Setypeid": 970794671,
+      "CriName": "SE_SMITH_SPECIAL_HIT"
+    },
+    {
+      "SeInd": 1237174826,
+      "Uqid": 1237174826,
+      "Setypeid": 970794671,
+      "CriName": "SE_SMITH_STRIKES"
+    },
+    {
+      "SeInd": 4249722218,
+      "Uqid": 4249722218,
+      "Setypeid": 970794671,
+      "CriName": "SE_STAR_CLEAR"
+    },
+    {
+      "SeInd": 3538740167,
+      "Uqid": 3538740167,
+      "Setypeid": 970794671,
+      "CriName": "SE_STATUS_UP"
+    },
+    {
+      "SeInd": 895843376,
+      "Uqid": 895843376,
+      "Setypeid": 970794671,
+      "CriName": "SE_STONE_VOICE"
+    },
+    {
+      "SeInd": 1479336618,
+      "Uqid": 1479336618,
+      "Setypeid": 970794671,
+      "CriName": "SE_SYSTEM_DIALOG_POP"
+    },
+    {
+      "SeInd": 2129536657,
+      "Uqid": 2129536657,
+      "Setypeid": 970794671,
+      "CriName": "SE_SYSTEM_GOD_EXP_UP"
+    },
+    {
+      "SeInd": 580963235,
+      "Uqid": 580963235,
+      "Setypeid": 3495411190,
+      "CriName": "SE_TAB"
+    },
+    {
+      "SeInd": 2770969397,
+      "Uqid": 2770969397,
+      "Setypeid": 970794671,
+      "CriName": "SE_TEST"
+    },
+    {
+      "SeInd": 1287869325,
+      "Uqid": 1287869325,
+      "Setypeid": 970794671,
+      "CriName": "SE_TEST2"
+    },
+    {
+      "SeInd": 1240373929,
+      "Uqid": 1240373929,
+      "Setypeid": 970794671,
+      "CriName": "SE_TLP_EXCELLENT"
+    },
+    {
+      "SeInd": 317183297,
+      "Uqid": 317183297,
+      "Setypeid": 970794671,
+      "CriName": "SE_TLP_WONDERFUL"
+    },
+    {
+      "SeInd": 2740823135,
+      "Uqid": 2740823135,
+      "Setypeid": 970794671,
+      "CriName": "SE_TOUCH_CHARACTER"
+    },
+    {
+      "SeInd": 3769984726,
+      "Uqid": 3769984726,
+      "Setypeid": 970794671,
+      "CriName": "SE_TOUCH_SHINE"
+    },
+    {
+      "SeInd": 4277782367,
+      "Uqid": 4277782367,
+      "Setypeid": 970794671,
+      "CriName": "SE_TREASURE_OPEN"
+    },
+    {
+      "SeInd": 2861573377,
+      "Uqid": 2861573377,
+      "Setypeid": 970794671,
+      "CriName": "SE_TREASURE_OPEN_TELOP"
+    },
+    {
+      "SeInd": 377783634,
+      "Uqid": 377783634,
+      "Setypeid": 970794671,
+      "CriName": "SE_TREE_FALLING_FRUIT"
+    },
+    {
+      "SeInd": 3675231847,
+      "Uqid": 3675231847,
+      "Setypeid": 970794671,
+      "CriName": "SE_TREE_SHAKE"
+    },
+    {
+      "SeInd": 1822129858,
+      "Uqid": 1822129858,
+      "Setypeid": 970794671,
+      "CriName": "SE_TRUST_COUNT"
+    },
+    {
+      "SeInd": 2309945670,
+      "Uqid": 2309945670,
+      "Setypeid": 970794671,
+      "CriName": "SE_TRUST_HEART"
+    },
+    {
+      "SeInd": 3798078893,
+      "Uqid": 3798078893,
+      "Setypeid": 970794671,
+      "CriName": "SE_TURNING"
+    },
+    {
+      "SeInd": 538580537,
+      "Uqid": 538580537,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_ENVIROMENTAL_MORNING_ROOSTER"
+    },
+    {
+      "SeInd": 4251522160,
+      "Uqid": 4251522160,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_ENVIROMENTAL_MORNING_SPARROW"
+    },
+    {
+      "SeInd": 1145493416,
+      "Uqid": 1145493416,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_ENVIROMENTAL_NIGHT"
+    },
+    {
+      "SeInd": 2335989503,
+      "Uqid": 2335989503,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_GATE_OPEN"
+    },
+    {
+      "SeInd": 4257244134,
+      "Uqid": 4257244134,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_GAYA"
+    },
+    {
+      "SeInd": 192530403,
+      "Uqid": 192530403,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_GIFT_BOX"
+    },
+    {
+      "SeInd": 2296781942,
+      "Uqid": 2296781942,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_TOUCH_01"
+    },
+    {
+      "SeInd": 300895692,
+      "Uqid": 300895692,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_TOUCH_02"
+    },
+    {
+      "SeInd": 1726512474,
+      "Uqid": 1726512474,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_TOUCH_03"
+    },
+    {
+      "SeInd": 4169984249,
+      "Uqid": 4169984249,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_TOUCH_04"
+    },
+    {
+      "SeInd": 2408306799,
+      "Uqid": 2408306799,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_TOUCH_05"
+    },
+    {
+      "SeInd": 377653717,
+      "Uqid": 377653717,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_TOUCH_06"
+    },
+    {
+      "SeInd": 1636153667,
+      "Uqid": 1636153667,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_TOUCH_07"
+    },
+    {
+      "SeInd": 1669465548,
+      "Uqid": 1669465548,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAGE_VISIT_GUEST"
+    },
+    {
+      "SeInd": 3170507195,
+      "Uqid": 3170507195,
+      "Setypeid": 970794671,
+      "CriName": "SE_VILLAG_TREASURE_BOX"
+    },
+    {
+      "SeInd": 3378701769,
+      "Uqid": 3378701769,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_13"
+    },
+    {
+      "SeInd": 1460039786,
+      "Uqid": 1460039786,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_14"
+    },
+    {
+      "SeInd": 536953084,
+      "Uqid": 536953084,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_15"
+    },
+    {
+      "SeInd": 3104313670,
+      "Uqid": 3104313670,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_16"
+    },
+    {
+      "SeInd": 3457098192,
+      "Uqid": 3457098192,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_17"
+    },
+    {
+      "SeInd": 1588608065,
+      "Uqid": 1588608065,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_18"
+    },
+    {
+      "SeInd": 3796874762,
+      "Uqid": 3796874762,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_23"
+    },
+    {
+      "SeInd": 2083201961,
+      "Uqid": 2083201961,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_24"
+    },
+    {
+      "SeInd": 187437887,
+      "Uqid": 187437887,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00352_25"
+    },
+    {
+      "SeInd": 1910407852,
+      "Uqid": 1910407852,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_13"
+    },
+    {
+      "SeInd": 4021950223,
+      "Uqid": 4021950223,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_14"
+    },
+    {
+      "SeInd": 2562533273,
+      "Uqid": 2562533273,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_15"
+    },
+    {
+      "SeInd": 28603939,
+      "Uqid": 28603939,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_16"
+    },
+    {
+      "SeInd": 1991460533,
+      "Uqid": 1991460533,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_17"
+    },
+    {
+      "SeInd": 3859569444,
+      "Uqid": 3859569444,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_18"
+    },
+    {
+      "SeInd": 1525928303,
+      "Uqid": 1525928303,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_23"
+    },
+    {
+      "SeInd": 3298247884,
+      "Uqid": 3298247884,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_24"
+    },
+    {
+      "SeInd": 3012588634,
+      "Uqid": 3012588634,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_CHARA00353_25"
+    },
+    {
+      "SeInd": 1626821680,
+      "Uqid": 1626821680,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_ANGER"
+    },
+    {
+      "SeInd": 2411377258,
+      "Uqid": 2411377258,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_ATTACK01"
+    },
+    {
+      "SeInd": 380888016,
+      "Uqid": 380888016,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_ATTACK02"
+    },
+    {
+      "SeInd": 1639240518,
+      "Uqid": 1639240518,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_ATTACK03"
+    },
+    {
+      "SeInd": 4291839717,
+      "Uqid": 4291839717,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_ATTACK04"
+    },
+    {
+      "SeInd": 59844318,
+      "Uqid": 59844318,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_ATTACK_SPECIAL"
+    },
+    {
+      "SeInd": 1402594921,
+      "Uqid": 1402594921,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_DAMAGE01"
+    },
+    {
+      "SeInd": 3398481875,
+      "Uqid": 3398481875,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_DAMAGE02"
+    },
+    {
+      "SeInd": 2857231812,
+      "Uqid": 2857231812,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_DIE"
+    },
+    {
+      "SeInd": 2357898366,
+      "Uqid": 2357898366,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_HAPPY"
+    },
+    {
+      "SeInd": 217770671,
+      "Uqid": 217770671,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_SAD"
+    },
+    {
+      "SeInd": 1056827849,
+      "Uqid": 1056827849,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_SHOUT01"
+    },
+    {
+      "SeInd": 2817833075,
+      "Uqid": 2817833075,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY01_SHOUT02"
+    },
+    {
+      "SeInd": 1361006253,
+      "Uqid": 1361006253,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_ANGER"
+    },
+    {
+      "SeInd": 1686964585,
+      "Uqid": 1686964585,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_ATTACK01"
+    },
+    {
+      "SeInd": 4253309139,
+      "Uqid": 4253309139,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_ATTACK02"
+    },
+    {
+      "SeInd": 2323867717,
+      "Uqid": 2323867717,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_ATTACK03"
+    },
+    {
+      "SeInd": 350748134,
+      "Uqid": 350748134,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_ATTACK04"
+    },
+    {
+      "SeInd": 710513196,
+      "Uqid": 710513196,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_ATTACK_SPECIAL"
+    },
+    {
+      "SeInd": 3098434922,
+      "Uqid": 3098434922,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_DAMAGE01"
+    },
+    {
+      "SeInd": 564595920,
+      "Uqid": 564595920,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_DAMAGE02"
+    },
+    {
+      "SeInd": 3991772948,
+      "Uqid": 3991772948,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_DIE"
+    },
+    {
+      "SeInd": 3177363171,
+      "Uqid": 3177363171,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_HAPPY"
+    },
+    {
+      "SeInd": 1264226431,
+      "Uqid": 1264226431,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_SAD"
+    },
+    {
+      "SeInd": 124835084,
+      "Uqid": 124835084,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_SHOUT01"
+    },
+    {
+      "SeInd": 2658763958,
+      "Uqid": 2658763958,
+      "Setypeid": 970794671,
+      "CriName": "SE_VOICE_ENEMY02_SHOUT02"
+    },
+    {
+      "SeInd": 1233847961,
+      "Uqid": 1233847961,
+      "Setypeid": 970794671,
+      "CriName": "SE_WARNING_01"
+    },
+    {
+      "SeInd": 3498202915,
+      "Uqid": 3498202915,
+      "Setypeid": 970794671,
+      "CriName": "SE_WARNING_02"
+    },
+    {
+      "SeInd": 2810537909,
+      "Uqid": 2810537909,
+      "Setypeid": 970794671,
+      "CriName": "SE_WARNING_03"
+    },
+    {
+      "SeInd": 3338051676,
+      "Uqid": 3338051676,
+      "Setypeid": 970794671,
+      "CriName": "SE_WAVE_CLEAR"
+    },
+    {
+      "SeInd": 2585392619,
+      "Uqid": 2585392619,
+      "Setypeid": 970794671,
+      "CriName": "SE_WAVE_NEXT"
+    },
+    {
+      "SeInd": 3205587558,
+      "Uqid": 3205587558,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_ARROW"
+    },
+    {
+      "SeInd": 2909815219,
+      "Uqid": 2909815219,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_ATTACK_WOOD_01"
+    },
+    {
+      "SeInd": 1478786817,
+      "Uqid": 1478786817,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_AVATAR_JUMP"
+    },
+    {
+      "SeInd": 4033019341,
+      "Uqid": 4033019341,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_AVATAR_LANDING"
+    },
+    {
+      "SeInd": 1123877025,
+      "Uqid": 1123877025,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_AVATAR_ROLLING"
+    },
+    {
+      "SeInd": 749311632,
+      "Uqid": 749311632,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_BEAT_HEAVY"
+    },
+    {
+      "SeInd": 1031974968,
+      "Uqid": 1031974968,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_BEAT_LIGHT"
+    },
+    {
+      "SeInd": 2925755850,
+      "Uqid": 2925755850,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_BEAT_MIDDLE"
+    },
+    {
+      "SeInd": 3380409172,
+      "Uqid": 3380409172,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_BOMB_LARGE"
+    },
+    {
+      "SeInd": 3852543675,
+      "Uqid": 3852543675,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_BOMB_MIDDLE"
+    },
+    {
+      "SeInd": 3847368953,
+      "Uqid": 3847368953,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_BOMB_SMALL"
+    },
+    {
+      "SeInd": 488399446,
+      "Uqid": 488399446,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_DROW_BOW"
+    },
+    {
+      "SeInd": 2241618320,
+      "Uqid": 2241618320,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_DROW_HAMMER"
+    },
+    {
+      "SeInd": 2240053496,
+      "Uqid": 2240053496,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_DROW_ROD"
+    },
+    {
+      "SeInd": 765492368,
+      "Uqid": 765492368,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_DROW_SWORD"
+    },
+    {
+      "SeInd": 1646060803,
+      "Uqid": 1646060803,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_EXCELLENT"
+    },
+    {
+      "SeInd": 3219735800,
+      "Uqid": 3219735800,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_FAILURE_MAGIC"
+    },
+    {
+      "SeInd": 1136641843,
+      "Uqid": 1136641843,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_GOD_LARGESWORD"
+    },
+    {
+      "SeInd": 4068291710,
+      "Uqid": 4068291710,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_GOD_ONEHAND"
+    },
+    {
+      "SeInd": 4066083151,
+      "Uqid": 4066083151,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_HIT_ARROW"
+    },
+    {
+      "SeInd": 850395415,
+      "Uqid": 850395415,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_HIT_CRITICAL"
+    },
+    {
+      "SeInd": 3266545467,
+      "Uqid": 3266545467,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_HIT_HAMMER"
+    },
+    {
+      "SeInd": 594183775,
+      "Uqid": 594183775,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_HIT_MAGIC"
+    },
+    {
+      "SeInd": 2961811582,
+      "Uqid": 2961811582,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_HIT_SWORD"
+    },
+    {
+      "SeInd": 590211892,
+      "Uqid": 590211892,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_HIT_SWORD_HEAVY"
+    },
+    {
+      "SeInd": 711125816,
+      "Uqid": 711125816,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_LEVEL_UP"
+    },
+    {
+      "SeInd": 2718116423,
+      "Uqid": 2718116423,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_LIGHT_SAVER"
+    },
+    {
+      "SeInd": 1215680268,
+      "Uqid": 1215680268,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_DEFENCE"
+    },
+    {
+      "SeInd": 1039442382,
+      "Uqid": 1039442382,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_GROUND_01"
+    },
+    {
+      "SeInd": 2768105588,
+      "Uqid": 2768105588,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_GROUND_02"
+    },
+    {
+      "SeInd": 2076307862,
+      "Uqid": 2076307862,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_HEAL"
+    },
+    {
+      "SeInd": 3068759077,
+      "Uqid": 3068759077,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_THUNDER_01"
+    },
+    {
+      "SeInd": 2684115096,
+      "Uqid": 2684115096,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WATER_01"
+    },
+    {
+      "SeInd": 116721954,
+      "Uqid": 116721954,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WATER_02"
+    },
+    {
+      "SeInd": 1911699892,
+      "Uqid": 1911699892,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WATER_03"
+    },
+    {
+      "SeInd": 4019629079,
+      "Uqid": 4019629079,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WATER_04"
+    },
+    {
+      "SeInd": 2559679617,
+      "Uqid": 2559679617,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WATER_05"
+    },
+    {
+      "SeInd": 26791227,
+      "Uqid": 26791227,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WATER_06"
+    },
+    {
+      "SeInd": 1990196653,
+      "Uqid": 1990196653,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WATER_07"
+    },
+    {
+      "SeInd": 1156200826,
+      "Uqid": 1156200826,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WOOD_01"
+    },
+    {
+      "SeInd": 3722668224,
+      "Uqid": 3722668224,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WOOD_02"
+    },
+    {
+      "SeInd": 2867091542,
+      "Uqid": 2867091542,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_MAGIC_WOOD_03"
+    },
+    {
+      "SeInd": 783549657,
+      "Uqid": 783549657,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_REPEL_HAMMER"
+    },
+    {
+      "SeInd": 1192968862,
+      "Uqid": 1192968862,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_REPEL_MAGIC"
+    },
+    {
+      "SeInd": 2989452409,
+      "Uqid": 2989452409,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_REPEL_SHOT"
+    },
+    {
+      "SeInd": 3573050559,
+      "Uqid": 3573050559,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_REPEL_SWORD"
+    },
+    {
+      "SeInd": 3954133056,
+      "Uqid": 3954133056,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_RETURN_BOW"
+    },
+    {
+      "SeInd": 2687799482,
+      "Uqid": 2687799482,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_RETURN_HAMMER"
+    },
+    {
+      "SeInd": 1933028078,
+      "Uqid": 1933028078,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_RETURN_ROD"
+    },
+    {
+      "SeInd": 3934516770,
+      "Uqid": 3934516770,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_RETURN_SWORD"
+    },
+    {
+      "SeInd": 72506345,
+      "Uqid": 72506345,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SHIELD_DEFENCE"
+    },
+    {
+      "SeInd": 58187108,
+      "Uqid": 58187108,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SHOT_FIRE"
+    },
+    {
+      "SeInd": 35107,
+      "Uqid": 35107,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SHOT_HEAVY"
+    },
+    {
+      "SeInd": 288075659,
+      "Uqid": 288075659,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SHOT_LIGHT"
+    },
+    {
+      "SeInd": 4230428387,
+      "Uqid": 4230428387,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SHOT_MIDDLE"
+    },
+    {
+      "SeInd": 1555517296,
+      "Uqid": 1555517296,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SKILL_TENSION01"
+    },
+    {
+      "SeInd": 542532061,
+      "Uqid": 542532061,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SKILL_UP"
+    },
+    {
+      "SeInd": 3859239763,
+      "Uqid": 3859239763,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SONIC_WAVE"
+    },
+    {
+      "SeInd": 2314724220,
+      "Uqid": 2314724220,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SWING_HEAVY"
+    },
+    {
+      "SeInd": 2564605396,
+      "Uqid": 2564605396,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SWING_LIGHT"
+    },
+    {
+      "SeInd": 125472236,
+      "Uqid": 125472236,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_SWING_MIDDLE"
+    },
+    {
+      "SeInd": 683003247,
+      "Uqid": 683003247,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_THROW"
+    },
+    {
+      "SeInd": 2299374896,
+      "Uqid": 2299374896,
+      "Setypeid": 970794671,
+      "CriName": "SE_WEAPON_TORNADO"
+    },
+    {
+      "SeInd": 3982650606,
+      "Uqid": 3982650606,
+      "Setypeid": 3495411190,
+      "CriName": "SE_WINDOW_GENERAL_CLOSE"
+    },
+    {
+      "SeInd": 327606044,
+      "Uqid": 327606044,
+      "Setypeid": 3495411190,
+      "CriName": "SE_WINDOW_GENERAL_OPEN"
+    },
+    {
+      "SeInd": 1320487676,
+      "Uqid": 1320487676,
+      "Setypeid": 970794671,
+      "CriName": "SE_WINDOW_INFO_OPEN"
+    },
+    {
+      "SeInd": 3753374725,
+      "Uqid": 3753374725,
+      "Setypeid": 970794671,
+      "CriName": "SE_WORK_CONGRATULATION"
+    },
+    {
+      "SeInd": 1083426633,
+      "Uqid": 1083426633,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL01_01"
+    },
+    {
+      "SeInd": 3650787059,
+      "Uqid": 3650787059,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL01_02"
+    },
+    {
+      "SeInd": 1378248871,
+      "Uqid": 1378248871,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL02_01"
+    },
+    {
+      "SeInd": 3935965122,
+      "Uqid": 3935965122,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL03_01"
+    },
+    {
+      "SeInd": 1939037816,
+      "Uqid": 1939037816,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL03_02"
+    },
+    {
+      "SeInd": 76836590,
+      "Uqid": 76836590,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL03_03"
+    },
+    {
+      "SeInd": 2599484237,
+      "Uqid": 2599484237,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL03_04"
+    },
+    {
+      "SeInd": 3992439771,
+      "Uqid": 3992439771,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL03_05"
+    },
+    {
+      "SeInd": 134062801,
+      "Uqid": 134062801,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL10"
+    },
+    {
+      "SeInd": 1895469639,
+      "Uqid": 1895469639,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL11"
+    },
+    {
+      "SeInd": 3925066749,
+      "Uqid": 3925066749,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL12"
+    },
+    {
+      "SeInd": 2666853227,
+      "Uqid": 2666853227,
+      "Setypeid": 970794671,
+      "CriName": "SE_YGAKUENCOLLABO_SKILL13"
+    },
+    {
+      "SeInd": 3034792561,
+      "Uqid": 3034792561,
+      "Setypeid": 970794671,
+      "CriName": "SE_ZOOM_IN"
+    },
+    {
+      "SeInd": 873033632,
+      "Uqid": 873033632,
+      "Setypeid": 970794671,
+      "CriName": "SE_ZOOM_OUT"
+    }
+  ],
+  "IdRef": {}
+}

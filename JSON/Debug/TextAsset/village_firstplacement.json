@@ -1,0 +1,608 @@
+{
+  "TableVillageFirstplacement": [
+    {
+      "VillageFirstplacementInd": 2403651429,
+      "VillageId": 2249781981,
+      "ObjId": 3844033448,
+      "ColorId": 3357084080,
+      "Posx": 56,
+      "Posz": 7,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 939042816,
+      "VillageId": 2249781981,
+      "ObjId": 1570974925,
+      "ColorId": 3357084080,
+      "Posx": 64,
+      "Posz": 10,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 625805294,
+      "VillageId": 2249781981,
+      "ObjId": 1326875427,
+      "ColorId": 3357084080,
+      "Posx": 59,
+      "Posz": 11,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 2649841803,
+      "VillageId": 2249781981,
+      "ObjId": 4155171910,
+      "ColorId": 3357084080,
+      "Posx": 60,
+      "Posz": 15,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 2512946,
+      "VillageId": 2249781981,
+      "ObjId": 1786633471,
+      "ColorId": 3357084080,
+      "Posx": 19,
+      "Posz": 7,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 3097116503,
+      "VillageId": 2249781981,
+      "ObjId": 3535911834,
+      "ColorId": 3357084080,
+      "Posx": 24,
+      "Posz": 8,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 2855243961,
+      "VillageId": 2249781981,
+      "ObjId": 3228832884,
+      "ColorId": 3357084080,
+      "Posx": 15,
+      "Posz": 11,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 311687132,
+      "VillageId": 2249781981,
+      "ObjId": 2026402577,
+      "ColorId": 3357084080,
+      "Posx": 14,
+      "Posz": 16,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 1257301898,
+      "VillageId": 2249781981,
+      "ObjId": 548102983,
+      "ColorId": 3357084080,
+      "Posx": 10,
+      "Posz": 22,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 4065100015,
+      "VillageId": 2249781981,
+      "ObjId": 2551645218,
+      "ColorId": 3357084080,
+      "Posx": 72,
+      "Posz": 29,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 2988762837,
+      "VillageId": 2249781981,
+      "ObjId": 3632226840,
+      "ColorId": 3357084080,
+      "Posx": 67,
+      "Posz": 29,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 177766832,
+      "VillageId": 2249781981,
+      "ObjId": 1623393661,
+      "ColorId": 3357084080,
+      "Posx": 8,
+      "Posz": 29,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 405614174,
+      "VillageId": 2249781981,
+      "ObjId": 1920379539,
+      "ColorId": 3357084080,
+      "Posx": 13,
+      "Posz": 30,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 2693876027,
+      "VillageId": 2249781981,
+      "ObjId": 3402288630,
+      "ColorId": 3357084080,
+      "Posx": 14,
+      "Posz": 35,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 691258577,
+      "VillageId": 2249781981,
+      "ObjId": 1130905628,
+      "ColorId": 3357084080,
+      "Posx": 56,
+      "Posz": 2,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 2442109876,
+      "VillageId": 2249781981,
+      "ObjId": 4224984953,
+      "ColorId": 3357084080,
+      "Posx": 51,
+      "Posz": 2,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 2201619546,
+      "VillageId": 2249781981,
+      "ObjId": 3915483287,
+      "ColorId": 3357084080,
+      "Posx": 71,
+      "Posz": 9,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 998665023,
+      "VillageId": 2249781981,
+      "ObjId": 1373499378,
+      "ColorId": 3357084080,
+      "Posx": 65,
+      "Posz": 14,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 2790347654,
+      "VillageId": 2249781981,
+      "ObjId": 3423262539,
+      "ColorId": 3357084080,
+      "Posx": 59,
+      "Posz": 20,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 518862051,
+      "VillageId": 2249781981,
+      "ObjId": 1958129710,
+      "ColorId": 3357084080,
+      "Posx": 23,
+      "Posz": 2,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 207133453,
+      "VillageId": 2249781981,
+      "ObjId": 1711480768,
+      "ColorId": 3357084080,
+      "Posx": 17,
+      "Posz": 2,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 3034905704,
+      "VillageId": 2249781981,
+      "ObjId": 3737090213,
+      "ColorId": 3357084080,
+      "Posx": 3,
+      "Posz": 9,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 3968330814,
+      "VillageId": 2249781981,
+      "ObjId": 2262591731,
+      "ColorId": 3357084080,
+      "Posx": 9,
+      "Posz": 11,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 1413188443,
+      "VillageId": 2249781981,
+      "ObjId": 1046482838,
+      "ColorId": 3357084080,
+      "Posx": 14,
+      "Posz": 20,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 341044577,
+      "VillageId": 2249781981,
+      "ObjId": 2114480556,
+      "ColorId": 3357084080,
+      "Posx": 59,
+      "Posz": 32,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 2901379588,
+      "VillageId": 2249781981,
+      "ObjId": 3333689033,
+      "ColorId": 3357084080,
+      "Posx": 50,
+      "Posz": 38,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 3193578986,
+      "VillageId": 2249781981,
+      "ObjId": 3556876583,
+      "ColorId": 3357084080,
+      "Posx": 50,
+      "Posz": 44,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 115753615,
+      "VillageId": 2249781981,
+      "ObjId": 1824376386,
+      "ColorId": 3357084080,
+      "Posx": 19,
+      "Posz": 38,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 2603711030,
+      "VillageId": 2249781981,
+      "ObjId": 4050321147,
+      "ColorId": 3357084080,
+      "Posx": 24,
+      "Posz": 44,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 417062476,
+      "VillageId": 2249781981,
+      "ObjId": 1921014401,
+      "ColorId": 3357084080,
+      "Posx": 70,
+      "Posz": 2,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 2691152169,
+      "VillageId": 2249781981,
+      "ObjId": 3392945636,
+      "ColorId": 3357084080,
+      "Posx": 62,
+      "Posz": 3,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 3000112839,
+      "VillageId": 2249781981,
+      "ObjId": 3632894474,
+      "ColorId": 3357084080,
+      "Posx": 70,
+      "Posz": 16,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 175010210,
+      "VillageId": 2249781981,
+      "ObjId": 1614148975,
+      "ColorId": 3357084080,
+      "Posx": 10,
+      "Posz": 4,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 2545502491,
+      "VillageId": 2249781981,
+      "ObjId": 4259499478,
+      "ColorId": 3357084080,
+      "Posx": 2,
+      "Posz": 2,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 788868734,
+      "VillageId": 2249781981,
+      "ObjId": 1163831987,
+      "ColorId": 3357084080,
+      "Posx": 2,
+      "Posz": 16,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 3198998008,
+      "VillageId": 2249781981,
+      "ObjId": 3572977973,
+      "ColorId": 3357084080,
+      "Posx": 52,
+      "Posz": 9,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 101757597,
+      "VillageId": 2249781981,
+      "ObjId": 1816868432,
+      "ColorId": 3357084080,
+      "Posx": 29,
+      "Posz": 3,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 346365299,
+      "VillageId": 2249781981,
+      "ObjId": 2130614718,
+      "ColorId": 3357084080,
+      "Posx": 21,
+      "Posz": 12,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 2887350806,
+      "VillageId": 2249781981,
+      "ObjId": 3326279387,
+      "ColorId": 3357084080,
+      "Posx": 73,
+      "Posz": 33,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 835601071,
+      "VillageId": 2249781981,
+      "ObjId": 1536542306,
+      "ColorId": 3357084080,
+      "Posx": 66,
+      "Posz": 38,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 2305959370,
+      "VillageId": 2249781981,
+      "ObjId": 3811156231,
+      "ColorId": 3357084080,
+      "Posx": 45,
+      "Posz": 41,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 2613545508,
+      "VillageId": 2249781981,
+      "ObjId": 4053536489,
+      "ColorId": 3357084080,
+      "Posx": 45,
+      "Posz": 47,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 595324225,
+      "VillageId": 2249781981,
+      "ObjId": 1226860940,
+      "ColorId": 3357084080,
+      "Posx": 52,
+      "Posz": 49,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 2065235223,
+      "VillageId": 2249781981,
+      "ObjId": 289634778,
+      "ColorId": 3357084080,
+      "Posx": 2,
+      "Posz": 29,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 3282344562,
+      "VillageId": 2249781981,
+      "ObjId": 2852069055,
+      "ColorId": 3357084080,
+      "Posx": 9,
+      "Posz": 34,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 2211249224,
+      "VillageId": 2249781981,
+      "ObjId": 3919018117,
+      "ColorId": 3357084080,
+      "Posx": 2,
+      "Posz": 39,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 997235501,
+      "VillageId": 2249781981,
+      "ObjId": 1361780704,
+      "ColorId": 3357084080,
+      "Posx": 25,
+      "Posz": 40,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 700789955,
+      "VillageId": 2249781981,
+      "ObjId": 1134473230,
+      "ColorId": 3357084080,
+      "Posx": 31,
+      "Posz": 42,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 2440647590,
+      "VillageId": 2249781981,
+      "ObjId": 4213364587,
+      "ColorId": 3357084080,
+      "Posx": 30,
+      "Posz": 47,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 212757279,
+      "VillageId": 2249781981,
+      "ObjId": 1727393746,
+      "ColorId": 3357084080,
+      "Posx": 23,
+      "Posz": 49,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 1222944017,
+      "VillageId": 2249781981,
+      "ObjId": 582951388,
+      "ColorId": 3357084080,
+      "Posx": 45,
+      "Posz": 3,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 4032348788,
+      "VillageId": 2249781981,
+      "ObjId": 2583905977,
+      "ColorId": 3357084080,
+      "Posx": 65,
+      "Posz": 21,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 3807210906,
+      "VillageId": 2249781981,
+      "ObjId": 2293688663,
+      "ColorId": 3357084080,
+      "Posx": 9,
+      "Posz": 17,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 1515260671,
+      "VillageId": 2249781981,
+      "ObjId": 805998130,
+      "ColorId": 3357084080,
+      "Posx": 66,
+      "Posz": 33,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 3347460678,
+      "VillageId": 2249781981,
+      "ObjId": 2916988555,
+      "ColorId": 3357084080,
+      "Posx": 71,
+      "Posz": 38,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 2134529315,
+      "VillageId": 2249781981,
+      "ObjId": 358732270,
+      "ColorId": 3357084080,
+      "Posx": 56,
+      "Posz": 38,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 1838152397,
+      "VillageId": 2249781981,
+      "ObjId": 131366400,
+      "ColorId": 3357084080,
+      "Posx": 61,
+      "Posz": 40,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 3576929704,
+      "VillageId": 2249781981,
+      "ObjId": 3211270501,
+      "ColorId": 3357084080,
+      "Posx": 3,
+      "Posz": 34,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 2370866686,
+      "VillageId": 2249781981,
+      "ObjId": 3876260147,
+      "ColorId": 3357084080,
+      "Posx": 7,
+      "Posz": 39,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 904719003,
+      "VillageId": 2249781981,
+      "ObjId": 1605856854,
+      "ColorId": 3357084080,
+      "Posx": 13,
+      "Posz": 40,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 4002655909,
+      "VillageId": 2249781981,
+      "ObjId": 2227710568,
+      "ColorId": 3357084080,
+      "Posx": 68,
+      "Posz": 44,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 1445972416,
+      "VillageId": 2249781981,
+      "ObjId": 1014254861,
+      "ColorId": 3357084080,
+      "Posx": 57,
+      "Posz": 45,
+      "Rotate": 90
+    },
+    {
+      "VillageFirstplacementInd": 1150969390,
+      "VillageId": 2249781981,
+      "ObjId": 784458467,
+      "ColorId": 3357084080,
+      "Posx": 2,
+      "Posz": 44,
+      "Rotate": 180
+    },
+    {
+      "VillageFirstplacementInd": 4230349131,
+      "VillageId": 2249781981,
+      "ObjId": 2524808582,
+      "ColorId": 3357084080,
+      "Posx": 10,
+      "Posz": 45,
+      "Rotate": 270
+    },
+    {
+      "VillageFirstplacementInd": 2848355661,
+      "VillageId": 2249781981,
+      "ObjId": 3281908096,
+      "ColorId": 3357084080,
+      "Posx": 34,
+      "Posz": 22,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 3178583559,
+      "VillageId": 2249781981,
+      "ObjId": 3610170058,
+      "ColorId": 3357084080,
+      "Posx": 44,
+      "Posz": 21,
+      "Rotate": 0
+    },
+    {
+      "VillageFirstplacementInd": 2359119002,
+      "VillageId": 2249781981,
+      "ObjId": 3871787095,
+      "ColorId": 3357084080,
+      "Posx": 33,
+      "Posz": 16,
+      "Rotate": 0
+    }
+  ],
+  "IdRef": {}
+}

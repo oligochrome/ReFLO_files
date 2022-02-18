@@ -1,0 +1,41 @@
+{
+  "TableStardustPoint": [
+    {
+      "StardustPointInd": 864766520,
+      "Uniqid": 864766520,
+      "Rarity": 1,
+      "Point": 50
+    },
+    {
+      "StardustPointInd": 2860653442,
+      "Uniqid": 2860653442,
+      "Rarity": 2,
+      "Point": 150
+    },
+    {
+      "StardustPointInd": 3716492052,
+      "Uniqid": 3716492052,
+      "Rarity": 3,
+      "Point": 300
+    },
+    {
+      "StardustPointInd": 1138867895,
+      "Uniqid": 1138867895,
+      "Rarity": 4,
+      "Point": 600
+    },
+    {
+      "StardustPointInd": 887524897,
+      "Uniqid": 887524897,
+      "Rarity": 5,
+      "Point": 1200
+    },
+    {
+      "StardustPointInd": 2918178715,
+      "Uniqid": 2918178715,
+      "Rarity": 6,
+      "Point": 5000
+    }
+  ],
+  "IdRef": {}
+}
