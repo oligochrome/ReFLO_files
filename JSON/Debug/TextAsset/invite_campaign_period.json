@@ -1,0 +1,33 @@
+{
+  "TableInviteCampaignPeriod": [
+    {
+      "InviteCampaignPeriodInd": 3811819443,
+      "Id": 3811819443,
+      "InviteCampaignId": 4284315458,
+      "StartDate": 1576290600,
+      "EndDate": 1579103999
+    },
+    {
+      "InviteCampaignPeriodInd": 434082794,
+      "Id": 434082794,
+      "InviteCampaignId": 2177308154,
+      "StartDate": 1602741600,
+      "EndDate": 1605023999
+    },
+    {
+      "InviteCampaignPeriodInd": 1747773387,
+      "Id": 1747773387,
+      "InviteCampaignId": 4029964763,
+      "StartDate": 1420041600,
+      "EndDate": 0
+    },
+    {
+      "InviteCampaignPeriodInd": 3133437304,
+      "Id": 3133437304,
+      "InviteCampaignId": 3629609227,
+      "StartDate": 1572537600,
+      "EndDate": 1574783999
+    }
+  ],
+  "IdRef": {}
+}

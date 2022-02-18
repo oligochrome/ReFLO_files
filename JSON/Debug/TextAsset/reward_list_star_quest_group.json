@@ -1,0 +1,103 @@
+{
+  "TableRewardListStarQuestGroup": [
+    {
+      "RewardListStarQuestGroupInd": 902227300,
+      "Uniqid": 902227300,
+      "Life": 3929318351,
+      "GuideChara": 935678770,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 821253229,
+      "Uniqid": 821253229,
+      "Life": 1898503243,
+      "GuideChara": 3002704666,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 1571373200,
+      "Uniqid": 1571373200,
+      "Life": 2187003451,
+      "GuideChara": 1605039814,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 684041858,
+      "Uniqid": 684041858,
+      "Life": 1324894209,
+      "GuideChara": 3465640587,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 4101799099,
+      "Uniqid": 4101799099,
+      "Life": 730741264,
+      "GuideChara": 4135570157,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 2430841214,
+      "Uniqid": 2430841214,
+      "Life": 3355431860,
+      "GuideChara": 3460592284,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 3728579499,
+      "Uniqid": 3728579499,
+      "Life": 2300705121,
+      "GuideChara": 2157598793,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 3617946338,
+      "Uniqid": 3617946338,
+      "Life": 2524902084,
+      "GuideChara": 1437568405,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 484432200,
+      "Uniqid": 484432200,
+      "Life": 3274547171,
+      "GuideChara": 517762846,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 3804299793,
+      "Uniqid": 3804299793,
+      "Life": 3262958588,
+      "GuideChara": 2707818645,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 604791321,
+      "Uniqid": 604791321,
+      "Life": 1110543514,
+      "GuideChara": 3260595728,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 591066925,
+      "Uniqid": 591066925,
+      "Life": 1658945291,
+      "GuideChara": 2704277594,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 2212699354,
+      "Uniqid": 2212699354,
+      "Life": 1110543514,
+      "GuideChara": 1706541267,
+      "SortNumber": 9999
+    },
+    {
+      "RewardListStarQuestGroupInd": 4088589095,
+      "Uniqid": 4088589095,
+      "Life": 2762901997,
+      "GuideChara": 2903845061,
+      "SortNumber": 9999
+    }
+  ],
+  "IdRef": {}
+}

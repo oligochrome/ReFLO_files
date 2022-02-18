@@ -1,0 +1,35 @@
+{
+  "TableRankingColosseumTierChange": [
+    {
+      "RankingColosseumTierChangeInd": 1859369000,
+      "UniqId": 1859369000,
+      "TierId": 1859369000,
+      "LevelPlus3": 45,
+      "LevelPlus2": 55,
+      "LevelPlus1": 80,
+      "LevelPlus0": 100,
+      "LevelMinus1": -1
+    },
+    {
+      "RankingColosseumTierChangeInd": 4158318994,
+      "UniqId": 4158318994,
+      "TierId": 4158318994,
+      "LevelPlus3": 45,
+      "LevelPlus2": 55,
+      "LevelPlus1": 80,
+      "LevelPlus0": 100,
+      "LevelMinus1": -1
+    },
+    {
+      "RankingColosseumTierChangeInd": 2162022660,
+      "UniqId": 2162022660,
+      "TierId": 2162022660,
+      "LevelPlus3": 45,
+      "LevelPlus2": 55,
+      "LevelPlus1": 70,
+      "LevelPlus0": 100,
+      "LevelMinus1": -1
+    }
+  ],
+  "IdRef": {}
+}

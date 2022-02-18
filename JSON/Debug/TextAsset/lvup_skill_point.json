@@ -1,0 +1,5585 @@
+{
+  "TableLvupSkillPoint": [
+    {
+      "LvupSkillPointInd": 1387957309,
+      "Lvuptype": 107814166,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3417562503,
+      "Lvuptype": 107814166,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 3165973777,
+      "Lvuptype": 107814166,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 584087730,
+      "Lvuptype": 107814166,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1440172068,
+      "Lvuptype": 107814166,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3437107614,
+      "Lvuptype": 107814166,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 3151571208,
+      "Lvuptype": 107814166,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 728118425,
+      "Lvuptype": 107814166,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1549861903,
+      "Lvuptype": 107814166,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 2900437436,
+      "Lvuptype": 107814166,
+      "Level": 10,
+      "TotalPoint": 9
+    },
+    {
+      "LvupSkillPointInd": 3689290026,
+      "Lvuptype": 107814166,
+      "Level": 11,
+      "TotalPoint": 10
+    },
+    {
+      "LvupSkillPointInd": 1122977936,
+      "Lvuptype": 107814166,
+      "Level": 12,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 904427526,
+      "Lvuptype": 107814166,
+      "Level": 13,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 2878139813,
+      "Lvuptype": 107814166,
+      "Level": 14,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 3700153651,
+      "Lvuptype": 107814166,
+      "Level": 15,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 1166183561,
+      "Lvuptype": 107814166,
+      "Level": 16,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 847625247,
+      "Lvuptype": 107814166,
+      "Level": 17,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 2721751438,
+      "Lvuptype": 107814166,
+      "Level": 18,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 3577581848,
+      "Lvuptype": 107814166,
+      "Level": 19,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 2278324863,
+      "Lvuptype": 107814166,
+      "Level": 20,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 4039854825,
+      "Lvuptype": 107814166,
+      "Level": 21,
+      "TotalPoint": 20
+    },
+    {
+      "LvupSkillPointInd": 1774328659,
+      "Lvuptype": 107814166,
+      "Level": 22,
+      "TotalPoint": 21
+    },
+    {
+      "LvupSkillPointInd": 516238277,
+      "Lvuptype": 107814166,
+      "Level": 23,
+      "TotalPoint": 22
+    },
+    {
+      "LvupSkillPointInd": 2158083686,
+      "Lvuptype": 107814166,
+      "Level": 24,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 4154887920,
+      "Lvuptype": 107814166,
+      "Level": 25,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 1857019722,
+      "Lvuptype": 107814166,
+      "Level": 26,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 430501852,
+      "Lvuptype": 107814166,
+      "Level": 27,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 2300047949,
+      "Lvuptype": 107814166,
+      "Level": 28,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 4262511323,
+      "Lvuptype": 107814166,
+      "Level": 29,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 2664909630,
+      "Lvuptype": 107814166,
+      "Level": 30,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 3922754472,
+      "Lvuptype": 107814166,
+      "Level": 31,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 1893280274,
+      "Lvuptype": 107814166,
+      "Level": 32,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 131996292,
+      "Lvuptype": 107814166,
+      "Level": 33,
+      "TotalPoint": 32
+    },
+    {
+      "LvupSkillPointInd": 2579140391,
+      "Lvuptype": 107814166,
+      "Level": 34,
+      "TotalPoint": 33
+    },
+    {
+      "LvupSkillPointInd": 4005412785,
+      "Lvuptype": 107814166,
+      "Level": 35,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 2008346123,
+      "Lvuptype": 107814166,
+      "Level": 36,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 11787933,
+      "Lvuptype": 107814166,
+      "Level": 37,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 2416755468,
+      "Lvuptype": 107814166,
+      "Level": 38,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 3876320154,
+      "Lvuptype": 107814166,
+      "Level": 39,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 3516325369,
+      "Lvuptype": 107814166,
+      "Level": 40,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 2794581359,
+      "Lvuptype": 107814166,
+      "Level": 41,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1066974421,
+      "Lvuptype": 107814166,
+      "Level": 42,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1218415683,
+      "Lvuptype": 107814166,
+      "Level": 43,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3606780384,
+      "Lvuptype": 107814166,
+      "Level": 44,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 2717657462,
+      "Lvuptype": 107814166,
+      "Level": 45,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 955611340,
+      "Lvuptype": 107814166,
+      "Level": 46,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1341278298,
+      "Lvuptype": 107814166,
+      "Level": 47,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3746387403,
+      "Lvuptype": 107814166,
+      "Level": 48,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 2823447901,
+      "Lvuptype": 107814166,
+      "Level": 49,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3364744376,
+      "Lvuptype": 107814166,
+      "Level": 50,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3213548590,
+      "Lvuptype": 107814166,
+      "Level": 51,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 646155668,
+      "Lvuptype": 107814166,
+      "Level": 52,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1367653634,
+      "Lvuptype": 107814166,
+      "Level": 53,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3487574177,
+      "Lvuptype": 107814166,
+      "Level": 54,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3102152759,
+      "Lvuptype": 107814166,
+      "Level": 55,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 569264525,
+      "Lvuptype": 107814166,
+      "Level": 56,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1458141467,
+      "Lvuptype": 107814166,
+      "Level": 57,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3327550602,
+      "Lvuptype": 107814166,
+      "Level": 58,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 2974897180,
+      "Lvuptype": 107814166,
+      "Level": 59,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3818962811,
+      "Lvuptype": 107814166,
+      "Level": 60,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1475713720,
+      "Lvuptype": 2550761653,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3472673538,
+      "Lvuptype": 2550761653,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 3120298900,
+      "Lvuptype": 2550761653,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 664759863,
+      "Lvuptype": 2550761653,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1352162977,
+      "Lvuptype": 2550761653,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3381727003,
+      "Lvuptype": 2550761653,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 3197517709,
+      "Lvuptype": 2550761653,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 774447644,
+      "Lvuptype": 2550761653,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1496191626,
+      "Lvuptype": 2550761653,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 825626885,
+      "Lvuptype": 2550761653,
+      "Level": 10,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 1177624979,
+      "Lvuptype": 2550761653,
+      "Level": 11,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 3745017897,
+      "Lvuptype": 2550761653,
+      "Level": 12,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 2822717631,
+      "Lvuptype": 2550761653,
+      "Level": 13,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 911987996,
+      "Lvuptype": 2550761653,
+      "Level": 14,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 1096607114,
+      "Lvuptype": 2550761653,
+      "Level": 15,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 3629495344,
+      "Lvuptype": 2550761653,
+      "Level": 16,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 2941420710,
+      "Lvuptype": 2550761653,
+      "Level": 17,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 1072535863,
+      "Lvuptype": 2550761653,
+      "Level": 18,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 1223338401,
+      "Lvuptype": 2550761653,
+      "Level": 19,
+      "TotalPoint": 20
+    },
+    {
+      "LvupSkillPointInd": 437994182,
+      "Lvuptype": 2550761653,
+      "Level": 20,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 1830580816,
+      "Lvuptype": 2550761653,
+      "Level": 21,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 4095026154,
+      "Lvuptype": 2550761653,
+      "Level": 22,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 2198999932,
+      "Lvuptype": 2550761653,
+      "Level": 23,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 494307039,
+      "Lvuptype": 2550761653,
+      "Level": 24,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 1785837129,
+      "Lvuptype": 2550761653,
+      "Level": 25,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 4084787187,
+      "Lvuptype": 2550761653,
+      "Level": 26,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 2222970725,
+      "Lvuptype": 2550761653,
+      "Level": 27,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 348179188,
+      "Lvuptype": 2550761653,
+      "Level": 28,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 1674050146,
+      "Lvuptype": 2550761653,
+      "Level": 29,
+      "TotalPoint": 32
+    },
+    {
+      "LvupSkillPointInd": 50361223,
+      "Lvuptype": 2550761653,
+      "Level": 30,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 1946632977,
+      "Lvuptype": 2550761653,
+      "Level": 31,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 3977122475,
+      "Lvuptype": 2550761653,
+      "Level": 32,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 2584289853,
+      "Lvuptype": 2550761653,
+      "Level": 33,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 74299294,
+      "Lvuptype": 2550761653,
+      "Level": 34,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 1936361224,
+      "Lvuptype": 2550761653,
+      "Level": 35,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3932411570,
+      "Lvuptype": 2550761653,
+      "Level": 36,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 2640635428,
+      "Lvuptype": 2550761653,
+      "Level": 37,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 232520629,
+      "Lvuptype": 2550761653,
+      "Level": 38,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 2061290275,
+      "Lvuptype": 2550761653,
+      "Level": 39,
+      "TotalPoint": 44
+    },
+    {
+      "LvupSkillPointInd": 1279386944,
+      "Lvuptype": 2550761653,
+      "Level": 40,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 994498006,
+      "Lvuptype": 2550761653,
+      "Level": 41,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 2723120236,
+      "Lvuptype": 2550761653,
+      "Level": 42,
+      "TotalPoint": 49
+    },
+    {
+      "LvupSkillPointInd": 3578311930,
+      "Lvuptype": 2550761653,
+      "Level": 43,
+      "TotalPoint": 50
+    },
+    {
+      "LvupSkillPointInd": 1261183321,
+      "Lvuptype": 2550761653,
+      "Level": 44,
+      "TotalPoint": 51
+    },
+    {
+      "LvupSkillPointInd": 1009455567,
+      "Lvuptype": 2550761653,
+      "Level": 45,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 2770485365,
+      "Lvuptype": 2550761653,
+      "Level": 46,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 3525669091,
+      "Lvuptype": 2550761653,
+      "Level": 47,
+      "TotalPoint": 56
+    },
+    {
+      "LvupSkillPointInd": 1117416818,
+      "Lvuptype": 2550761653,
+      "Level": 48,
+      "TotalPoint": 57
+    },
+    {
+      "LvupSkillPointInd": 899505636,
+      "Lvuptype": 2550761653,
+      "Level": 49,
+      "TotalPoint": 58
+    },
+    {
+      "LvupSkillPointInd": 1432015873,
+      "Lvuptype": 2550761653,
+      "Level": 50,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 576578711,
+      "Lvuptype": 2550761653,
+      "Level": 51,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 3142890797,
+      "Lvuptype": 2550761653,
+      "Level": 52,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 3428025787,
+      "Lvuptype": 2550761653,
+      "Level": 53,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 1379340312,
+      "Lvuptype": 2550761653,
+      "Level": 54,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 623911054,
+      "Lvuptype": 2550761653,
+      "Level": 55,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 3157881140,
+      "Lvuptype": 2550761653,
+      "Level": 56,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 3409854882,
+      "Lvuptype": 2550761653,
+      "Level": 57,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 1535204403,
+      "Lvuptype": 2550761653,
+      "Level": 58,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 747007141,
+      "Lvuptype": 2550761653,
+      "Level": 59,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 2121762754,
+      "Lvuptype": 2550761653,
+      "Level": 60,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 158381908,
+      "Lvuptype": 2550761653,
+      "Level": 61,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 2423908078,
+      "Lvuptype": 2550761653,
+      "Level": 62,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 3883849336,
+      "Lvuptype": 2550761653,
+      "Level": 63,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 2031764443,
+      "Lvuptype": 2550761653,
+      "Level": 64,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 236811085,
+      "Lvuptype": 2550761653,
+      "Level": 65,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 2534679287,
+      "Lvuptype": 2550761653,
+      "Level": 66,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 3759346273,
+      "Lvuptype": 2550761653,
+      "Level": 67,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 1890324464,
+      "Lvuptype": 2550761653,
+      "Level": 68,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 128663398,
+      "Lvuptype": 2550761653,
+      "Level": 69,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 1735177859,
+      "Lvuptype": 2550761653,
+      "Level": 70,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 1446506639,
+      "Lvuptype": 4010719267,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3476988213,
+      "Lvuptype": 4010719267,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 3090780579,
+      "Lvuptype": 4010719267,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 643630080,
+      "Lvuptype": 4010719267,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1364866198,
+      "Lvuptype": 4010719267,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3360908588,
+      "Lvuptype": 4010719267,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 3209975226,
+      "Lvuptype": 4010719267,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 803948587,
+      "Lvuptype": 4010719267,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1491892413,
+      "Lvuptype": 4010719267,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 2307552864,
+      "Lvuptype": 4010719267,
+      "Level": 10,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 4270671606,
+      "Lvuptype": 4010719267,
+      "Level": 11,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 1736709964,
+      "Lvuptype": 4010719267,
+      "Level": 12,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 277030874,
+      "Lvuptype": 4010719267,
+      "Level": 13,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 2397549177,
+      "Lvuptype": 4010719267,
+      "Level": 14,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 4192240367,
+      "Lvuptype": 4010719267,
+      "Level": 15,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 1625936725,
+      "Lvuptype": 4010719267,
+      "Level": 16,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 401531843,
+      "Lvuptype": 4010719267,
+      "Level": 17,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 2270297682,
+      "Lvuptype": 4010719267,
+      "Level": 18,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 4032220868,
+      "Lvuptype": 4010719267,
+      "Level": 19,
+      "TotalPoint": 20
+    },
+    {
+      "LvupSkillPointInd": 2728863139,
+      "Lvuptype": 4010719267,
+      "Level": 20,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 3584038197,
+      "Lvuptype": 4010719267,
+      "Level": 21,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 1286161551,
+      "Lvuptype": 4010719267,
+      "Level": 22,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 1001288729,
+      "Lvuptype": 4010719267,
+      "Level": 23,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 2781536698,
+      "Lvuptype": 4010719267,
+      "Level": 24,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 3536703788,
+      "Lvuptype": 4010719267,
+      "Level": 25,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 1271169174,
+      "Lvuptype": 4010719267,
+      "Level": 26,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 1019457536,
+      "Lvuptype": 4010719267,
+      "Level": 27,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 2893852049,
+      "Lvuptype": 4010719267,
+      "Level": 28,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 3682311431,
+      "Lvuptype": 4010719267,
+      "Level": 29,
+      "TotalPoint": 32
+    },
+    {
+      "LvupSkillPointInd": 3149665506,
+      "Lvuptype": 4010719267,
+      "Level": 30,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 3434816628,
+      "Lvuptype": 4010719267,
+      "Level": 31,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 1437758926,
+      "Lvuptype": 4010719267,
+      "Level": 32,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 582305112,
+      "Lvuptype": 4010719267,
+      "Level": 33,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 3167867131,
+      "Lvuptype": 4010719267,
+      "Level": 34,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 3419857005,
+      "Lvuptype": 4010719267,
+      "Level": 35,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1390391767,
+      "Lvuptype": 4010719267,
+      "Level": 36,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 634945857,
+      "Lvuptype": 4010719267,
+      "Level": 37,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 3043466448,
+      "Lvuptype": 4010719267,
+      "Level": 38,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 3261115462,
+      "Lvuptype": 4010719267,
+      "Level": 39,
+      "TotalPoint": 44
+    },
+    {
+      "LvupSkillPointInd": 4110254629,
+      "Lvuptype": 4010719267,
+      "Level": 40,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 2214245043,
+      "Lvuptype": 4010719267,
+      "Level": 41,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 452190985,
+      "Lvuptype": 4010719267,
+      "Level": 42,
+      "TotalPoint": 49
+    },
+    {
+      "LvupSkillPointInd": 1844761503,
+      "Lvuptype": 4010719267,
+      "Level": 43,
+      "TotalPoint": 50
+    },
+    {
+      "LvupSkillPointInd": 4086318652,
+      "Lvuptype": 4010719267,
+      "Level": 44,
+      "TotalPoint": 51
+    },
+    {
+      "LvupSkillPointInd": 2224518826,
+      "Lvuptype": 4010719267,
+      "Level": 45,
+      "TotalPoint": 52
+    },
+    {
+      "LvupSkillPointInd": 496903952,
+      "Lvuptype": 4010719267,
+      "Level": 46,
+      "TotalPoint": 53
+    },
+    {
+      "LvupSkillPointInd": 1788417926,
+      "Lvuptype": 4010719267,
+      "Level": 47,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 4196796951,
+      "Lvuptype": 4010719267,
+      "Level": 48,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 2367765121,
+      "Lvuptype": 4010719267,
+      "Level": 49,
+      "TotalPoint": 56
+    },
+    {
+      "LvupSkillPointInd": 3991319396,
+      "Lvuptype": 4010719267,
+      "Level": 50,
+      "TotalPoint": 59
+    },
+    {
+      "LvupSkillPointInd": 2598470642,
+      "Lvuptype": 4010719267,
+      "Level": 51,
+      "TotalPoint": 60
+    },
+    {
+      "LvupSkillPointInd": 65589832,
+      "Lvuptype": 4010719267,
+      "Level": 52,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 1961878238,
+      "Lvuptype": 4010719267,
+      "Level": 53,
+      "TotalPoint": 62
+    },
+    {
+      "LvupSkillPointInd": 3935008637,
+      "Lvuptype": 4010719267,
+      "Level": 54,
+      "TotalPoint": 63
+    },
+    {
+      "LvupSkillPointInd": 2643216363,
+      "Lvuptype": 4010719267,
+      "Level": 55,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 75830865,
+      "Lvuptype": 4010719267,
+      "Level": 56,
+      "TotalPoint": 67
+    },
+    {
+      "LvupSkillPointInd": 1937909447,
+      "Lvuptype": 4010719267,
+      "Level": 57,
+      "TotalPoint": 68
+    },
+    {
+      "LvupSkillPointInd": 3812440918,
+      "Lvuptype": 4010719267,
+      "Level": 58,
+      "TotalPoint": 69
+    },
+    {
+      "LvupSkillPointInd": 2486832064,
+      "Lvuptype": 4010719267,
+      "Level": 59,
+      "TotalPoint": 70
+    },
+    {
+      "LvupSkillPointInd": 3335250087,
+      "Lvuptype": 4010719267,
+      "Level": 60,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 2982989873,
+      "Lvuptype": 4010719267,
+      "Level": 61,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 684032395,
+      "Lvuptype": 4010719267,
+      "Level": 62,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 1606594845,
+      "Lvuptype": 4010719267,
+      "Level": 63,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 3248891070,
+      "Lvuptype": 4010719267,
+      "Level": 64,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 3064009768,
+      "Lvuptype": 4010719267,
+      "Level": 65,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 799557010,
+      "Lvuptype": 4010719267,
+      "Level": 66,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 1487893764,
+      "Lvuptype": 4010719267,
+      "Level": 67,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 3356518549,
+      "Lvuptype": 4010719267,
+      "Level": 68,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 3205978115,
+      "Lvuptype": 4010719267,
+      "Level": 69,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 3755004390,
+      "Lvuptype": 4010719267,
+      "Level": 70,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 2832720240,
+      "Lvuptype": 4010719267,
+      "Level": 71,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 836677834,
+      "Lvuptype": 4010719267,
+      "Level": 72,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 1188659292,
+      "Lvuptype": 4010719267,
+      "Level": 73,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 3636270591,
+      "Lvuptype": 4010719267,
+      "Level": 74,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 2948212073,
+      "Lvuptype": 4010719267,
+      "Level": 75,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 917730515,
+      "Lvuptype": 4010719267,
+      "Level": 76,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 1102332997,
+      "Lvuptype": 4010719267,
+      "Level": 77,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 3507182036,
+      "Lvuptype": 4010719267,
+      "Level": 78,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 2785831234,
+      "Lvuptype": 4010719267,
+      "Level": 79,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 1481166121,
+      "Lvuptype": 4010719267,
+      "Level": 80,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 1416711894,
+      "Lvuptype": 1980230041,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3447201644,
+      "Lvuptype": 1980230041,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 3128897530,
+      "Lvuptype": 1980230041,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 605796953,
+      "Lvuptype": 1980230041,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1394379471,
+      "Lvuptype": 1980230041,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3390430069,
+      "Lvuptype": 1980230041,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 3172133859,
+      "Lvuptype": 1980230041,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 766375538,
+      "Lvuptype": 1980230041,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1521141476,
+      "Lvuptype": 1980230041,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 2604652942,
+      "Lvuptype": 1980230041,
+      "Level": 10,
+      "TotalPoint": 9
+    },
+    {
+      "LvupSkillPointInd": 3963152664,
+      "Lvuptype": 1980230041,
+      "Level": 11,
+      "TotalPoint": 10
+    },
+    {
+      "LvupSkillPointInd": 1966192802,
+      "Lvuptype": 1980230041,
+      "Level": 12,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 37128244,
+      "Lvuptype": 1980230041,
+      "Level": 13,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 2622627223,
+      "Lvuptype": 1980230041,
+      "Level": 14,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 3948227841,
+      "Lvuptype": 1980230041,
+      "Level": 15,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 1918663867,
+      "Lvuptype": 1980230041,
+      "Level": 16,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 89869357,
+      "Lvuptype": 1980230041,
+      "Level": 17,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 2514768316,
+      "Lvuptype": 1980230041,
+      "Level": 18,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 3806552362,
+      "Lvuptype": 1980230041,
+      "Level": 19,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 2954005069,
+      "Lvuptype": 1980230041,
+      "Level": 20,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 3340090075,
+      "Lvuptype": 1980230041,
+      "Level": 21,
+      "TotalPoint": 20
+    },
+    {
+      "LvupSkillPointInd": 1578953569,
+      "Lvuptype": 1980230041,
+      "Level": 22,
+      "TotalPoint": 21
+    },
+    {
+      "LvupSkillPointInd": 689691639,
+      "Lvuptype": 1980230041,
+      "Level": 23,
+      "TotalPoint": 22
+    },
+    {
+      "LvupSkillPointInd": 3078573652,
+      "Lvuptype": 1980230041,
+      "Level": 24,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 3229122242,
+      "Lvuptype": 1980230041,
+      "Level": 25,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 1500589944,
+      "Lvuptype": 1980230041,
+      "Level": 26,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 779493358,
+      "Lvuptype": 1980230041,
+      "Level": 27,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 3200844415,
+      "Lvuptype": 1980230041,
+      "Level": 28,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 3385733865,
+      "Lvuptype": 1980230041,
+      "Level": 29,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 2835987212,
+      "Lvuptype": 1980230041,
+      "Level": 30,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 3725495194,
+      "Lvuptype": 1980230041,
+      "Level": 31,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 1191696928,
+      "Lvuptype": 1980230041,
+      "Level": 32,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 805366454,
+      "Lvuptype": 1980230041,
+      "Level": 33,
+      "TotalPoint": 32
+    },
+    {
+      "LvupSkillPointInd": 2925821717,
+      "Lvuptype": 1980230041,
+      "Level": 34,
+      "TotalPoint": 33
+    },
+    {
+      "LvupSkillPointInd": 3647164291,
+      "Lvuptype": 1980230041,
+      "Level": 35,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 1080696377,
+      "Lvuptype": 1980230041,
+      "Level": 36,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 929902255,
+      "Lvuptype": 1980230041,
+      "Level": 37,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 2815570750,
+      "Lvuptype": 1980230041,
+      "Level": 38,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 3503621032,
+      "Lvuptype": 1980230041,
+      "Level": 39,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 3863489995,
+      "Lvuptype": 1980230041,
+      "Level": 40,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 2437881181,
+      "Lvuptype": 1980230041,
+      "Level": 41,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 138824935,
+      "Lvuptype": 1980230041,
+      "Level": 42,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 2134998129,
+      "Lvuptype": 1980230041,
+      "Level": 43,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 3777358290,
+      "Lvuptype": 1980230041,
+      "Level": 44,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 2518866244,
+      "Lvuptype": 1980230041,
+      "Level": 45,
+      "TotalPoint": 44
+    },
+    {
+      "LvupSkillPointInd": 254511358,
+      "Lvuptype": 1980230041,
+      "Level": 46,
+      "TotalPoint": 45
+    },
+    {
+      "LvupSkillPointInd": 2016196712,
+      "Lvuptype": 1980230041,
+      "Level": 47,
+      "TotalPoint": 46
+    },
+    {
+      "LvupSkillPointInd": 3901990393,
+      "Lvuptype": 1980230041,
+      "Level": 48,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 2677314927,
+      "Lvuptype": 1980230041,
+      "Level": 49,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 4283636874,
+      "Lvuptype": 1980230041,
+      "Level": 50,
+      "TotalPoint": 49
+    },
+    {
+      "LvupSkillPointInd": 2287217692,
+      "Lvuptype": 1980230041,
+      "Level": 51,
+      "TotalPoint": 50
+    },
+    {
+      "LvupSkillPointInd": 291339686,
+      "Lvuptype": 1980230041,
+      "Level": 52,
+      "TotalPoint": 51
+    },
+    {
+      "LvupSkillPointInd": 1717194032,
+      "Lvuptype": 1980230041,
+      "Level": 53,
+      "TotalPoint": 52
+    },
+    {
+      "LvupSkillPointInd": 4164868243,
+      "Lvuptype": 1980230041,
+      "Level": 54,
+      "TotalPoint": 53
+    },
+    {
+      "LvupSkillPointInd": 2402936837,
+      "Lvuptype": 1980230041,
+      "Level": 55,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 372292031,
+      "Lvuptype": 1980230041,
+      "Level": 56,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 1631029545,
+      "Lvuptype": 1980230041,
+      "Level": 57,
+      "TotalPoint": 56
+    },
+    {
+      "LvupSkillPointInd": 4052260024,
+      "Lvuptype": 1980230041,
+      "Level": 58,
+      "TotalPoint": 57
+    },
+    {
+      "LvupSkillPointInd": 2257560622,
+      "Lvuptype": 1980230041,
+      "Level": 59,
+      "TotalPoint": 58
+    },
+    {
+      "LvupSkillPointInd": 3565047625,
+      "Lvuptype": 1980230041,
+      "Level": 60,
+      "TotalPoint": 59
+    },
+    {
+      "LvupSkillPointInd": 2742648799,
+      "Lvuptype": 1980230041,
+      "Level": 61,
+      "TotalPoint": 60
+    },
+    {
+      "LvupSkillPointInd": 980430437,
+      "Lvuptype": 1980230041,
+      "Level": 62,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 1299652339,
+      "Lvuptype": 1980230041,
+      "Level": 63,
+      "TotalPoint": 62
+    },
+    {
+      "LvupSkillPointInd": 3541273424,
+      "Lvuptype": 1980230041,
+      "Level": 64,
+      "TotalPoint": 63
+    },
+    {
+      "LvupSkillPointInd": 2752822214,
+      "Lvuptype": 1980230041,
+      "Level": 65,
+      "TotalPoint": 64
+    },
+    {
+      "LvupSkillPointInd": 1025370748,
+      "Lvuptype": 1980230041,
+      "Level": 66,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1243273962,
+      "Lvuptype": 1980230041,
+      "Level": 67,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3668297595,
+      "Lvuptype": 1980230041,
+      "Level": 68,
+      "TotalPoint": 67
+    },
+    {
+      "LvupSkillPointInd": 2913138669,
+      "Lvuptype": 1980230041,
+      "Level": 69,
+      "TotalPoint": 68
+    },
+    {
+      "LvupSkillPointInd": 3445980680,
+      "Lvuptype": 1980230041,
+      "Level": 70,
+      "TotalPoint": 69
+    },
+    {
+      "LvupSkillPointInd": 3127004830,
+      "Lvuptype": 1980230041,
+      "Level": 71,
+      "TotalPoint": 70
+    },
+    {
+      "LvupSkillPointInd": 594222884,
+      "Lvuptype": 1980230041,
+      "Level": 72,
+      "TotalPoint": 71
+    },
+    {
+      "LvupSkillPointInd": 1416376242,
+      "Lvuptype": 1980230041,
+      "Level": 73,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3389569553,
+      "Lvuptype": 1980230041,
+      "Level": 74,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 3171912327,
+      "Lvuptype": 1980230041,
+      "Level": 75,
+      "TotalPoint": 74
+    },
+    {
+      "LvupSkillPointInd": 604429117,
+      "Lvuptype": 1980230041,
+      "Level": 76,
+      "TotalPoint": 75
+    },
+    {
+      "LvupSkillPointInd": 1392634795,
+      "Lvuptype": 1980230041,
+      "Level": 77,
+      "TotalPoint": 76
+    },
+    {
+      "LvupSkillPointInd": 3284071994,
+      "Lvuptype": 1980230041,
+      "Level": 78,
+      "TotalPoint": 77
+    },
+    {
+      "LvupSkillPointInd": 3032073900,
+      "Lvuptype": 1980230041,
+      "Level": 79,
+      "TotalPoint": 78
+    },
+    {
+      "LvupSkillPointInd": 1258119879,
+      "Lvuptype": 1980230041,
+      "Level": 80,
+      "TotalPoint": 79
+    },
+    {
+      "LvupSkillPointInd": 1039815249,
+      "Lvuptype": 1980230041,
+      "Level": 81,
+      "TotalPoint": 80
+    },
+    {
+      "LvupSkillPointInd": 2767389675,
+      "Lvuptype": 1980230041,
+      "Level": 82,
+      "TotalPoint": 81
+    },
+    {
+      "LvupSkillPointInd": 3555996541,
+      "Lvuptype": 1980230041,
+      "Level": 83,
+      "TotalPoint": 82
+    },
+    {
+      "LvupSkillPointInd": 1301325534,
+      "Lvuptype": 1980230041,
+      "Level": 84,
+      "TotalPoint": 83
+    },
+    {
+      "LvupSkillPointInd": 983012936,
+      "Lvuptype": 1980230041,
+      "Level": 85,
+      "TotalPoint": 84
+    },
+    {
+      "LvupSkillPointInd": 2745092082,
+      "Lvuptype": 1980230041,
+      "Level": 86,
+      "TotalPoint": 85
+    },
+    {
+      "LvupSkillPointInd": 3566860132,
+      "Lvuptype": 1980230041,
+      "Level": 87,
+      "TotalPoint": 86
+    },
+    {
+      "LvupSkillPointInd": 1143401205,
+      "Lvuptype": 1980230041,
+      "Level": 88,
+      "TotalPoint": 87
+    },
+    {
+      "LvupSkillPointInd": 857856611,
+      "Lvuptype": 1980230041,
+      "Level": 89,
+      "TotalPoint": 88
+    },
+    {
+      "LvupSkillPointInd": 1407603590,
+      "Lvuptype": 1980230041,
+      "Level": 90,
+      "TotalPoint": 89
+    },
+    {
+      "LvupSkillPointInd": 618750736,
+      "Lvuptype": 1980230041,
+      "Level": 91,
+      "TotalPoint": 90
+    },
+    {
+      "LvupSkillPointInd": 3186111146,
+      "Lvuptype": 1980230041,
+      "Level": 92,
+      "TotalPoint": 91
+    },
+    {
+      "LvupSkillPointInd": 3404661308,
+      "Lvuptype": 1980230041,
+      "Level": 93,
+      "TotalPoint": 92
+    },
+    {
+      "LvupSkillPointInd": 1418434463,
+      "Lvuptype": 1980230041,
+      "Level": 94,
+      "TotalPoint": 93
+    },
+    {
+      "LvupSkillPointInd": 596420361,
+      "Lvuptype": 1980230041,
+      "Level": 95,
+      "TotalPoint": 94
+    },
+    {
+      "LvupSkillPointInd": 3129341619,
+      "Lvuptype": 1980230041,
+      "Level": 96,
+      "TotalPoint": 95
+    },
+    {
+      "LvupSkillPointInd": 3447899685,
+      "Lvuptype": 1980230041,
+      "Level": 97,
+      "TotalPoint": 96
+    },
+    {
+      "LvupSkillPointInd": 1564335028,
+      "Lvuptype": 1980230041,
+      "Level": 98,
+      "TotalPoint": 97
+    },
+    {
+      "LvupSkillPointInd": 708504354,
+      "Lvuptype": 1980230041,
+      "Level": 99,
+      "TotalPoint": 98
+    },
+    {
+      "LvupSkillPointInd": 4265627359,
+      "Lvuptype": 1980230041,
+      "Level": 100,
+      "TotalPoint": 99
+    },
+    {
+      "LvupSkillPointInd": 1084786284,
+      "Lvuptype": 4023988017,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3651262422,
+      "Lvuptype": 4023988017,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 2930173760,
+      "Lvuptype": 4023988017,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 818049763,
+      "Lvuptype": 4023988017,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1204109941,
+      "Lvuptype": 4023988017,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3737916367,
+      "Lvuptype": 4023988017,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 2848662361,
+      "Lvuptype": 4023988017,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 963919560,
+      "Lvuptype": 4023988017,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1316163166,
+      "Lvuptype": 4023988017,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 2963233492,
+      "Lvuptype": 4023988017,
+      "Level": 10,
+      "TotalPoint": 10
+    },
+    {
+      "LvupSkillPointInd": 3348654658,
+      "Lvuptype": 4023988017,
+      "Level": 11,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 1586576376,
+      "Lvuptype": 4023988017,
+      "Level": 12,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 697699182,
+      "Lvuptype": 4023988017,
+      "Level": 13,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 3086130893,
+      "Lvuptype": 4023988017,
+      "Level": 14,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 3237326427,
+      "Lvuptype": 4023988017,
+      "Level": 15,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 1509752801,
+      "Lvuptype": 4023988017,
+      "Level": 16,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 788254583,
+      "Lvuptype": 4023988017,
+      "Level": 17,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 3192181478,
+      "Lvuptype": 4023988017,
+      "Level": 18,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 3376669296,
+      "Lvuptype": 4023988017,
+      "Level": 19,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 2612136215,
+      "Lvuptype": 4023988017,
+      "Level": 20,
+      "TotalPoint": 21
+    },
+    {
+      "LvupSkillPointInd": 3971299713,
+      "Lvuptype": 4023988017,
+      "Level": 21,
+      "TotalPoint": 22
+    },
+    {
+      "LvupSkillPointInd": 1975281723,
+      "Lvuptype": 4023988017,
+      "Level": 22,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 45832365,
+      "Lvuptype": 4023988017,
+      "Level": 23,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 2631912718,
+      "Lvuptype": 4023988017,
+      "Level": 24,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 3956866456,
+      "Lvuptype": 4023988017,
+      "Level": 25,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 1926343714,
+      "Lvuptype": 4023988017,
+      "Level": 26,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 97950900,
+      "Lvuptype": 4023988017,
+      "Level": 27,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 2506719525,
+      "Lvuptype": 4023988017,
+      "Level": 28,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 3798905267,
+      "Lvuptype": 4023988017,
+      "Level": 29,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 2192128086,
+      "Lvuptype": 4023988017,
+      "Level": 30,
+      "TotalPoint": 33
+    },
+    {
+      "LvupSkillPointInd": 4121823424,
+      "Lvuptype": 4023988017,
+      "Level": 31,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 1822906746,
+      "Lvuptype": 4023988017,
+      "Level": 32,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 463497708,
+      "Lvuptype": 4023988017,
+      "Level": 33,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 2244279375,
+      "Lvuptype": 4023988017,
+      "Level": 34,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 4072918233,
+      "Lvuptype": 4023988017,
+      "Level": 35,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1808440675,
+      "Lvuptype": 4023988017,
+      "Level": 36,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 483241461,
+      "Lvuptype": 4023988017,
+      "Level": 37,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 2356326500,
+      "Lvuptype": 4023988017,
+      "Level": 38,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 4218781938,
+      "Lvuptype": 4023988017,
+      "Level": 39,
+      "TotalPoint": 44
+    },
+    {
+      "LvupSkillPointInd": 3454578321,
+      "Lvuptype": 4023988017,
+      "Level": 40,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3136265735,
+      "Lvuptype": 4023988017,
+      "Level": 41,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 602329021,
+      "Lvuptype": 4023988017,
+      "Level": 42,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 1424097067,
+      "Lvuptype": 4023988017,
+      "Level": 43,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3397741192,
+      "Lvuptype": 4023988017,
+      "Level": 44,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3179436574,
+      "Lvuptype": 4023988017,
+      "Level": 45,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 613092260,
+      "Lvuptype": 4023988017,
+      "Level": 46,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 1401699122,
+      "Lvuptype": 4023988017,
+      "Level": 47,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3274909347,
+      "Lvuptype": 4023988017,
+      "Level": 48,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3023312437,
+      "Lvuptype": 4023988017,
+      "Level": 49,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3572735952,
+      "Lvuptype": 4023988017,
+      "Level": 50,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 2750721862,
+      "Lvuptype": 4023988017,
+      "Level": 51,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 989724412,
+      "Lvuptype": 4023988017,
+      "Level": 52,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 1308282474,
+      "Lvuptype": 4023988017,
+      "Level": 53,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3550370761,
+      "Lvuptype": 4023988017,
+      "Level": 54,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 2761517919,
+      "Lvuptype": 4023988017,
+      "Level": 55,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 1032862437,
+      "Lvuptype": 4023988017,
+      "Level": 56,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 1251412595,
+      "Lvuptype": 4023988017,
+      "Level": 57,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3660060642,
+      "Lvuptype": 4023988017,
+      "Level": 58,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 2905548660,
+      "Lvuptype": 4023988017,
+      "Level": 59,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 4292791315,
+      "Lvuptype": 4023988017,
+      "Level": 60,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 1172803817,
+      "Lvuptype": 1908259474,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3706634579,
+      "Lvuptype": 1908259474,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 2884235717,
+      "Lvuptype": 1908259474,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 898458726,
+      "Lvuptype": 1908259474,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1116361968,
+      "Lvuptype": 1908259474,
+      "Level": 5,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 3682796874,
+      "Lvuptype": 1908259474,
+      "Level": 6,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 2894345692,
+      "Lvuptype": 1908259474,
+      "Level": 7,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1010509901,
+      "Lvuptype": 1908259474,
+      "Level": 8,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 1262229723,
+      "Lvuptype": 1908259474,
+      "Level": 9,
+      "TotalPoint": 9
+    },
+    {
+      "LvupSkillPointInd": 759718509,
+      "Lvuptype": 1908259474,
+      "Level": 10,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 1515148027,
+      "Lvuptype": 1908259474,
+      "Level": 11,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 3276145473,
+      "Lvuptype": 1908259474,
+      "Level": 12,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 3024171991,
+      "Lvuptype": 1908259474,
+      "Level": 13,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 707110516,
+      "Lvuptype": 1908259474,
+      "Level": 14,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 1562547938,
+      "Lvuptype": 1908259474,
+      "Level": 15,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 3291203416,
+      "Lvuptype": 1908259474,
+      "Level": 16,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 3006068686,
+      "Lvuptype": 1908259474,
+      "Level": 17,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 596896351,
+      "Lvuptype": 1908259474,
+      "Level": 18,
+      "TotalPoint": 20
+    },
+    {
+      "LvupSkillPointInd": 1419041481,
+      "Lvuptype": 1908259474,
+      "Level": 19,
+      "TotalPoint": 21
+    },
+    {
+      "LvupSkillPointInd": 107295150,
+      "Lvuptype": 1908259474,
+      "Level": 20,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 1902248248,
+      "Lvuptype": 1908259474,
+      "Level": 21,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 3899347074,
+      "Lvuptype": 1908259474,
+      "Level": 22,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 2674679828,
+      "Lvuptype": 1908259474,
+      "Level": 23,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 17364407,
+      "Lvuptype": 1908259474,
+      "Level": 24,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 1980744993,
+      "Lvuptype": 1908259474,
+      "Level": 25,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 4010185883,
+      "Lvuptype": 1908259474,
+      "Level": 26,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 2550244365,
+      "Lvuptype": 1908259474,
+      "Level": 27,
+      "TotalPoint": 32
+    },
+    {
+      "LvupSkillPointInd": 146717084,
+      "Lvuptype": 1908259474,
+      "Level": 28,
+      "TotalPoint": 33
+    },
+    {
+      "LvupSkillPointInd": 2142865674,
+      "Lvuptype": 1908259474,
+      "Level": 29,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 528351471,
+      "Lvuptype": 1908259474,
+      "Level": 30,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 1752772729,
+      "Lvuptype": 1908259474,
+      "Level": 31,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 4050674115,
+      "Lvuptype": 1908259474,
+      "Level": 32,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 2255966549,
+      "Lvuptype": 1908259474,
+      "Level": 33,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 403948790,
+      "Lvuptype": 1908259474,
+      "Level": 34,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 1863644256,
+      "Lvuptype": 1908259474,
+      "Level": 35,
+      "TotalPoint": 44
+    },
+    {
+      "LvupSkillPointInd": 4129138138,
+      "Lvuptype": 1908259474,
+      "Level": 36,
+      "TotalPoint": 45
+    },
+    {
+      "LvupSkillPointInd": 2166003020,
+      "Lvuptype": 1908259474,
+      "Level": 37,
+      "TotalPoint": 46
+    },
+    {
+      "LvupSkillPointInd": 296061149,
+      "Lvuptype": 1908259474,
+      "Level": 38,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 1721940043,
+      "Lvuptype": 1908259474,
+      "Level": 39,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 1346344488,
+      "Lvuptype": 1908259474,
+      "Level": 40,
+      "TotalPoint": 51
+    },
+    {
+      "LvupSkillPointInd": 658024126,
+      "Lvuptype": 1908259474,
+      "Level": 41,
+      "TotalPoint": 52
+    },
+    {
+      "LvupSkillPointInd": 3190945540,
+      "Lvuptype": 1908259474,
+      "Level": 42,
+      "TotalPoint": 53
+    },
+    {
+      "LvupSkillPointInd": 3375810450,
+      "Lvuptype": 1908259474,
+      "Level": 43,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 1465012785,
+      "Lvuptype": 1908259474,
+      "Level": 44,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 542466727,
+      "Lvuptype": 1908259474,
+      "Level": 45,
+      "TotalPoint": 58
+    },
+    {
+      "LvupSkillPointInd": 3109827357,
+      "Lvuptype": 1908259474,
+      "Level": 46,
+      "TotalPoint": 59
+    },
+    {
+      "LvupSkillPointInd": 3462071179,
+      "Lvuptype": 1908259474,
+      "Level": 47,
+      "TotalPoint": 60
+    },
+    {
+      "LvupSkillPointInd": 1592008218,
+      "Lvuptype": 1908259474,
+      "Level": 48,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 702754444,
+      "Lvuptype": 1908259474,
+      "Level": 49,
+      "TotalPoint": 62
+    },
+    {
+      "LvupSkillPointInd": 1227138921,
+      "Lvuptype": 1908259474,
+      "Level": 50,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1042520063,
+      "Lvuptype": 1908259474,
+      "Level": 51,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 2804598341,
+      "Lvuptype": 1908259474,
+      "Level": 52,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 3492673235,
+      "Lvuptype": 1908259474,
+      "Level": 53,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1313432432,
+      "Lvuptype": 1908259474,
+      "Level": 54,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 961434598,
+      "Lvuptype": 1908259474,
+      "Level": 55,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 2689008220,
+      "Lvuptype": 1908259474,
+      "Level": 56,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 3611308746,
+      "Lvuptype": 1908259474,
+      "Level": 57,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1207906139,
+      "Lvuptype": 1908259474,
+      "Level": 58,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 821567437,
+      "Lvuptype": 1908259474,
+      "Level": 59,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1644819626,
+      "Lvuptype": 1908259474,
+      "Level": 60,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 353289276,
+      "Lvuptype": 1908259474,
+      "Level": 61,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 2349307270,
+      "Lvuptype": 1908259474,
+      "Level": 62,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 4211123472,
+      "Lvuptype": 1908259474,
+      "Level": 63,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1701064883,
+      "Lvuptype": 1908259474,
+      "Level": 64,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 308477989,
+      "Lvuptype": 1908259474,
+      "Level": 65,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 2339000735,
+      "Lvuptype": 1908259474,
+      "Level": 66,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 4235026697,
+      "Lvuptype": 1908259474,
+      "Level": 67,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1825733784,
+      "Lvuptype": 1908259474,
+      "Level": 68,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 466963470,
+      "Lvuptype": 1908259474,
+      "Level": 69,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 2064827883,
+      "Lvuptype": 1908259474,
+      "Level": 70,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1143339742,
+      "Lvuptype": 112888324,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3710692196,
+      "Lvuptype": 112888324,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 2854984690,
+      "Lvuptype": 112888324,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 877596241,
+      "Lvuptype": 112888324,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1128808135,
+      "Lvuptype": 112888324,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3661721469,
+      "Lvuptype": 112888324,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 2907070443,
+      "Lvuptype": 112888324,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 1039745658,
+      "Lvuptype": 112888324,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1258189548,
+      "Lvuptype": 112888324,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 2515797256,
+      "Lvuptype": 112888324,
+      "Level": 10,
+      "TotalPoint": 10
+    },
+    {
+      "LvupSkillPointInd": 3807589790,
+      "Lvuptype": 112888324,
+      "Level": 11,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 2080007204,
+      "Lvuptype": 112888324,
+      "Level": 12,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 217928882,
+      "Lvuptype": 112888324,
+      "Level": 13,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 2459549969,
+      "Lvuptype": 112888324,
+      "Level": 14,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 3852398983,
+      "Lvuptype": 112888324,
+      "Level": 15,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 2090311741,
+      "Lvuptype": 112888324,
+      "Level": 16,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 194023595,
+      "Lvuptype": 112888324,
+      "Level": 17,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 2603584826,
+      "Lvuptype": 112888324,
+      "Level": 18,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 3962092972,
+      "Lvuptype": 112888324,
+      "Level": 19,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 3201914571,
+      "Lvuptype": 112888324,
+      "Level": 20,
+      "TotalPoint": 22
+    },
+    {
+      "LvupSkillPointInd": 3386795613,
+      "Lvuptype": 112888324,
+      "Level": 21,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 1356281831,
+      "Lvuptype": 112888324,
+      "Level": 22,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 667944817,
+      "Lvuptype": 112888324,
+      "Level": 23,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 3115619026,
+      "Lvuptype": 112888324,
+      "Level": 24,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 3467878980,
+      "Lvuptype": 112888324,
+      "Level": 25,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 1471869950,
+      "Lvuptype": 112888324,
+      "Level": 26,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 549307240,
+      "Lvuptype": 112888324,
+      "Level": 27,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 2952978169,
+      "Lvuptype": 112888324,
+      "Level": 28,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 3339054703,
+      "Lvuptype": 112888324,
+      "Level": 29,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 2814535562,
+      "Lvuptype": 112888324,
+      "Level": 30,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 3502593820,
+      "Lvuptype": 112888324,
+      "Level": 31,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 1238107814,
+      "Lvuptype": 112888324,
+      "Level": 32,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 1053505072,
+      "Lvuptype": 112888324,
+      "Level": 33,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 2695865235,
+      "Lvuptype": 112888324,
+      "Level": 34,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 3618149125,
+      "Lvuptype": 112888324,
+      "Level": 35,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 1319223999,
+      "Lvuptype": 112888324,
+      "Level": 36,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 967242281,
+      "Lvuptype": 112888324,
+      "Level": 37,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 2837049272,
+      "Lvuptype": 112888324,
+      "Level": 38,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 3726565166,
+      "Lvuptype": 112888324,
+      "Level": 39,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 3900961101,
+      "Lvuptype": 112888324,
+      "Level": 40,
+      "TotalPoint": 46
+    },
+    {
+      "LvupSkillPointInd": 2676277723,
+      "Lvuptype": 112888324,
+      "Level": 41,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 109940833,
+      "Lvuptype": 112888324,
+      "Level": 42,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 1904910583,
+      "Lvuptype": 112888324,
+      "Level": 43,
+      "TotalPoint": 49
+    },
+    {
+      "LvupSkillPointInd": 4025365844,
+      "Lvuptype": 112888324,
+      "Level": 44,
+      "TotalPoint": 50
+    },
+    {
+      "LvupSkillPointInd": 2565408194,
+      "Lvuptype": 112888324,
+      "Level": 45,
+      "TotalPoint": 51
+    },
+    {
+      "LvupSkillPointInd": 31478904,
+      "Lvuptype": 112888324,
+      "Level": 46,
+      "TotalPoint": 52
+    },
+    {
+      "LvupSkillPointInd": 1994876142,
+      "Lvuptype": 112888324,
+      "Level": 47,
+      "TotalPoint": 53
+    },
+    {
+      "LvupSkillPointInd": 3864557951,
+      "Lvuptype": 112888324,
+      "Level": 48,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 2438941161,
+      "Lvuptype": 112888324,
+      "Level": 49,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 4053319692,
+      "Lvuptype": 112888324,
+      "Level": 50,
+      "TotalPoint": 58
+    },
+    {
+      "LvupSkillPointInd": 2258628762,
+      "Lvuptype": 112888324,
+      "Level": 51,
+      "TotalPoint": 59
+    },
+    {
+      "LvupSkillPointInd": 529965344,
+      "Lvuptype": 112888324,
+      "Level": 52,
+      "TotalPoint": 60
+    },
+    {
+      "LvupSkillPointInd": 1754370486,
+      "Lvuptype": 112888324,
+      "Level": 53,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 4143252501,
+      "Lvuptype": 112888324,
+      "Level": 54,
+      "TotalPoint": 62
+    },
+    {
+      "LvupSkillPointInd": 2180134019,
+      "Lvuptype": 112888324,
+      "Level": 55,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 419128633,
+      "Lvuptype": 112888324,
+      "Level": 56,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 1878807983,
+      "Lvuptype": 112888324,
+      "Level": 57,
+      "TotalPoint": 67
+    },
+    {
+      "LvupSkillPointInd": 4282599486,
+      "Lvuptype": 112888324,
+      "Level": 58,
+      "TotalPoint": 68
+    },
+    {
+      "LvupSkillPointInd": 2286188712,
+      "Lvuptype": 112888324,
+      "Level": 59,
+      "TotalPoint": 69
+    },
+    {
+      "LvupSkillPointInd": 3669332943,
+      "Lvuptype": 112888324,
+      "Level": 60,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2914165593,
+      "Lvuptype": 112888324,
+      "Level": 61,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 884732643,
+      "Lvuptype": 112888324,
+      "Level": 62,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1136444021,
+      "Lvuptype": 112888324,
+      "Level": 63,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3721942998,
+      "Lvuptype": 112888324,
+      "Level": 64,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2866767680,
+      "Lvuptype": 112888324,
+      "Level": 65,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 869676794,
+      "Lvuptype": 112888324,
+      "Level": 66,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1154549356,
+      "Lvuptype": 112888324,
+      "Level": 67,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3563985917,
+      "Lvuptype": 112888324,
+      "Level": 68,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2741578603,
+      "Lvuptype": 112888324,
+      "Level": 69,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3283001998,
+      "Lvuptype": 112888324,
+      "Level": 70,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3031011864,
+      "Lvuptype": 112888324,
+      "Level": 71,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 765510562,
+      "Lvuptype": 112888324,
+      "Level": 72,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1520956212,
+      "Lvuptype": 112888324,
+      "Level": 73,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3301140119,
+      "Lvuptype": 112888324,
+      "Level": 74,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3015988737,
+      "Lvuptype": 112888324,
+      "Level": 75,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 718079931,
+      "Lvuptype": 112888324,
+      "Level": 76,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1573533485,
+      "Lvuptype": 112888324,
+      "Level": 77,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3447007932,
+      "Lvuptype": 112888324,
+      "Level": 78,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3128039978,
+      "Lvuptype": 112888324,
+      "Level": 79,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1144438337,
+      "Lvuptype": 112888324,
+      "Level": 80,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1180910727,
+      "Lvuptype": 2679364542,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3748271421,
+      "Lvuptype": 2679364542,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 2825725355,
+      "Lvuptype": 2679364542,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 906604552,
+      "Lvuptype": 2679364542,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1091469470,
+      "Lvuptype": 2679364542,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3624390948,
+      "Lvuptype": 2679364542,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 2936070578,
+      "Lvuptype": 2679364542,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 1069546531,
+      "Lvuptype": 2679364542,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1220070581,
+      "Lvuptype": 2679364542,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 2269227750,
+      "Lvuptype": 2679364542,
+      "Level": 10,
+      "TotalPoint": 9
+    },
+    {
+      "LvupSkillPointInd": 4031158896,
+      "Lvuptype": 2679364542,
+      "Level": 11,
+      "TotalPoint": 10
+    },
+    {
+      "LvupSkillPointInd": 1766837194,
+      "Lvuptype": 2679364542,
+      "Level": 12,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 508099420,
+      "Lvuptype": 2679364542,
+      "Level": 13,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 2150395647,
+      "Lvuptype": 2679364542,
+      "Level": 14,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 4146814569,
+      "Lvuptype": 2679364542,
+      "Level": 15,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 1847726035,
+      "Lvuptype": 2679364542,
+      "Level": 16,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 421871429,
+      "Lvuptype": 2679364542,
+      "Level": 17,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 2308580052,
+      "Lvuptype": 2679364542,
+      "Level": 18,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 4271706690,
+      "Lvuptype": 2679364542,
+      "Level": 19,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 2892822821,
+      "Lvuptype": 2679364542,
+      "Level": 20,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 3681274291,
+      "Lvuptype": 2679364542,
+      "Level": 21,
+      "TotalPoint": 20
+    },
+    {
+      "LvupSkillPointInd": 1113757705,
+      "Lvuptype": 2679364542,
+      "Level": 22,
+      "TotalPoint": 21
+    },
+    {
+      "LvupSkillPointInd": 895854751,
+      "Lvuptype": 2679364542,
+      "Level": 23,
+      "TotalPoint": 22
+    },
+    {
+      "LvupSkillPointInd": 2868985148,
+      "Lvuptype": 2679364542,
+      "Level": 24,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 3691384234,
+      "Lvuptype": 2679364542,
+      "Level": 25,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 1158634512,
+      "Lvuptype": 2679364542,
+      "Level": 26,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 839412870,
+      "Lvuptype": 2679364542,
+      "Level": 27,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 2729931031,
+      "Lvuptype": 2679364542,
+      "Level": 28,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 3585098113,
+      "Lvuptype": 2679364542,
+      "Level": 29,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 3044526180,
+      "Lvuptype": 2679364542,
+      "Level": 30,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 3262183666,
+      "Lvuptype": 2679364542,
+      "Level": 31,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 1534699848,
+      "Lvuptype": 2679364542,
+      "Level": 32,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 746494430,
+      "Lvuptype": 2679364542,
+      "Level": 33,
+      "TotalPoint": 32
+    },
+    {
+      "LvupSkillPointInd": 2988051581,
+      "Lvuptype": 2679364542,
+      "Level": 34,
+      "TotalPoint": 33
+    },
+    {
+      "LvupSkillPointInd": 3307027691,
+      "Lvuptype": 2679364542,
+      "Level": 35,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 1544842577,
+      "Lvuptype": 2679364542,
+      "Level": 36,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 722689479,
+      "Lvuptype": 2679364542,
+      "Level": 37,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 3148628054,
+      "Lvuptype": 2679364542,
+      "Level": 38,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 3433787584,
+      "Lvuptype": 2679364542,
+      "Level": 39,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 4197867171,
+      "Lvuptype": 2679364542,
+      "Level": 40,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 2368826933,
+      "Lvuptype": 2679364542,
+      "Level": 41,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 339230607,
+      "Lvuptype": 2679364542,
+      "Level": 42,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 1665077017,
+      "Lvuptype": 2679364542,
+      "Level": 43,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 4250639034,
+      "Lvuptype": 2679364542,
+      "Level": 44,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 2321328684,
+      "Lvuptype": 2679364542,
+      "Level": 45,
+      "TotalPoint": 44
+    },
+    {
+      "LvupSkillPointInd": 324402070,
+      "Lvuptype": 2679364542,
+      "Level": 46,
+      "TotalPoint": 45
+    },
+    {
+      "LvupSkillPointInd": 1683147520,
+      "Lvuptype": 2679364542,
+      "Level": 47,
+      "TotalPoint": 46
+    },
+    {
+      "LvupSkillPointInd": 4109227665,
+      "Lvuptype": 2679364542,
+      "Level": 48,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 2213209607,
+      "Lvuptype": 2679364542,
+      "Level": 49,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 3811405794,
+      "Lvuptype": 2679364542,
+      "Level": 50,
+      "TotalPoint": 49
+    },
+    {
+      "LvupSkillPointInd": 2485804916,
+      "Lvuptype": 2679364542,
+      "Level": 51,
+      "TotalPoint": 50
+    },
+    {
+      "LvupSkillPointInd": 220401358,
+      "Lvuptype": 2679364542,
+      "Level": 52,
+      "TotalPoint": 51
+    },
+    {
+      "LvupSkillPointInd": 2049195608,
+      "Lvuptype": 2679364542,
+      "Level": 53,
+      "TotalPoint": 52
+    },
+    {
+      "LvupSkillPointInd": 3829443579,
+      "Lvuptype": 2679364542,
+      "Level": 54,
+      "TotalPoint": 53
+    },
+    {
+      "LvupSkillPointInd": 2470943597,
+      "Lvuptype": 2679364542,
+      "Level": 55,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 172935895,
+      "Lvuptype": 2679364542,
+      "Level": 56,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 2102000193,
+      "Lvuptype": 2679364542,
+      "Level": 57,
+      "TotalPoint": 56
+    },
+    {
+      "LvupSkillPointInd": 3992381392,
+      "Lvuptype": 2679364542,
+      "Level": 58,
+      "TotalPoint": 57
+    },
+    {
+      "LvupSkillPointInd": 2599540550,
+      "Lvuptype": 2679364542,
+      "Level": 59,
+      "TotalPoint": 58
+    },
+    {
+      "LvupSkillPointInd": 3355458593,
+      "Lvuptype": 2679364542,
+      "Level": 60,
+      "TotalPoint": 59
+    },
+    {
+      "LvupSkillPointInd": 3204910263,
+      "Lvuptype": 2679364542,
+      "Level": 61,
+      "TotalPoint": 60
+    },
+    {
+      "LvupSkillPointInd": 638475533,
+      "Lvuptype": 2679364542,
+      "Level": 62,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 1359572379,
+      "Lvuptype": 2679364542,
+      "Level": 63,
+      "TotalPoint": 62
+    },
+    {
+      "LvupSkillPointInd": 3480090680,
+      "Lvuptype": 2679364542,
+      "Level": 64,
+      "TotalPoint": 63
+    },
+    {
+      "LvupSkillPointInd": 3094005934,
+      "Lvuptype": 2679364542,
+      "Level": 65,
+      "TotalPoint": 64
+    },
+    {
+      "LvupSkillPointInd": 560175380,
+      "Lvuptype": 2679364542,
+      "Level": 66,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 1449437570,
+      "Lvuptype": 2679364542,
+      "Level": 67,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3336287251,
+      "Lvuptype": 2679364542,
+      "Level": 68,
+      "TotalPoint": 67
+    },
+    {
+      "LvupSkillPointInd": 2984019077,
+      "Lvuptype": 2679364542,
+      "Level": 69,
+      "TotalPoint": 68
+    },
+    {
+      "LvupSkillPointInd": 3508211040,
+      "Lvuptype": 2679364542,
+      "Level": 70,
+      "TotalPoint": 69
+    },
+    {
+      "LvupSkillPointInd": 2786868726,
+      "Lvuptype": 2679364542,
+      "Level": 71,
+      "TotalPoint": 70
+    },
+    {
+      "LvupSkillPointInd": 1058368588,
+      "Lvuptype": 2679364542,
+      "Level": 72,
+      "TotalPoint": 71
+    },
+    {
+      "LvupSkillPointInd": 1209162970,
+      "Lvuptype": 2679364542,
+      "Level": 73,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3598109049,
+      "Lvuptype": 2679364542,
+      "Level": 74,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 2708601327,
+      "Lvuptype": 2679364542,
+      "Level": 75,
+      "TotalPoint": 74
+    },
+    {
+      "LvupSkillPointInd": 947431509,
+      "Lvuptype": 2679364542,
+      "Level": 76,
+      "TotalPoint": 75
+    },
+    {
+      "LvupSkillPointInd": 1333762243,
+      "Lvuptype": 2679364542,
+      "Level": 77,
+      "TotalPoint": 76
+    },
+    {
+      "LvupSkillPointInd": 3753936210,
+      "Lvuptype": 2679364542,
+      "Level": 78,
+      "TotalPoint": 77
+    },
+    {
+      "LvupSkillPointInd": 2831660484,
+      "Lvuptype": 2679364542,
+      "Level": 79,
+      "TotalPoint": 78
+    },
+    {
+      "LvupSkillPointInd": 1451430319,
+      "Lvuptype": 2679364542,
+      "Level": 80,
+      "TotalPoint": 79
+    },
+    {
+      "LvupSkillPointInd": 562307385,
+      "Lvuptype": 2679364542,
+      "Level": 81,
+      "TotalPoint": 80
+    },
+    {
+      "LvupSkillPointInd": 3096277123,
+      "Lvuptype": 2679364542,
+      "Level": 82,
+      "TotalPoint": 81
+    },
+    {
+      "LvupSkillPointInd": 3481944085,
+      "Lvuptype": 2679364542,
+      "Level": 83,
+      "TotalPoint": 82
+    },
+    {
+      "LvupSkillPointInd": 1374606774,
+      "Lvuptype": 2679364542,
+      "Level": 84,
+      "TotalPoint": 83
+    },
+    {
+      "LvupSkillPointInd": 652862752,
+      "Lvuptype": 2679364542,
+      "Level": 85,
+      "TotalPoint": 84
+    },
+    {
+      "LvupSkillPointInd": 3219174554,
+      "Lvuptype": 2679364542,
+      "Level": 86,
+      "TotalPoint": 85
+    },
+    {
+      "LvupSkillPointInd": 3370615820,
+      "Lvuptype": 2679364542,
+      "Level": 87,
+      "TotalPoint": 86
+    },
+    {
+      "LvupSkillPointInd": 1482201501,
+      "Lvuptype": 2679364542,
+      "Level": 88,
+      "TotalPoint": 87
+    },
+    {
+      "LvupSkillPointInd": 794798347,
+      "Lvuptype": 2679364542,
+      "Level": 89,
+      "TotalPoint": 88
+    },
+    {
+      "LvupSkillPointInd": 1335369966,
+      "Lvuptype": 2679364542,
+      "Level": 90,
+      "TotalPoint": 89
+    },
+    {
+      "LvupSkillPointInd": 949948536,
+      "Lvuptype": 2679364542,
+      "Level": 91,
+      "TotalPoint": 90
+    },
+    {
+      "LvupSkillPointInd": 2710979010,
+      "Lvuptype": 2679364542,
+      "Level": 92,
+      "TotalPoint": 91
+    },
+    {
+      "LvupSkillPointInd": 3599855956,
+      "Lvuptype": 2679364542,
+      "Level": 93,
+      "TotalPoint": 92
+    },
+    {
+      "LvupSkillPointInd": 1224074487,
+      "Lvuptype": 2679364542,
+      "Level": 94,
+      "TotalPoint": 93
+    },
+    {
+      "LvupSkillPointInd": 1072878689,
+      "Lvuptype": 2679364542,
+      "Level": 95,
+      "TotalPoint": 94
+    },
+    {
+      "LvupSkillPointInd": 2801501659,
+      "Lvuptype": 2679364542,
+      "Level": 96,
+      "TotalPoint": 95
+    },
+    {
+      "LvupSkillPointInd": 3522999629,
+      "Lvuptype": 2679364542,
+      "Level": 97,
+      "TotalPoint": 96
+    },
+    {
+      "LvupSkillPointInd": 1094953180,
+      "Lvuptype": 2679364542,
+      "Level": 98,
+      "TotalPoint": 97
+    },
+    {
+      "LvupSkillPointInd": 910465098,
+      "Lvuptype": 2679364542,
+      "Level": 99,
+      "TotalPoint": 98
+    },
+    {
+      "LvupSkillPointInd": 3174422982,
+      "Lvuptype": 2679364542,
+      "Level": 100,
+      "TotalPoint": 99
+    },
+    {
+      "LvupSkillPointInd": 1305040769,
+      "Lvuptype": 3792805370,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3569354299,
+      "Lvuptype": 3792805370,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 2747741869,
+      "Lvuptype": 3792805370,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 1034134286,
+      "Lvuptype": 3792805370,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1252299672,
+      "Lvuptype": 3792805370,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3551380002,
+      "Lvuptype": 3792805370,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 2762666676,
+      "Lvuptype": 3792805370,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 873852709,
+      "Lvuptype": 3792805370,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1125310387,
+      "Lvuptype": 3792805370,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 1848223168,
+      "Lvuptype": 3792805370,
+      "Level": 10,
+      "TotalPoint": 10
+    },
+    {
+      "LvupSkillPointInd": 422483286,
+      "Lvuptype": 3792805370,
+      "Level": 11,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 2150089964,
+      "Lvuptype": 3792805370,
+      "Level": 12,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 4146132090,
+      "Lvuptype": 3792805370,
+      "Level": 13,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 1766089177,
+      "Lvuptype": 3792805370,
+      "Level": 14,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 507728207,
+      "Lvuptype": 3792805370,
+      "Level": 15,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 2269774069,
+      "Lvuptype": 3792805370,
+      "Level": 16,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 4031590499,
+      "Lvuptype": 3792805370,
+      "Level": 17,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 1626484210,
+      "Lvuptype": 3792805370,
+      "Level": 18,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 401939812,
+      "Lvuptype": 3792805370,
+      "Level": 19,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 1157953027,
+      "Lvuptype": 3792805370,
+      "Level": 20,
+      "TotalPoint": 22
+    },
+    {
+      "LvupSkillPointInd": 839108245,
+      "Lvuptype": 3792805370,
+      "Level": 21,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 2869597999,
+      "Lvuptype": 3792805370,
+      "Level": 22,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 3691882425,
+      "Lvuptype": 3792805370,
+      "Level": 23,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 1114190362,
+      "Lvuptype": 3792805370,
+      "Level": 24,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 896402060,
+      "Lvuptype": 3792805370,
+      "Level": 25,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 2892452662,
+      "Lvuptype": 3792805370,
+      "Level": 26,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 3680527264,
+      "Lvuptype": 3792805370,
+      "Level": 27,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 1272938033,
+      "Lvuptype": 3792805370,
+      "Level": 28,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 1020808871,
+      "Lvuptype": 3792805370,
+      "Level": 29,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 1545586498,
+      "Lvuptype": 3792805370,
+      "Level": 30,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 723056596,
+      "Lvuptype": 3792805370,
+      "Level": 31,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 2987501166,
+      "Lvuptype": 3792805370,
+      "Level": 32,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 3306591992,
+      "Lvuptype": 3792805370,
+      "Level": 33,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 1534198619,
+      "Lvuptype": 3792805370,
+      "Level": 34,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 745878477,
+      "Lvuptype": 3792805370,
+      "Level": 35,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 3044827767,
+      "Lvuptype": 3792805370,
+      "Level": 36,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 3262862049,
+      "Lvuptype": 3792805370,
+      "Level": 37,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 1388597104,
+      "Lvuptype": 3792805370,
+      "Level": 38,
+      "TotalPoint": 44
+    },
+    {
+      "LvupSkillPointInd": 633569254,
+      "Lvuptype": 3792805370,
+      "Level": 39,
+      "TotalPoint": 45
+    },
+    {
+      "LvupSkillPointInd": 324948357,
+      "Lvuptype": 3792805370,
+      "Level": 40,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 1683579155,
+      "Lvuptype": 3792805370,
+      "Level": 41,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 4249890985,
+      "Lvuptype": 3792805370,
+      "Level": 42,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 2320957503,
+      "Lvuptype": 3792805370,
+      "Level": 43,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 338924956,
+      "Lvuptype": 3792805370,
+      "Level": 44,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 1664394506,
+      "Lvuptype": 3792805370,
+      "Level": 45,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 4198364336,
+      "Lvuptype": 3792805370,
+      "Level": 46,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 2369438758,
+      "Lvuptype": 3792805370,
+      "Level": 47,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 495311287,
+      "Lvuptype": 3792805370,
+      "Level": 48,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 1786964257,
+      "Lvuptype": 3792805370,
+      "Level": 49,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 172318916,
+      "Lvuptype": 3792805370,
+      "Level": 50,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 2101497938,
+      "Lvuptype": 3792805370,
+      "Level": 51,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 3830120936,
+      "Lvuptype": 3792805370,
+      "Level": 52,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 2471244158,
+      "Lvuptype": 3792805370,
+      "Level": 53,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 220767453,
+      "Lvuptype": 3792805370,
+      "Level": 54,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 2049938507,
+      "Lvuptype": 3792805370,
+      "Level": 55,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 3810969073,
+      "Lvuptype": 3792805370,
+      "Level": 56,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 2485253479,
+      "Lvuptype": 3792805370,
+      "Level": 57,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 77523190,
+      "Lvuptype": 3792805370,
+      "Level": 58,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 1939462240,
+      "Lvuptype": 3792805370,
+      "Level": 59,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 560476935,
+      "Lvuptype": 3792805370,
+      "Level": 60,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 1216758020,
+      "Lvuptype": 2088044633,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3515814078,
+      "Lvuptype": 2088044633,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 2793938984,
+      "Lvuptype": 2088044633,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 955037067,
+      "Lvuptype": 2088044633,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1340835101,
+      "Lvuptype": 2088044633,
+      "Level": 5,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 3605189799,
+      "Lvuptype": 2088044633,
+      "Level": 6,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 2716197937,
+      "Lvuptype": 2088044633,
+      "Level": 7,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 828045728,
+      "Lvuptype": 2088044633,
+      "Level": 8,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 1180551478,
+      "Lvuptype": 2088044633,
+      "Level": 9,
+      "TotalPoint": 9
+    },
+    {
+      "LvupSkillPointInd": 4093549945,
+      "Lvuptype": 2088044633,
+      "Level": 10,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 2230955503,
+      "Lvuptype": 2088044633,
+      "Level": 11,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 502332501,
+      "Lvuptype": 2088044633,
+      "Level": 12,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 1794624707,
+      "Lvuptype": 2088044633,
+      "Level": 13,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 4103297376,
+      "Lvuptype": 2088044633,
+      "Level": 14,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 2207541750,
+      "Lvuptype": 2088044633,
+      "Level": 15,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 446511180,
+      "Lvuptype": 2088044633,
+      "Level": 16,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 1838811354,
+      "Lvuptype": 2088044633,
+      "Level": 17,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 4247065931,
+      "Lvuptype": 2088044633,
+      "Level": 18,
+      "TotalPoint": 20
+    },
+    {
+      "LvupSkillPointInd": 2317493725,
+      "Lvuptype": 2088044633,
+      "Level": 19,
+      "TotalPoint": 21
+    },
+    {
+      "LvupSkillPointInd": 3637759674,
+      "Lvuptype": 2088044633,
+      "Level": 20,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 2949971500,
+      "Lvuptype": 2088044633,
+      "Level": 21,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 920498070,
+      "Lvuptype": 2088044633,
+      "Level": 22,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 1104846592,
+      "Lvuptype": 2088044633,
+      "Level": 23,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 3753773731,
+      "Lvuptype": 2088044633,
+      "Level": 24,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 2830711349,
+      "Lvuptype": 2088044633,
+      "Level": 25,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 833645455,
+      "Lvuptype": 2088044633,
+      "Level": 26,
+      "TotalPoint": 32
+    },
+    {
+      "LvupSkillPointInd": 1186421529,
+      "Lvuptype": 2088044633,
+      "Level": 27,
+      "TotalPoint": 33
+    },
+    {
+      "LvupSkillPointInd": 3590866568,
+      "Lvuptype": 2088044633,
+      "Level": 28,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 2702145054,
+      "Lvuptype": 2088044633,
+      "Level": 29,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 3251175419,
+      "Lvuptype": 2088044633,
+      "Level": 30,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 3067072365,
+      "Lvuptype": 2088044633,
+      "Level": 31,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 801545943,
+      "Lvuptype": 2088044633,
+      "Level": 32,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 1489088065,
+      "Lvuptype": 2088044633,
+      "Level": 33,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 3332717538,
+      "Lvuptype": 2088044633,
+      "Level": 34,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 2980186996,
+      "Lvuptype": 2088044633,
+      "Level": 35,
+      "TotalPoint": 45
+    },
+    {
+      "LvupSkillPointInd": 682318542,
+      "Lvuptype": 2088044633,
+      "Level": 36,
+      "TotalPoint": 46
+    },
+    {
+      "LvupSkillPointInd": 1605134936,
+      "Lvuptype": 2088044633,
+      "Level": 37,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3474159561,
+      "Lvuptype": 2088044633,
+      "Level": 38,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 3088336735,
+      "Lvuptype": 2088044633,
+      "Level": 39,
+      "TotalPoint": 49
+    },
+    {
+      "LvupSkillPointInd": 2391370044,
+      "Lvuptype": 2088044633,
+      "Level": 40,
+      "TotalPoint": 52
+    },
+    {
+      "LvupSkillPointInd": 4186855850,
+      "Lvuptype": 2088044633,
+      "Level": 41,
+      "TotalPoint": 53
+    },
+    {
+      "LvupSkillPointInd": 1619462160,
+      "Lvuptype": 2088044633,
+      "Level": 42,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 394279046,
+      "Lvuptype": 2088044633,
+      "Level": 43,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 2313465125,
+      "Lvuptype": 2088044633,
+      "Level": 44,
+      "TotalPoint": 56
+    },
+    {
+      "LvupSkillPointInd": 4276329907,
+      "Lvuptype": 2088044633,
+      "Level": 45,
+      "TotalPoint": 59
+    },
+    {
+      "LvupSkillPointInd": 1743440905,
+      "Lvuptype": 2088044633,
+      "Level": 46,
+      "TotalPoint": 60
+    },
+    {
+      "LvupSkillPointInd": 284032159,
+      "Lvuptype": 2088044633,
+      "Level": 47,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 2152915214,
+      "Lvuptype": 2088044633,
+      "Level": 48,
+      "TotalPoint": 62
+    },
+    {
+      "LvupSkillPointInd": 4149596568,
+      "Lvuptype": 2088044633,
+      "Level": 49,
+      "TotalPoint": 63
+    },
+    {
+      "LvupSkillPointInd": 2542950525,
+      "Lvuptype": 2088044633,
+      "Level": 50,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3767888107,
+      "Lvuptype": 2088044633,
+      "Level": 51,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 2040281425,
+      "Lvuptype": 2088044633,
+      "Level": 52,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 245041607,
+      "Lvuptype": 2088044633,
+      "Level": 53,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 2432670820,
+      "Lvuptype": 2088044633,
+      "Level": 54,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3891834098,
+      "Lvuptype": 2088044633,
+      "Level": 55,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 2129788232,
+      "Lvuptype": 2088044633,
+      "Level": 56,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 167169502,
+      "Lvuptype": 2088044633,
+      "Level": 57,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 2571751503,
+      "Lvuptype": 2088044633,
+      "Level": 58,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3998146777,
+      "Lvuptype": 2088044633,
+      "Level": 59,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3166636990,
+      "Lvuptype": 2088044633,
+      "Level": 60,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3417848616,
+      "Lvuptype": 2088044633,
+      "Level": 61,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 1387358866,
+      "Lvuptype": 2088044633,
+      "Level": 62,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 632707588,
+      "Lvuptype": 2088044633,
+      "Level": 63,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3151155111,
+      "Lvuptype": 2088044633,
+      "Level": 64,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3436576561,
+      "Lvuptype": 2088044633,
+      "Level": 65,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 1440525963,
+      "Lvuptype": 2088044633,
+      "Level": 66,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 584818205,
+      "Lvuptype": 2088044633,
+      "Level": 67,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 2992931724,
+      "Lvuptype": 2088044633,
+      "Level": 68,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 3311645466,
+      "Lvuptype": 2088044633,
+      "Level": 69,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 2779003647,
+      "Lvuptype": 2088044633,
+      "Level": 70,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 1229204275,
+      "Lvuptype": 192035023,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3494738569,
+      "Lvuptype": 192035023,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 2806663711,
+      "Lvuptype": 192035023,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 959373244,
+      "Lvuptype": 192035023,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1311371050,
+      "Lvuptype": 192035023,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3609247376,
+      "Lvuptype": 192035023,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 2686946822,
+      "Lvuptype": 192035023,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 815305623,
+      "Lvuptype": 192035023,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1201644289,
+      "Lvuptype": 192035023,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 1262680604,
+      "Lvuptype": 192035023,
+      "Level": 10,
+      "TotalPoint": 10
+    },
+    {
+      "LvupSkillPointInd": 1011206794,
+      "Lvuptype": 192035023,
+      "Level": 11,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 2773261104,
+      "Lvuptype": 192035023,
+      "Level": 12,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 3528174502,
+      "Lvuptype": 192035023,
+      "Level": 13,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 1278164485,
+      "Lvuptype": 192035023,
+      "Level": 14,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 992480915,
+      "Lvuptype": 192035023,
+      "Level": 15,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 2720096041,
+      "Lvuptype": 192035023,
+      "Level": 16,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 3576065983,
+      "Lvuptype": 192035023,
+      "Level": 17,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 1167684142,
+      "Lvuptype": 192035023,
+      "Level": 18,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 849232568,
+      "Lvuptype": 192035023,
+      "Level": 19,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 1617930719,
+      "Lvuptype": 192035023,
+      "Level": 20,
+      "TotalPoint": 22
+    },
+    {
+      "LvupSkillPointInd": 392730953,
+      "Lvuptype": 192035023,
+      "Level": 21,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 2388773107,
+      "Lvuptype": 192035023,
+      "Level": 22,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 4184275045,
+      "Lvuptype": 192035023,
+      "Level": 23,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 1728212422,
+      "Lvuptype": 192035023,
+      "Level": 24,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 268787024,
+      "Lvuptype": 192035023,
+      "Level": 25,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 2299268330,
+      "Lvuptype": 192035023,
+      "Level": 26,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 4262149244,
+      "Lvuptype": 192035023,
+      "Level": 27,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 1857298925,
+      "Lvuptype": 192035023,
+      "Level": 28,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 431165819,
+      "Lvuptype": 192035023,
+      "Level": 29,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 2037684382,
+      "Lvuptype": 192035023,
+      "Level": 30,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 242460680,
+      "Lvuptype": 192035023,
+      "Level": 31,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 2541418930,
+      "Lvuptype": 192035023,
+      "Level": 32,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 3766339876,
+      "Lvuptype": 192035023,
+      "Level": 33,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 2115591303,
+      "Lvuptype": 192035023,
+      "Level": 34,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 152988689,
+      "Lvuptype": 192035023,
+      "Level": 35,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 2417442219,
+      "Lvuptype": 192035023,
+      "Level": 36,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3876588861,
+      "Lvuptype": 192035023,
+      "Level": 37,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 2007961772,
+      "Lvuptype": 192035023,
+      "Level": 38,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 11018298,
+      "Lvuptype": 192035023,
+      "Level": 39,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 909446745,
+      "Lvuptype": 192035023,
+      "Level": 40,
+      "TotalPoint": 46
+    },
+    {
+      "LvupSkillPointInd": 1093811919,
+      "Lvuptype": 192035023,
+      "Level": 41,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 3627773813,
+      "Lvuptype": 192035023,
+      "Level": 42,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 2939969507,
+      "Lvuptype": 192035023,
+      "Level": 43,
+      "TotalPoint": 49
+    },
+    {
+      "LvupSkillPointInd": 827902528,
+      "Lvuptype": 192035023,
+      "Level": 44,
+      "TotalPoint": 50
+    },
+    {
+      "LvupSkillPointInd": 1180695254,
+      "Lvuptype": 192035023,
+      "Level": 45,
+      "TotalPoint": 51
+    },
+    {
+      "LvupSkillPointInd": 3746999148,
+      "Lvuptype": 192035023,
+      "Level": 46,
+      "TotalPoint": 52
+    },
+    {
+      "LvupSkillPointInd": 2823920634,
+      "Lvuptype": 192035023,
+      "Level": 47,
+      "TotalPoint": 53
+    },
+    {
+      "LvupSkillPointInd": 955156075,
+      "Lvuptype": 192035023,
+      "Level": 48,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 1340716797,
+      "Lvuptype": 192035023,
+      "Level": 49,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 791559960,
+      "Lvuptype": 192035023,
+      "Level": 50,
+      "TotalPoint": 58
+    },
+    {
+      "LvupSkillPointInd": 1479085966,
+      "Lvuptype": 192035023,
+      "Level": 51,
+      "TotalPoint": 59
+    },
+    {
+      "LvupSkillPointInd": 3240123956,
+      "Lvuptype": 192035023,
+      "Level": 52,
+      "TotalPoint": 60
+    },
+    {
+      "LvupSkillPointInd": 3056037538,
+      "Lvuptype": 192035023,
+      "Level": 53,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 675543809,
+      "Lvuptype": 192035023,
+      "Level": 54,
+      "TotalPoint": 62
+    },
+    {
+      "LvupSkillPointInd": 1598344087,
+      "Lvuptype": 192035023,
+      "Level": 55,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 3326974509,
+      "Lvuptype": 192035023,
+      "Level": 56,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 2974460603,
+      "Lvuptype": 192035023,
+      "Level": 57,
+      "TotalPoint": 67
+    },
+    {
+      "LvupSkillPointInd": 569751338,
+      "Lvuptype": 192035023,
+      "Level": 58,
+      "TotalPoint": 68
+    },
+    {
+      "LvupSkillPointInd": 1458735036,
+      "Lvuptype": 192035023,
+      "Level": 59,
+      "TotalPoint": 69
+    },
+    {
+      "LvupSkillPointInd": 67333339,
+      "Lvuptype": 192035023,
+      "Level": 60,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1929665613,
+      "Lvuptype": 192035023,
+      "Level": 61,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3926724087,
+      "Lvuptype": 192035023,
+      "Level": 62,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2634693985,
+      "Lvuptype": 192035023,
+      "Level": 63,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 57583810,
+      "Lvuptype": 192035023,
+      "Level": 64,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1953077332,
+      "Lvuptype": 192035023,
+      "Level": 65,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 3982543342,
+      "Lvuptype": 192035023,
+      "Level": 66,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2590505336,
+      "Lvuptype": 192035023,
+      "Level": 67,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 181986537,
+      "Lvuptype": 192035023,
+      "Level": 68,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2111820927,
+      "Lvuptype": 192035023,
+      "Level": 69,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 488136090,
+      "Lvuptype": 192035023,
+      "Level": 70,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1780444428,
+      "Lvuptype": 192035023,
+      "Level": 71,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 4078320822,
+      "Lvuptype": 192035023,
+      "Level": 72,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2215709728,
+      "Lvuptype": 192035023,
+      "Level": 73,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 443914627,
+      "Lvuptype": 192035023,
+      "Level": 74,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1836230933,
+      "Lvuptype": 192035023,
+      "Level": 75,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 4101765295,
+      "Lvuptype": 192035023,
+      "Level": 76,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2205993017,
+      "Lvuptype": 192035023,
+      "Level": 77,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 331601320,
+      "Lvuptype": 192035023,
+      "Level": 78,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1690625342,
+      "Lvuptype": 192035023,
+      "Level": 79,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 2592096597,
+      "Lvuptype": 192035023,
+      "Level": 80,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 1258460522,
+      "Lvuptype": 2457561461,
+      "Level": 1,
+      "TotalPoint": 0
+    },
+    {
+      "LvupSkillPointInd": 3523986640,
+      "Lvuptype": 2457561461,
+      "Level": 2,
+      "TotalPoint": 1
+    },
+    {
+      "LvupSkillPointInd": 2769089606,
+      "Lvuptype": 2457561461,
+      "Level": 3,
+      "TotalPoint": 2
+    },
+    {
+      "LvupSkillPointInd": 996696549,
+      "Lvuptype": 2457561461,
+      "Level": 4,
+      "TotalPoint": 3
+    },
+    {
+      "LvupSkillPointInd": 1282363763,
+      "Lvuptype": 2457561461,
+      "Level": 5,
+      "TotalPoint": 4
+    },
+    {
+      "LvupSkillPointInd": 3580231881,
+      "Lvuptype": 2457561461,
+      "Level": 6,
+      "TotalPoint": 5
+    },
+    {
+      "LvupSkillPointInd": 2724278367,
+      "Lvuptype": 2457561461,
+      "Level": 7,
+      "TotalPoint": 6
+    },
+    {
+      "LvupSkillPointInd": 853421518,
+      "Lvuptype": 2457561461,
+      "Level": 8,
+      "TotalPoint": 7
+    },
+    {
+      "LvupSkillPointInd": 1171856728,
+      "Lvuptype": 2457561461,
+      "Level": 9,
+      "TotalPoint": 8
+    },
+    {
+      "LvupSkillPointInd": 1509381618,
+      "Lvuptype": 2457561461,
+      "Level": 10,
+      "TotalPoint": 9
+    },
+    {
+      "LvupSkillPointInd": 787506532,
+      "Lvuptype": 2457561461,
+      "Level": 11,
+      "TotalPoint": 10
+    },
+    {
+      "LvupSkillPointInd": 3086562526,
+      "Lvuptype": 2457561461,
+      "Level": 12,
+      "TotalPoint": 11
+    },
+    {
+      "LvupSkillPointInd": 3237872712,
+      "Lvuptype": 2457561461,
+      "Level": 13,
+      "TotalPoint": 12
+    },
+    {
+      "LvupSkillPointInd": 1587188203,
+      "Lvuptype": 2457561461,
+      "Level": 14,
+      "TotalPoint": 13
+    },
+    {
+      "LvupSkillPointInd": 698196349,
+      "Lvuptype": 2457561461,
+      "Level": 15,
+      "TotalPoint": 14
+    },
+    {
+      "LvupSkillPointInd": 2962550983,
+      "Lvuptype": 2457561461,
+      "Level": 16,
+      "TotalPoint": 15
+    },
+    {
+      "LvupSkillPointInd": 3348349009,
+      "Lvuptype": 2457561461,
+      "Level": 17,
+      "TotalPoint": 16
+    },
+    {
+      "LvupSkillPointInd": 1462558144,
+      "Lvuptype": 2457561461,
+      "Level": 18,
+      "TotalPoint": 17
+    },
+    {
+      "LvupSkillPointInd": 539749718,
+      "Lvuptype": 2457561461,
+      "Level": 19,
+      "TotalPoint": 18
+    },
+    {
+      "LvupSkillPointInd": 1926891057,
+      "Lvuptype": 2457561461,
+      "Level": 20,
+      "TotalPoint": 19
+    },
+    {
+      "LvupSkillPointInd": 98383527,
+      "Lvuptype": 2457561461,
+      "Level": 21,
+      "TotalPoint": 20
+    },
+    {
+      "LvupSkillPointInd": 2631165725,
+      "Lvuptype": 2457561461,
+      "Level": 22,
+      "TotalPoint": 21
+    },
+    {
+      "LvupSkillPointInd": 3956496267,
+      "Lvuptype": 2457561461,
+      "Level": 23,
+      "TotalPoint": 22
+    },
+    {
+      "LvupSkillPointInd": 1974977064,
+      "Lvuptype": 2457561461,
+      "Level": 24,
+      "TotalPoint": 23
+    },
+    {
+      "LvupSkillPointInd": 45150910,
+      "Lvuptype": 2457561461,
+      "Level": 25,
+      "TotalPoint": 24
+    },
+    {
+      "LvupSkillPointInd": 2612634372,
+      "Lvuptype": 2457561461,
+      "Level": 26,
+      "TotalPoint": 25
+    },
+    {
+      "LvupSkillPointInd": 3971912594,
+      "Lvuptype": 2457561461,
+      "Level": 27,
+      "TotalPoint": 26
+    },
+    {
+      "LvupSkillPointInd": 2080476675,
+      "Lvuptype": 2457561461,
+      "Level": 28,
+      "TotalPoint": 27
+    },
+    {
+      "LvupSkillPointInd": 184991381,
+      "Lvuptype": 2457561461,
+      "Level": 29,
+      "TotalPoint": 28
+    },
+    {
+      "LvupSkillPointInd": 1807824752,
+      "Lvuptype": 2457561461,
+      "Level": 30,
+      "TotalPoint": 29
+    },
+    {
+      "LvupSkillPointInd": 482740198,
+      "Lvuptype": 2457561461,
+      "Level": 31,
+      "TotalPoint": 30
+    },
+    {
+      "LvupSkillPointInd": 2244957788,
+      "Lvuptype": 2457561461,
+      "Level": 32,
+      "TotalPoint": 31
+    },
+    {
+      "LvupSkillPointInd": 4073219786,
+      "Lvuptype": 2457561461,
+      "Level": 33,
+      "TotalPoint": 32
+    },
+    {
+      "LvupSkillPointInd": 1823273833,
+      "Lvuptype": 2457561461,
+      "Level": 34,
+      "TotalPoint": 33
+    },
+    {
+      "LvupSkillPointInd": 464241663,
+      "Lvuptype": 2457561461,
+      "Level": 35,
+      "TotalPoint": 34
+    },
+    {
+      "LvupSkillPointInd": 2191692357,
+      "Lvuptype": 2457561461,
+      "Level": 36,
+      "TotalPoint": 35
+    },
+    {
+      "LvupSkillPointInd": 4121273043,
+      "Lvuptype": 2457561461,
+      "Level": 37,
+      "TotalPoint": 36
+    },
+    {
+      "LvupSkillPointInd": 1696251714,
+      "Lvuptype": 2457561461,
+      "Level": 38,
+      "TotalPoint": 37
+    },
+    {
+      "LvupSkillPointInd": 303927252,
+      "Lvuptype": 2457561461,
+      "Level": 39,
+      "TotalPoint": 38
+    },
+    {
+      "LvupSkillPointInd": 612409783,
+      "Lvuptype": 2457561461,
+      "Level": 40,
+      "TotalPoint": 39
+    },
+    {
+      "LvupSkillPointInd": 1401393441,
+      "Lvuptype": 2457561461,
+      "Level": 41,
+      "TotalPoint": 40
+    },
+    {
+      "LvupSkillPointInd": 3398353051,
+      "Lvuptype": 2457561461,
+      "Level": 42,
+      "TotalPoint": 41
+    },
+    {
+      "LvupSkillPointInd": 3179933709,
+      "Lvuptype": 2457561461,
+      "Level": 43,
+      "TotalPoint": 42
+    },
+    {
+      "LvupSkillPointInd": 602760622,
+      "Lvuptype": 2457561461,
+      "Level": 44,
+      "TotalPoint": 43
+    },
+    {
+      "LvupSkillPointInd": 1424643384,
+      "Lvuptype": 2457561461,
+      "Level": 45,
+      "TotalPoint": 44
+    },
+    {
+      "LvupSkillPointInd": 3454207106,
+      "Lvuptype": 2457561461,
+      "Level": 46,
+      "TotalPoint": 45
+    },
+    {
+      "LvupSkillPointInd": 3135517716,
+      "Lvuptype": 2457561461,
+      "Level": 47,
+      "TotalPoint": 46
+    },
+    {
+      "LvupSkillPointInd": 710617477,
+      "Lvuptype": 2457561461,
+      "Level": 48,
+      "TotalPoint": 47
+    },
+    {
+      "LvupSkillPointInd": 1566316819,
+      "Lvuptype": 2457561461,
+      "Level": 49,
+      "TotalPoint": 48
+    },
+    {
+      "LvupSkillPointInd": 1033605366,
+      "Lvuptype": 2457561461,
+      "Level": 50,
+      "TotalPoint": 49
+    },
+    {
+      "LvupSkillPointInd": 1251778656,
+      "Lvuptype": 2457561461,
+      "Level": 51,
+      "TotalPoint": 50
+    },
+    {
+      "LvupSkillPointInd": 3549819354,
+      "Lvuptype": 2457561461,
+      "Level": 52,
+      "TotalPoint": 51
+    },
+    {
+      "LvupSkillPointInd": 2761081164,
+      "Lvuptype": 2457561461,
+      "Level": 53,
+      "TotalPoint": 52
+    },
+    {
+      "LvupSkillPointInd": 989222127,
+      "Lvuptype": 2457561461,
+      "Level": 54,
+      "TotalPoint": 53
+    },
+    {
+      "LvupSkillPointInd": 1307665529,
+      "Lvuptype": 2457561461,
+      "Level": 55,
+      "TotalPoint": 54
+    },
+    {
+      "LvupSkillPointInd": 3573036483,
+      "Lvuptype": 2457561461,
+      "Level": 56,
+      "TotalPoint": 55
+    },
+    {
+      "LvupSkillPointInd": 2751399253,
+      "Lvuptype": 2457561461,
+      "Level": 57,
+      "TotalPoint": 56
+    },
+    {
+      "LvupSkillPointInd": 859838660,
+      "Lvuptype": 2457561461,
+      "Level": 58,
+      "TotalPoint": 57
+    },
+    {
+      "LvupSkillPointInd": 1145514066,
+      "Lvuptype": 2457561461,
+      "Level": 59,
+      "TotalPoint": 58
+    },
+    {
+      "LvupSkillPointInd": 381076277,
+      "Lvuptype": 2457561461,
+      "Level": 60,
+      "TotalPoint": 59
+    },
+    {
+      "LvupSkillPointInd": 1639052195,
+      "Lvuptype": 2457561461,
+      "Level": 61,
+      "TotalPoint": 60
+    },
+    {
+      "LvupSkillPointInd": 4172849689,
+      "Lvuptype": 2457561461,
+      "Level": 62,
+      "TotalPoint": 61
+    },
+    {
+      "LvupSkillPointInd": 2411696783,
+      "Lvuptype": 2457561461,
+      "Level": 63,
+      "TotalPoint": 62
+    },
+    {
+      "LvupSkillPointInd": 299566892,
+      "Lvuptype": 2457561461,
+      "Level": 64,
+      "TotalPoint": 63
+    },
+    {
+      "LvupSkillPointInd": 1725708218,
+      "Lvuptype": 2457561461,
+      "Level": 65,
+      "TotalPoint": 64
+    },
+    {
+      "LvupSkillPointInd": 4292175360,
+      "Lvuptype": 2457561461,
+      "Level": 66,
+      "TotalPoint": 65
+    },
+    {
+      "LvupSkillPointInd": 2295486102,
+      "Lvuptype": 2457561461,
+      "Level": 67,
+      "TotalPoint": 66
+    },
+    {
+      "LvupSkillPointInd": 409815815,
+      "Lvuptype": 2457561461,
+      "Level": 68,
+      "TotalPoint": 67
+    },
+    {
+      "LvupSkillPointInd": 1869249425,
+      "Lvuptype": 2457561461,
+      "Level": 69,
+      "TotalPoint": 68
+    },
+    {
+      "LvupSkillPointInd": 263058036,
+      "Lvuptype": 2457561461,
+      "Level": 70,
+      "TotalPoint": 69
+    },
+    {
+      "LvupSkillPointInd": 2024456930,
+      "Lvuptype": 2457561461,
+      "Level": 71,
+      "TotalPoint": 70
+    },
+    {
+      "LvupSkillPointInd": 3785593688,
+      "Lvuptype": 2457561461,
+      "Level": 72,
+      "TotalPoint": 71
+    },
+    {
+      "LvupSkillPointInd": 2527372238,
+      "Lvuptype": 2457561461,
+      "Level": 73,
+      "TotalPoint": 72
+    },
+    {
+      "LvupSkillPointInd": 146814573,
+      "Lvuptype": 2457561461,
+      "Level": 74,
+      "TotalPoint": 73
+    },
+    {
+      "LvupSkillPointInd": 2143749883,
+      "Lvuptype": 2457561461,
+      "Level": 75,
+      "TotalPoint": 74
+    },
+    {
+      "LvupSkillPointInd": 3872282433,
+      "Lvuptype": 2457561461,
+      "Level": 76,
+      "TotalPoint": 75
+    },
+    {
+      "LvupSkillPointInd": 2445895639,
+      "Lvuptype": 2457561461,
+      "Level": 77,
+      "TotalPoint": 76
+    },
+    {
+      "LvupSkillPointInd": 24541766,
+      "Lvuptype": 2457561461,
+      "Level": 78,
+      "TotalPoint": 77
+    },
+    {
+      "LvupSkillPointInd": 1987136208,
+      "Lvuptype": 2457561461,
+      "Level": 79,
+      "TotalPoint": 78
+    },
+    {
+      "LvupSkillPointInd": 2285235899,
+      "Lvuptype": 2457561461,
+      "Level": 80,
+      "TotalPoint": 79
+    },
+    {
+      "LvupSkillPointInd": 4281523757,
+      "Lvuptype": 2457561461,
+      "Level": 81,
+      "TotalPoint": 80
+    },
+    {
+      "LvupSkillPointInd": 1715179415,
+      "Lvuptype": 2457561461,
+      "Level": 82,
+      "TotalPoint": 81
+    },
+    {
+      "LvupSkillPointInd": 289193729,
+      "Lvuptype": 2457561461,
+      "Level": 83,
+      "TotalPoint": 82
+    },
+    {
+      "LvupSkillPointInd": 2404919970,
+      "Lvuptype": 2457561461,
+      "Level": 84,
+      "TotalPoint": 83
+    },
+    {
+      "LvupSkillPointInd": 4166982196,
+      "Lvuptype": 2457561461,
+      "Level": 85,
+      "TotalPoint": 84
+    },
+    {
+      "LvupSkillPointInd": 1633045390,
+      "Lvuptype": 2457561461,
+      "Level": 86,
+      "TotalPoint": 85
+    },
+    {
+      "LvupSkillPointInd": 374438680,
+      "Lvuptype": 2457561461,
+      "Level": 87,
+      "TotalPoint": 86
+    },
+    {
+      "LvupSkillPointInd": 2263770761,
+      "Lvuptype": 2457561461,
+      "Level": 88,
+      "TotalPoint": 87
+    },
+    {
+      "LvupSkillPointInd": 4058600991,
+      "Lvuptype": 2457561461,
+      "Level": 89,
+      "TotalPoint": 88
+    },
+    {
+      "LvupSkillPointInd": 2435768314,
+      "Lvuptype": 2457561461,
+      "Level": 90,
+      "TotalPoint": 89
+    },
+    {
+      "LvupSkillPointInd": 3861507948,
+      "Lvuptype": 2457561461,
+      "Level": 91,
+      "TotalPoint": 90
+    },
+    {
+      "LvupSkillPointInd": 2132852438,
+      "Lvuptype": 2457561461,
+      "Level": 92,
+      "TotalPoint": 91
+    },
+    {
+      "LvupSkillPointInd": 136810048,
+      "Lvuptype": 2457561461,
+      "Level": 93,
+      "TotalPoint": 92
+    },
+    {
+      "LvupSkillPointInd": 2520980451,
+      "Lvuptype": 2457561461,
+      "Level": 94,
+      "TotalPoint": 93
+    },
+    {
+      "LvupSkillPointInd": 3779341173,
+      "Lvuptype": 2457561461,
+      "Level": 95,
+      "TotalPoint": 94
+    },
+    {
+      "LvupSkillPointInd": 2018343631,
+      "Lvuptype": 2457561461,
+      "Level": 96,
+      "TotalPoint": 95
+    },
+    {
+      "LvupSkillPointInd": 256526937,
+      "Lvuptype": 2457561461,
+      "Level": 97,
+      "TotalPoint": 96
+    },
+    {
+      "LvupSkillPointInd": 2683656136,
+      "Lvuptype": 2457561461,
+      "Level": 98,
+      "TotalPoint": 97
+    },
+    {
+      "LvupSkillPointInd": 3908200286,
+      "Lvuptype": 2457561461,
+      "Level": 99,
+      "TotalPoint": 98
+    },
+    {
+      "LvupSkillPointInd": 2805054276,
+      "Lvuptype": 2457561461,
+      "Level": 100,
+      "TotalPoint": 99
+    }
+  ],
+  "IdRef": {}
+}

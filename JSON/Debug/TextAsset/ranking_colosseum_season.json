@@ -1,0 +1,23 @@
+{
+  "TableRankingColosseumSeason": [
+    {
+      "RankingColosseumSeasonInd": 2155829694,
+      "UniqId": 2155829694,
+      "Id": 2155829694,
+      "StartBatchDate": 1541748600,
+      "StartDate": 1541750400,
+      "EndDate": 1542347999,
+      "EndBatchDate": 1542348000
+    },
+    {
+      "RankingColosseumSeasonInd": 427165700,
+      "UniqId": 427165700,
+      "Id": 427165700,
+      "StartBatchDate": 1542353400,
+      "StartDate": 1542355200,
+      "EndDate": 1542952799,
+      "EndBatchDate": 1542952800
+    }
+  ],
+  "IdRef": {}
+}

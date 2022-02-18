@@ -1,0 +1,41 @@
+{
+  "TableGuideFrameType": [
+    {
+      "GuideFrameTypeInd": 2692965157,
+      "IconName": "gui_icon_friend001"
+    },
+    {
+      "GuideFrameTypeInd": 2228980619,
+      "IconName": "gui_icon_friend001"
+    },
+    {
+      "GuideFrameTypeInd": 1921498020,
+      "IconName": "gui_icon_menu_god001"
+    },
+    {
+      "GuideFrameTypeInd": 2066646084,
+      "IconName": "gui_icon_menu_god001"
+    },
+    {
+      "GuideFrameTypeInd": 2103785066,
+      "IconName": "gui_icon_menu_god001"
+    },
+    {
+      "GuideFrameTypeInd": 732296158,
+      "IconName": ""
+    },
+    {
+      "GuideFrameTypeInd": 521910387,
+      "IconName": "gui_icon_star001"
+    },
+    {
+      "GuideFrameTypeInd": 1814511676,
+      "IconName": "gui_icon_star001"
+    },
+    {
+      "GuideFrameTypeInd": 2030139591,
+      "IconName": "gui_icon_star001"
+    }
+  ],
+  "IdRef": {}
+}

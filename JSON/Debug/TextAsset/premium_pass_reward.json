@@ -1,0 +1,599 @@
+{
+  "TablePremiumPassReward": [
+    {
+      "PremiumPassRewardInd": 3067822270,
+      "UniqId": 3067822270,
+      "PassId": 1482423979,
+      "RewardType": 8,
+      "Day": 0,
+      "ObjId": 986327055,
+      "Count": 0
+    },
+    {
+      "PremiumPassRewardInd": 802296068,
+      "UniqId": 802296068,
+      "PassId": 1482423979,
+      "RewardType": 1,
+      "Day": 0,
+      "ObjId": 986327055,
+      "Count": 0
+    },
+    {
+      "PremiumPassRewardInd": 3277060804,
+      "UniqId": 3277060804,
+      "PassId": 2673638265,
+      "RewardType": 5,
+      "Day": 0,
+      "ObjId": 986327055,
+      "Count": 0
+    },
+    {
+      "PremiumPassRewardInd": 1515891582,
+      "UniqId": 1515891582,
+      "PassId": 2673638265,
+      "RewardType": 1,
+      "Day": 0,
+      "ObjId": 1028771484,
+      "Count": 80
+    },
+    {
+      "PremiumPassRewardInd": 4264809332,
+      "UniqId": 4264809332,
+      "PassId": 3898297327,
+      "RewardType": 5,
+      "Day": 0,
+      "ObjId": 986327055,
+      "Count": 0
+    },
+    {
+      "PremiumPassRewardInd": 1731887822,
+      "UniqId": 1731887822,
+      "PassId": 3898297327,
+      "RewardType": 1,
+      "Day": 0,
+      "ObjId": 1028771484,
+      "Count": 10
+    },
+    {
+      "PremiumPassRewardInd": 2251077663,
+      "UniqId": 2251077663,
+      "PassId": 704028810,
+      "RewardType": 6,
+      "Day": 0,
+      "ObjId": 986327055,
+      "Count": 0
+    },
+    {
+      "PremiumPassRewardInd": 522578341,
+      "UniqId": 522578341,
+      "PassId": 704028810,
+      "RewardType": 1,
+      "Day": 0,
+      "ObjId": 1028771484,
+      "Count": 120
+    },
+    {
+      "PremiumPassRewardInd": 3089362780,
+      "UniqId": 3089362780,
+      "PassId": 3210198213,
+      "RewardType": 3,
+      "Day": 0,
+      "ObjId": 3230571857,
+      "Count": 10
+    },
+    {
+      "PremiumPassRewardInd": 556449510,
+      "UniqId": 556449510,
+      "PassId": 3210198213,
+      "RewardType": 3,
+      "Day": 0,
+      "ObjId": 3918185216,
+      "Count": 3
+    },
+    {
+      "PremiumPassRewardInd": 1445826160,
+      "UniqId": 1445826160,
+      "PassId": 3210198213,
+      "RewardType": 3,
+      "Day": 0,
+      "ObjId": 1342032052,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3118564715,
+      "UniqId": 3118564715,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 1,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3148299058,
+      "UniqId": 3148299058,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 2,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3127202053,
+      "UniqId": 3127202053,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 3,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3207219072,
+      "UniqId": 3207219072,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 4,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3202887095,
+      "UniqId": 3202887095,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 5,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3165557742,
+      "UniqId": 3165557742,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 6,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3178035673,
+      "UniqId": 3178035673,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 7,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3056647908,
+      "UniqId": 3056647908,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 8,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3086144723,
+      "UniqId": 3086144723,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 9,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 10455097,
+      "UniqId": 10455097,
+      "PassId": 3210198213,
+      "RewardType": 4,
+      "Day": 10,
+      "ObjId": 2446152609,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 2822422222,
+      "UniqId": 2822422222,
+      "PassId": 1948872136,
+      "RewardType": 1,
+      "Day": 0,
+      "ObjId": 1457409539,
+      "Count": 60
+    },
+    {
+      "PremiumPassRewardInd": 2851656953,
+      "UniqId": 2851656953,
+      "PassId": 1948872136,
+      "RewardType": 3,
+      "Day": 0,
+      "ObjId": 3230571857,
+      "Count": 15
+    },
+    {
+      "PremiumPassRewardInd": 821134659,
+      "UniqId": 821134659,
+      "PassId": 1948872136,
+      "RewardType": 3,
+      "Day": 0,
+      "ObjId": 3305440413,
+      "Count": 500
+    },
+    {
+      "PremiumPassRewardInd": 1207350741,
+      "UniqId": 1207350741,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 1,
+      "ObjId": 3918185216,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 2881383072,
+      "UniqId": 2881383072,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 2,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 2860253335,
+      "UniqId": 2860253335,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 3,
+      "ObjId": 499509011,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 2939360786,
+      "UniqId": 2939360786,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 4,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 2935061541,
+      "UniqId": 2935061541,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 5,
+      "ObjId": 1342032052,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 2897724028,
+      "UniqId": 2897724028,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 6,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 2910169163,
+      "UniqId": 2910169163,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 7,
+      "ObjId": 3918185216,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 2787766134,
+      "UniqId": 2787766134,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 8,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 2817230145,
+      "UniqId": 2817230145,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 9,
+      "ObjId": 499509011,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 277273003,
+      "UniqId": 277273003,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 10,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 289715100,
+      "UniqId": 289715100,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 11,
+      "ObjId": 1342032052,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 318901701,
+      "UniqId": 318901701,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 12,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 314599410,
+      "UniqId": 314599410,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 13,
+      "ObjId": 3918185216,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 395276663,
+      "UniqId": 395276663,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 14,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 374152000,
+      "UniqId": 374152000,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 15,
+      "ObjId": 499509011,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 336307481,
+      "UniqId": 336307481,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 16,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 365547310,
+      "UniqId": 365547310,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 17,
+      "ObjId": 1342032052,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 513116179,
+      "UniqId": 513116179,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 18,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 525853220,
+      "UniqId": 525853220,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 19,
+      "ObjId": 3918185216,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 36927045,
+      "UniqId": 36927045,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 20,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 66133106,
+      "UniqId": 66133106,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 21,
+      "ObjId": 499509011,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 28811819,
+      "UniqId": 28811819,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 22,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 7718940,
+      "UniqId": 7718940,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 23,
+      "ObjId": 1342032052,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 87744153,
+      "UniqId": 87744153,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 24,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 83408046,
+      "UniqId": 83408046,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 25,
+      "ObjId": 3918185216,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 113117943,
+      "UniqId": 113117943,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 26,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 125591744,
+      "UniqId": 125591744,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 27,
+      "ObjId": 499509011,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 203433981,
+      "UniqId": 203433981,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 28,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 232934858,
+      "UniqId": 232934858,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 29,
+      "ObjId": 1342032052,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 3129938208,
+      "UniqId": 3129938208,
+      "PassId": 1948872136,
+      "RewardType": 4,
+      "Day": 30,
+      "ObjId": 499509011,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 4096282969,
+      "UniqId": 4096282969,
+      "PassId": 3151173809,
+      "RewardType": 1,
+      "Day": 0,
+      "ObjId": 1457409539,
+      "Count": 24
+    },
+    {
+      "PremiumPassRewardInd": 4125768558,
+      "UniqId": 4125768558,
+      "PassId": 3151173809,
+      "RewardType": 3,
+      "Day": 0,
+      "ObjId": 3230571857,
+      "Count": 10
+    },
+    {
+      "PremiumPassRewardInd": 1826843348,
+      "UniqId": 1826843348,
+      "PassId": 3151173809,
+      "RewardType": 3,
+      "Day": 0,
+      "ObjId": 3305440413,
+      "Count": 300
+    },
+    {
+      "PremiumPassRewardInd": 467950146,
+      "UniqId": 467950146,
+      "PassId": 3151173809,
+      "RewardType": 4,
+      "Day": 1,
+      "ObjId": 2286372982,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 4155278647,
+      "UniqId": 4155278647,
+      "PassId": 3151173809,
+      "RewardType": 4,
+      "Day": 2,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 4134465280,
+      "UniqId": 4134465280,
+      "PassId": 3151173809,
+      "RewardType": 4,
+      "Day": 3,
+      "ObjId": 2286372982,
+      "Count": 2
+    },
+    {
+      "PremiumPassRewardInd": 4079090053,
+      "UniqId": 4079090053,
+      "PassId": 3151173809,
+      "RewardType": 4,
+      "Day": 4,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 4075000754,
+      "UniqId": 4075000754,
+      "PassId": 3151173809,
+      "RewardType": 4,
+      "Day": 5,
+      "ObjId": 499509011,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 4037357035,
+      "UniqId": 4037357035,
+      "PassId": 3151173809,
+      "RewardType": 4,
+      "Day": 6,
+      "ObjId": 741211534,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 4050077660,
+      "UniqId": 4050077660,
+      "PassId": 3151173809,
+      "RewardType": 4,
+      "Day": 7,
+      "ObjId": 499509011,
+      "Count": 1
+    },
+    {
+      "PremiumPassRewardInd": 3527790264,
+      "UniqId": 3527790264,
+      "PassId": 1561331087,
+      "RewardType": 7,
+      "Day": 0,
+      "ObjId": 986327055,
+      "Count": 0
+    },
+    {
+      "PremiumPassRewardInd": 1263312642,
+      "UniqId": 1263312642,
+      "PassId": 1561331087,
+      "RewardType": 1,
+      "Day": 0,
+      "ObjId": 986327055,
+      "Count": 0
+    }
+  ],
+  "IdRef": {}
+}
