@@ -6,16 +6,16 @@
       {
         "Name": "Whitespirit Moss",
         "ItemCount": 1,
-        "Weight": 3.0,
         "ProbabilityPercent": 3.0,
+        "Weight": 3.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 97.0,
         "ProbabilityPercent": 97.0,
+        "Weight": 97.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -35,16 +35,16 @@
       {
         "Name": "Whitespirit Moss",
         "ItemCount": 1,
-        "Weight": 7.0,
         "ProbabilityPercent": 7.0,
+        "Weight": 7.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 93.0,
         "ProbabilityPercent": 93.0,
+        "Weight": 93.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -64,16 +64,16 @@
       {
         "Name": "Whitespirit Moss",
         "ItemCount": 1,
-        "Weight": 7.0,
         "ProbabilityPercent": 7.0,
+        "Weight": 7.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 93.0,
         "ProbabilityPercent": 93.0,
+        "Weight": 93.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -93,16 +93,16 @@
       {
         "Name": "Whitespirit Moss",
         "ItemCount": 1,
-        "Weight": 7.0,
         "ProbabilityPercent": 7.0,
+        "Weight": 7.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 93.0,
         "ProbabilityPercent": 93.0,
+        "Weight": 93.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -122,16 +122,16 @@
       {
         "Name": "Whitespirit Moss",
         "ItemCount": 1,
-        "Weight": 7.0,
         "ProbabilityPercent": 7.0,
+        "Weight": 7.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 93.0,
         "ProbabilityPercent": 93.0,
+        "Weight": 93.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -151,16 +151,16 @@
       {
         "Name": "Whitespirit Moss",
         "ItemCount": 1,
-        "Weight": 3.0,
         "ProbabilityPercent": 3.0,
+        "Weight": 3.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 97.0,
         "ProbabilityPercent": 97.0,
+        "Weight": 97.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -180,16 +180,16 @@
       {
         "Name": "Whitespirit Moss",
         "ItemCount": 1,
-        "Weight": 7.0,
         "ProbabilityPercent": 7.0,
+        "Weight": 7.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 93.0,
         "ProbabilityPercent": 93.0,
+        "Weight": 93.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -209,16 +209,16 @@
       {
         "Name": "Whitespirit Moss",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -238,16 +238,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -267,16 +267,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -296,16 +296,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -325,16 +325,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -354,16 +354,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -383,16 +383,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -412,16 +412,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -441,16 +441,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -470,16 +470,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -499,16 +499,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -528,16 +528,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -557,16 +557,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -586,16 +586,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -615,16 +615,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -644,16 +644,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -673,16 +673,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -702,16 +702,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -731,16 +731,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -760,16 +760,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -789,16 +789,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -818,16 +818,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -847,16 +847,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -876,16 +876,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -905,16 +905,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -934,16 +934,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -963,16 +963,16 @@
       {
         "Name": "Whitespirit Feather",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -992,16 +992,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1021,16 +1021,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1050,16 +1050,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1079,16 +1079,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1108,16 +1108,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1137,16 +1137,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1166,16 +1166,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1195,16 +1195,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1224,16 +1224,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1253,16 +1253,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1282,16 +1282,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1311,16 +1311,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1340,16 +1340,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1369,16 +1369,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1398,16 +1398,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1427,16 +1427,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1456,16 +1456,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1485,16 +1485,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1514,16 +1514,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1543,16 +1543,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1572,16 +1572,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1601,16 +1601,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1630,16 +1630,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1659,16 +1659,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1688,16 +1688,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1717,16 +1717,16 @@
       {
         "Name": "Whitespirit Scale",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1746,16 +1746,16 @@
       {
         "Name": "Whitespirit Fruit",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1775,16 +1775,16 @@
       {
         "Name": "Whitespirit Fruit",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1804,16 +1804,16 @@
       {
         "Name": "Whitespirit Fruit",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1833,16 +1833,16 @@
       {
         "Name": "Whitespirit Fruit",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1862,16 +1862,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1891,16 +1891,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1920,16 +1920,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1949,16 +1949,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -1978,16 +1978,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2007,16 +2007,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2036,16 +2036,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2065,16 +2065,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2094,16 +2094,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2123,16 +2123,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2152,16 +2152,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2181,16 +2181,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2210,16 +2210,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2239,16 +2239,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2268,16 +2268,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2297,16 +2297,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2326,16 +2326,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2355,16 +2355,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2384,16 +2384,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2413,16 +2413,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2442,16 +2442,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2471,16 +2471,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2500,16 +2500,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2529,16 +2529,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2558,16 +2558,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2587,16 +2587,16 @@
       {
         "Name": "Whitespirit Tail",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2616,8 +2616,8 @@
       {
         "Name": "HP Potion",
         "ItemCount": 3,
-        "Weight": 100.0,
         "ProbabilityPercent": 100.0,
+        "Weight": 100.0,
         "Priority": 1,
         "DropRareTag": ""
       }
@@ -2637,16 +2637,16 @@
       {
         "Name": "Whitespirit Shard",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2666,16 +2666,16 @@
       {
         "Name": "Whitespirit Shard",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2695,16 +2695,16 @@
       {
         "Name": "Whitespirit Shard",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2724,16 +2724,16 @@
       {
         "Name": "Whitespirit Shard",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2753,16 +2753,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2782,16 +2782,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2811,16 +2811,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2840,16 +2840,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2869,16 +2869,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2898,16 +2898,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2927,16 +2927,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2956,16 +2956,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -2985,16 +2985,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3014,16 +3014,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3043,16 +3043,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3072,16 +3072,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3101,16 +3101,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3130,16 +3130,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3159,16 +3159,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 40.0,
         "ProbabilityPercent": 40.0,
+        "Weight": 40.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 60.0,
         "ProbabilityPercent": 60.0,
+        "Weight": 60.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3188,16 +3188,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3217,16 +3217,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3246,16 +3246,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3275,16 +3275,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3304,16 +3304,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 10.0,
         "ProbabilityPercent": 10.0,
+        "Weight": 10.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 90.0,
         "ProbabilityPercent": 90.0,
+        "Weight": 90.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3333,16 +3333,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3362,16 +3362,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3391,16 +3391,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3420,16 +3420,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3449,16 +3449,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 20.0,
         "ProbabilityPercent": 20.0,
+        "Weight": 20.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 80.0,
         "ProbabilityPercent": 80.0,
+        "Weight": 80.0,
         "Priority": 20,
         "DropRareTag": ""
       }
@@ -3478,16 +3478,16 @@
       {
         "Name": "Whitespirit Powder",
         "ItemCount": 1,
-        "Weight": 30.0,
         "ProbabilityPercent": 30.0,
+        "Weight": 30.0,
         "Priority": 10,
         "DropRareTag": "Rare"
       },
       {
         "Name": "Master's Star",
         "ItemCount": 1,
-        "Weight": 70.0,
         "ProbabilityPercent": 70.0,
+        "Weight": 70.0,
         "Priority": 20,
         "DropRareTag": ""
       }

@@ -1,0 +1,1692 @@
+[
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Cherry Lordfish",
+    "Drops": [
+      {
+        "Name": "Whitespirit Moss",
+        "ProbabilityPercent": 3.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 97.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Bass of Crystal",
+    "Drops": [
+      {
+        "Name": "Whitespirit Moss",
+        "ProbabilityPercent": 7.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 93.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Forest Lordfish",
+    "Drops": [
+      {
+        "Name": "Whitespirit Moss",
+        "ProbabilityPercent": 7.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 93.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Swordfish",
+    "Drops": [
+      {
+        "Name": "Whitespirit Moss",
+        "ProbabilityPercent": 7.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 93.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Dark Bass Shadow",
+    "Drops": [
+      {
+        "Name": "Whitespirit Moss",
+        "ProbabilityPercent": 7.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 93.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Greenleaf Lordfish",
+    "Drops": [
+      {
+        "Name": "Whitespirit Moss",
+        "ProbabilityPercent": 3.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 97.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Greenleaf Lordfish",
+    "Drops": [
+      {
+        "Name": "Whitespirit Moss",
+        "ProbabilityPercent": 7.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 93.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Greenleaf Lordfish",
+    "Drops": [
+      {
+        "Name": "Whitespirit Moss",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Earth Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Arcticus",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Pirate Captain/Black Anchor",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Prairie Dragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Water Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Crystal Behemoth",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lunaria",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Gale Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Fulminos",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Desert Tyrant",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Ultra Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Queen Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lava Titan - Baby Golem",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lord of the Dead",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Forest Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Ultra Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Queen Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lava Titan - Baby Golem",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Recluse Forest Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lord of the Dead",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Flame Moth",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Thunder Gecking",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Hulcold Spook",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Heaven Mecha",
+    "Drops": [
+      {
+        "Name": "Whitespirit Feather",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Earth Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Arcticus",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Pirate Captain/Black Anchor",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Prairie Dragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Water Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Crystal Behemoth",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lunaria",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Gale Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Fulminos",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Desert Tyrant",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Ultra Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Queen Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lava Titan - Baby Golem",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lord of the Dead",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Forest Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Ultra Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Queen Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lava Titan - Baby Golem",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Recluse Forest Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lord of the Dead",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Flame Moth",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Thunder Gecking",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Hulcold Spook",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Heaven Mecha",
+    "Drops": [
+      {
+        "Name": "Whitespirit Scale",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Sacred Earth Tree",
+    "Drops": [
+      {
+        "Name": "Whitespirit Fruit",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Sacred Water Tree",
+    "Drops": [
+      {
+        "Name": "Whitespirit Fruit",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Great Elderwood Tree",
+    "Drops": [
+      {
+        "Name": "Whitespirit Fruit",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Sacred Wind Tree",
+    "Drops": [
+      {
+        "Name": "Whitespirit Fruit",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Earth Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Arcticus",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Pirate Captain/Black Anchor",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Prairie Dragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Water Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Crystal Behemoth",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lunaria",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Gale Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Fulminos",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Desert Tyrant",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Ultra Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Queen Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lava Titan - Baby Golem",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lord of the Dead",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Forest Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Ultra Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Queen Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lava Titan - Baby Golem",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Recluse Forest Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lord of the Dead",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Flame Moth",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Thunder Gecking",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Hulcold Spook",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Heaven Mecha",
+    "Drops": [
+      {
+        "Name": "Whitespirit Tail",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Master Treasure",
+    "OriginName": "-",
+    "Drops": [
+      {
+        "Name": "HP Potion",
+        "ProbabilityPercent": 100.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Earth Wingrock",
+    "Drops": [
+      {
+        "Name": "Whitespirit Shard",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Wind Wingrock",
+    "Drops": [
+      {
+        "Name": "Whitespirit Shard",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Water Wingrock",
+    "Drops": [
+      {
+        "Name": "Whitespirit Shard",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Cornucopia Treasure Chest",
+    "OriginName": "Palm of Titan",
+    "Drops": [
+      {
+        "Name": "Whitespirit Shard",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Earth Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Arcticus",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Pirate Captain/Black Anchor",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Prairie Dragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Water Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Crystal Behemoth",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lunaria",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Gale Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Fulminos",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Desert Tyrant",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Ultra Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Queen Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lava Titan - Baby Golem",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 40.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 60.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lord of the Dead",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Forest Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Ultra Napdragon",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Queen Bigbeak",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lava Titan - Baby Golem",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 10.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 90.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Recluse Forest Wraith",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Lord of the Dead",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Flame Moth",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Thunder Gecking",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Hulcold Spook",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 20.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 80.0,
+      }
+    ],
+  },
+  {
+    "ChestName": "Battle-tested Treasure Chest",
+    "OriginName": "Heaven Mecha",
+    "Drops": [
+      {
+        "Name": "Whitespirit Powder",
+        "ProbabilityPercent": 30.0,
+      },
+      {
+        "Name": "Master's Star",
+        "ProbabilityPercent": 70.0,
+      }
+    ],
+  }
+]
