@@ -1,17 +1,5 @@
 {
-  "RefLicense": {
-    "362595422": "-",
-    "654695873": "Novice",
-    "3188493435": "Fledgling",
-    "3372989677": "Apprentice",
-    "1466902862": "Adept",
-    "543693272": "Expert",
-    "3110160482": "Legend",
-    "3462822132": "Hero",
-    "1591305573": "Master",
-    "702436851": "God-In-Training",
-    "1226431510": "God"
-  },
+  "RefLicense": {},
   "TableLicense": [
     {
       "LicenseId": 362595422,
