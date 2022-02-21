@@ -14,6 +14,10 @@ Character = Lvup_chara.json   <-- Note you have two entries: Level 1 and Level 8
 Tools/Weapons = lvup_item.json
 
 
+Note:
+To associate the Life ID, look up life.json or life_power.json
+For Licenses, you will need to look up text.json using the text ID obtained through license.json
+
 
 
 Example with Earthlord's Pickaxe (ObjId 620159301)
@@ -79,7 +83,7 @@ lvup_item.json
         0.0,		DEF
         0.0,		M.DEF
         0.0,
-        50.0,		
+        50.0,		???
         0.0,
         0.0
       ]
