@@ -37,10 +37,6 @@
           "Desc": "Reduces M.DMG taken by nearby allies\r Increases Fury DMG dealt.",
           "Attribute": "Earth",
           "AwakenLvDamageMultiplier": {
-            "1": 1.0,
-            "2": 1.0,
-            "3": 1.0,
-            "4": 1.0,
             "5": 1.0
           }
         }
@@ -98,10 +94,6 @@
         "Desc": "Reduces M.DMG taken by nearby allies\r Increases Fury DMG dealt.",
         "Attribute": "Earth",
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }

@@ -13,10 +13,6 @@
       "Desc": "Fury increases when a Fury is learned. Boosts Fury growth even when as a supporting member.",
       "Attribute": "",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,
@@ -35,10 +31,6 @@
             "Desc": "Learn \"Diagonal Cut Rev.\"",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 4,
@@ -46,10 +38,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -65,10 +53,6 @@
             "Desc": "Learn \"Roundhouse Cut\"",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 5,
@@ -76,10 +60,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -95,10 +75,6 @@
             "Desc": "Learn \"Hop 'n' Chop\"",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 6,
@@ -106,10 +82,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -125,10 +97,6 @@
             "Desc": "Carpenter +10\nDEF +6",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -136,10 +104,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -155,10 +119,6 @@
             "Desc": "Carpenter +10\nDEF +6",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -166,10 +126,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -185,10 +141,6 @@
             "Desc": "Carpenter +10\nDEF +6",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -196,10 +148,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -215,10 +163,6 @@
             "Desc": "Carpenter +10\nDEF +6",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -226,10 +170,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -245,10 +185,6 @@
             "Desc": "Significantly improves Crafting when making recipes using Green Oak as raw materials.",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -256,10 +192,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -275,10 +207,6 @@
             "Desc": "Significantly improves Crafting when making recipes using Earth-type raw materials.",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -286,10 +214,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -305,10 +229,6 @@
             "Desc": "Prizes up a tatami with a saw to attack\r.",
             "Attribute": "Earth",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -316,10 +236,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -346,10 +262,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -376,10 +288,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -395,10 +303,6 @@
             "Desc": "When crafting starts, significantly increases the chance for Fury Ball to appear within the next 30 sec",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -406,10 +310,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }
@@ -522,10 +422,6 @@
       "Desc": "Fury increases when a Fury is learned. Boosts Fury growth even when as a supporting member.",
       "Attribute": "",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,

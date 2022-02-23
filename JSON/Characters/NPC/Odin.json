@@ -13,10 +13,6 @@
       "Desc": "Releases waves of Shadow frontward and restores part of the DMG dealt as HP.",
       "Attribute": "Shadow",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,
@@ -35,10 +31,6 @@
             "Desc": "Learn \"Dark Tail\"",
             "Attribute": "Shadow",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 4,
@@ -46,10 +38,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -65,10 +53,6 @@
             "Desc": "Learn \"Dark Strike\"",
             "Attribute": "Shadow",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 5,
@@ -76,10 +60,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -95,10 +75,6 @@
             "Desc": "Learn \"Dark Impact\"",
             "Attribute": "Shadow",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 6,
@@ -106,10 +82,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -125,10 +97,6 @@
             "Desc": "Max HP +13\nDEF +6",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -136,10 +104,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -155,10 +119,6 @@
             "Desc": "Max HP +13\nDEF +6",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -166,10 +126,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -185,10 +141,6 @@
             "Desc": "Max HP +13\nDEF +6",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -196,10 +148,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -215,10 +163,6 @@
             "Desc": "Max HP +13\nDEF +6",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -226,10 +170,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -245,10 +185,6 @@
             "Desc": "Increases all allies'\nShadow ATK and Light RES (L)",
             "Attribute": "Shadow",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -256,10 +192,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -275,10 +207,6 @@
             "Desc": "Increases the damage\n of Furys (L)",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -286,10 +214,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -316,10 +240,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -335,10 +255,6 @@
             "Desc": "Reduces own DEF significantly and attacks\r Reduces DEF and M.DEF of the enemy significantly.",
             "Attribute": "Shadow",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -346,10 +262,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }

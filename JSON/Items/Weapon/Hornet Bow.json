@@ -28,10 +28,6 @@
           "Desc": "Within a period of time,\r makes the enemy susceptible to Poison.",
           "Attribute": "",
           "AwakenLvDamageMultiplier": {
-            "1": 1.0,
-            "2": 1.0,
-            "3": 1.0,
-            "4": 1.0,
             "5": 1.0
           }
         }
@@ -104,10 +100,6 @@
         "Desc": "Within a period of time,\r makes the enemy susceptible to Poison.",
         "Attribute": "",
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }

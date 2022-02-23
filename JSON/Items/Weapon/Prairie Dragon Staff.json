@@ -28,10 +28,6 @@
           "Desc": "Removes Poison of self and nearby allies\r and restores HP slightly.",
           "Attribute": "Earth",
           "AwakenLvDamageMultiplier": {
-            "1": 1.0,
-            "2": 1.0,
-            "3": 1.0,
-            "4": 1.0,
             "5": 1.0
           }
         }
@@ -106,10 +102,6 @@
         "Desc": "Removes Poison of self and nearby allies\r and restores HP slightly.",
         "Attribute": "Earth",
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }

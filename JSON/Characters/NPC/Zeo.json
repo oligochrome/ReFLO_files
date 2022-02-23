@@ -13,10 +13,6 @@
       "Desc": "Sweeps across nearby enemies quickly\r Restores HP if an enemy is killed.",
       "Attribute": "Shadow & Light",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,
@@ -35,10 +31,6 @@
             "Desc": "Learn \"Sinful Assault\"",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 4,
@@ -46,10 +38,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -65,10 +53,6 @@
             "Desc": "Learn \"Sinful Fangs\"",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 5,
@@ -76,10 +60,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -95,10 +75,6 @@
             "Desc": "Learn \"Sinful Pierce\"",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 6,
@@ -106,10 +82,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -125,10 +97,6 @@
             "Desc": "Max HP +13\nDEF +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -136,10 +104,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -155,10 +119,6 @@
             "Desc": "Max HP +13\nDEF +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -166,10 +126,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -185,10 +141,6 @@
             "Desc": "Max HP +13\nDEF +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -196,10 +148,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -215,10 +163,6 @@
             "Desc": "Max HP +13\nDEF +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -226,10 +170,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -245,10 +185,6 @@
             "Desc": "With high HP,\nincreases critical damage.",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -256,10 +192,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -275,10 +207,6 @@
             "Desc": "When a critical strike hits,\nincreases Fury.",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -286,10 +214,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -316,10 +240,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -335,10 +255,6 @@
             "Desc": "Sweeps across nearby enemies 2 times Boosts own Light/Shadow ATK.",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -346,10 +262,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }
@@ -461,10 +373,6 @@
       "Desc": "Projects multiple blades to deal damage\r Own Light & Shadow ATK +30 in 20 sec.",
       "Attribute": "Shadow & Light",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,
@@ -483,10 +391,6 @@
             "Desc": "Unlock the 4th move of basic attack combo",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 4,
@@ -494,10 +398,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -513,10 +413,6 @@
             "Desc": "Unlock the 5th move of basic attack combo",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 5,
@@ -524,10 +420,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -543,10 +435,6 @@
             "Desc": "Unlock the 6th move of basic attack combo",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 6,
@@ -554,10 +442,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -573,10 +457,6 @@
             "Desc": "Max HP +13\nDEF +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -584,10 +464,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -603,10 +479,6 @@
             "Desc": "Max HP +13\nDEF +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -614,10 +486,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -633,10 +501,6 @@
             "Desc": "Max HP +13\nDEF +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -644,10 +508,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -663,10 +523,6 @@
             "Desc": "Max HP +13\nDEF +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -674,10 +530,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -693,10 +545,6 @@
             "Desc": "Critical Rate +10%",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -704,10 +552,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -723,10 +567,6 @@
             "Desc": "Shadow ATK +20\nLight ATK +20",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -734,10 +574,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -753,10 +589,6 @@
             "Desc": "Fury DMG +30%",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -764,10 +596,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -783,10 +611,6 @@
             "Desc": "Charge Time-30%",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -794,10 +618,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -813,10 +633,6 @@
             "Desc": "Land a flurry of ruthless attacks, before finishing with a powerful blow.",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -824,10 +640,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -843,10 +655,6 @@
             "Desc": "Places a Shadow orb that deals DoT damage\r This attack has a high critical rate.",
             "Attribute": "Shadow & Light",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -854,10 +662,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }

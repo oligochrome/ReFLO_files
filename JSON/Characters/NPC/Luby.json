@@ -13,10 +13,6 @@
       "Desc": "Fires a penetrating rose arrow\r Reduces Fire RES of the enemy.",
       "Attribute": "Fire",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,
@@ -35,10 +31,6 @@
             "Desc": "Learn \"Rose Turn\"",
             "Attribute": "Fire",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 4,
@@ -46,10 +38,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -65,10 +53,6 @@
             "Desc": "Learn \"Quick Rose\"",
             "Attribute": "Fire",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 5,
@@ -76,10 +60,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -95,10 +75,6 @@
             "Desc": "Learn \"Lava Rose\"",
             "Attribute": "Fire",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 6,
@@ -106,10 +82,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -125,10 +97,6 @@
             "Desc": "Critical Rate +2\nATK +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -136,10 +104,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -155,10 +119,6 @@
             "Desc": "Critical Rate +2\nATK +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -166,10 +126,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -185,10 +141,6 @@
             "Desc": "Critical Rate +2\nATK +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -196,10 +148,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -215,10 +163,6 @@
             "Desc": "Critical Rate +2\nATK +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -226,10 +170,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -245,10 +185,6 @@
             "Desc": "After dodging successfully,\nslightly increases Fire-type attack for a short period of time (S)",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -256,10 +192,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -275,10 +207,6 @@
             "Desc": "Reduces the SP cost of dodging (S)",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -286,10 +214,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -316,10 +240,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -335,10 +255,6 @@
             "Desc": "Applies a rose mark to enemies within range\r and has chance to apply Burning and reduce M.DEF.",
             "Attribute": "Fire",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -346,10 +262,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }

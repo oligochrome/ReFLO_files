@@ -13,10 +13,6 @@
       "Desc": "Releases 1 thunder strike from the tip of the staff.",
       "Attribute": "Wind",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,

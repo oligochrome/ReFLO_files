@@ -13,10 +13,6 @@
       "Desc": "Fires multiple wind arrows at one blow\r Increases M.ATK of nearby allies significantly.",
       "Attribute": "Wind",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,
@@ -35,10 +31,6 @@
             "Desc": "Learn \"Jump Shot\"",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 4,
@@ -46,10 +38,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -65,10 +53,6 @@
             "Desc": "Learn \"Hero Shot\"",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 5,
@@ -76,10 +60,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -95,10 +75,6 @@
             "Desc": "Learn \"Arrow Web\"",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 6,
@@ -106,10 +82,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -125,10 +97,6 @@
             "Desc": "Critical Rate +2\nATK +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -136,10 +104,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -155,10 +119,6 @@
             "Desc": "Critical Rate +2\nATK +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -166,10 +126,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -185,10 +141,6 @@
             "Desc": "Critical Rate +2\nATK +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -196,10 +148,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -215,10 +163,6 @@
             "Desc": "Critical Rate +2\nATK +5",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -226,10 +170,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -245,10 +185,6 @@
             "Desc": "Slightly increases ATK for a period of time\nafter making a successful dodge.",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -256,10 +192,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -275,10 +207,6 @@
             "Desc": "Less likely to be inflicted by abnormal status.",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -286,10 +214,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -316,10 +240,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       },
@@ -335,10 +255,6 @@
             "Desc": "Shoots countless wind arrows at one blow.",
             "Attribute": "Wind",
             "AwakenLvDamageMultiplier": {
-              "1": 1.0,
-              "2": 1.0,
-              "3": 1.0,
-              "4": 1.0,
               "5": 1.0
             },
             "NearComboCount": 0,
@@ -346,10 +262,6 @@
           }
         ],
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }
@@ -461,10 +373,6 @@
       "Desc": "Fires multiple wind arrows at one blow\r Increases M.ATK of nearby allies significantly.",
       "Attribute": "Wind",
       "AwakenLvDamageMultiplier": {
-        "1": 1.0,
-        "2": 1.0,
-        "3": 1.0,
-        "4": 1.0,
         "5": 1.0
       },
       "NearComboCount": 0,

@@ -28,10 +28,6 @@
           "Desc": "Penetrates the enemy with a burning spear, dealing significant damage\r Increases your Fury DMG.",
           "Attribute": "Fire",
           "AwakenLvDamageMultiplier": {
-            "1": 1.0,
-            "2": 1.0,
-            "3": 1.0,
-            "4": 1.0,
             "5": 1.0
           }
         }
@@ -106,10 +102,6 @@
         "Desc": "Penetrates the enemy with a burning spear, dealing significant damage\r Increases your Fury DMG.",
         "Attribute": "Fire",
         "AwakenLvDamageMultiplier": {
-          "1": 1.0,
-          "2": 1.0,
-          "3": 1.0,
-          "4": 1.0,
           "5": 1.0
         }
       }
