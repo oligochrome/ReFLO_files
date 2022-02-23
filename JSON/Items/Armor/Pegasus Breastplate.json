@@ -1,0 +1,267 @@
+{
+  "Name": "Pegasus Breastplate",
+  "Desc": "A piece of gear harnessing the power of Pegasus. As a heavy armor, it is blessed by Pegasus, so that its wearer doesn't often feel its weight.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Hand",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 20000,
+      "Sellprice": 5000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 3000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Pegasus Aura",
+          "Desc": "Boosts all elemental attack damage",
+          "Effects": [
+            {
+              "Effect": "Fire",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_fire001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Water",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_water001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Wind",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_wind001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Earth",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_earth001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Light",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_light001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Shadow",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_dark001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Increases ATK & M.ATK",
+          "Desc": "Increases ATK and M.ATK",
+          "Effects": [
+            {
+              "Effect": "ATK",
+              "Value": 10.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "M.ATK",
+              "Value": 10.0,
+              "AtlasIcon": "gui_buff_magica_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "Slightly increases max SP",
+          "Desc": "Slightly increases max SP",
+          "Effects": [
+            {
+              "Effect": "SP",
+              "Value": 8.0,
+              "AtlasIcon": "gui_buff_heal_sp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Pegasus Aura",
+        "Desc": "Boosts all elemental attack damage",
+        "Effects": [
+          {
+            "Effect": "Fire",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_fire001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Water",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_water001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Wind",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_wind001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Earth",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_earth001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Light",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_light001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Shadow",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_dark001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Increases ATK & M.ATK",
+        "Desc": "Increases ATK and M.ATK",
+        "Effects": [
+          {
+            "Effect": "ATK",
+            "Value": 10.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "M.ATK",
+            "Value": 10.0,
+            "AtlasIcon": "gui_buff_magica_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "Slightly increases max SP",
+        "Desc": "Slightly increases max SP",
+        "Effects": [
+          {
+            "Effect": "SP",
+            "Value": 8.0,
+            "AtlasIcon": "gui_buff_heal_sp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm604_0280_10default",
+    "IcnAssetBundleId": 3125420274,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2840435409,
+    "Uniqid": 2840435409,
+    "Id": "OBJ_ITEM_GUARD_16000_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 4074583896,
+    "ResswitchId": 30878092,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 2464448572,
+    "NameId": 2572008550,
+    "DescriptionId": 4205968413,
+    "CommonParamId": 4132322325,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1275303337,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

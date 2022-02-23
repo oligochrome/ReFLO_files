@@ -1,0 +1,82 @@
+{
+  "Name": "Giant Castele Carp",
+  "Desc": "A large river fish.\r It has a unique stench.\r It's much larger than other fish.",
+  "Rarity": 1,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 180,
+      "Sellprice": 20,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm041_0063_10default",
+    "IcnAssetBundleId": 610173363,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2250962811,
+    "Uniqid": 2250962811,
+    "Id": "OBJ_ITEM_NORMAL_00085_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 303389778,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 2804698770,
+    "ContentsTypeId": 1860262944,
+    "NameId": 3542077810,
+    "DescriptionId": 346785158,
+    "CommonParamId": 444396148,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 3625009274,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

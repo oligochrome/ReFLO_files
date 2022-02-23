@@ -1,0 +1,194 @@
+{
+  "Name": "Snow Blossom Axe",
+  "Desc": "The flowers on it grant the wielder the blessings of the earth.\r Can elegantly cut down Westwoods that are harder than stone.",
+  "Rarity": 5,
+  "Category": "Tool",
+  "Subcategory": "Axe",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Axe",
+      "IconName": "icn_eqslot_ax",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 30,
+          "Name": "Earth Hymn",
+          "Desc": "Significantly enhances Logging of self and nearby allies for a short period of time\r.",
+          "Attribute": "",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.0,
+            "3": 1.0,
+            "4": 1.0,
+            "5": 1.0
+          }
+        }
+      ],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "West Tree Hunter",
+          "Desc": "Increases loot from West Trees",
+          "Effects": [
+            {
+              "Effect": "-",
+              "Value": 1.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases Earth ATK",
+          "Desc": "Largely increases Earth damage dealt",
+          "Effects": [
+            {
+              "Effect": "Earth",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_earth001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 5,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Axe",
+    "IconName": "icn_eqslot_ax",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 30,
+        "Name": "Earth Hymn",
+        "Desc": "Significantly enhances Logging of self and nearby allies for a short period of time\r.",
+        "Attribute": "",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "West Tree Hunter",
+        "Desc": "Increases loot from West Trees",
+        "Effects": [
+          {
+            "Effect": "-",
+            "Value": 1.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases Earth ATK",
+        "Desc": "Largely increases Earth damage dealt",
+        "Effects": [
+          {
+            "Effect": "Earth",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_earth001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 5,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm502_1005_10default",
+    "IcnAssetBundleId": 4218959225,
+    "FullFilename": "at08605_Axe00",
+    "FullAssetBundleId": 4218959225,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2421833825,
+    "Uniqid": 2421833825,
+    "Id": "OBJ_ITEM_TOOL_11050_00_00",
+    "ResId": 97664605,
+    "ResIdIcon": 3730429150,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 1186045432,
+    "NameId": 629350030,
+    "DescriptionId": 3752836243,
+    "CommonParamId": 2524220504,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 1816894283,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

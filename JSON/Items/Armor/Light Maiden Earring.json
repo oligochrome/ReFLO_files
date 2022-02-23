@@ -1,0 +1,97 @@
+{
+  "Name": "Light Maiden Earring",
+  "Desc": "Light Maiden Accessory (Description)",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Cape",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 3000,
+      "Sellprice": 1500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 3000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm701_0068_10default",
+    "IcnAssetBundleId": 1183235283,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1434519280,
+    "Uniqid": 1434519280,
+    "Id": "OBJ_ITEM_GUARD_12310_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 236039033,
+    "ResswitchId": 4246451629,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 431315941,
+    "NameId": 1702961223,
+    "DescriptionId": 108879932,
+    "CommonParamId": 176332852,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2966358408,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

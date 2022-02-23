@@ -1,0 +1,123 @@
+{
+  "Name": "Monkey Boots",
+  "Desc": "Shoes that can forge Applejack Ape footprints. Apple thieves are planning to abuse them.",
+  "Rarity": 3,
+  "Category": "Armor",
+  "Subcategory": "Boot",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 800,
+      "Sellprice": 200,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 200,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 2,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 2,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm606_0227_10default",
+    "IcnAssetBundleId": 2399585122,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2617342273,
+    "Uniqid": 2617342273,
+    "Id": "OBJ_ITEM_GUARD_14290_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 3348223176,
+    "ResswitchId": 882625052,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 4060084563,
+    "NameId": 2885771254,
+    "DescriptionId": 3489472397,
+    "CommonParamId": 3271745413,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2035250745,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

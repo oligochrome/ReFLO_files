@@ -1,0 +1,132 @@
+{
+  "Name": "Clear Rod",
+  "Desc": "A fishing rod that can mimic the sound of babbling brooks.\r Even a very vigilant fish will take the bait.",
+  "Rarity": 3,
+  "Category": "Tool",
+  "Subcategory": "Fishing Rod",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 6400,
+      "Sellprice": 1600,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 600,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Fishing Rod",
+      "IconName": "icn_eqslot_fishingrod",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 2,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Fishing Rod",
+    "IconName": "icn_eqslot_fishingrod",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 2,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm506_1007_10default",
+    "IcnAssetBundleId": 1601501504,
+    "FullFilename": "at09107_Rod00",
+    "FullAssetBundleId": 1601501504,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 878087256,
+    "Uniqid": 878087256,
+    "Id": "OBJ_ITEM_TOOL_14070_00_00",
+    "ResId": 2715742820,
+    "ResIdIcon": 2052397287,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 710227153,
+    "NameId": 2173686455,
+    "DescriptionId": 2074308778,
+    "CommonParamId": 846741601,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 3360118642,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

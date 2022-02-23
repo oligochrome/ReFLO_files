@@ -1,0 +1,147 @@
+{
+  "Name": "Rika with a Great Lucky Bream",
+  "Title": "",
+  "Desc": "Manarus Rika, who sneaked out with food ingredients in its mouth. It loves Great Lucky Bream.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon003_0014",
+    "IcnAssetBundleId": 1238512505,
+    "FullFilename": "mon003_0014",
+    "FullAssetBundleId": 1238512505,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1499079407,
+    "Uniqid": 1499079407,
+    "Id": "OBJ_CHARA_20322_00_00",
+    "ResId": 4039893664,
+    "ResIdIcon": 665509058,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1922904000,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 836879072,
+    "DescriptionId": 1151066853,
+    "CommonParamId": 265283801,
+    "CharaParamId": 3045212517,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Panther"
+}{
+  "Name": "Rika with a Great Lucky Bream",
+  "Title": "",
+  "Desc": "Manarus Rika, who sneaked out with food ingredients in its mouth. It loves Great Lucky Bream.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon003_0014",
+    "IcnAssetBundleId": 1238512505,
+    "FullFilename": "mon003_0014",
+    "FullAssetBundleId": 1238512505,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3789964682,
+    "Uniqid": 3789964682,
+    "Id": "OBJ_CHARA_20322_01_00",
+    "ResId": 4039893664,
+    "ResIdIcon": 665509058,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1922904000,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 2304615813,
+    "DescriptionId": 4230448512,
+    "CommonParamId": 3077803964,
+    "CharaParamId": 222176768,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Panther"
+}

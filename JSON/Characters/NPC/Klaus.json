@@ -1,0 +1,628 @@
+{
+  "Name": "Klaus",
+  "Title": "Royal Genius Tailor",
+  "Desc": "A top-class Tailor who is calm and genteel, and owns his own fashion label.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "Takehito Koyasu",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Charisma Aura",
+      "Desc": "Fury increases when a Fury is learned. Boosts Fury growth even when as a supporting member.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of needle combo",
+            "Desc": "Learn \"Downward Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of needle combo",
+            "Desc": "Learn \"Triple Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of needle combo",
+            "Desc": "Learn \"All-Out Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Tailor",
+            "Desc": "Tailoring +10\nCrit Dodge +2",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Tailor",
+            "Desc": "Tailoring +10\nCrit Dodge +2",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Tailor",
+            "Desc": "Tailoring +10\nCrit Dodge +2",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Tailor",
+            "Desc": "Tailoring +10\nCrit Dodge +2",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Royal Designer",
+            "Desc": "Improves crafting when making recipes using King's Wool as raw materials.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Designer of Black",
+            "Desc": "Improves crafting when making recipes using Black Cashmere as raw materials.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 14,
+            "Name": "Fashion Leader",
+            "Desc": "Steps forward quickly to throw a middle jab\r Critical attack deals further increased damage.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Royal Wave",
+            "Desc": "Hit EXCELLENT 4 times. The higher your familiarity, the better the effect!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Graceful Hit",
+            "Desc": "For a period of time, the enemies who have landed an attack cannot move.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Finish Work",
+            "Desc": "When completion reaches 50%, enhances Crafting and the chance for Fury Ball to appear",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "An expert Tailor who founded Castele's well-known fashion brand, Klaus Apparel. His apprentices include Mitchel and Shea.\n\nEquipped with outstanding sewing techniques and extraordinary tastes in design, he can be called a genius Tailor, but his personality is a bit \"out of the ordinary\" too.\nHe is proud of his talents, and in his pursuit of beauty, he explores all kinds of materials regardless of his own safety. He is quite courageous. Despite being a top designer, he doesn't stick to the rules. In order to make a new design, he will listen to even the opinions of newcomers to the world of fashion.\n\nAt the same time, he has the ability to extract \"beauty\" from various things, and this process gives him great joy. According to people who have witnessed such scenes, he is like a child, leaping with joy.\n\nHe is an old acquaintance of the Master Tailor Madam Purl. When he was at a low point during his youth, she reached out to help him, and from that point on, he's always remembered her kindness. He thinks Madam Purl's granddaughter Taylor is very talented.",
+    "OtherText": [
+      "Are you interested in pretty outfits?\nIf so, follow me in the quest for ultimate beauty.",
+      "Are you interested in pretty outfits?\nIf so, follow me in the quest for ultimate beauty.",
+      "The images are flooding in.\nC'mon, where's the workbench?",
+      "OMG. What is that power!?\nFeels like I'm reaching the pinnacle of design!",
+      "Leave it to me.",
+      "I'll do my best.",
+      "Nothing to worry about.",
+      "Successfully completed!",
+      "Hm, delivered a stunning victory.",
+      "Allow me to deliver you the victory.",
+      "There's probably... a scar on my heart...",
+      "Please.",
+      "Please accept my humble gift.",
+      "Thanks.",
+      "This is the moment I've been waiting!",
+      "This is the moment I've been waiting!",
+      "This is the moment I've been waiting!",
+      "This is the moment I've been waiting!",
+      "Don't think. Feel...!",
+      "Don't think. Feel...!",
+      "Don't think. Feel...!",
+      "Please accept my humble gift.",
+      "※Specifications under considerationã",
+      "Show me that outfit of yours.",
+      "What is it?",
+      "What is it?",
+      "Show me that outfit of yours.",
+      "What is it?",
+      "I yield. Stop it.",
+      "Haha.",
+      "...Ha.",
+      "Hmph.",
+      "This world is full of beauty.",
+      "Whoosh!",
+      "Ha!",
+      "Rawhhh!",
+      "There!",
+      "Hmph.",
+      "Ha!",
+      "Hm!",
+      "Heh heh!",
+      "This is impossible...!",
+      "This is impossible...!",
+      "Quitting is not an option.",
+      "It is over...!",
+      "It is over...!",
+      "It is over...!",
+      "It is over...!",
+      "It is over...!",
+      "It is over...!",
+      "How very beautiful...!",
+      "It is over...!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc270_0001",
+    "IcnAssetBundleId": 918714096,
+    "FullFilename": "npc270_0001",
+    "FullAssetBundleId": 918714096,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_needle"
+  },
+  "ParamIds": {
+    "ObjId": 642410342,
+    "Uniqid": 642410342,
+    "Id": "OBJ_CHARA_10070_00_00",
+    "ResId": 2413537065,
+    "ResIdIcon": 1488623947,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 227371593,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1324451689,
+    "DescriptionId": 999008108,
+    "CommonParamId": 1893707088,
+    "CharaParamId": 3398567148,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2939118899,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Klaus",
+  "Title": "Royal Genius Tailor",
+  "Desc": "A top-class Tailor who is calm and genteel, and owns his own fashion label.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "Takehito Koyasu",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Charisma Aura",
+      "Desc": "Fury increases when a Fury is learned. Boosts Fury growth even when as a supporting member.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Are you interested in pretty outfits?\nIf so, follow me in the quest for ultimate beauty.",
+      "Are you interested in pretty outfits?\nIf so, follow me in the quest for ultimate beauty.",
+      "The images are flooding in.\nC'mon, where's the workbench?",
+      "OMG. What is that power!?\nFeels like I'm reaching the pinnacle of design!",
+      "Leave it to me.",
+      "I'll do my best.",
+      "Nothing to worry about.",
+      "Successfully completed!",
+      "Hm, delivered a stunning victory.",
+      "Allow me to deliver you the victory.",
+      "There's probably... a scar on my heart...",
+      "Please.",
+      "Please accept my humble gift.",
+      "Thanks.",
+      "This is the moment I've been waiting!",
+      "This is the moment I've been waiting!",
+      "This is the moment I've been waiting!",
+      "This is the moment I've been waiting!",
+      "Don't think. Feel...!",
+      "Don't think. Feel...!",
+      "Don't think. Feel...!",
+      "Please accept my humble gift.",
+      "※Specifications under considerationã",
+      "Show me that outfit of yours.",
+      "What is it?",
+      "What is it?",
+      "Show me that outfit of yours.",
+      "What is it?",
+      "I yield. Stop it.",
+      "Haha.",
+      "...Ha.",
+      "Hmph.",
+      "This world is full of beauty.",
+      "Whoosh!",
+      "Ha!",
+      "Rawhhh!",
+      "There!",
+      "Hmph.",
+      "Ha!",
+      "Hm!",
+      "Heh heh!",
+      "This is impossible...!",
+      "This is impossible...!",
+      "Quitting is not an option.",
+      "It is over...!",
+      "It is over...!",
+      "It is over...!",
+      "It is over...!",
+      "It is over...!",
+      "It is over...!",
+      "How very beautiful...!",
+      "It is over...!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc270_0001",
+    "IcnAssetBundleId": 918714096,
+    "FullFilename": "npc270_0001",
+    "FullAssetBundleId": 918714096,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_needle"
+  },
+  "ParamIds": {
+    "ObjId": 2666921987,
+    "Uniqid": 2666921987,
+    "Id": "OBJ_CHARA_10070_01_00",
+    "ResId": 2413537065,
+    "ResIdIcon": 1488623947,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 227371593,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4132298764,
+    "DescriptionId": 2201468937,
+    "CommonParamId": 1893707088,
+    "CharaParamId": 1915642761,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2939118899,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,101 @@
+{
+  "Name": "Starry Catfish Belt",
+  "Desc": "A belt modeled after the beards of the catfish that once guarded Levitania. Unequipping it makes you sense danger. Its beards are able to call down a storm.",
+  "Rarity": 5,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        },
+        {
+          "Slot": 2,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm707_1004_10default",
+    "IcnAssetBundleId": 2546673053,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2228002750,
+    "Uniqid": 2228002750,
+    "Id": "OBJ_ITEM_GUARD_18370_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 3747361335,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 431315941,
+    "NameId": 3033315593,
+    "DescriptionId": 3610311026,
+    "CommonParamId": 3687790970,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1635946694,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

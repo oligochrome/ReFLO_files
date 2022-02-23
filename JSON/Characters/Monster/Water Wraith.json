@@ -1,0 +1,74 @@
+{
+  "Name": "Water Wraith",
+  "Title": "",
+  "Desc": "An aqua Charisma with the power of water. It launches a tsunami-level attack when enraged.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon047_0008",
+    "IcnAssetBundleId": 178203724,
+    "FullFilename": "mon047_0008",
+    "FullAssetBundleId": 178203724,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 437730778,
+    "Uniqid": 437730778,
+    "Id": "OBJ_CHARA_20016_00_00",
+    "ResId": 3011968405,
+    "ResIdIcon": 1692910583,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 835727605,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1923931605,
+    "DescriptionId": 131530192,
+    "CommonParamId": 1283651564,
+    "CharaParamId": 4140785232,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Wraith"
+}

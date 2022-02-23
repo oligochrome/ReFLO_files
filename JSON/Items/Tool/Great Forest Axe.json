@@ -1,0 +1,106 @@
+{
+  "Name": "Great Forest Axe",
+  "Desc": "An axe that can blend in with the forest.\r There are even rumors that there's no tree it can't cut.",
+  "Rarity": 3,
+  "Category": "Tool",
+  "Subcategory": "Axe",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 20900,
+      "Sellprice": 10450,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 20900,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Axe",
+      "IconName": "icn_eqslot_ax",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Axe",
+    "IconName": "icn_eqslot_ax",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm502_0010_10default",
+    "IcnAssetBundleId": 1034788998,
+    "FullFilename": "at00727_Axe00",
+    "FullAssetBundleId": 1034788998,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1452266910,
+    "Uniqid": 1452266910,
+    "Id": "OBJ_ITEM_TOOL_00230_00_00",
+    "ResId": 3272059810,
+    "ResIdIcon": 411844897,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 1186045432,
+    "NameId": 3814099825,
+    "DescriptionId": 427436396,
+    "CommonParamId": 1352735143,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2862485172,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

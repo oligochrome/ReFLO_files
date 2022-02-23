@@ -1,0 +1,164 @@
+{
+  "Name": "Crown Wand",
+  "Desc": "A royal staff containing the power of Light.\r Its hidden mana can purify the darkness.",
+  "Rarity": 4,
+  "Category": "Weapon",
+  "Subcategory": "Staff",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 6000,
+      "Sellprice": 1500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Staff",
+      "IconName": "icn_eqslot_cane",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Increases Light ATK",
+          "Desc": "Increases Light damage",
+          "Effects": [
+            {
+              "Effect": "Light",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_light001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Increases max SP",
+          "Desc": "increases max SP",
+          "Effects": [
+            {
+              "Effect": "SP",
+              "Value": 20.0,
+              "AtlasIcon": "gui_buff_heal_sp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 5,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Staff",
+    "IconName": "icn_eqslot_cane",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Increases Light ATK",
+        "Desc": "Increases Light damage",
+        "Effects": [
+          {
+            "Effect": "Light",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_light001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Increases max SP",
+        "Desc": "increases max SP",
+        "Effects": [
+          {
+            "Effect": "SP",
+            "Value": 20.0,
+            "AtlasIcon": "gui_buff_heal_sp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 5,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm405_1019_10default",
+    "IcnAssetBundleId": 2077818581,
+    "FullFilename": "at08319_Staff00",
+    "FullAssetBundleId": 2077818581,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3651962909,
+    "Uniqid": 3651962909,
+    "Id": "OBJ_ITEM_WEAPON_14200_00_00",
+    "ResId": 501364817,
+    "ResIdIcon": 1301488436,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1087232629,
+    "NameId": 2358881812,
+    "DescriptionId": 1261304544,
+    "CommonParamId": 1174048018,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2274836252,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "Name": "Jake",
+  "Title": "Sword of Castele",
+  "Desc": "A talented Paladin known as The Sword of Castele. Relatively inarticulate, but earnest and very good-looking. He's actually got a club of fans.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "Yoshimasa Hosoya",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 15,
+      "Name": "Freezing Saber",
+      "Desc": "Slashes frontward and deals damage.\r Increases Fury significantly.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of sword combo",
+            "Desc": "Learn \"Fracture Soul\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of sword combo",
+            "Desc": "Learn \"Ice Nistes\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of sword combo",
+            "Desc": "Learn \"Air Strike\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Frozen Swordsman",
+            "Desc": "Increases damage to Frozen enemies.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "A Knight's Pride",
+            "Desc": "Increases the Fire RES of all team members.\nIncrease (L)",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Freezing Waltz",
+            "Desc": "Following a flurry of attacks, increases your ATK and ATK SPD for a short period of time.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 15,
+            "Name": "Freezing Energy",
+            "Desc": "Increases your Water ATK significantly.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "A talented Paladin known as the Sword of Castele. His strict family education has granted him a serious and selflessness character and a strong sense of justice.\n\nHe is strong, but humble and polite. He never looks down on or talks bad about others. Therefore, he is highly respected by younger generations, and the new recruit Karl is his number one fan. His handsome looks have also caused him to be quite popular, so much so that he could form his own fan club. But he himself is quite slow when it comes to such matters and has no awareness of his popularity at all. He is the exact opposite of the Shield of Castele, Porthos, in both personality and constitution, but they share a tacit friendship.\n\nHis fellow Paladins also include his little sister Hilda and his childhood friend and sister's close friend Frey. In their youth, he often took on the role of an elder brother and played with the two of them. Not surprisingly, they've trained their swordsmanship with him.\n\nHe likes sweets, particularly pudding. The pudding he enjoys after completing a day's work serves as one of his life's little pleasures. Whenever the castle's head chef Josette tasks him with tasting her new pudding recipe, his smile shines a little bit brighter for the rest of the day.",
+    "OtherText": [
+      "I'm Jake, a Castele knight.\nPleased to make your acquaintance.",
+      "I'm Jake, a Castele knight.\nPleased to make your acquaintance.",
+      "Getting better.\nBut that's not enough.\nI can be stronger...!",
+      "The power...\nand everything I receive\nis for you!",
+      "Got it.",
+      "Let's Begin",
+      "This is the best result for you.",
+      "Mission complete.",
+      "Good job.",
+      "Call me again if you need me.",
+      "Ugh... my apologies.",
+      "Understood.",
+      "If you'd like to.",
+      "Thank you.",
+      "Let's turn the tides of battle.",
+      "Let's turn the tides of battle.",
+      "Let's turn the tides of battle.",
+      "Let's turn the tides of battle.",
+      "Defending the peace is a Paladin's duty.",
+      "Defending the peace is a Paladin's duty.",
+      "Defending the peace is a Paladin's duty.",
+      "If you'd like to.",
+      "※Specifications under considerationã",
+      "Okay.",
+      "What is it?",
+      "What is it?",
+      "Okay.",
+      "What is it?",
+      "...Count me out.",
+      "Haha",
+      "Phew...",
+      "Yep.",
+      "Hopefully, I'll live up to your expectations.",
+      "Phew.",
+      "Heh.",
+      "Arghhh!",
+      "Right here!",
+      "Ha!",
+      "Bring it on.",
+      "Boohoo",
+      "Uh!",
+      "I can't... lose right now...",
+      "I can't... lose right now...",
+      "Sorry for causing you trouble...",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc202_0001",
+    "IcnAssetBundleId": 2878893760,
+    "FullFilename": "npc202_0001",
+    "FullAssetBundleId": 2878893760,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 3138420566,
+    "Uniqid": 3138420566,
+    "Id": "OBJ_CHARA_10002_00_00",
+    "ResId": 310492953,
+    "ResIdIcon": 3319824763,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2430038649,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3551240025,
+    "DescriptionId": 2798763868,
+    "CommonParamId": 3984962912,
+    "CharaParamId": 1472732380,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Jake",
+  "Title": "Sword of Castele",
+  "Desc": "A talented Paladin known as The Sword of Castele. Relatively inarticulate, but earnest and very good-looking. He's actually got a club of fans.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "Yoshimasa Hosoya",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 15,
+      "Name": "Freezing Saber",
+      "Desc": "Slashes frontward and deals damage.\r Increases Fury significantly.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Jake, a Castele knight.\nPleased to make your acquaintance.",
+      "I'm Jake, a Castele knight.\nPleased to make your acquaintance.",
+      "Getting better.\nBut that's not enough.\nI can be stronger...!",
+      "The power...\nand everything I receive\nis for you!",
+      "Got it.",
+      "Let's Begin",
+      "This is the best result for you.",
+      "Mission complete.",
+      "Good job.",
+      "Call me again if you need me.",
+      "Ugh... my apologies.",
+      "Understood.",
+      "If you'd like to.",
+      "Thank you.",
+      "Let's turn the tides of battle.",
+      "Let's turn the tides of battle.",
+      "Let's turn the tides of battle.",
+      "Let's turn the tides of battle.",
+      "Defending the peace is a Paladin's duty.",
+      "Defending the peace is a Paladin's duty.",
+      "Defending the peace is a Paladin's duty.",
+      "If you'd like to.",
+      "※Specifications under considerationã",
+      "Okay.",
+      "What is it?",
+      "What is it?",
+      "Okay.",
+      "What is it?",
+      "...Count me out.",
+      "Haha",
+      "Phew...",
+      "Yep.",
+      "Hopefully, I'll live up to your expectations.",
+      "Phew.",
+      "Heh.",
+      "Arghhh!",
+      "Right here!",
+      "Ha!",
+      "Bring it on.",
+      "Boohoo",
+      "Uh!",
+      "I can't... lose right now...",
+      "I can't... lose right now...",
+      "Sorry for causing you trouble...",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!",
+      "By the honor of my sword!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc202_0001",
+    "IcnAssetBundleId": 2878893760,
+    "FullFilename": "npc202_0001",
+    "FullAssetBundleId": 2878893760,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 61610035,
+    "Uniqid": 61610035,
+    "Id": "OBJ_CHARA_10002_01_00",
+    "ResId": 310492953,
+    "ResIdIcon": 3319824763,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2430038649,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1796732988,
+    "DescriptionId": 510515257,
+    "CommonParamId": 3984962912,
+    "CharaParamId": 4017388473,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

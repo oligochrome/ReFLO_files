@@ -1,0 +1,147 @@
+{
+  "Name": "Umbral Leopard",
+  "Title": "",
+  "Desc": "An evil dark panther leader which can produce illusions to confuse the enemies.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Shadow",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon003_0201",
+    "IcnAssetBundleId": 4057141918,
+    "FullFilename": "mon003_0201",
+    "FullAssetBundleId": 4057141918,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3780838152,
+    "Uniqid": 3780838152,
+    "Id": "OBJ_CHARA_20234_00_00",
+    "ResId": 1221247815,
+    "ResIdIcon": 2678848805,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3399224871,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 2313216775,
+    "DescriptionId": 4238000898,
+    "CommonParamId": 3083782462,
+    "CharaParamId": 226713730,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Panther"
+}{
+  "Name": "Umbral Leopard",
+  "Title": "",
+  "Desc": "Umbral Leopard (monster description)",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Shadow",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon003_0201",
+    "IcnAssetBundleId": 4057141918,
+    "FullFilename": "mon003_0201",
+    "FullAssetBundleId": 4057141918,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 4092505318,
+    "Uniqid": 4092505318,
+    "Id": "OBJ_CHARA_20234_03_00",
+    "ResId": 1221247815,
+    "ResIdIcon": 2678848805,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3399224871,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 2606058729,
+    "DescriptionId": 3996085484,
+    "CommonParamId": 2776327888,
+    "CharaParamId": 226713730,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Panther"
+}

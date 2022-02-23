@@ -1,0 +1,74 @@
+{
+  "Name": "Apple Thief",
+  "Title": "-",
+  "Desc": "Bandit for Life quests of Paladins (description)",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 1398675703,
+    "FullFilename": "mon050_0001",
+    "FullAssetBundleId": 3702257156,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3848578392,
+    "Uniqid": 3848578392,
+    "Id": "OBJ_CHARA_40000_01_00",
+    "ResId": 1706174429,
+    "ResIdIcon": 1007313192,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3890539197,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3515908469,
+    "DescriptionId": 1279052750,
+    "CommonParamId": 2336575596,
+    "CharaParamId": 822671824,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

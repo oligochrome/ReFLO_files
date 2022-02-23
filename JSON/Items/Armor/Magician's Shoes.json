@@ -1,0 +1,135 @@
+{
+  "Name": "Magician's Shoes",
+  "Desc": "Shoes for Magicians. They can absorb the power from the earth.",
+  "Rarity": 1,
+  "Category": "Armor",
+  "Subcategory": "Boot",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 70,
+      "Sellprice": 17,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 17,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        },
+        {
+          "Slot": 2,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1707547204
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      },
+      {
+        "Slot": 2,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1707547204
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm606_0008_10default",
+    "IcnAssetBundleId": 294996959,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 43184636,
+    "Uniqid": 43184636,
+    "Id": "OBJ_ITEM_GUARD_04770_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 1493326965,
+    "ResswitchId": 2852668065,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 4060084563,
+    "NameId": 848484171,
+    "DescriptionId": 1366202160,
+    "CommonParamId": 1569806136,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3890019972,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

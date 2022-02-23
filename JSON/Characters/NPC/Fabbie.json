@@ -1,0 +1,446 @@
+{
+  "Name": "Fabbie",
+  "Title": "Stray Plushling Magician",
+  "Desc": "A Plushling Magician without a sense of direction, he usually gets lost running errands for his master.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 15,
+      "Name": "Icy Breath",
+      "Desc": "Launches snowballs in 3 directions\r and inflicts Water damage.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of Water magic combo",
+            "Desc": "Learn \"Freeze Ball\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of Water magic combo",
+            "Desc": "Learn \"Small Help\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Plushling Bond <Magic>",
+            "Desc": "Based on the number of Plushlings in team,\nincreases magic attack.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Mana Stance",
+            "Desc": "Increases your M.ATK for a short period of time.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Fabbie, a Magician\non an errand.",
+      "Is this not the end of\nFabbie's errand?",
+      "What is this power...?\nHuh? Is Fabbie\ngetting stronger?",
+      "Fantastic! Look!\nFabbie's super strong!\nHaha!",
+      "I'm getting started.",
+      "You can count on Fabbie.",
+      "I'll do my best!",
+      "Hooray!",
+      "Was I being useful?",
+      "Fabbie casts amazing spells!",
+      "Fabbie is not afraid of failure!",
+      "Got it.",
+      "Take this, you deserve it.",
+      "Fabbie feels very happy!",
+      "Right!",
+      "Fabbie will keep fighting!",
+      "Fabbie is still fighting!",
+      "So much for Fabbie's show.",
+      "Uh-huh!",
+      "Fabbie has grown stronger!",
+      "Fabbie has become a legend!",
+      "Take this, you deserve it.",
+      "※Specifications under considerationã",
+      "Hi",
+      "Fabbie?",
+      "Fabbie feels amazing!",
+      "You take me for a fool?",
+      "Fabbie's itchy all over.",
+      "Stop it.",
+      "Heh heh♪",
+      "Hm~ Yeah...",
+      "Yep.",
+      "Fabbie enjoys your company.",
+      "Ya!",
+      "Come on!",
+      "Heh!",
+      "Heh!",
+      "Haha!",
+      "For you!",
+      "Ah!",
+      "Errr!",
+      "Fabbie was too careless...",
+      "Wow!",
+      "Fabbie has recovered!",
+      "Here we go!",
+      "Fabbie is a Magician!",
+      "Here we go!",
+      "Fabbie is a Magician!",
+      "Here we go!",
+      "Fabbie is a Magician!",
+      "I'm gonna make you frozen hard!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp033_0003",
+    "IcnAssetBundleId": 1038650751,
+    "FullFilename": "bnp033_0003",
+    "FullAssetBundleId": 1038650751,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_sorcerer"
+  },
+  "ParamIds": {
+    "ObjId": 761306345,
+    "Uniqid": 761306345,
+    "Id": "OBJ_CHARA_00251_00_00",
+    "ResId": 2230410406,
+    "ResIdIcon": 1401971396,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 111645126,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1172012262,
+    "DescriptionId": 815881443,
+    "CommonParamId": 2079676127,
+    "CharaParamId": 3250126691,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1354512169,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Fabbie",
+  "Title": "Stray Plushling Magician",
+  "Desc": "A Plushling Magician without a sense of direction, he usually gets lost running errands for his master.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 15,
+      "Name": "Icy Breath",
+      "Desc": "Launches snowballs in 3 directions\r and inflicts Water damage.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Fabbie, a Magician\non an errand.",
+      "Is this not the end of\nFabbie's errand?",
+      "What is this power...?\nHuh? Is Fabbie\ngetting stronger?",
+      "Fantastic! Look!\nFabbie's super strong!\nHaha!",
+      "I'm getting started.",
+      "You can count on Fabbie.",
+      "I'll do my best!",
+      "Hooray!",
+      "Was I being useful?",
+      "Fabbie casts amazing spells!",
+      "Fabbie is not afraid of failure!",
+      "Got it.",
+      "Take this, you deserve it.",
+      "Fabbie feels very happy!",
+      "Right!",
+      "Fabbie will keep fighting!",
+      "Fabbie is still fighting!",
+      "So much for Fabbie's show.",
+      "Uh-huh!",
+      "Fabbie has grown stronger!",
+      "Fabbie has become a legend!",
+      "Take this, you deserve it.",
+      "※Specifications under considerationã",
+      "Hi",
+      "Fabbie?",
+      "Fabbie feels amazing!",
+      "You take me for a fool?",
+      "Fabbie's itchy all over.",
+      "Stop it.",
+      "Heh heh♪",
+      "Hm~ Yeah...",
+      "Yep.",
+      "Fabbie enjoys your company.",
+      "Ya!",
+      "Come on!",
+      "Heh!",
+      "Heh!",
+      "Haha!",
+      "For you!",
+      "Ah!",
+      "Errr!",
+      "Fabbie was too careless...",
+      "Wow!",
+      "Fabbie has recovered!",
+      "Here we go!",
+      "Fabbie is a Magician!",
+      "Here we go!",
+      "Fabbie is a Magician!",
+      "Here we go!",
+      "Fabbie is a Magician!",
+      "I'm gonna make you frozen hard!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp033_0003",
+    "IcnAssetBundleId": 1038650751,
+    "FullFilename": "bnp033_0003",
+    "FullAssetBundleId": 1038650751,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_sorcerer"
+  },
+  "ParamIds": {
+    "ObjId": 2514287500,
+    "Uniqid": 2514287500,
+    "Id": "OBJ_CHARA_00251_01_00",
+    "ResId": 2230410406,
+    "ResIdIcon": 1401971396,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 111645126,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4251392899,
+    "DescriptionId": 2283617158,
+    "CommonParamId": 2079676127,
+    "CharaParamId": 2030344198,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1354512169,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,220 @@
+{
+  "Name": "Chic",
+  "Title": "-",
+  "Desc": "A prominent designer of the Hictick brand. Looks after Madam Purl's house when she is away.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Chic)",
+      "Repeated summon script (Chic)",
+      "End script (Chic)",
+      "End script 2 (Chic)",
+      "End script 2 (Chic)",
+      "End-in-failure script (Chic)",
+      "Confirmation script (Chic)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp050_0001",
+    "IcnAssetBundleId": 3309153684,
+    "FullFilename": "bnp050_0001",
+    "FullAssetBundleId": 3309153684,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_needle"
+  },
+  "ParamIds": {
+    "ObjId": 3585457154,
+    "Uniqid": 3585457154,
+    "Id": "OBJ_CHARA_00287_00_00",
+    "ResId": 2082765901,
+    "ResIdIcon": 2873442863,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 4268929325,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3171834893,
+    "DescriptionId": 3363077128,
+    "CommonParamId": 2199942708,
+    "CharaParamId": 963501960,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2939118899,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Chic",
+  "Title": "-",
+  "Desc": "Near Florina's House - Tailor Shop",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp050_0001",
+    "IcnAssetBundleId": 3309153684,
+    "FullFilename": "bnp050_0001",
+    "FullAssetBundleId": 3309153684,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1777124606,
+    "Uniqid": 1777124606,
+    "Id": "OBJ_CHARA_00338_00_00",
+    "ResId": 2082765901,
+    "ResIdIcon": 2873442863,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 4268929325,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 22488305,
+    "DescriptionId": 1949107444,
+    "CommonParamId": 1064898248,
+    "CharaParamId": 2234820468,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Chic",
+  "Title": "-",
+  "Desc": "Near Florina's House - Tailor Shop",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp050_0001",
+    "IcnAssetBundleId": 3309153684,
+    "FullFilename": "bnp050_0001",
+    "FullAssetBundleId": 3309153684,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3511722907,
+    "Uniqid": 3511722907,
+    "Id": "OBJ_CHARA_00338_01_00",
+    "ResId": 2082765901,
+    "ResIdIcon": 2873442863,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 4268929325,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3119203220,
+    "DescriptionId": 3432080273,
+    "CommonParamId": 1064898248,
+    "CharaParamId": 2234820468,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

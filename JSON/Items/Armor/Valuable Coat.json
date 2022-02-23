@@ -1,0 +1,155 @@
+{
+  "Name": "Valuable Coat",
+  "Desc": "A heavy jacket favored by treasure hunters. An adaptable piece of outfit that is cool in summer and warm in winter.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Body",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 16000,
+      "Sellprice": 4000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2750,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly increases DMG",
+          "Desc": "Slightly increases damage dealt",
+          "Effects": [
+            {
+              "Effect": "DMG",
+              "Value": 102.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases max SP",
+          "Desc": "Slightly increases max SP",
+          "Effects": [
+            {
+              "Effect": "SP",
+              "Value": 8.0,
+              "AtlasIcon": "gui_buff_heal_sp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly increases DMG",
+        "Desc": "Slightly increases damage dealt",
+        "Effects": [
+          {
+            "Effect": "DMG",
+            "Value": 102.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases max SP",
+        "Desc": "Slightly increases max SP",
+        "Effects": [
+          {
+            "Effect": "SP",
+            "Value": 8.0,
+            "AtlasIcon": "gui_buff_heal_sp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm602_0153_10default",
+    "IcnAssetBundleId": 3555832519,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3237349604,
+    "Uniqid": 3237349604,
+    "Id": "OBJ_ITEM_GUARD_18810_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 2607195501,
+    "ResswitchId": 1751956409,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3805550160,
+    "NameId": 4042665555,
+    "DescriptionId": 2466934312,
+    "CommonParamId": 2683678240,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 632817564,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "Name": "Earth Robe",
+  "Desc": "Robes with the power of Earth residing in them. Grant Wind RES.",
+  "Rarity": 3,
+  "Category": "Armor",
+  "Subcategory": "Hand",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 5800,
+      "Sellprice": 900,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 600,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly increases Wind RES",
+          "Desc": "Slightly reduces Wind damage received",
+          "Effects": [
+            {
+              "Effect": "Water RES",
+              "Value": 2.0,
+              "AtlasIcon": "gui_icon_attribute_protect_wind001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 4,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly increases Wind RES",
+        "Desc": "Slightly reduces Wind damage received",
+        "Effects": [
+          {
+            "Effect": "Water RES",
+            "Value": 2.0,
+            "AtlasIcon": "gui_icon_attribute_protect_wind001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 4,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm604_0029_10default",
+    "IcnAssetBundleId": 466645415,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 148360068,
+    "Uniqid": 148360068,
+    "Id": "OBJ_ITEM_GUARD_03510_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 1397188109,
+    "ResswitchId": 2689431769,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3805550160,
+    "NameId": 953675059,
+    "DescriptionId": 1529589064,
+    "CommonParamId": 1473539392,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3986277628,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "Name": "Magic Rose Dress",
+  "Desc": "Clothes worn by a Magician girl who prays for world peace.\r Light and soft, they are easily blown upward by the wind.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Body",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 16000,
+      "Sellprice": 4000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2750,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "M.ATK [14]",
+          "Desc": "M.ATK +14",
+          "Effects": [
+            {
+              "Effect": "M.ATK",
+              "Value": 14.0,
+              "AtlasIcon": "gui_buff_magica_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Max SP [20]",
+          "Desc": "Max SP +20",
+          "Effects": [
+            {
+              "Effect": "SP",
+              "Value": 20.0,
+              "AtlasIcon": "gui_buff_heal_sp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "M.ATK [14]",
+        "Desc": "M.ATK +14",
+        "Effects": [
+          {
+            "Effect": "M.ATK",
+            "Value": 14.0,
+            "AtlasIcon": "gui_buff_magica_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Max SP [20]",
+        "Desc": "Max SP +20",
+        "Effects": [
+          {
+            "Effect": "SP",
+            "Value": 20.0,
+            "AtlasIcon": "gui_buff_heal_sp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm602_1523_10default",
+    "IcnAssetBundleId": 3449293154,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3735008065,
+    "Uniqid": 3735008065,
+    "Id": "OBJ_ITEM_GUARD_60069_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 2232360648,
+    "ResswitchId": 1980039196,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3805550160,
+    "NameId": 4003436022,
+    "DescriptionId": 2372130189,
+    "CommonParamId": 2174489989,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1003600953,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "Name": "Lava Bat",
+  "Title": "",
+  "Desc": "A bat that can stand the heat of lava. It baths in lave 3 times a day. Cares much about hygiene.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon041_0006",
+    "IcnAssetBundleId": 3328443874,
+    "FullFilename": "mon041_0006",
+    "FullAssetBundleId": 3328443874,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3605795956,
+    "Uniqid": 3605795956,
+    "Id": "OBJ_CHARA_20295_00_00",
+    "ResId": 2138952763,
+    "ResIdIcon": 2820467289,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 4247460187,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 3193435259,
+    "DescriptionId": 3408778366,
+    "CommonParamId": 2155470402,
+    "CharaParamId": 976517118,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Bat"
+}

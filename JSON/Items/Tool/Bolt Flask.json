@@ -1,0 +1,106 @@
+{
+  "Name": "Bolt Flask",
+  "Desc": "A flask containing the power of thunder.\r Inspiration gushes out all at once.",
+  "Rarity": 2,
+  "Category": "Tool",
+  "Subcategory": "Flask",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 18000,
+      "Sellprice": 9000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 18000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Flask",
+      "IconName": "icn_eqslot_flask",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4241378302
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Flask",
+    "IconName": "icn_eqslot_flask",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 4241378302
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm508_0008_10default",
+    "IcnAssetBundleId": 2000348617,
+    "FullFilename": "at00451_Flask00",
+    "FullAssetBundleId": 2000348617,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 471371985,
+    "Uniqid": 471371985,
+    "Id": "OBJ_ITEM_TOOL_00730_00_00",
+    "ResId": 2307976941,
+    "ResIdIcon": 1377502318,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 164164233,
+    "NameId": 2848050750,
+    "DescriptionId": 1408068643,
+    "CommonParamId": 439770344,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 3758705659,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "Name": "Red-Shielded Phoenix",
+  "Desc": "A shield with the power of a divine bird, which can manipulate ever-burning fire, sealed within. It can protect the user and reduce enemies' Fire RES.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Shield",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 18,
+          "Name": "Flame Wave",
+          "Desc": "Reduces DMG taken by nearby allies\r Reduces Fire RES of nearby enemy by 20.",
+          "Attribute": "Fire",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Blessing of Amur Adonis",
+          "Desc": "Reduces SP when dodging",
+          "Effects": [
+            {
+              "Effect": "Dodge Consumption",
+              "Value": -2.0,
+              "AtlasIcon": "gui_buff_move_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Flaming Wings",
+          "Desc": "Increases damage to Burning targets.",
+          "Effects": [
+            {
+              "Effect": "Special Effects",
+              "Value": 110.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 2,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 18,
+        "Name": "Flame Wave",
+        "Desc": "Reduces DMG taken by nearby allies\r Reduces Fire RES of nearby enemy by 20.",
+        "Attribute": "Fire",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Blessing of Amur Adonis",
+        "Desc": "Reduces SP when dodging",
+        "Effects": [
+          {
+            "Effect": "Dodge Consumption",
+            "Value": -2.0,
+            "AtlasIcon": "gui_buff_move_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Flaming Wings",
+        "Desc": "Increases damage to Burning targets.",
+        "Effects": [
+          {
+            "Effect": "Special Effects",
+            "Value": 110.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 2,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm607_0026_10default",
+    "IcnAssetBundleId": 2983644067,
+    "FullFilename": "at06834_Shield00",
+    "FullAssetBundleId": 2983644067,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2731635072,
+    "Uniqid": 2731635072,
+    "Id": "OBJ_ITEM_GUARD_12550_00_00",
+    "ResId": 2368439673,
+    "ResIdIcon": 4181842953,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 2172622904,
+    "NameId": 2463192887,
+    "DescriptionId": 4046264140,
+    "CommonParamId": 4258453316,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1201635064,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

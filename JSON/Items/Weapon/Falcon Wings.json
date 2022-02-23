@@ -1,0 +1,194 @@
+{
+  "Name": "Falcon Wings",
+  "Desc": "A large bow of falcon wings that can\r tear through wind to catch its prey.\r Has the ability to increase shot speed.",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Bow",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Bow",
+      "IconName": "icn_eqslot_bow",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 36,
+          "Name": "Falcon Barrage",
+          "Desc": "A falcon of gale tears the enemies apart\r Increases your ATK SPD significantly.",
+          "Attribute": "Wind",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Reduces SP cost of dodge",
+          "Desc": "Reduces SP cost of dodge",
+          "Effects": [
+            {
+              "Effect": "Dodge Consumption",
+              "Value": -1.0,
+              "AtlasIcon": "gui_buff_move_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases Wind ATK",
+          "Desc": "Largely increases Wind damage dealt",
+          "Effects": [
+            {
+              "Effect": "Wind",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_wind001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 5,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Bow",
+    "IconName": "icn_eqslot_bow",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 36,
+        "Name": "Falcon Barrage",
+        "Desc": "A falcon of gale tears the enemies apart\r Increases your ATK SPD significantly.",
+        "Attribute": "Wind",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Reduces SP cost of dodge",
+        "Desc": "Reduces SP cost of dodge",
+        "Effects": [
+          {
+            "Effect": "Dodge Consumption",
+            "Value": -1.0,
+            "AtlasIcon": "gui_buff_move_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases Wind ATK",
+        "Desc": "Largely increases Wind damage dealt",
+        "Effects": [
+          {
+            "Effect": "Wind",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_wind001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 5,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm404_1003_10default",
+    "IcnAssetBundleId": 867746768,
+    "FullFilename": "at08203_Bow00",
+    "FullAssetBundleId": 867746768,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2446112024,
+    "Uniqid": 2446112024,
+    "Id": "OBJ_ITEM_WEAPON_13040_00_00",
+    "ResId": 1434584404,
+    "ResIdIcon": 99819057,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1126115836,
+    "NameId": 3304690449,
+    "DescriptionId": 55429093,
+    "CommonParamId": 228241431,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 3489071641,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

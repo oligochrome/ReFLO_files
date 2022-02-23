@@ -1,0 +1,90 @@
+{
+  "Name": "Resuscitator",
+  "Desc": "A medicine that can wake up all party members from Sleep.\r It has a slight fragrance.",
+  "Rarity": 3,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 920,
+      "Sellprice": 230,
+      "BagLimit": 3,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": [
+      {
+        "Effect": "-",
+        "Value": 0.0,
+        "AtlasIcon": "",
+        "Duration": 0.0,
+        "Chance": 100.0
+      }
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm101_1021_10default",
+    "IcnAssetBundleId": 2729772940,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 12677444,
+    "Uniqid": 12677444,
+    "Id": "OBJ_ITEM_NORMAL_10643_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 2499730029,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 2804698770,
+    "ContentsTypeId": 3110874275,
+    "NameId": 1442076493,
+    "DescriptionId": 2453668793,
+    "CommonParamId": 2627171403,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 1593493061,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

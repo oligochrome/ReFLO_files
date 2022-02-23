@@ -1,0 +1,74 @@
+{
+  "Name": "Berserk Storm Grizzly",
+  "Title": "",
+  "Desc": "A bear covered with black fur as hard as iron wire. It's now hungry and a bit angry.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon005_0006",
+    "IcnAssetBundleId": 1339824040,
+    "FullFilename": "mon005_0006",
+    "FullAssetBundleId": 1339824040,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 676542120,
+    "Uniqid": 676542120,
+    "Id": "OBJ_CHARA_20113_00_01",
+    "ResId": 4140156529,
+    "ResIdIcon": 564459539,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 60046215,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1089001127,
+    "DescriptionId": 898823842,
+    "CommonParamId": 2126970014,
+    "CharaParamId": 3297465634,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Bear"
+}

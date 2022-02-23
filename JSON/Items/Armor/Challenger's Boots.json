@@ -1,0 +1,139 @@
+{
+  "Name": "Challenger's Boots",
+  "Desc": "Remodeled a pair of leather boots by adding a casual feeling. The tip of the boots is hardened with an iron plate, so there's nothing to worry about when monsters step on your toes.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Boot",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 4000,
+      "Sellprice": 1000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 650,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Insignificantly increases Charged Skill DMG",
+          "Desc": "Insignificantly boosts charged skill damage",
+          "Effects": [
+            {
+              "Effect": "Charge DMG",
+              "Value": 103.0,
+              "AtlasIcon": "gui_buff_power_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Insignificantly increases Charged Skill DMG",
+        "Desc": "Insignificantly boosts charged skill damage",
+        "Effects": [
+          {
+            "Effect": "Charge DMG",
+            "Value": 103.0,
+            "AtlasIcon": "gui_buff_power_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm606_0272_10default",
+    "IcnAssetBundleId": 3252820810,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3538264425,
+    "Uniqid": 3538264425,
+    "Id": "OBJ_ITEM_GUARD_16320_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 2306149600,
+    "ResswitchId": 2055148084,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 1467934674,
+    "NameId": 3806693342,
+    "DescriptionId": 2165950373,
+    "CommonParamId": 2380662701,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 933998097,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

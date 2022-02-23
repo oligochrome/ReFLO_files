@@ -1,0 +1,194 @@
+{
+  "Name": "Sweet Dream Needle",
+  "Desc": "A special sewing needle infused with mana\r to assist Tailors.\r It works very well on Linen.",
+  "Rarity": 5,
+  "Category": "Tool",
+  "Subcategory": "Needle",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Needle",
+      "IconName": "icn_eqslot_needle",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 0,
+          "Name": "Sewing of Nights",
+          "Desc": "Get GREAT 3 times in \"Combo\" Assignment to trigger. Increases recipe Completion significantly.",
+          "Attribute": "",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Linen Master",
+          "Desc": "Significantly boosts Crafting when crafting recipes\nthat mainly require Linen!",
+          "Effects": [
+            {
+              "Effect": "Special Effects",
+              "Value": 115.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases DEF",
+          "Desc": "Significantly increases DEF",
+          "Effects": [
+            {
+              "Effect": "DEF",
+              "Value": 20.0,
+              "AtlasIcon": "gui_buff_guard_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Needle",
+    "IconName": "icn_eqslot_needle",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 0,
+        "Name": "Sewing of Nights",
+        "Desc": "Get GREAT 3 times in \"Combo\" Assignment to trigger. Increases recipe Completion significantly.",
+        "Attribute": "",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Linen Master",
+        "Desc": "Significantly boosts Crafting when crafting recipes\nthat mainly require Linen!",
+        "Effects": [
+          {
+            "Effect": "Special Effects",
+            "Value": 115.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases DEF",
+        "Desc": "Significantly increases DEF",
+        "Effects": [
+          {
+            "Effect": "DEF",
+            "Value": 20.0,
+            "AtlasIcon": "gui_buff_guard_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm509_1012_10default",
+    "IcnAssetBundleId": 68825946,
+    "FullFilename": "at09156_Needle00",
+    "FullAssetBundleId": 68825946,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1865958978,
+    "Uniqid": 1865958978,
+    "Id": "OBJ_ITEM_TOOL_16120_00_00",
+    "ResId": 4205852798,
+    "ResIdIcon": 557568765,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 2026962333,
+    "NameId": 3672185005,
+    "DescriptionId": 550353584,
+    "CommonParamId": 1763084923,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2468978024,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

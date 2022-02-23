@@ -1,0 +1,653 @@
+{
+  "Name": "Hilda",
+  "Title": "Paladin Crybaby",
+  "Desc": "A skillful Paladin who lacks confidence. Bursts into tears easily. Admires her elder brother from the bottom of her heart.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 12,
+      "Name": "Shield Attack",
+      "Desc": "Strikes the enemy with a shield.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of sword combo",
+            "Desc": "Learn \"Rising Swing\"\n\"Crescent Edge\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of sword combo",
+            "Desc": "Learn \"Crescent Strike\"\n\"Axel Moon\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of sword combo",
+            "Desc": "Learn \"Jump Strike\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Guardian of Earth",
+            "Desc": "Increases the Wind RES of all team members.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Flower Flow",
+            "Desc": "Causes Earth damage to nearby enemies.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 20,
+            "Name": "Shield Bash",
+            "Desc": "Strikes the enemy with a shield.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Hilda, a Paladin.\nPleased to make your acquaintance.",
+      "I believe I'm serving you well.\nI mean...\nPleased to make your acquaintance!",
+      "It seems\nI've acquired new power.\nHow may I help you...?",
+      "I...!\nI think...\nNothing can stop me now!",
+      "Come on!",
+      "How may I help...?",
+      "Allow me to do some practice!",
+      "Finally done...!",
+      "Getting better...?",
+      "Hahaha. Great job!",
+      "My apologies...",
+      "Understood!",
+      "P-Please use this, if you'd like to.",
+      "Thanks!",
+      "T-That's right...!",
+      "Got it!",
+      "Let me help you!",
+      "I'm retreating!",
+      "I... I did it!",
+      "I... I can do that!",
+      "Tears of joy...",
+      "P-Please use this, if you'd like to.",
+      "※Specifications under considerationã",
+      "Yes!",
+      "What happened?",
+      "I believe I can achieve anything!",
+      "Um... I mean...",
+      "That was so scary!",
+      "Um, actually...",
+      "Hahaha.",
+      "Phew...",
+      "Haha",
+      "Well... About that...",
+      "Yep.",
+      "Heh.",
+      "Ha!",
+      "Argh!",
+      "Right!",
+      "Heh!",
+      "Ya!",
+      "Arghhh!",
+      "My fault... I was being careless...",
+      "Arghhh!",
+      "T-Thank you!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "I'm not the crybaby Hilda anymore!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc201_0001",
+    "IcnAssetBundleId": 2591061085,
+    "FullFilename": "npc201_0001",
+    "FullAssetBundleId": 2591061085,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 2331534795,
+    "Uniqid": 2331534795,
+    "Id": "OBJ_CHARA_10001_00_00",
+    "ResId": 594126212,
+    "ResIdIcon": 4094204902,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2705287396,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3796075972,
+    "DescriptionId": 2537137601,
+    "CommonParamId": 3698175997,
+    "CharaParamId": 1713374785,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Hilda",
+  "Title": "Paladin Crybaby",
+  "Desc": "A skillful Paladin who lacks confidence. Bursts into tears easily. Admires her elder brother from the bottom of her heart.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 12,
+      "Name": "Shield Attack",
+      "Desc": "Strikes the enemy with a shield.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Hilda, a Paladin.\nPleased to make your acquaintance.",
+      "I believe I'm serving you well.\nI mean...\nPleased to make your acquaintance!",
+      "It seems\nI've acquired new power.\nHow may I help you...?",
+      "I...!\nI think...\nNothing can stop me now!",
+      "Come on!",
+      "How may I help...?",
+      "Allow me to do some practice!",
+      "Finally done...!",
+      "Getting better...?",
+      "Hahaha. Great job!",
+      "My apologies...",
+      "Understood!",
+      "P-Please use this, if you'd like to.",
+      "Thanks!",
+      "T-That's right...!",
+      "Got it!",
+      "Let me help you!",
+      "I'm retreating!",
+      "I... I did it!",
+      "I... I can do that!",
+      "Tears of joy...",
+      "P-Please use this, if you'd like to.",
+      "※Specifications under considerationã",
+      "Yes!",
+      "What happened?",
+      "I believe I can achieve anything!",
+      "Um... I mean...",
+      "That was so scary!",
+      "Um, actually...",
+      "Hahaha.",
+      "Phew...",
+      "Haha",
+      "Well... About that...",
+      "Yep.",
+      "Heh.",
+      "Ha!",
+      "Argh!",
+      "Right!",
+      "Heh!",
+      "Ya!",
+      "Arghhh!",
+      "My fault... I was being careless...",
+      "Arghhh!",
+      "T-Thank you!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "I'm not the crybaby Hilda anymore!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc201_0001",
+    "IcnAssetBundleId": 2591061085,
+    "FullFilename": "npc201_0001",
+    "FullAssetBundleId": 2591061085,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 843317934,
+    "Uniqid": 843317934,
+    "Id": "OBJ_CHARA_10001_01_00",
+    "ResId": 594126212,
+    "ResIdIcon": 4094204902,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2705287396,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1526719137,
+    "DescriptionId": 797295268,
+    "CommonParamId": 3698175997,
+    "CharaParamId": 3734790436,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Hilda",
+  "Title": "Paladin Crybaby",
+  "Desc": "A skillful Paladin who lacks confidence. Bursts into tears easily. Admires her elder brother from the bottom of her heart.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 12,
+      "Name": "Shield Attack",
+      "Desc": "Strikes the enemy with a shield.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Hilda, a Paladin.\nPleased to make your acquaintance.",
+      "I believe I'm serving you well.\nI mean...\nPleased to make your acquaintance!",
+      "It seems\nI've acquired new power.\nHow may I help you...?",
+      "I...!\nI think...\nNothing can stop me now!",
+      "Come on!",
+      "How may I help...?",
+      "Allow me to do some practice!",
+      "Finally done...!",
+      "Getting better...?",
+      "Hahaha. Great job!",
+      "My apologies...",
+      "Understood!",
+      "P-Please use this, if you'd like to.",
+      "Thanks!",
+      "T-That's right...!",
+      "Got it!",
+      "Let me help you!",
+      "I'm retreating!",
+      "I... I did it!",
+      "I... I can do that!",
+      "Tears of joy...",
+      "P-Please use this, if you'd like to.",
+      "※Specifications under considerationã",
+      "Yes!",
+      "What happened?",
+      "I believe I can achieve anything!",
+      "Um... I mean...",
+      "That was so scary!",
+      "Um, actually...",
+      "Hahaha.",
+      "Phew...",
+      "Haha",
+      "Well... About that...",
+      "Yep.",
+      "Heh.",
+      "Ha!",
+      "Argh!",
+      "Right!",
+      "Heh!",
+      "Ya!",
+      "Arghhh!",
+      "My fault... I was being careless...",
+      "Arghhh!",
+      "T-Thank you!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "Here we go...!",
+      "Brother... give me strength!",
+      "I'm not the crybaby Hilda anymore!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc201_0001",
+    "IcnAssetBundleId": 2591061085,
+    "FullFilename": "npc201_0001",
+    "FullAssetBundleId": 2591061085,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 3173422585,
+    "Uniqid": 3173422585,
+    "Id": "OBJ_CHARA_10001_05_00",
+    "ResId": 594126212,
+    "ResIdIcon": 4094204902,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2705287396,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1526719137,
+    "DescriptionId": 797295268,
+    "CommonParamId": 3698175997,
+    "CharaParamId": 3734790436,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

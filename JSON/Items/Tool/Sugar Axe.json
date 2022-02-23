@@ -1,0 +1,160 @@
+{
+  "Name": "Sugar Axe",
+  "Desc": "A golden axe with a sugar wood handle.\r It can't be obtained from the goddess in the lake.",
+  "Rarity": 3,
+  "Category": "Tool",
+  "Subcategory": "Axe",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 3800,
+      "Sellprice": 950,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 630,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Axe",
+      "IconName": "icn_eqslot_ax",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly enhances Logging",
+          "Desc": "Slightly enhances \"Logging\"",
+          "Effects": [
+            {
+              "Effect": "Logging",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_felling_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Axe",
+    "IconName": "icn_eqslot_ax",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly enhances Logging",
+        "Desc": "Slightly enhances \"Logging\"",
+        "Effects": [
+          {
+            "Effect": "Logging",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_felling_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm502_0005_10default",
+    "IcnAssetBundleId": 1498054677,
+    "FullFilename": "at00728_Axe00",
+    "FullAssetBundleId": 1498054677,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 845739277,
+    "Uniqid": 845739277,
+    "Id": "OBJ_ITEM_TOOL_00180_00_00",
+    "ResId": 2816510769,
+    "ResIdIcon": 2087412146,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 1186045432,
+    "NameId": 2276568034,
+    "DescriptionId": 2107443711,
+    "CommonParamId": 877017396,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 3464048167,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

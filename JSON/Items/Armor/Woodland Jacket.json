@@ -1,0 +1,139 @@
+{
+  "Name": "Woodland Jacket",
+  "Desc": "Proof of being recognized as an excellent Woodcutter. Lets you become one with nature.",
+  "Rarity": 3,
+  "Category": "Armor",
+  "Subcategory": "Body",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 3700,
+      "Sellprice": 925,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 925,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Insignificantly enhances Logging",
+          "Desc": "Insignificantly enhances \"Logging\"",
+          "Effects": [
+            {
+              "Effect": "Logging",
+              "Value": 2.0,
+              "AtlasIcon": "gui_buff_felling_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Insignificantly enhances Logging",
+        "Desc": "Insignificantly enhances \"Logging\"",
+        "Effects": [
+          {
+            "Effect": "Logging",
+            "Value": 2.0,
+            "AtlasIcon": "gui_buff_felling_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm602_0025_10default",
+    "IcnAssetBundleId": 522559898,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 203561913,
+    "Uniqid": 203561913,
+    "Id": "OBJ_ITEM_GUARD_01510_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 1471329840,
+    "ResswitchId": 2763565284,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3805550160,
+    "NameId": 1008876814,
+    "DescriptionId": 1608416629,
+    "CommonParamId": 1394720125,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3916174529,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

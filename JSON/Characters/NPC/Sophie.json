@@ -1,0 +1,628 @@
+{
+  "Name": "Sophie",
+  "Title": "Moonlight Alchemist",
+  "Desc": "A cool-headed, intellectual Alchemist. No one in Castele can rival her when it comes to crafting medicine. Tends to worry a lot.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "Sumire Uesaka",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Moon Rise",
+      "Desc": "When crafting starts, enhances Crafting and Fury Ball chance within the next 30 sec",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of flask combo",
+            "Desc": "Learn \"Hop 'n' Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of flask combo",
+            "Desc": "Learn \"Roundhouse Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of flask combo",
+            "Desc": "Learn \"Giant Flask Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Alchemist of the Moon",
+            "Desc": "Significantly improves Crafting when making \"power-type\" recipes!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Brilliant Creator",
+            "Desc": "Significantly improves Crafting when making \"earring\", \"amulet\", and other accessory-type recipes!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 27,
+            "Name": "Stardust Heal",
+            "Desc": "Restores HP of self and nearby allies\r.",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Astral Gloria",
+            "Desc": "Hit EXCELLENT 4 times. The more you use Furys, the better the effect!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Moonlight Breath",
+            "Desc": "Temporarily boosts her own status and those of nearby allies.",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Star Gospel",
+            "Desc": "Boosts Fury growth of whole party on obtaining Fury Ball",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "A superbly skilled Alchemist hired by the Castele royal family who is knowledgeable and talented, especially in pharmaceuticals, and known as the best in Castele. Her apprentices include Art and Litona.\n\nShe looks calm and intellectual, but even the slightest thing can send her into a panic. If you're not feeling well, she won't hesitate to douse you in potion. She is always worried about Litona, who enjoys performing risky experiments.\n\nShe actually has two personalities—\"calm, cautious, and steady Sophie,\" and \"bold, confident Sophie.\" Of these two personalities, the one that usually emerges is the calm Sophie, but during experiments, or on nights when the moon's power is particularly strong, the bold Sophie will rush out. The calm Sophie is not very good at coexisting peacefully with the bold Sophie. In the past, this has caused some experiments to fail. Since then, their relationship has worsened. The Magician Sloane knows about the two Sophies' existence, and is also the person who understands her best. \n\nShe cares little for romance, and although fellow Alchemist Demiel instilled many romance-related guidelines, they essentially went in one ear and out the other, heard but not understood.",
+    "OtherText": [
+      "I am Sophie, an Alchemist.\nIf you don't feel well, please let me know.\nI'll call down a healing rain.",
+      "I am Sophie, an Alchemist.\nIf you don't feel well, please let me know.\nI'll call down a healing rain.",
+      "I feel refreshed\nand a sudden surge of power.\nWhy is it happening?",
+      "I'm enveloped in a surge of feelings...\nNo matter how hard the recipes are, I can get them done.",
+      "Let's get started.",
+      "All set.",
+      "I'll do what I can—That's it.",
+      "Mission complete.",
+      "Not even close.",
+      "You can still count on me.",
+      "Was I being careless...?",
+      "Alright, I'll take it.",
+      "This is for you... Enough?",
+      "I owe you one.",
+      "Everything has been carefully prepared.",
+      "Everything has been carefully prepared.",
+      "Everything has been carefully prepared.",
+      "Everything has been carefully prepared.",
+      "Continue with the research.",
+      "Continue with the research.",
+      "Continue with the research.",
+      "This is for you... Enough?",
+      "※Specifications under considerationã",
+      "I'm thinking about the test.",
+      "Any questions?",
+      "Any questions?",
+      "I'm thinking about the test.",
+      "Any questions?",
+      "You won't find any medicine in places like that. ",
+      "Feels great.",
+      "...Er?",
+      "Uh—",
+      "Need any medicine?",
+      "Hah!",
+      "Ha.",
+      "Hah!",
+      "Hah!",
+      "What do you think?",
+      "Get lost!",
+      "Uh!",
+      "Ugh!",
+      "This is beyond my expectations...",
+      "This is beyond my expectations...",
+      "I won't make the same mistake twice.",
+      "So, what's next?",
+      "So, what's next?",
+      "So, what's next?",
+      "So, what's next?",
+      "So, what's next?",
+      "So, what's next?",
+      "Experiment successful.",
+      "So, what's next?"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc276_0001",
+    "IcnAssetBundleId": 1427260362,
+    "FullFilename": "npc276_0001",
+    "FullAssetBundleId": 1427260362,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_alchemist"
+  },
+  "ParamIds": {
+    "ObjId": 1167741532,
+    "Uniqid": 1167741532,
+    "Id": "OBJ_CHARA_10076_00_00",
+    "ResId": 3960181267,
+    "ResIdIcon": 996846705,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1851613043,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 757183059,
+    "DescriptionId": 1482396246,
+    "CommonParamId": 319789162,
+    "CharaParamId": 2839687638,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4117589977,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Sophie",
+  "Title": "Moonlight Alchemist",
+  "Desc": "A cool-headed, intellectual Alchemist. No one in Castele can rival her when it comes to crafting medicine. Tends to worry a lot.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "Sumire Uesaka",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Moon Rise",
+      "Desc": "When crafting starts, enhances Crafting and Fury Ball chance within the next 30 sec",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I am Sophie, an Alchemist.\nIf you don't feel well, please let me know.\nI'll call down a healing rain.",
+      "I am Sophie, an Alchemist.\nIf you don't feel well, please let me know.\nI'll call down a healing rain.",
+      "I feel refreshed\nand a sudden surge of power.\nWhy is it happening?",
+      "I'm enveloped in a surge of feelings...\nNo matter how hard the recipes are, I can get them done.",
+      "Let's get started.",
+      "All set.",
+      "I'll do what I can—That's it.",
+      "Mission complete.",
+      "Not even close.",
+      "You can still count on me.",
+      "Was I being careless...?",
+      "Alright, I'll take it.",
+      "This is for you... Enough?",
+      "I owe you one.",
+      "Everything has been carefully prepared.",
+      "Everything has been carefully prepared.",
+      "Everything has been carefully prepared.",
+      "Everything has been carefully prepared.",
+      "Continue with the research.",
+      "Continue with the research.",
+      "Continue with the research.",
+      "This is for you... Enough?",
+      "※Specifications under considerationã",
+      "I'm thinking about the test.",
+      "Any questions?",
+      "Any questions?",
+      "I'm thinking about the test.",
+      "Any questions?",
+      "You won't find any medicine in places like that. ",
+      "Feels great.",
+      "...Er?",
+      "Uh—",
+      "Need any medicine?",
+      "Hah!",
+      "Ha.",
+      "Hah!",
+      "Hah!",
+      "What do you think?",
+      "Get lost!",
+      "Uh!",
+      "Ugh!",
+      "This is beyond my expectations...",
+      "This is beyond my expectations...",
+      "I won't make the same mistake twice.",
+      "So, what's next?",
+      "So, what's next?",
+      "So, what's next?",
+      "So, what's next?",
+      "So, what's next?",
+      "So, what's next?",
+      "Experiment successful.",
+      "So, what's next?"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc276_0001",
+    "IcnAssetBundleId": 1427260362,
+    "FullFilename": "npc276_0001",
+    "FullAssetBundleId": 1427260362,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_alchemist"
+  },
+  "ParamIds": {
+    "ObjId": 4247139641,
+    "Uniqid": 4247139641,
+    "Id": "OBJ_CHARA_10076_01_00",
+    "ResId": 3960181267,
+    "ResIdIcon": 996846705,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1851613043,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2510148918,
+    "DescriptionId": 3773297971,
+    "CommonParamId": 319789162,
+    "CharaParamId": 301881011,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4117589977,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

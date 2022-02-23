@@ -1,0 +1,147 @@
+{
+  "Name": "Mini Celestia",
+  "Title": "Little Patron Saint",
+  "Desc": "The Patron Saint of Namona. Though little, it has an awe-inspiring presence. Why does it take up such a form?",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Mini Celestia)",
+      "Repeated summon script (Mini Celestia)",
+      "End script (Mini Celestia)",
+      "End script 2 (Mini Celestia)",
+      "End script 2 (Mini Celestia)",
+      "End-in-failure script (Mini Celestia)",
+      "Confirmation script (Mini Celestia)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc334_0001",
+    "IcnAssetBundleId": 1371293786,
+    "FullFilename": "npc334_0001",
+    "FullAssetBundleId": 1371293786,
+    "AtlasResID": 1007313192,
+    "SpriteName": "gui_icon_grp_god2"
+  },
+  "ParamIds": {
+    "ObjId": 1093949900,
+    "Uniqid": 1093949900,
+    "Id": "OBJ_CHARA_10134_00_00",
+    "ResId": 3903166851,
+    "ResIdIcon": 1069852641,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1794331875,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 697285059,
+    "DescriptionId": 1559599558,
+    "CommonParamId": 396465146,
+    "CharaParamId": 2917939782,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4167590685,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Mini Celestia",
+  "Title": "Little Patron Saint",
+  "Desc": "The Patron Saint of Namona. Though little, it has an awe-inspiring presence. Why does it take up such a form?",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Mini Celestia)",
+      "Repeated summon script (Mini Celestia)",
+      "End script (Mini Celestia)",
+      "End script 2 (Mini Celestia)",
+      "End script 2 (Mini Celestia)",
+      "End-in-failure script (Mini Celestia)",
+      "Confirmation script (Mini Celestia)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc334_0001",
+    "IcnAssetBundleId": 1371293786,
+    "FullFilename": "npc334_0001",
+    "FullAssetBundleId": 1371293786,
+    "AtlasResID": 1007313192,
+    "SpriteName": "gui_icon_grp_god2"
+  },
+  "ParamIds": {
+    "ObjId": 1995090430,
+    "Uniqid": 1995090430,
+    "Id": "OBJ_CHARA_10134_05_00",
+    "ResId": 3903166851,
+    "ResIdIcon": 1069852641,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1794331875,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 508643825,
+    "DescriptionId": 1798007284,
+    "CommonParamId": 396465146,
+    "CharaParamId": 2917939782,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4167590685,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

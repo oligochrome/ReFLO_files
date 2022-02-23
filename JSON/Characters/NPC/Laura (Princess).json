@@ -1,0 +1,74 @@
+{
+  "Name": "Laura (Princess)",
+  "Title": "-",
+  "Desc": "(description)",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Light",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (reserved)",
+      "Repeated summon script (reserved)",
+      "End script (reserved)",
+      "End script 2 (reserved)",
+      "End script 2 (reserved)",
+      "End-in-failure script (reserved)",
+      "Confirmation script (reserved)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc290_0001",
+    "IcnAssetBundleId": 3607576785,
+    "FullFilename": "npc290_0001",
+    "FullAssetBundleId": 3607576785,
+    "AtlasResID": 1007313192,
+    "SpriteName": "gui_icon_grp_kur"
+  },
+  "ParamIds": {
+    "ObjId": 3348058439,
+    "Uniqid": 3348058439,
+    "Id": "OBJ_CHARA_10094_00_00",
+    "ResId": 1847496968,
+    "ResIdIcon": 3112152938,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3964165224,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2939466056,
+    "DescriptionId": 3662582093,
+    "CommonParamId": 2434440049,
+    "CharaParamId": 727134925,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2322276548,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

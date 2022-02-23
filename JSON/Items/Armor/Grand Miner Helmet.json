@@ -1,0 +1,323 @@
+{
+  "Name": "Grand Miner Helmet",
+  "Desc": "One of the pieces of equipment that Miners use. It's said that it can handle any sort of landslide.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 6300,
+      "Sellprice": 1575,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly enhances Mining",
+          "Desc": "Slightly enhances \"Mining\"",
+          "Effects": [
+            {
+              "Effect": "Mining",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_mining_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases ATK",
+          "Desc": "Slightly increases ATK",
+          "Effects": [
+            {
+              "Effect": "ATK",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly enhances Mining",
+        "Desc": "Slightly enhances \"Mining\"",
+        "Effects": [
+          {
+            "Effect": "Mining",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_mining_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases ATK",
+        "Desc": "Slightly increases ATK",
+        "Effects": [
+          {
+            "Effect": "ATK",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0034_10default",
+    "IcnAssetBundleId": 1479321587,
+    "FullFilename": "ae00197_Hat01_typeD",
+    "FullAssetBundleId": 1479321587,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1261116880,
+    "Uniqid": 1261116880,
+    "Id": "OBJ_ITEM_GUARD_00200_00_00",
+    "ResId": 1691478313,
+    "ResIdIcon": 280735833,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 674297905,
+    "NameId": 2066430823,
+    "DescriptionId": 416774940,
+    "CommonParamId": 338213652,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2925859496,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}{
+  "Name": "Grand Miner Helmet",
+  "Desc": "A lifelong partner of a Master Miner. It lights up the mines and a way to exploration.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Master Miner",
+          "Desc": "Increases ATK and Mining",
+          "Effects": [
+            {
+              "Effect": "ATK",
+              "Value": 2.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Mining",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_mining_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases damage to deposit Sweet Spots",
+          "Desc": "Slightly boosts damage dealt to deposit Sweet Spot",
+          "Effects": [
+            {
+              "Effect": "Special Effects",
+              "Value": 104.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Master Miner",
+        "Desc": "Increases ATK and Mining",
+        "Effects": [
+          {
+            "Effect": "ATK",
+            "Value": 2.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Mining",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_mining_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases damage to deposit Sweet Spots",
+        "Desc": "Slightly boosts damage dealt to deposit Sweet Spot",
+        "Effects": [
+          {
+            "Effect": "Special Effects",
+            "Value": 104.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0243_10default",
+    "IcnAssetBundleId": 1873538315,
+    "FullFilename": "ae08060_Hat01_typeC",
+    "FullAssetBundleId": 1873538315,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2091669288,
+    "Uniqid": 2091669288,
+    "Id": "OBJ_ITEM_GUARD_14160_00_00",
+    "ResId": 1398186961,
+    "ResIdIcon": 658307745,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 674297905,
+    "NameId": 1286369695,
+    "DescriptionId": 793784804,
+    "CommonParamId": 598733292,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2581747792,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

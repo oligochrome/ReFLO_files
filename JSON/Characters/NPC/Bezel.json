@@ -1,0 +1,713 @@
+{
+  "Name": "Bezel",
+  "Title": "Natural Fishing Lad",
+  "Desc": "He learned fishing from Master Teruha and from nature itself. He likes to wander among the streams looking for good fishing spots.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Force of Nature",
+      "Desc": "For a short period of time, slightly increases Fishing ATK of self and nearby allies\r.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of fishing rod combo",
+            "Desc": "Learn \"Diagonal Right Slash\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of fishing rod combo",
+            "Desc": "Learn \"Two-Handed Chop\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of fishing rod combo",
+            "Desc": "Learn \"Dim Light Leap\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Angler",
+            "Desc": "Fishing +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Angler",
+            "Desc": "Fishing +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Angler",
+            "Desc": "Fishing +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Angler",
+            "Desc": "Fishing +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Waterfall Fish Killer",
+            "Desc": "Slightly increases damage to\nBlackgill, Black Bass, and Bass of Crystal.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 14,
+            "Name": "Tornado Shot",
+            "Desc": "Summons a hurricane to attack\r Inflicts Wind damage.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Gathering\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fly Fishing",
+            "Desc": "The mastery of fishing skills like the breath of streams, dealing Wind damage to enemies.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Tri-wind Beat",
+            "Desc": "Three successive hits with the power of wind.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Gathering\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 17,
+            "Name": "Great Force of Nature",
+            "Desc": "For a period of time, slightly increases Fishing ATK of self and nearby allies\r.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Bezel, a lofty\" Angler.\nWell, \"lofty\" may be an overstatement.",
+      "I'm fine with being alone, but I don't mind company.\nWhy don't we go fishing together?",
+      "Wait, what just happened?\nA scale just fell out of my eye!",
+      "I've never felt this way before!\nI think I've got the hang of fishing!",
+      "Alright, let's do this!",
+      "Now it's getting really fun!",
+      "Give me a big one!",
+      "Awesome!",
+      "That's pretty much it!",
+      "Bull's eye!",
+      "Messed it up...",
+      "Whoa, great!",
+      "That's my collection!",
+      "Thank you!",
+      "Whoa!",
+      "I'll take it from here!",
+      "Let me help!",
+      "It's settled then! Happy fishing!",
+      "Alright!",
+      "Power up!",
+      "Bring it on!",
+      "That's my collection!",
+      "{Avatar_Name1}...\nPleased to meet you!",
+      "Yo!",
+      "About fishing?",
+      "I sense a whopper coming!",
+      "What is it?",
+      "Stop tickling me!",
+      "Hey, stop it!",
+      "Hee-hee!",
+      "Phew...",
+      "Oh.",
+      "The big guy's getting away! After it!",
+      "Hah!",
+      "Ha!",
+      "Ohhhh!",
+      "Hooyah!",
+      "Hee-yah!",
+      "Hah!",
+      "Uh!",
+      "Ughhh!",
+      "The big guy... is still...",
+      "You gotta be kidding me!?",
+      "We're just getting started!",
+      "Let's get this over with!",
+      "Looks promising!",
+      "None shall escape from my grasp!",
+      "This is my target!",
+      "Let's get this over with!",
+      "Looks promising!",
+      "One strike to kill!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc240_0001",
+    "IcnAssetBundleId": 3092082963,
+    "FullFilename": "npc240_0001",
+    "FullAssetBundleId": 3092082963,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_fisherman"
+  },
+  "ParamIds": {
+    "ObjId": 2831507589,
+    "Uniqid": 2831507589,
+    "Id": "OBJ_CHARA_10040_00_00",
+    "ResId": 22323402,
+    "ResIdIcon": 3593838248,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2197974442,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3229515914,
+    "DescriptionId": 3036979343,
+    "CommonParamId": 4266699443,
+    "CharaParamId": 1142752015,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 886568454,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Bezel",
+  "Title": "Natural Fishing Lad",
+  "Desc": "He learned fishing from Master Teruha and from nature itself. He likes to wander among the streams looking for good fishing spots.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Force of Nature",
+      "Desc": "For a short period of time, slightly increases Fishing ATK of self and nearby allies\r.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Bezel, a lofty\" Angler.\nWell, \"lofty\" may be an overstatement.",
+      "I'm fine with being alone, but I don't mind company.\nWhy don't we go fishing together?",
+      "Wait, what just happened?\nA scale just fell out of my eye!",
+      "I've never felt this way before!\nI think I've got the hang of fishing!",
+      "Alright, let's do this!",
+      "Now it's getting really fun!",
+      "Give me a big one!",
+      "Awesome!",
+      "That's pretty much it!",
+      "Bull's eye!",
+      "Messed it up...",
+      "Whoa, great!",
+      "That's my collection!",
+      "Thank you!",
+      "Whoa!",
+      "I'll take it from here!",
+      "Let me help!",
+      "It's settled then! Happy fishing!",
+      "Alright!",
+      "Power up!",
+      "Bring it on!",
+      "That's my collection!",
+      "{Avatar_Name1}...\nPleased to meet you!",
+      "Yo!",
+      "About fishing?",
+      "I sense a whopper coming!",
+      "What is it?",
+      "Stop tickling me!",
+      "Hey, stop it!",
+      "Hee-hee!",
+      "Phew...",
+      "Oh.",
+      "The big guy's getting away! After it!",
+      "Hah!",
+      "Ha!",
+      "Ohhhh!",
+      "Hooyah!",
+      "Hee-yah!",
+      "Hah!",
+      "Uh!",
+      "Ughhh!",
+      "The big guy... is still...",
+      "You gotta be kidding me!?",
+      "We're just getting started!",
+      "Let's get this over with!",
+      "Looks promising!",
+      "None shall escape from my grasp!",
+      "This is my target!",
+      "Let's get this over with!",
+      "Looks promising!",
+      "One strike to kill!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc240_0001",
+    "IcnAssetBundleId": 3092082963,
+    "FullFilename": "npc240_0001",
+    "FullAssetBundleId": 3092082963,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_fisherman"
+  },
+  "ParamIds": {
+    "ObjId": 276367328,
+    "Uniqid": 276367328,
+    "Id": "OBJ_CHARA_10040_01_00",
+    "ResId": 22323402,
+    "ResIdIcon": 3593838248,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2197974442,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2026039279,
+    "DescriptionId": 230213610,
+    "CommonParamId": 4266699443,
+    "CharaParamId": 4238435434,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 886568454,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Bezel",
+  "Title": "Natural Fishing Lad",
+  "Desc": "He learned fishing from Master Teruha and from nature itself. He likes to wander among the streams looking for good fishing spots.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Force of Nature",
+      "Desc": "For a short period of time, slightly increases Fishing ATK of self and nearby allies\r.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Bezel, a lofty\" Angler.\nWell, \"lofty\" may be an overstatement.",
+      "I'm fine with being alone, but I don't mind company.\nWhy don't we go fishing together?",
+      "Wait, what just happened?\nA scale just fell out of my eye!",
+      "I've never felt this way before!\nI think I've got the hang of fishing!",
+      "Alright, let's do this!",
+      "Now it's getting really fun!",
+      "Give me a big one!",
+      "Awesome!",
+      "That's pretty much it!",
+      "Bull's eye!",
+      "Messed it up...",
+      "Whoa, great!",
+      "That's my collection!",
+      "Thank you!",
+      "Whoa!",
+      "I'll take it from here!",
+      "Let me help!",
+      "It's settled then! Happy fishing!",
+      "Alright!",
+      "Power up!",
+      "Bring it on!",
+      "That's my collection!",
+      "{Avatar_Name1}...\nPleased to meet you!",
+      "Yo!",
+      "About fishing?",
+      "I sense a whopper coming!",
+      "What is it?",
+      "Stop tickling me!",
+      "Hey, stop it!",
+      "Hee-hee!",
+      "Phew...",
+      "Oh.",
+      "The big guy's getting away! After it!",
+      "Hah!",
+      "Ha!",
+      "Ohhhh!",
+      "Hooyah!",
+      "Hee-yah!",
+      "Hah!",
+      "Uh!",
+      "Ughhh!",
+      "The big guy... is still...",
+      "You gotta be kidding me!?",
+      "We're just getting started!",
+      "Let's get this over with!",
+      "Looks promising!",
+      "None shall escape from my grasp!",
+      "This is my target!",
+      "Let's get this over with!",
+      "Looks promising!",
+      "One strike to kill!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc240_0001",
+    "IcnAssetBundleId": 3092082963,
+    "FullFilename": "npc240_0001",
+    "FullAssetBundleId": 3092082963,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_fisherman"
+  },
+  "ParamIds": {
+    "ObjId": 2669383863,
+    "Uniqid": 2669383863,
+    "Id": "OBJ_CHARA_10040_05_00",
+    "ResId": 22323402,
+    "ResIdIcon": 3593838248,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2197974442,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2026039279,
+    "DescriptionId": 230213610,
+    "CommonParamId": 4266699443,
+    "CharaParamId": 4238435434,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 886568454,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

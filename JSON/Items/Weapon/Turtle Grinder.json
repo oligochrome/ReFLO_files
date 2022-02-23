@@ -1,0 +1,178 @@
+{
+  "Name": "Turtle Grinder",
+  "Desc": "A greatsword that can make turtles surrender.\r Having a harder shell than anyone else,\r it's proof of being king of the turtles.",
+  "Rarity": 4,
+  "Category": "Weapon",
+  "Subcategory": "Greatsword",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 6000,
+      "Sellprice": 1500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Greatsword",
+      "IconName": "icn_eqslot_lsword",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 34,
+          "Name": "Armor Break",
+          "Desc": "Within a period of time, reduces DEF of enemy hit.",
+          "Attribute": "",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Turtle Buster",
+          "Desc": "Increases damage to turtles",
+          "Effects": [
+            {
+              "Effect": "Special Effects",
+              "Value": 130.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Greatsword",
+    "IconName": "icn_eqslot_lsword",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 34,
+        "Name": "Armor Break",
+        "Desc": "Within a period of time, reduces DEF of enemy hit.",
+        "Attribute": "",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Turtle Buster",
+        "Desc": "Increases damage to turtles",
+        "Effects": [
+          {
+            "Effect": "Special Effects",
+            "Value": 130.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm402_1013_10default",
+    "IcnAssetBundleId": 540411822,
+    "FullFilename": "at08113_Blade00",
+    "FullAssetBundleId": 540411822,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2185392486,
+    "Uniqid": 2185392486,
+    "Id": "OBJ_ITEM_WEAPON_11140_00_00",
+    "ResId": 1175241002,
+    "ResIdIcon": 377346639,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 3686778005,
+    "NameId": 3614922607,
+    "DescriptionId": 281215899,
+    "CommonParamId": 504657001,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 3698968167,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

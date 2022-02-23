@@ -1,0 +1,74 @@
+{
+  "Name": "Small Liar Wolf",
+  "Title": "",
+  "Desc": "The youngling of Large Liar Wolf. Its howling sounds no different from ordinary wolves.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon004_0013",
+    "IcnAssetBundleId": 200750084,
+    "FullFilename": "mon004_0013",
+    "FullAssetBundleId": 200750084,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 461317522,
+    "Uniqid": 461317522,
+    "Id": "OBJ_CHARA_20302_00_00",
+    "ResId": 3002000861,
+    "ResIdIcon": 1703926719,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 817375421,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1942275485,
+    "DescriptionId": 113173912,
+    "CommonParamId": 1307242404,
+    "CharaParamId": 4154934808,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Wolf"
+}

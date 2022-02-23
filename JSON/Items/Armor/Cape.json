@@ -1,0 +1,151 @@
+{
+  "Name": "Cape",
+  "Desc": "Wrapping it around your shoulders can keep you from chillness and attacks. It can also be used as an ornament.",
+  "Rarity": 1,
+  "Category": "Armor",
+  "Subcategory": "Cape",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 200,
+      "Sellprice": 50,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 50,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Insignificantly increases max HP",
+          "Desc": "Insignificantly increases max HP",
+          "Effects": [
+            {
+              "Effect": "HP",
+              "Value": 5.0,
+              "AtlasIcon": "gui_buff_heal_hp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1707547204
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Insignificantly increases max HP",
+        "Desc": "Insignificantly increases max HP",
+        "Effects": [
+          {
+            "Effect": "HP",
+            "Value": 5.0,
+            "AtlasIcon": "gui_buff_heal_hp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1707547204
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm701_0003_10default",
+    "IcnAssetBundleId": 3182163637,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2930527382,
+    "Uniqid": 2930527382,
+    "Id": "OBJ_ITEM_GUARD_06060_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 4114407711,
+    "ResswitchId": 104267723,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3059829398,
+    "NameId": 2662099489,
+    "DescriptionId": 4249889370,
+    "CommonParamId": 4054837842,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1273119726,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

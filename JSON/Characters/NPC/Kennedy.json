@@ -1,0 +1,628 @@
+{
+  "Name": "Kennedy",
+  "Title": "Carpenter of the Battlefield",
+  "Desc": "A bright Carpenter who takes good care of her companions. She likes devoted people and hates dabblers.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "Ari Ozawa",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Carpenter Yell",
+      "Desc": "Fury increases when a Fury is learned. Boosts Fury growth even when as a supporting member.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of saw combo",
+            "Desc": "Learn \"Diagonal Cut Rev.\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of saw combo",
+            "Desc": "Learn \"Roundhouse Cut\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of saw combo",
+            "Desc": "Learn \"Hop 'n' Chop\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Carpenter",
+            "Desc": "Carpenter +10\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Carpenter",
+            "Desc": "Carpenter +10\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Carpenter",
+            "Desc": "Carpenter +10\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Carpenter",
+            "Desc": "Carpenter +10\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Green Oak Carpenter",
+            "Desc": "Significantly improves Crafting when making recipes using Green Oak as raw materials.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Carpenter of Earth",
+            "Desc": "Significantly improves Crafting when making recipes using Earth-type raw materials.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 11,
+            "Name": "Tatami Revenge",
+            "Desc": "Prizes up a tatami with a saw to attack\r.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Lovely Fall",
+            "Desc": "Hit EXCELLENT 4 times. The more you use Furys, the better the effect!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Hammer Smash",
+            "Desc": "For a period of time, significantly reduces the movement speed of the enemies who attacked.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Frankness",
+            "Desc": "When crafting starts, significantly increases the chance for Fury Ball to appear within the next 30 sec",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "A first-class Carpenter born into a well-known family of Carpenters. Because she is the Carpenter of the War Carpenter family, she has been called the \"Carpenter of the Battlefield.\" Her apprentices include Kanna and Yasli.\n\nShe is very competitive and seldom backs down. She is a childhood friend of Master Carpenter Woody. Although she trusts Woody's abilities as a Carpenter, she finds his indecisive personality to be unbearable and often can't help but scream at him or persuade him violently. She is quite masculine in her behavior, but also very good at taking care of others and has a sentimental side. As the daughter of a legendary War Carpenter, she has had the expectations of many people around her thrust upon her, so she sometimes suffers from stress.\n\nThe Woodcutter Belhart is her father's partner, and his daughter Mayna is her friend. Although the commissions Mayna requests for her squirrel friend can be quite unreasonable, such as \"a cute little axe for cracking open nuts,\" can make her feel bewildered, she still meticulously completes each of her requests.\n\nBecause she worries about the Woodcutter Woolf, her good friend living all alone on the Mt Snowpeak Summit, she sometimes makes the trek to the top of Mt Snowpeak alone.",
+    "OtherText": [
+      "If you're looking for a Carpenter,\nyou better go through me,\nKennedy, first!",
+      "If you're looking for a Carpenter,\nyou better go through me,\nKennedy, first!",
+      "This pair of hands\nmakes lumber into artwork!",
+      "Unbelievable...\nI feel reborn.\nIt's really amazing...",
+      "Yes, leave it to me.",
+      "Time waits for no one.",
+      "\"Average\" is not in my vocabulary.",
+      "As expected.",
+      "Hopefully, next time I can do it again.",
+      "Energy runs through my body.",
+      "My heart is restless...",
+      "Got it!",
+      "Here, take this.",
+      "Thanks.",
+      "Is this my turn?",
+      "Is this my turn?",
+      "Is this my turn?",
+      "Is this my turn?",
+      "Picking the right lumber is a Carpenter's duty.",
+      "Picking the right lumber is a Carpenter's duty.",
+      "Picking the right lumber is a Carpenter's duty.",
+      "Here, take this.",
+      "※Specifications under considerationã",
+      "Am I getting better?",
+      "What's wrong?",
+      "What's wrong?",
+      "Am I getting better?",
+      "What's wrong?",
+      "Don't do it again.",
+      "Heh heh...",
+      "What exactly happened...?",
+      "Hmph...",
+      "Consider it some sort of training.",
+      "Whoosh!",
+      "Ha!",
+      "Ahh!",
+      "Hmph.",
+      "Phew.",
+      "Here.",
+      "Uh!",
+      "Ugh!",
+      "This is... not the place...",
+      "This is... not the place...",
+      "I won't give up!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Lumber will answer me!",
+      "Time for the finishers!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc263_0001",
+    "IcnAssetBundleId": 3414191347,
+    "FullFilename": "npc263_0001",
+    "FullAssetBundleId": 3414191347,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_carpenter"
+  },
+  "ParamIds": {
+    "ObjId": 3674766693,
+    "Uniqid": 3674766693,
+    "Id": "OBJ_CHARA_10063_00_00",
+    "ResId": 1922678058,
+    "ResIdIcon": 2784527176,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 4040126538,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3014892906,
+    "DescriptionId": 3335109999,
+    "CommonParamId": 2375923539,
+    "CharaParamId": 936386287,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2634205741,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Kennedy",
+  "Title": "Carpenter of the Battlefield",
+  "Desc": "A bright Carpenter who takes good care of her companions. She likes devoted people and hates dabblers.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "Ari Ozawa",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Carpenter Yell",
+      "Desc": "Fury increases when a Fury is learned. Boosts Fury growth even when as a supporting member.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "If you're looking for a Carpenter,\nyou better go through me,\nKennedy, first!",
+      "If you're looking for a Carpenter,\nyou better go through me,\nKennedy, first!",
+      "This pair of hands\nmakes lumber into artwork!",
+      "Unbelievable...\nI feel reborn.\nIt's really amazing...",
+      "Yes, leave it to me.",
+      "Time waits for no one.",
+      "\"Average\" is not in my vocabulary.",
+      "As expected.",
+      "Hopefully, next time I can do it again.",
+      "Energy runs through my body.",
+      "My heart is restless...",
+      "Got it!",
+      "Here, take this.",
+      "Thanks.",
+      "Is this my turn?",
+      "Is this my turn?",
+      "Is this my turn?",
+      "Is this my turn?",
+      "Picking the right lumber is a Carpenter's duty.",
+      "Picking the right lumber is a Carpenter's duty.",
+      "Picking the right lumber is a Carpenter's duty.",
+      "Here, take this.",
+      "※Specifications under considerationã",
+      "Am I getting better?",
+      "What's wrong?",
+      "What's wrong?",
+      "Am I getting better?",
+      "What's wrong?",
+      "Don't do it again.",
+      "Heh heh...",
+      "What exactly happened...?",
+      "Hmph...",
+      "Consider it some sort of training.",
+      "Whoosh!",
+      "Ha!",
+      "Ahh!",
+      "Hmph.",
+      "Phew.",
+      "Here.",
+      "Uh!",
+      "Ugh!",
+      "This is... not the place...",
+      "This is... not the place...",
+      "I won't give up!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Time for the finishers!",
+      "Lumber will answer me!",
+      "Time for the finishers!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc263_0001",
+    "IcnAssetBundleId": 3414191347,
+    "FullFilename": "npc263_0001",
+    "FullAssetBundleId": 3414191347,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_carpenter"
+  },
+  "ParamIds": {
+    "ObjId": 1672747520,
+    "Uniqid": 1672747520,
+    "Id": "OBJ_CHARA_10063_01_00",
+    "ResId": 1922678058,
+    "ResIdIcon": 2784527176,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 4040126538,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 185596431,
+    "DescriptionId": 2121652746,
+    "CommonParamId": 2375923539,
+    "CharaParamId": 2406250890,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2634205741,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

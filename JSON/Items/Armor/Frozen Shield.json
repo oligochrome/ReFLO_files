@@ -1,0 +1,97 @@
+{
+  "Name": "Frozen Shield",
+  "Desc": "A shield made of crystals from the depth of icebergs by an experienced Blacksmith. It will freeze a rain of lava in an instant.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Shield",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 3000,
+      "Sellprice": 1500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 3000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 4199345978
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm607_0131_10default",
+    "IcnAssetBundleId": 17795547,
+    "FullFilename": "at09112_Shield00",
+    "FullAssetBundleId": 17795547,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 302527480,
+    "Uniqid": 302527480,
+    "Id": "OBJ_ITEM_GUARD_14610_00_00",
+    "ResId": 1039320833,
+    "ResIdIcon": 1234738801,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 2172622904,
+    "NameId": 570955087,
+    "DescriptionId": 1106531636,
+    "CommonParamId": 1292604732,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 4148575360,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

@@ -1,0 +1,895 @@
+{
+  "Name": "Snow",
+  "Title": "Merc Idol of Ice",
+  "Desc": "A super popular Idol whose smile is as bright as snow. Actually quite shy. She is the descendant of a family who serve the Goddess.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "Ayana Taketatsu",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 15,
+      "Name": "Holy Frost",
+      "Desc": "Releases a whirlwind of ice and deals DMG to nearby enemy. Chance to apply Frozen.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of greatsword combo",
+            "Desc": "Learn \"Down Edge\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of greatsword combo",
+            "Desc": "Learn \"Crystal Lance\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of greatsword combo",
+            "Desc": "Learn \"Snow Rampage\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Snow White",
+            "Desc": "Reduces charge time",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Innocent Smile",
+            "Desc": "Increases all team members' ATK - M.ATK and\nDEF - M.DEF",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Frost Fall",
+            "Desc": "Summon multiple icicles that launch at the target. If the target is Frozen, the damage will be increased.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 25,
+            "Name": "Holy Crusader",
+            "Desc": "Slashes frontward at a high speed\r Snowflake can enhance this skill.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "Her dazzling smile like falling snow is unforgettable, making her the most popular Idol in Reveria. Her fans are not limited to the mortal realm; it's said that she has hardcore fans even in Gods of Lunare.\n\nWhile in Idol mode, she is always cheerful and energetic, but in real life, she is a well-learned and shy girl. She attends vocal training every morning without fail, and nobody can deny that she is hard-working.\n\nIn fact, she is a descendant of a family who worships the Goddess, and her becoming an Idol is also a means to investigate various legends surrounding the Goddess. Because of this, in the beginning, she was not too enthusiastic about Idol performances, but now her mind has changed and she wants to work hard for the fans supporting her. In addition, her strength as a Mercenary should not be underestimated. She wields a large sword as if she were dancing, and it's said that even monsters become entranced by her.\n\nWhen she was little, she had few friends and once called the snowman she made her \"Friend No.1\" and preserved it carefully. There still is a snowman-shaped doll in her room.",
+    "OtherText": [
+      "Yay! Sorry for keeping you waiting!\nMy name is Snow,\nthe powdered snow towering in your heart!",
+      "Yay! Sorry for keeping you waiting!\nMy name is Snow,\nthe powdered snow towering in your heart!",
+      "Yeah—!\nThe crowd is heating up!",
+      "I'm the best!",
+      "I have a concert...! Huh? No?",
+      "Leave it to me!",
+      "Here we go!",
+      "Will that do?",
+      "It's over!",
+      "Are we going to celebrate?",
+      "Idols are not immune to failure!",
+      "Okay—!",
+      "Thanks for supporting me!",
+      "Wow! Thanks!",
+      "Let the concert begin!",
+      "Let the concert begin!",
+      "Let the concert begin!",
+      "Let the concert begin!",
+      "Which songs should I pick for the next concert?",
+      "Which songs should I pick for the next concert?",
+      "Which songs should I pick for the next concert?",
+      "Thanks for supporting me!",
+      "Hello there!",
+      "What's going on?",
+      "What's going on?",
+      "Hello there!",
+      "What's going on?",
+      "You can't just touch an idol!",
+      "Phew...",
+      "Yeah.",
+      "I'm here!",
+      "Let's get along!",
+      "Take this!",
+      "Hee-yah!",
+      "Taste this!",
+      "Yeah!",
+      "Yeah!",
+      "Heh heh!",
+      "That really hurts!",
+      "Ugh!",
+      "Sorry, everyone... Sorry, my fans...",
+      "Sorry, everyone... Sorry, my fans...",
+      "Snow is still alive and kicking!",
+      "The powdered snow that falls on your heart!",
+      "The powdered snow that falls on your heart!",
+      "The powdered snow that falls on your heart!",
+      "The powdered snow that falls on your heart!",
+      "The powdered snow that falls on your heart!",
+      "The powdered snow that falls on your heart!",
+      "The powdered snow that falls on your heart!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc358_0001",
+    "IcnAssetBundleId": 1349725097,
+    "FullFilename": "npc358_0001",
+    "FullAssetBundleId": 1349725097,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_mercenary"
+  },
+  "ParamIds": {
+    "ObjId": 1090206271,
+    "Uniqid": 1090206271,
+    "Id": "OBJ_CHARA_10158_00_00",
+    "ResId": 3916102256,
+    "ResIdIcon": 1040958482,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1799108368,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 675338800,
+    "DescriptionId": 1564146229,
+    "CommonParamId": 376369161,
+    "CharaParamId": 2887997877,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 3698611189,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Snow",
+  "Title": "Imp Idol",
+  "Desc": "The super-popular Idol whose smile is as shiny as snowflakes. She's going to deliver excitement in her imp swimsuit.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Light",
+    "CV": "Ayana Taketatsu",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 30,
+      "Name": "Imp's Smile",
+      "Desc": "Give everyone a smile!\r Restores HP & SP of nearby allies.",
+      "Attribute": "Light",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of basic attack combo",
+            "Desc": "Unlock the 4th move of basic attack combo",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of basic attack combo",
+            "Desc": "Unlock the 5th move of basic attack combo",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of basic attack combo",
+            "Desc": "Unlock the 6th move of basic attack combo",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Seaside Snow",
+            "Desc": "All team members' Water & Light ATK +10",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Everyone's Idol",
+            "Desc": "All team members' ATK & M.ATK +40",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "On Stage",
+            "Desc": "Slash the targets in front of you, before recovering your SP.",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 30,
+            "Name": "Summer Memory",
+            "Desc": "Recreates the seaside from memory After touching the scene\r Damage dealt +20% in 15 sec.",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "The most popular Idol in Reveria with an impressive smile as shiny as like snowflakes.\n\nShe is actually a descendent of a family that worships the Goddess and became an Idol in order to investigate legends surrounding her.\n\nAt the release event for her new single, she wore a devilish swimsuit on stage to meet her fans expectations!\n\nAlthough she is very active while in Idol mode, she easily becomes shy in private. She actually felt quite embarrassed, wearing the swimsuit.\n\nDuring the event, she completely transformed into an imp and heated up the atmosphere of the venue with a playful style. In her signature project, \"The Test of the Heartbeat,\" she took on a scary role. Although she acted afraid of ghosts in front of fans, she wasn't scared at all. She is quite brave.",
+    "OtherText": [
+      "Yeah!\nThis is Snow,\nyour very own devilish imp!",
+      "Yeah!\nThis is Snow,\nyour very own devilish imp!",
+      "You're going to see\na more excited version of me!",
+      "Snow-chan,\nyou're on a roll!",
+      "Snow-chan's show time!",
+      "Ride the wind♪",
+      "Break the waves!",
+      "The word impossible is not in Snow-chan's vocabulary!",
+      "I could definitely use a beach vacation right now!",
+      "I feel better now♪",
+      "I hope you'll forgive me.",
+      "Leave it to me!",
+      "Here's something very special!",
+      "I'm so glad!",
+      "Snow-chan, it's showtime!",
+      "Snow-chan, it's showtime!",
+      "Snow-chan, it's showtime!",
+      "Snow-chan, it's showtime!",
+      "Not even close!",
+      "Not even close!",
+      "Not even close!",
+      "Here's something very special!",
+      "Hey!",
+      "Did you have a good time?",
+      "Today is very special.",
+      "Hey!",
+      "Did you have a good time?",
+      "Today is very special.",
+      "Enjoy the moment!",
+      "My head hurts!",
+      "Heh heh.",
+      "Keep your eyes on me.",
+      "Ha.",
+      "An exclusive bonus for you!",
+      "Here I come!",
+      "You're wide open!",
+      "How exciting!",
+      "Now is my chance♪",
+      "Yikes!",
+      "Wah!",
+      "I'll live up to your expectation...",
+      "I'll live up to your expectation...",
+      "I've heard your voice.",
+      "You'll lose your head over me.",
+      "You'll lose your head over me.",
+      "You'll lose your head over me.",
+      "You'll lose your head over me.",
+      "You'll lose your head over me.",
+      "You'll lose your head over me.",
+      "You'll lose your head over me."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc386_0001",
+    "IcnAssetBundleId": 2068802256,
+    "FullFilename": "npc386_0001",
+    "FullAssetBundleId": 2068802256,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_mercenary"
+  },
+  "ParamIds": {
+    "ObjId": 3317775489,
+    "Uniqid": 3317775489,
+    "Id": "OBJ_CHARA_60153",
+    "ResId": 3260463881,
+    "ResIdIcon": 355960171,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1073772137,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 58497865,
+    "DescriptionId": 1980152652,
+    "CommonParamId": 1028829552,
+    "CharaParamId": 2266962124,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 3698611189,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,74 @@
+{
+  "Name": "Ralbes",
+  "Title": "-",
+  "Desc": "A beautiful illegal Miner who likes gemstones. The boss of a mining team.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Ralbes)",
+      "Repeated summon script (Ralbes)",
+      "End script (Ralbes)",
+      "End script 2 (Ralbes)",
+      "End script 2 (Ralbes)",
+      "End-in-failure script (Ralbes)",
+      "Confirmation script (Ralbes)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc232_0001",
+    "IcnAssetBundleId": 622291235,
+    "FullFilename": "npc232_0001",
+    "FullAssetBundleId": 622291235,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_prospector"
+  },
+  "ParamIds": {
+    "ObjId": 899643573,
+    "Uniqid": 899643573,
+    "Id": "OBJ_CHARA_10032_00_00",
+    "ResId": 2618210554,
+    "ResIdIcon": 1265600152,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 509113754,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1562679482,
+    "DescriptionId": 677296319,
+    "CommonParamId": 1661645443,
+    "CharaParamId": 3645315903,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2519372694,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

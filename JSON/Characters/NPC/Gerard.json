@@ -1,0 +1,131 @@
+{
+  "Name": "Gerard",
+  "Title": "Life Proctor",
+  "Desc": "The Plushling proctor of the \"7th Trial\" for all Lives. A confident and enthusiastic man who usually takes care of others like a coach.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc367_0008",
+    "IcnAssetBundleId": 765799185,
+    "FullFilename": "npc367_0008",
+    "FullAssetBundleId": 765799185,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1026374279,
+    "Uniqid": 1026374279,
+    "Id": "OBJ_CHARA_10512_00_00",
+    "ResId": 2495412936,
+    "ResIdIcon": 1138607274,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 384448424,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1435949704,
+    "DescriptionId": 552401549,
+    "CommonParamId": 1807282353,
+    "CharaParamId": 3522517261,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Gerard",
+  "Title": "Life Proctor",
+  "Desc": "A Plushling proctor, who wears a crown that symbolizes his passing the\"7th Trial\". A confident and enthusiastic man who usually takes care of others, like a coach does.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc367_0008",
+    "IcnAssetBundleId": 765799185,
+    "FullFilename": "npc367_0020",
+    "FullAssetBundleId": 1520573319,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1244269073,
+    "Uniqid": 1244269073,
+    "Id": "OBJ_CHARA_10512_00_01",
+    "ResId": 3820735070,
+    "ResIdIcon": 1138607274,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 384448424,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1453935802,
+    "NameId": 579987998,
+    "DescriptionId": 1475070491,
+    "CommonParamId": 1807282353,
+    "CharaParamId": 3522517261,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,131 @@
+{
+  "Name": "John",
+  "Title": "Life Proctor",
+  "Desc": "The Plushling proctor of the \"1st Trial\" for all Lives. \"Life is a battle against yourselfâ is his motto. His enthusiasm is revealed by his skin tone.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc367_0013",
+    "IcnAssetBundleId": 2140996790,
+    "FullFilename": "npc367_0013",
+    "FullAssetBundleId": 2140996790,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1863652640,
+    "Uniqid": 1863652640,
+    "Id": "OBJ_CHARA_10517_00_00",
+    "ResId": 3330594159,
+    "ResIdIcon": 300280589,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1154619407,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1453935802,
+    "NameId": 128906543,
+    "DescriptionId": 1926550826,
+    "CommonParamId": 964747030,
+    "CharaParamId": 2211280554,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "John",
+  "Title": "Life Proctor",
+  "Desc": "A Plushling proctor, who wears a crown that symbolizes his passing the \"1st Trials\". \"Life is a battle against yourselfâ is his motto. His enthusiasm is revealed by his skin tone.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc367_0013",
+    "IcnAssetBundleId": 2140996790,
+    "FullFilename": "npc367_0025",
+    "FullAssetBundleId": 144323616,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 403842486,
+    "Uniqid": 403842486,
+    "Id": "OBJ_CHARA_10517_00_01",
+    "ResId": 2978211321,
+    "ResIdIcon": 300280589,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1154619407,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1890174393,
+    "DescriptionId": 97772988,
+    "CommonParamId": 964747030,
+    "CharaParamId": 2211280554,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

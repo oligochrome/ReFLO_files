@@ -1,0 +1,169 @@
+{
+  "Name": "Sincerity Shoes",
+  "Desc": "The proof of a Master Tailor. Because of its simple color blending, the feeling of wearing it becomes extremely important.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Boot",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Master Tailor",
+          "Desc": "Increases ATK and Tailoring",
+          "Effects": [
+            {
+              "Effect": "ATK",
+              "Value": 2.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Tailoring",
+              "Value": 4.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Insignificantly boosts Completion growthbrought by a GREAT",
+          "Desc": "Insignificantly boosts Completion growth\nbrought by a GREAT during mini crafting game",
+          "Effects": [
+            {
+              "Effect": "-",
+              "Value": 2.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Master Tailor",
+        "Desc": "Increases ATK and Tailoring",
+        "Effects": [
+          {
+            "Effect": "ATK",
+            "Value": 2.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Tailoring",
+            "Value": 4.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Insignificantly boosts Completion growthbrought by a GREAT",
+        "Desc": "Insignificantly boosts Completion growth\nbrought by a GREAT during mini crafting game",
+        "Effects": [
+          {
+            "Effect": "-",
+            "Value": 2.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm606_0263_10default",
+    "IcnAssetBundleId": 1861170963,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2112392496,
+    "Uniqid": 2112392496,
+    "Id": "OBJ_ITEM_GUARD_15840_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 645406905,
+    "ResswitchId": 3581034093,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 4060084563,
+    "NameId": 1307093895,
+    "DescriptionId": 773123068,
+    "CommonParamId": 585837556,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2561049160,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

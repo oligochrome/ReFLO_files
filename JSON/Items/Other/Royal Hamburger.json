@@ -1,0 +1,97 @@
+{
+  "Name": "Royal Hamburger",
+  "Desc": "A traditional burger that has been passed down by the royal family for many years.\r Restores HP and significantly increases ATK.",
+  "Rarity": 3,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 1200,
+      "Sellprice": 300,
+      "BagLimit": 5,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 600,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": [
+      {
+        "Effect": "HP",
+        "Value": 420.0,
+        "AtlasIcon": "gui_buff_heal_hp_001",
+        "Duration": 0.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "ATK",
+        "Value": 161.0,
+        "AtlasIcon": "gui_buff_attack_001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      }
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm201_0006_10default",
+    "IcnAssetBundleId": 1749134711,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3392527295,
+    "Uniqid": 3392527295,
+    "Id": "OBJ_ITEM_NORMAL_00304_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 1577742486,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 2804698770,
+    "ContentsTypeId": 60963911,
+    "NameId": 2667642294,
+    "DescriptionId": 1488234818,
+    "CommonParamId": 1449385648,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 2483973310,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

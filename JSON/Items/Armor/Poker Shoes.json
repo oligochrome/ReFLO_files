@@ -1,0 +1,155 @@
+{
+  "Name": "Poker Shoes",
+  "Desc": "A pair shoes equipped by the citizens of Dreamville. Striped socks can be fashionable too.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Boot",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 7000,
+      "Sellprice": 1750,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly boosts Alchemy",
+          "Desc": "Slightly enhances \"Alchemy\"",
+          "Effects": [
+            {
+              "Effect": "Alchemy",
+              "Value": 4.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases M.ATK",
+          "Desc": "Slightly increases M.ATK",
+          "Effects": [
+            {
+              "Effect": "M.ATK",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_magica_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly boosts Alchemy",
+        "Desc": "Slightly enhances \"Alchemy\"",
+        "Effects": [
+          {
+            "Effect": "Alchemy",
+            "Value": 4.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases M.ATK",
+        "Desc": "Slightly increases M.ATK",
+        "Effects": [
+          {
+            "Effect": "M.ATK",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_magica_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm606_0277_10default",
+    "IcnAssetBundleId": 448086733,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 162724078,
+    "Uniqid": 162724078,
+    "Id": "OBJ_ITEM_GUARD_16680_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 1377981799,
+    "ResswitchId": 2703772595,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 4060084563,
+    "NameId": 968023641,
+    "DescriptionId": 1515101730,
+    "CommonParamId": 1454464554,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3976001430,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

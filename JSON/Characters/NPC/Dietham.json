@@ -1,0 +1,131 @@
+{
+  "Name": "Dietham",
+  "Title": "Life Proctor",
+  "Desc": "The Plushling proctor of the \"12th Trial\" for all Lives, who cheerfully guides everyone, saying \"Life is the way of living\".",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc367_0002",
+    "IcnAssetBundleId": 356519836,
+    "FullFilename": "npc367_0002",
+    "FullAssetBundleId": 356519836,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 97000970,
+    "Uniqid": 97000970,
+    "Id": "OBJ_CHARA_10506_00_00",
+    "ResId": 2891570757,
+    "ResIdIcon": 2067324967,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 772739877,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1836318213,
+    "DescriptionId": 403299840,
+    "CommonParamId": 1398658108,
+    "CharaParamId": 3910172032,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Dietham",
+  "Title": "Life Proctor",
+  "Desc": "A Plushling proctor, who wears a crown that symbolizes his passing of the\"12th Trial\". He guides everyone in a friendly way, saying \"Life is the way of living\".",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc367_0002",
+    "IcnAssetBundleId": 356519836,
+    "FullFilename": "npc367_0014",
+    "FullAssetBundleId": 1648836362,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1926180508,
+    "Uniqid": 1926180508,
+    "Id": "OBJ_CHARA_10506_00_01",
+    "ResId": 3680431827,
+    "ResIdIcon": 2067324967,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 772739877,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1453935802,
+    "NameId": 443862675,
+    "DescriptionId": 1863249558,
+    "CommonParamId": 1398658108,
+    "CharaParamId": 3910172032,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

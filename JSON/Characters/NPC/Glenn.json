@@ -1,0 +1,566 @@
+{
+  "Name": "Glenn",
+  "Title": "Dragonslayer",
+  "Desc": "A lone-wolf Mercenary known as the Dragonslayer. They say he can cut the body of dragons apart, and that he even outpowers the divine.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Light",
+    "CV": "YÃ»ki Kaji",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Dragon Claws",
+      "Desc": "Sweeps across nearby enemies quickly\r Restores HP when an enemy is killed.",
+      "Attribute": "Light",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of greatsword combo",
+            "Desc": "Learn \"Power Drive\"",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of greatsword combo",
+            "Desc": "Learn \"Raging Scoop\"",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of greatsword combo",
+            "Desc": "Learn \"Assault Judgement\"",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Steel Flash",
+            "Desc": "At full HP,\nCritical DMG is increased.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Rising Dragon",
+            "Desc": "After landing a critical strike,\nFury will be increased.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Dragon Nova",
+            "Desc": "A mighty skill with high critical rate that deals immense damage to dragons.",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 20,
+            "Name": "Double Claws",
+            "Desc": "Sweeps across nearby enemies 2 times\r Increases your Light ATK and critical rate.",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "A skillful Mercenary known as the \"Dragonslayer.\" Once a royal knight, he did whatever he pleased in pursuit of greater power, but was defeated by the Lily Knight, who was heralded as being the most powerful in all the land. From then on, he began to consider his reason for wielding his sword and the real meaning of the word \"strength.\"\nLater, a red-headed female Mercenary introduced him to the Crowned Champion, from whom he learned the swordsmanship of Mercenaries, and he embarked on the road of a Mercenary. Since then, although he would never actually admit it, he has always regarded the Crowned Champion as his master.\n\nLike a puritan, he is extremely strict with both himself and others, and his fierce eyes often draw criticism. Faced with such accusations, his answer is always, \"That's just how my eyes are naturally.\"\n\nIt is said that he can slay dragons due to an adventure during his youth, but nobody knows the truth. His private life is a mystery,\n\nbut it's said that people often see him wandering on the west Grassy Plains.",
+    "OtherText": [
+      "...Alright.\nI'll be your judge.",
+      "...Alright.\nI'll be your judge.",
+      "...More, more.\nI will get stronger.",
+      "...Good.\nThis is the power\nI need.",
+      "Hm, request?",
+      "Leave!",
+      "You can't refuse, huh?",
+      "Request completed.",
+      "Are you pleased now?",
+      "Call me when you need me.",
+      "That's ridiculous...",
+      "I accept it.",
+      "It's of no use to me anymore.",
+      "For me? But why...",
+      "Do you need my sword?",
+      "Do you need my sword?",
+      "Do you need my sword?",
+      "Do you need my sword?",
+      "Battling is all I've ever lived for!",
+      "Battling is all I've ever lived for!",
+      "Battling is all I've ever lived for!",
+      "It's of no use to me anymore.",
+      "※Specifications under considerationã",
+      "Count me in if there's a fight.",
+      "What's going on...?",
+      "What's going on...?",
+      "Count me in if there's a fight.",
+      "What's going on...?",
+      "...I'm not gonna play along.",
+      "...Haha",
+      "...Leave me alone.",
+      "Ahh.",
+      "Standing by and watching won't make you stronger.",
+      "Ha!",
+      "Hmph!",
+      "Heh!",
+      "Perish.",
+      "Phew.",
+      "Hm.",
+      "Uh!",
+      "Ughhh!",
+      "Is this the limit of my sword...?",
+      "Is this the limit of my sword...?",
+      "Don't give up too early.",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp051_0001",
+    "IcnAssetBundleId": 863362429,
+    "FullFilename": "bnp051_0001",
+    "FullAssetBundleId": 863362429,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_mercenary"
+  },
+  "ParamIds": {
+    "ObjId": 603835627,
+    "Uniqid": 603835627,
+    "Id": "OBJ_CHARA_00288_00_00",
+    "ResId": 2322336932,
+    "ResIdIcon": 1561146054,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 138068420,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1262890212,
+    "DescriptionId": 1044122849,
+    "CommonParamId": 1969751773,
+    "CharaParamId": 3475353441,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 3698611189,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Glenn",
+  "Title": "Proud Mercenary",
+  "Desc": "A tough Mercenary who suddenly appeared in Namona. Skeptical about God's Envoy but teamed up to investigate abnormities.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Light",
+    "CV": "YÃ»ki Kaji",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Dragon Claws",
+      "Desc": "Sweeps across nearby enemies quickly\r Restores HP when an enemy is killed.",
+      "Attribute": "Light",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "...Alright.\nI'll be your judge.",
+      "...Alright.\nI'll be your judge.",
+      "...More, more.\nI will get stronger.",
+      "...Good.\nThis is the power\nI need.",
+      "Hm, request?",
+      "Leave!",
+      "You can't refuse, huh?",
+      "Request completed.",
+      "Are you pleased now?",
+      "Call me when you need me.",
+      "That's ridiculous...",
+      "I accept it.",
+      "It's of no use to me anymore.",
+      "For me? But why...",
+      "Do you need my sword?",
+      "Do you need my sword?",
+      "Do you need my sword?",
+      "Do you need my sword?",
+      "Battling is all I've ever lived for!",
+      "Battling is all I've ever lived for!",
+      "Battling is all I've ever lived for!",
+      "It's of no use to me anymore.",
+      "※Specifications under considerationã",
+      "Count me in if there's a fight.",
+      "What's going on...?",
+      "What's going on...?",
+      "Count me in if there's a fight.",
+      "What's going on...?",
+      "...I'm not gonna play along.",
+      "...Haha",
+      "...Leave me alone.",
+      "Ahh.",
+      "Standing by and watching won't make you stronger.",
+      "Ha!",
+      "Hmph!",
+      "Heh!",
+      "Perish.",
+      "Phew.",
+      "Hm.",
+      "Uh!",
+      "Ughhh!",
+      "Is this the limit of my sword...?",
+      "Is this the limit of my sword...?",
+      "Don't give up too early.",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!",
+      "On the ground!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp051_0001",
+    "IcnAssetBundleId": 863362429,
+    "FullFilename": "bnp051_0001",
+    "FullAssetBundleId": 863362429,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_mercenary"
+  },
+  "ParamIds": {
+    "ObjId": 2604772238,
+    "Uniqid": 2604772238,
+    "Id": "OBJ_CHARA_00288_01_00",
+    "ResId": 2322336932,
+    "ResIdIcon": 1561146054,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 138068420,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4093266817,
+    "DescriptionId": 2256563076,
+    "CommonParamId": 1969751773,
+    "CharaParamId": 2006566916,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 3698611189,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

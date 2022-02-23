@@ -1,0 +1,90 @@
+{
+  "Name": "Dark Honey",
+  "Desc": "Honey prepared by the dark knights of the\r worker bee world for evening consumption.\r A lick can slightly restore SP.",
+  "Rarity": 3,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 120,
+      "Sellprice": 30,
+      "BagLimit": 10,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 30,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": [
+      {
+        "Effect": "SP",
+        "Value": 25.0,
+        "AtlasIcon": "gui_buff_heal_sp_001",
+        "Duration": 0.0,
+        "Chance": 100.0
+      }
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm033_1001_10default",
+    "IcnAssetBundleId": 2653506811,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1012742707,
+    "Uniqid": 1012742707,
+    "Id": "OBJ_ITEM_NORMAL_10136_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 2825031962,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 2804698770,
+    "ContentsTypeId": 3233704090,
+    "NameId": 1768430650,
+    "DescriptionId": 2933672142,
+    "CommonParamId": 2685091644,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 1650887986,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

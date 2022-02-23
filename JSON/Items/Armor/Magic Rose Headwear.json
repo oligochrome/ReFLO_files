@@ -1,0 +1,155 @@
+{
+  "Name": "Magic Rose Headwear",
+  "Desc": "A crown worn by a kind-hearted Magician girl who prays for world peace.\r The two wings symbolize her kindness.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 16000,
+      "Sellprice": 4000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2750,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "M.ATK [7]",
+          "Desc": "M.ATK +7",
+          "Effects": [
+            {
+              "Effect": "M.ATK",
+              "Value": 7.0,
+              "AtlasIcon": "gui_buff_magica_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Max SP [8]",
+          "Desc": "Max SP +8",
+          "Effects": [
+            {
+              "Effect": "SP",
+              "Value": 8.0,
+              "AtlasIcon": "gui_buff_heal_sp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "M.ATK [7]",
+        "Desc": "M.ATK +7",
+        "Effects": [
+          {
+            "Effect": "M.ATK",
+            "Value": 7.0,
+            "AtlasIcon": "gui_buff_magica_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Max SP [8]",
+        "Desc": "Max SP +8",
+        "Effects": [
+          {
+            "Effect": "SP",
+            "Value": 8.0,
+            "AtlasIcon": "gui_buff_heal_sp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_1522_10default",
+    "IcnAssetBundleId": 2644996671,
+    "FullFilename": "ae09710_Hat00_typeE",
+    "FullAssetBundleId": 2644996671,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2392901660,
+    "Uniqid": 2392901660,
+    "Id": "OBJ_ITEM_GUARD_60067_00_00",
+    "ResId": 2707045605,
+    "ResIdIcon": 3576718741,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 161754055,
+    "NameId": 3198217899,
+    "DescriptionId": 3713838800,
+    "CommonParamId": 3517148888,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1810810724,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

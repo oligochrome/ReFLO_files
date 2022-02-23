@@ -1,0 +1,155 @@
+{
+  "Name": "Grand Miner's Mitts",
+  "Desc": "One of the pieces of equipment that Miners use. it makes the pickaxe feel like a part of your own body.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Hand",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 5800,
+      "Sellprice": 1450,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly enhances Mining",
+          "Desc": "Slightly enhances \"Mining\"",
+          "Effects": [
+            {
+              "Effect": "Mining",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_mining_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases ATK",
+          "Desc": "Slightly increases ATK",
+          "Effects": [
+            {
+              "Effect": "ATK",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly enhances Mining",
+        "Desc": "Slightly enhances \"Mining\"",
+        "Effects": [
+          {
+            "Effect": "Mining",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_mining_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases ATK",
+        "Desc": "Slightly increases ATK",
+        "Effects": [
+          {
+            "Effect": "ATK",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm605_0009_10default",
+    "IcnAssetBundleId": 753966967,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1073161556,
+    "Uniqid": 1073161556,
+    "Id": "OBJ_ITEM_GUARD_03870_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 1684506845,
+    "ResswitchId": 2540541449,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 4251818826,
+    "NameId": 267846627,
+    "DescriptionId": 1812677528,
+    "CommonParamId": 1626637200,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3669568044,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "Name": "Sandstorm Rod",
+  "Desc": "It's said that this magic fishing rod can attract\r small sandstorms that conceal the Anglers.",
+  "Rarity": 4,
+  "Category": "Tool",
+  "Subcategory": "Fishing Rod",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 7200,
+      "Sellprice": 1800,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 1800,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Fishing Rod",
+      "IconName": "icn_eqslot_fishingrod",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Darkfish Buster",
+          "Desc": "Significantly increases damage to Bass of Darkness",
+          "Effects": [
+            {
+              "Effect": "Special Effects",
+              "Value": 150.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases Counter Hook DMG",
+          "Desc": "Slightly boosts damage dealt\nafter a successful \"Counter Hook\"",
+          "Effects": [
+            {
+              "Effect": "-",
+              "Value": 106.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Fishing Rod",
+    "IconName": "icn_eqslot_fishingrod",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Darkfish Buster",
+        "Desc": "Significantly increases damage to Bass of Darkness",
+        "Effects": [
+          {
+            "Effect": "Special Effects",
+            "Value": 150.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases Counter Hook DMG",
+        "Desc": "Slightly boosts damage dealt\nafter a successful \"Counter Hook\"",
+        "Effects": [
+          {
+            "Effect": "-",
+            "Value": 106.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm506_0007_10default",
+    "IcnAssetBundleId": 3356283271,
+    "FullFilename": "at00446_Rod00",
+    "FullAssetBundleId": 3356283271,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2737743007,
+    "Uniqid": 2737743007,
+    "Id": "OBJ_ITEM_TOOL_00590_00_00",
+    "ResId": 916904611,
+    "ResIdIcon": 3979161632,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 710227153,
+    "NameId": 385350256,
+    "DescriptionId": 3973797997,
+    "CommonParamId": 2768267430,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 1597996981,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

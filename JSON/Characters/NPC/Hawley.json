@@ -1,0 +1,623 @@
+{
+  "Name": "Hawley",
+  "Title": "Plushling Miner",
+  "Desc": "A relaxed Plushling Miner who acts in his own sweet way. Doesn't look reliable, but is surprisingly good at finding deposits.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 12,
+      "Name": "Thunder Mettle Charge",
+      "Desc": "Strikes hard with a pickaxe after charging\r to inflict Wind damage.",
+      "Attribute": "Wind",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of pickaxe combo",
+            "Desc": "Learn \"Spin Strike\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of pickaxe combo",
+            "Desc": "Learn \"Spin Combo\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Miner",
+            "Desc": "Mining +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Miner",
+            "Desc": "Mining +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Miner",
+            "Desc": "Mining +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Plushling Bond <Mining>",
+            "Desc": "Based on the number of Plushlings in team,\nincreases mining skills.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 14,
+            "Name": "Thunder Smash",
+            "Desc": "Leaps high into the air before striking the ground hard\r to inflict Wind damage.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Gathering\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Lightning Ice Axe",
+            "Desc": "Lift into the air and strike with your pickaxe in quick succession, dealing Wind damage to enemies.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Defense Stance",
+            "Desc": "Increases your DEF for a short period of time.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm a Miner\nfrom deep inside the cave.",
+      "If you're going on an adventure in the cave,\nbring me along.",
+      "Mysterious power flows through my body!",
+      "This is amazing...\nI'm bursting with energy!!",
+      "Come on!",
+      "Alright, let's go!",
+      "Time to prove my skills.",
+      "It's over!",
+      "Phew... I'm covered in sweat.",
+      "Well done!",
+      "Oh no...",
+      "Understood.",
+      "This is for you!",
+      "I'm so glad!",
+      "Oh...",
+      "Thanks a lot.",
+      "Keep it up!",
+      "Bowing out!",
+      "We did it!",
+      "Strength doubled!",
+      "This is amazing!",
+      "This is for you!",
+      "※Specifications under considerationã",
+      "Hm?",
+      "What is it?",
+      "I'll show you what Hawley's made of.",
+      "Huh?",
+      "Wow...",
+      "Arghhh!",
+      "Yo!",
+      "Right—",
+      "Oh.",
+      "Stay calm!",
+      "Ho!",
+      "Argh!",
+      "Like this!",
+      "Take this!",
+      "Hah!",
+      "Oooo!",
+      "Arghhh!",
+      "Phew!",
+      "Time for... a short break...",
+      "I'm covered in wounds...",
+      "I'm back!",
+      "Watch me!",
+      "Pointless!",
+      "I'm Hawley, the expert Miner!",
+      "Now is the time! Attack!",
+      "Watch me!",
+      "Pointless!",
+      "Easy peasy!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp033_0013",
+    "IcnAssetBundleId": 1787911134,
+    "FullFilename": "bnp033_0013",
+    "FullAssetBundleId": 1787911134,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_prospector"
+  },
+  "ParamIds": {
+    "ObjId": 2048477768,
+    "Uniqid": 2048477768,
+    "Id": "OBJ_CHARA_10147_00_00",
+    "ResId": 3548940807,
+    "ResIdIcon": 82424933,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1373521767,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 312650311,
+    "DescriptionId": 1742244418,
+    "CommonParamId": 747405438,
+    "CharaParamId": 2529241538,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2519372694,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Hawley",
+  "Title": "Plushling Miner",
+  "Desc": "A relaxed Plushling Miner who acts in his own sweet way. Doesn't look reliable, but is surprisingly good at finding deposits.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 12,
+      "Name": "Thunder Mettle Charge",
+      "Desc": "Strikes hard with a pickaxe after charging\r to inflict Wind damage.",
+      "Attribute": "Wind",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm a Miner\nfrom deep inside the cave.",
+      "If you're going on an adventure in the cave,\nbring me along.",
+      "Mysterious power flows through my body!",
+      "This is amazing...\nI'm bursting with energy!!",
+      "Come on!",
+      "Alright, let's go!",
+      "Time to prove my skills.",
+      "It's over!",
+      "Phew... I'm covered in sweat.",
+      "Well done!",
+      "Oh no...",
+      "Understood.",
+      "This is for you!",
+      "I'm so glad!",
+      "Oh...",
+      "Thanks a lot.",
+      "Keep it up!",
+      "Bowing out!",
+      "We did it!",
+      "Strength doubled!",
+      "This is amazing!",
+      "This is for you!",
+      "※Specifications under considerationã",
+      "Hm?",
+      "What is it?",
+      "I'll show you what Hawley's made of.",
+      "Huh?",
+      "Wow...",
+      "Arghhh!",
+      "Yo!",
+      "Right—",
+      "Oh.",
+      "Stay calm!",
+      "Ho!",
+      "Argh!",
+      "Like this!",
+      "Take this!",
+      "Hah!",
+      "Oooo!",
+      "Arghhh!",
+      "Phew!",
+      "Time for... a short break...",
+      "I'm covered in wounds...",
+      "I'm back!",
+      "Watch me!",
+      "Pointless!",
+      "I'm Hawley, the expert Miner!",
+      "Now is the time! Attack!",
+      "Watch me!",
+      "Pointless!",
+      "Easy peasy!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp033_0013",
+    "IcnAssetBundleId": 1787911134,
+    "FullFilename": "bnp033_0013",
+    "FullAssetBundleId": 1787911134,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_prospector"
+  },
+  "ParamIds": {
+    "ObjId": 3265604909,
+    "Uniqid": 3265604909,
+    "Id": "OBJ_CHARA_10147_01_00",
+    "ResId": 3548940807,
+    "ResIdIcon": 82424933,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1373521767,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2854145314,
+    "DescriptionId": 3747933479,
+    "CommonParamId": 747405438,
+    "CharaParamId": 779964071,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2519372694,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Hawley",
+  "Title": "Plushling Miner",
+  "Desc": "A relaxed Plushling Miner who acts in his own sweet way. Doesn't look reliable, but is surprisingly good at finding deposits.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 12,
+      "Name": "Thunder Mettle Charge",
+      "Desc": "Strikes hard with a pickaxe after charging\r to inflict Wind damage.",
+      "Attribute": "Wind",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm a Miner\nfrom deep inside the cave.",
+      "If you're going on an adventure in the cave,\nbring me along.",
+      "Mysterious power flows through my body!",
+      "This is amazing...\nI'm bursting with energy!!",
+      "Come on!",
+      "Alright, let's go!",
+      "Time to prove my skills.",
+      "It's over!",
+      "Phew... I'm covered in sweat.",
+      "Well done!",
+      "Oh no...",
+      "Understood.",
+      "This is for you!",
+      "I'm so glad!",
+      "Oh...",
+      "Thanks a lot.",
+      "Keep it up!",
+      "Bowing out!",
+      "We did it!",
+      "Strength doubled!",
+      "This is amazing!",
+      "This is for you!",
+      "※Specifications under considerationã",
+      "Hm?",
+      "What is it?",
+      "I'll show you what Hawley's made of.",
+      "Huh?",
+      "Wow...",
+      "Arghhh!",
+      "Yo!",
+      "Right—",
+      "Oh.",
+      "Stay calm!",
+      "Ho!",
+      "Argh!",
+      "Like this!",
+      "Take this!",
+      "Hah!",
+      "Oooo!",
+      "Arghhh!",
+      "Phew!",
+      "Time for... a short break...",
+      "I'm covered in wounds...",
+      "I'm back!",
+      "Watch me!",
+      "Pointless!",
+      "I'm Hawley, the expert Miner!",
+      "Now is the time! Attack!",
+      "Watch me!",
+      "Pointless!",
+      "Easy peasy!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp033_0013",
+    "IcnAssetBundleId": 1787911134,
+    "FullFilename": "bnp033_0013",
+    "FullAssetBundleId": 1787911134,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_prospector"
+  },
+  "ParamIds": {
+    "ObjId": 1304935034,
+    "Uniqid": 1304935034,
+    "Id": "OBJ_CHARA_10147_05_00",
+    "ResId": 3548940807,
+    "ResIdIcon": 82424933,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1373521767,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2854145314,
+    "DescriptionId": 3747933479,
+    "CommonParamId": 747405438,
+    "CharaParamId": 779964071,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2519372694,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,74 @@
+{
+  "Name": "Boyle",
+  "Title": "-",
+  "Desc": "Used to be a freeloader at Alfredo's Bistro, now a Cook who once trained under Pagiello. Good at making fish dishes.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Boyle)",
+      "Repeated summon script (Boyle)",
+      "End script (Boyle)",
+      "End script 2 (Boyle)",
+      "End script 2 (Boyle)",
+      "End-in-failure script (Boyle)",
+      "Confirmation script (Boyle)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc284_0001",
+    "IcnAssetBundleId": 464339023,
+    "FullFilename": "npc284_0001",
+    "FullAssetBundleId": 464339023,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_cook"
+  },
+  "ParamIds": {
+    "ObjId": 186995161,
+    "Uniqid": 186995161,
+    "Id": "OBJ_CHARA_10084_00_00",
+    "ResId": 2729742742,
+    "ResIdIcon": 1976938484,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 551705846,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1671344598,
+    "DescriptionId": 384078291,
+    "CommonParamId": 1571855343,
+    "CharaParamId": 3892130387,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1236593723,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

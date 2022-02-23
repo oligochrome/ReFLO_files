@@ -1,0 +1,538 @@
+{
+  "Name": "Shea",
+  "Title": "Fluffy Tailor Girl",
+  "Desc": "A Tailor who is always relaxed, whether while working or resting. Likes fluffy and soft items.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Mach Cutting",
+      "Desc": "Can master \"Combo\" quickly",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of needle combo",
+            "Desc": "Learn \"Downward Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of needle combo",
+            "Desc": "Learn \"Triple Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Tailor",
+            "Desc": "Tailoring +10\nCrit Dodge +2",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Tailor",
+            "Desc": "Tailoring +10\nCrit Dodge +2",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Tailor",
+            "Desc": "Tailoring +10\nCrit Dodge +2",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Wool Tailor",
+            "Desc": "Improves crafting when making recipes using Wool as raw materials.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Inadequate Defense",
+            "Desc": "Prevents enemies from approaching.\nDEF +20",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 13,
+            "Name": "Sheep Song",
+            "Desc": "Chance to apply Sleep.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Dreaming Needle",
+            "Desc": "When crafting Wool recipes, hit EXCELLENT 2-3 times to earn completion bonus! ",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Sheep Splash",
+            "Desc": "The berserk Merrinoh is here, causing a huge ruckus!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I am the Tailor Shea~\n*Bleat* *Bleat*\nSheep is my favorite.",
+      "Fluffy clothes are heartwarming~",
+      "Huh~? That's amazing!\nFeels cozy~\nand heartwarming!",
+      "I wish the whole world could delight in the \"fluffy\" happiness...\nHahaha, it's gonna be awesome!",
+      "Can I make it~",
+      "Makes sense~ Let's do it~",
+      "I'll do my best!",
+      "I did it~",
+      "We made it~?",
+      "Yes, it's finally over~",
+      "Huh? No~?",
+      "Alright, got it~",
+      "For you~",
+      "Thanks~",
+      "Okay~",
+      "For you~",
+      "I'm so glad~",
+      "Later~",
+      "Feels great, man~",
+      "Things worked out as planned~",
+      "I'm really on cloud nine~",
+      "For you~",
+      "※Specifications under considerationã",
+      "Who~is that~",
+      "What~",
+      "Fluffier than usual~",
+      "Who's that~?",
+      "You enjoy fluffy stuff~?",
+      "Next time I'll give you something fluffy~",
+      "Fluffy~",
+      "Ahh~",
+      "Yep.",
+      "I'm gonna give Mr. Sheep a good stroke~",
+      "Ya.",
+      "Okay.",
+      "I see.",
+      "Sheesh~",
+      "Whew.",
+      "What say you~",
+      "Ah.",
+      "Whoa!",
+      "Stop it... It hurts...",
+      "Don't!",
+      "I won't lose again~",
+      "Alright~ Let's go.",
+      "I will beat you~",
+      "Alright~ Let's go.",
+      "I will beat you~",
+      "A fluffy decision!",
+      "Here we fluffy go!",
+      "Hey~ I tried!",
+      "This hurts a bit~!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc266_0001",
+    "IcnAssetBundleId": 2578989908,
+    "FullFilename": "npc266_0001",
+    "FullAssetBundleId": 2578989908,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_needle"
+  },
+  "ParamIds": {
+    "ObjId": 2301645506,
+    "Uniqid": 2301645506,
+    "Id": "OBJ_CHARA_10066_00_00",
+    "ResId": 547459725,
+    "ResIdIcon": 4156599535,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2734120941,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3784028877,
+    "DescriptionId": 2498859720,
+    "CommonParamId": 3752171764,
+    "CharaParamId": 1709715784,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2939118899,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Shea",
+  "Title": "Fluffy Tailor Girl",
+  "Desc": "A Tailor who is always relaxed, whether while working or resting. Likes fluffy and soft items.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Mach Cutting",
+      "Desc": "Can master \"Combo\" quickly",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I am the Tailor Shea~\n*Bleat* *Bleat*\nSheep is my favorite.",
+      "Fluffy clothes are heartwarming~",
+      "Huh~? That's amazing!\nFeels cozy~\nand heartwarming!",
+      "I wish the whole world could delight in the \"fluffy\" happiness...\nHahaha, it's gonna be awesome!",
+      "Can I make it~",
+      "Makes sense~ Let's do it~",
+      "I'll do my best!",
+      "I did it~",
+      "We made it~?",
+      "Yes, it's finally over~",
+      "Huh? No~?",
+      "Alright, got it~",
+      "For you~",
+      "Thanks~",
+      "Okay~",
+      "For you~",
+      "I'm so glad~",
+      "Later~",
+      "Feels great, man~",
+      "Things worked out as planned~",
+      "I'm really on cloud nine~",
+      "For you~",
+      "※Specifications under considerationã",
+      "Who~is that~",
+      "What~",
+      "Fluffier than usual~",
+      "Who's that~?",
+      "You enjoy fluffy stuff~?",
+      "Next time I'll give you something fluffy~",
+      "Fluffy~",
+      "Ahh~",
+      "Yep.",
+      "I'm gonna give Mr. Sheep a good stroke~",
+      "Ya.",
+      "Okay.",
+      "I see.",
+      "Sheesh~",
+      "Whew.",
+      "What say you~",
+      "Ah.",
+      "Whoa!",
+      "Stop it... It hurts...",
+      "Don't!",
+      "I won't lose again~",
+      "Alright~ Let's go.",
+      "I will beat you~",
+      "Alright~ Let's go.",
+      "I will beat you~",
+      "A fluffy decision!",
+      "Here we fluffy go!",
+      "Hey~ I tried!",
+      "This hurts a bit~!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc266_0001",
+    "IcnAssetBundleId": 2578989908,
+    "FullFilename": "npc266_0001",
+    "FullAssetBundleId": 2578989908,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_needle"
+  },
+  "ParamIds": {
+    "ObjId": 831272359,
+    "Uniqid": 831272359,
+    "Id": "OBJ_CHARA_10066_01_00",
+    "ResId": 547459725,
+    "ResIdIcon": 4156599535,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2734120941,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1496831400,
+    "DescriptionId": 743306669,
+    "CommonParamId": 3752171764,
+    "CharaParamId": 3713291821,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2939118899,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,713 @@
+{
+  "Name": "Viola",
+  "Title": "Adorable Fishing Maiden",
+  "Desc": "An Angler who loves fish. She dreams to become the No. 1 Palace Angler, but he pities the fish caught so much that he always lets them go.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Line Protection",
+      "Desc": "For a short period of time, slightly increases Fishing DEF of self and nearby allies\r.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of fishing rod combo",
+            "Desc": "Learn \"Diagonal Right Slash\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of fishing rod combo",
+            "Desc": "Learn \"Two-Handed Chop\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of fishing rod combo",
+            "Desc": "Learn \"Dim Light Leap\"",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Angler",
+            "Desc": "Fishing +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Angler",
+            "Desc": "Fishing +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Angler",
+            "Desc": "Fishing +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Angler",
+            "Desc": "Fishing +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Koi Killer",
+            "Desc": "Slightly increases damage to\nOrnamental Koi and Snowpeak Koi.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 18,
+            "Name": "Red Fish Rage",
+            "Desc": "Enhances Fire ATK of self and nearby allies for a period of time\r.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Gathering\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Red Fish Pole",
+            "Desc": "The mastery of fishing skills like the raging red fish, dealing Fire damage to enemies.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Triple Flame Strike",
+            "Desc": "Three successive hits with the power of fire.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Gathering\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 17,
+            "Name": "Line Blessing",
+            "Desc": "For a period of time, slightly increases Fishing DEF of self and nearby allies\r.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Viola, an Angler.\nWell... would you help me with the bait?",
+      "The swimming fish cast shadows\non the deep waters.\nIt's a breathtaking sight.",
+      "Wow, amazing...\nI feel more focused.",
+      "I feel awake!\nNot the kind of awake when I get out of bed!",
+      "Let's go.",
+      "If I may.",
+      "If there's anything I can do...!",
+      "Yes, I did it!",
+      "This is it...?",
+      "I can do better next time!",
+      "How did this happen... It was all my fault...",
+      "Understood!",
+      "Um... this is for you...",
+      "T-thank you!",
+      "S-sure!",
+      "Me?",
+      "Let's go!",
+      "Pardon my manners!",
+      "Hooray!",
+      "I've grown a little.",
+      "I hope I can be of value to you!",
+      "Um... this is for you...",
+      "We're more than just fishing partners!",
+      "Okay.",
+      "What happened?",
+      "Is that an invitation?",
+      "Um, well...",
+      "Oh!",
+      "Ah... it's nothing... Never mind...",
+      "Haha.",
+      "Um...",
+      "Hm.",
+      "I miss my fish.",
+      "Oh!",
+      "Hah!",
+      "Hah!",
+      "Ta-da!",
+      "Whew.",
+      "Good.",
+      "Oh!",
+      "Yikes!",
+      "I'm... sorry...",
+      "Arghhh!",
+      "Sorry for causing you trouble!",
+      "Alright, let's go!",
+      "If we don't... settle this now!",
+      "With grace and passion!",
+      "You're not getting away!",
+      "Alright, let's go!",
+      "If we don't... settle this now!",
+      "About time!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc241_0001",
+    "IcnAssetBundleId": 507148967,
+    "FullFilename": "npc241_0001",
+    "FullAssetBundleId": 507148967,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_fisherman"
+  },
+  "ParamIds": {
+    "ObjId": 246573873,
+    "Uniqid": 246573873,
+    "Id": "OBJ_CHARA_10041_00_00",
+    "ResId": 2804132734,
+    "ResIdIcon": 1883411740,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 628450846,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1711901502,
+    "DescriptionId": 326347579,
+    "CommonParamId": 1478992135,
+    "CharaParamId": 3798599867,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 886568454,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Viola",
+  "Title": "Adorable Fishing Maiden",
+  "Desc": "An Angler who loves fish. She dreams to become the No. 1 Palace Angler, but he pities the fish caught so much that he always lets them go.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Line Protection",
+      "Desc": "For a short period of time, slightly increases Fishing DEF of self and nearby allies\r.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Viola, an Angler.\nWell... would you help me with the bait?",
+      "The swimming fish cast shadows\non the deep waters.\nIt's a breathtaking sight.",
+      "Wow, amazing...\nI feel more focused.",
+      "I feel awake!\nNot the kind of awake when I get out of bed!",
+      "Let's go.",
+      "If I may.",
+      "If there's anything I can do...!",
+      "Yes, I did it!",
+      "This is it...?",
+      "I can do better next time!",
+      "How did this happen... It was all my fault...",
+      "Understood!",
+      "Um... this is for you...",
+      "T-thank you!",
+      "S-sure!",
+      "Me?",
+      "Let's go!",
+      "Pardon my manners!",
+      "Hooray!",
+      "I've grown a little.",
+      "I hope I can be of value to you!",
+      "Um... this is for you...",
+      "We're more than just fishing partners!",
+      "Okay.",
+      "What happened?",
+      "Is that an invitation?",
+      "Um, well...",
+      "Oh!",
+      "Ah... it's nothing... Never mind...",
+      "Haha.",
+      "Um...",
+      "Hm.",
+      "I miss my fish.",
+      "Oh!",
+      "Hah!",
+      "Hah!",
+      "Ta-da!",
+      "Whew.",
+      "Good.",
+      "Oh!",
+      "Yikes!",
+      "I'm... sorry...",
+      "Arghhh!",
+      "Sorry for causing you trouble!",
+      "Alright, let's go!",
+      "If we don't... settle this now!",
+      "With grace and passion!",
+      "You're not getting away!",
+      "Alright, let's go!",
+      "If we don't... settle this now!",
+      "About time!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc241_0001",
+    "IcnAssetBundleId": 507148967,
+    "FullFilename": "npc241_0001",
+    "FullAssetBundleId": 507148967,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_fisherman"
+  },
+  "ParamIds": {
+    "ObjId": 3054373972,
+    "Uniqid": 3054373972,
+    "Id": "OBJ_CHARA_10041_01_00",
+    "ResId": 2804132734,
+    "ResIdIcon": 1883411740,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 628450846,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3736464475,
+    "DescriptionId": 2882522206,
+    "CommonParamId": 1478992135,
+    "CharaParamId": 1524002782,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 886568454,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Viola",
+  "Title": "Adorable Fishing Maiden",
+  "Desc": "An Angler who loves fish. She dreams to become the No. 1 Palace Angler, but he pities the fish caught so much that he always lets them go.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Line Protection",
+      "Desc": "For a short period of time, slightly increases Fishing DEF of self and nearby allies\r.",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Viola, an Angler.\nWell... would you help me with the bait?",
+      "The swimming fish cast shadows\non the deep waters.\nIt's a breathtaking sight.",
+      "Wow, amazing...\nI feel more focused.",
+      "I feel awake!\nNot the kind of awake when I get out of bed!",
+      "Let's go.",
+      "If I may.",
+      "If there's anything I can do...!",
+      "Yes, I did it!",
+      "This is it...?",
+      "I can do better next time!",
+      "How did this happen... It was all my fault...",
+      "Understood!",
+      "Um... this is for you...",
+      "T-thank you!",
+      "S-sure!",
+      "Me?",
+      "Let's go!",
+      "Pardon my manners!",
+      "Hooray!",
+      "I've grown a little.",
+      "I hope I can be of value to you!",
+      "Um... this is for you...",
+      "We're more than just fishing partners!",
+      "Okay.",
+      "What happened?",
+      "Is that an invitation?",
+      "Um, well...",
+      "Oh!",
+      "Ah... it's nothing... Never mind...",
+      "Haha.",
+      "Um...",
+      "Hm.",
+      "I miss my fish.",
+      "Oh!",
+      "Hah!",
+      "Hah!",
+      "Ta-da!",
+      "Whew.",
+      "Good.",
+      "Oh!",
+      "Yikes!",
+      "I'm... sorry...",
+      "Arghhh!",
+      "Sorry for causing you trouble!",
+      "Alright, let's go!",
+      "If we don't... settle this now!",
+      "With grace and passion!",
+      "You're not getting away!",
+      "Alright, let's go!",
+      "If we don't... settle this now!",
+      "About time!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc241_0001",
+    "IcnAssetBundleId": 507148967,
+    "FullFilename": "npc241_0001",
+    "FullAssetBundleId": 507148967,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_fisherman"
+  },
+  "ParamIds": {
+    "ObjId": 963418883,
+    "Uniqid": 963418883,
+    "Id": "OBJ_CHARA_10041_05_00",
+    "ResId": 2804132734,
+    "ResIdIcon": 1883411740,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 628450846,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3736464475,
+    "DescriptionId": 2882522206,
+    "CommonParamId": 1478992135,
+    "CharaParamId": 1524002782,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 886568454,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

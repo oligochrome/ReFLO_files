@@ -1,0 +1,194 @@
+{
+  "Name": "Treeshade's Horned Bow",
+  "Desc": "A bow made by the animals that inhabit Elderwood.\r It has the strong power of the Earth.",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Bow",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Bow",
+      "IconName": "icn_eqslot_bow",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 35,
+          "Name": "Bewildering Arrow",
+          "Desc": "Fires arrows that explode upon hitting\r and restores 5% of the DMG dealt as HP.",
+          "Attribute": "Earth",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Earth ATK [10]",
+          "Desc": "Earth ATK +10",
+          "Effects": [
+            {
+              "Effect": "Earth",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_earth001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Basic ATK DMG [30%]",
+          "Desc": "Basic ATK DMG +30%",
+          "Effects": [
+            {
+              "Effect": "Basic ATK DMG",
+              "Value": 130.0,
+              "AtlasIcon": "gui_buff_power_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 5,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Bow",
+    "IconName": "icn_eqslot_bow",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 35,
+        "Name": "Bewildering Arrow",
+        "Desc": "Fires arrows that explode upon hitting\r and restores 5% of the DMG dealt as HP.",
+        "Attribute": "Earth",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Earth ATK [10]",
+        "Desc": "Earth ATK +10",
+        "Effects": [
+          {
+            "Effect": "Earth",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_earth001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Basic ATK DMG [30%]",
+        "Desc": "Basic ATK DMG +30%",
+        "Effects": [
+          {
+            "Effect": "Basic ATK DMG",
+            "Value": 130.0,
+            "AtlasIcon": "gui_buff_power_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 5,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm404_1048_10default",
+    "IcnAssetBundleId": 2958646564,
+    "FullFilename": "at09295_Bow00",
+    "FullAssetBundleId": 2958646564,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 304950252,
+    "Uniqid": 304950252,
+    "Id": "OBJ_ITEM_WEAPON_60007_00_00",
+    "ResId": 3596852128,
+    "ResIdIcon": 2249359557,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1126115836,
+    "NameId": 1192758757,
+    "DescriptionId": 2158778641,
+    "CommonParamId": 2390437603,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 1276550381,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

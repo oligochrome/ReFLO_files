@@ -1,0 +1,155 @@
+{
+  "Name": "Poker Hat",
+  "Desc": "A hat equipped by the citizens of Dreamville. The Ace of hearts catches the eyes of many.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 8200,
+      "Sellprice": 2050,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly boosts Alchemy",
+          "Desc": "Slightly enhances \"Alchemy\"",
+          "Effects": [
+            {
+              "Effect": "Alchemy",
+              "Value": 4.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases M.ATK",
+          "Desc": "Slightly increases M.ATK",
+          "Effects": [
+            {
+              "Effect": "M.ATK",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_magica_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly boosts Alchemy",
+        "Desc": "Slightly enhances \"Alchemy\"",
+        "Effects": [
+          {
+            "Effect": "Alchemy",
+            "Value": 4.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases M.ATK",
+        "Desc": "Slightly increases M.ATK",
+        "Effects": [
+          {
+            "Effect": "M.ATK",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_magica_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0295_10default",
+    "IcnAssetBundleId": 255807743,
+    "FullFilename": "ae08800_Hat00_typeB",
+    "FullAssetBundleId": 255807743,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 473492188,
+    "Uniqid": 473492188,
+    "Id": "OBJ_ITEM_GUARD_16660_00_00",
+    "ResId": 868359717,
+    "ResIdIcon": 1202210645,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 161754055,
+    "NameId": 741919851,
+    "DescriptionId": 1338280976,
+    "CommonParamId": 1127959576,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 4185318820,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

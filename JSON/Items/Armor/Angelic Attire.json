@@ -1,0 +1,155 @@
+{
+  "Name": "Angelic Attire",
+  "Desc": "An angelic white outfit. It's as fluffy as feather.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Hand",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 7700,
+      "Sellprice": 1925,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 850,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Enhances healing magic",
+          "Desc": "Enhances healing magic",
+          "Effects": [
+            {
+              "Effect": "Healing Gesture",
+              "Value": 110.0,
+              "AtlasIcon": "gui_buff_magic_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Reduces P.DMG received",
+          "Desc": "Reduces P.DMG received",
+          "Effects": [
+            {
+              "Effect": "P.DMG Taken",
+              "Value": 95.0,
+              "AtlasIcon": "gui_buff_guard_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 4
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Enhances healing magic",
+        "Desc": "Enhances healing magic",
+        "Effects": [
+          {
+            "Effect": "Healing Gesture",
+            "Value": 110.0,
+            "AtlasIcon": "gui_buff_magic_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Reduces P.DMG received",
+        "Desc": "Reduces P.DMG received",
+        "Effects": [
+          {
+            "Effect": "P.DMG Taken",
+            "Value": 95.0,
+            "AtlasIcon": "gui_buff_guard_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 4
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm604_0261_10default",
+    "IcnAssetBundleId": 3005330409,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2686847434,
+    "Uniqid": 2686847434,
+    "Id": "OBJ_ITEM_GUARD_15210_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 4223050819,
+    "ResswitchId": 146586263,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3805550160,
+    "NameId": 2418421629,
+    "DescriptionId": 4091178758,
+    "CommonParamId": 4280659726,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1164445362,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

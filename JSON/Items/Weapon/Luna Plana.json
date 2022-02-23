@@ -1,0 +1,341 @@
+{
+  "Name": "Luna Plana",
+  "Desc": "One of the two staffs that received Celestia's blessing.\r Blessed by the moon, it contains divine power.",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Staff",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Staff",
+      "IconName": "icn_eqslot_cane",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 30,
+          "Name": "Moonlight",
+          "Desc": "Creates a magic circle that speeds up charging and enhances skill DMG of allies who touch it\r and reduces M.DEF of enemies who touch it.",
+          "Attribute": "Light",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Significantly increases Light ATK",
+          "Desc": "Significantly increases Light damage",
+          "Effects": [
+            {
+              "Effect": "Light",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_light001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases Charged Skill DMG",
+          "Desc": "Significantly increases Charged Skill damage dealt",
+          "Effects": [
+            {
+              "Effect": "Charge DMG",
+              "Value": 110.0,
+              "AtlasIcon": "gui_buff_power_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 5,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Staff",
+    "IconName": "icn_eqslot_cane",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 30,
+        "Name": "Moonlight",
+        "Desc": "Creates a magic circle that speeds up charging and enhances skill DMG of allies who touch it\r and reduces M.DEF of enemies who touch it.",
+        "Attribute": "Light",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Significantly increases Light ATK",
+        "Desc": "Significantly increases Light damage",
+        "Effects": [
+          {
+            "Effect": "Light",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_light001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases Charged Skill DMG",
+        "Desc": "Significantly increases Charged Skill damage dealt",
+        "Effects": [
+          {
+            "Effect": "Charge DMG",
+            "Value": 110.0,
+            "AtlasIcon": "gui_buff_power_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 5,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm405_1029_10default",
+    "IcnAssetBundleId": 1822681750,
+    "FullFilename": "at08329_Staff00",
+    "FullAssetBundleId": 1822681750,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3470236766,
+    "Uniqid": 3470236766,
+    "Id": "OBJ_ITEM_WEAPON_14300_00_00",
+    "ResId": 177810450,
+    "ResIdIcon": 1525167991,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1087232629,
+    "NameId": 2615327319,
+    "DescriptionId": 1549201059,
+    "CommonParamId": 1384225105,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2431396703,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}{
+  "Name": "Luna Plana",
+  "Desc": "One of the two staves that received Celestia's blessing. Blessed by the moon, it contains divine power. ",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Staff",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Staff",
+      "IconName": "icn_eqslot_cane",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Increases Light ATK",
+          "Desc": "Increases Light damage",
+          "Effects": [
+            {
+              "Effect": "Light",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_light001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 5,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Staff",
+    "IconName": "icn_eqslot_cane",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Increases Light ATK",
+        "Desc": "Increases Light damage",
+        "Effects": [
+          {
+            "Effect": "Light",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_light001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 5,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm405_1029_10default",
+    "IcnAssetBundleId": 1822681750,
+    "FullFilename": "at08329_Staff00",
+    "FullAssetBundleId": 1822681750,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1683502939,
+    "Uniqid": 1683502939,
+    "Id": "OBJ_ITEM_WEAPON_14300_00_00_GUEST_00",
+    "ResId": 177810450,
+    "ResIdIcon": 1525167991,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1087232629,
+    "NameId": 1375402336,
+    "DescriptionId": 2472268661,
+    "CommonParamId": 1384225105,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 871392393,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

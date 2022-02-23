@@ -1,0 +1,74 @@
+{
+  "Name": "Death Spook",
+  "Title": "",
+  "Desc": "A spook carrying a huge scythe. It shows up in front of people who have accumulated enough unluckiness.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Shadow",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon031_0020",
+    "IcnAssetBundleId": 1899436020,
+    "FullFilename": "mon031_0020",
+    "FullAssetBundleId": 1899436020,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1639908962,
+    "Uniqid": 1639908962,
+    "Id": "OBJ_CHARA_20336_00_00",
+    "ResId": 3358508589,
+    "ResIdIcon": 525334607,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1249381197,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 151316077,
+    "DescriptionId": 2088683112,
+    "CommonParamId": 925551700,
+    "CharaParamId": 2372363752,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Ghost"
+}

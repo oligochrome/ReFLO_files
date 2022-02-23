@@ -1,0 +1,74 @@
+{
+  "Name": "Little Mischievous Bulky Spook",
+  "Title": "",
+  "Desc": "A spook powerful enough to destroy a country. It's much worth than just a scalawag, which, the one who named it might have refused to admit.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_mon031_0014",
+    "IcnAssetBundleId": 975122073,
+    "FullFilename": "mon031_0014",
+    "FullAssetBundleId": 975122073,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 714555151,
+    "Uniqid": 714555151,
+    "Id": "OBJ_CHARA_20301_00_00",
+    "ResId": 2198273856,
+    "ResIdIcon": 1416085794,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 22032928,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1110236928,
+    "DescriptionId": 928448261,
+    "CommonParamId": 2080568633,
+    "CharaParamId": 3327089797,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": "Ghost"
+}

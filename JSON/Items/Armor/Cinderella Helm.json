@@ -1,0 +1,183 @@
+{
+  "Name": "Cinderella Helm",
+  "Desc": "A piece of gear dubbed \"Cinderella\". Its glory never fades, even in the war, serving as a beacon of hope for mankind.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 20000,
+      "Sellprice": 5000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 3000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Cinderella Heart",
+          "Desc": "Grants a barrier",
+          "Effects": [
+            {
+              "Effect": "-",
+              "Value": 50.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases damage dealt according to own HP",
+          "Desc": "Slightly boosts damage dealt when HP is full",
+          "Effects": [
+            {
+              "Effect": "DMG",
+              "Value": 103.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "Insignificantly reduces duration of abnormal status received",
+          "Desc": "Insignificantly reduces duration of abnormal status received",
+          "Effects": [
+            {
+              "Effect": "-",
+              "Value": 2.5,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Cinderella Heart",
+        "Desc": "Grants a barrier",
+        "Effects": [
+          {
+            "Effect": "-",
+            "Value": 50.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases damage dealt according to own HP",
+        "Desc": "Slightly boosts damage dealt when HP is full",
+        "Effects": [
+          {
+            "Effect": "DMG",
+            "Value": 103.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "Insignificantly reduces duration of abnormal status received",
+        "Desc": "Insignificantly reduces duration of abnormal status received",
+        "Effects": [
+          {
+            "Effect": "-",
+            "Value": 2.5,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0286_10default",
+    "IcnAssetBundleId": 2127834884,
+    "FullFilename": "ae08780_Hat01_typeD",
+    "FullAssetBundleId": 2127834884,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1842582823,
+    "Uniqid": 1842582823,
+    "Id": "OBJ_ITEM_GUARD_16180_00_00",
+    "ResId": 1110008286,
+    "ResIdIcon": 910375086,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 674297905,
+    "NameId": 1574155152,
+    "DescriptionId": 1043330027,
+    "CommonParamId": 852505571,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2292030047,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

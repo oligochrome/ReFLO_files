@@ -1,0 +1,448 @@
+{
+  "Name": "Lisa",
+  "Title": "Tomboy Princess of the Devildom",
+  "Desc": "The lively and curious princess of Al Maajik. She likes her brother Daemon very much, and sometimes acts recklessly to help him.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Shadow",
+    "CV": "Megumi Han",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 20,
+      "Name": "Saw Frenzy",
+      "Desc": "Both ATK and M.ATK will affect DMG dealt\r Faster Fury growth.",
+      "Attribute": "Shadow",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of greatsword combo",
+            "Desc": "Learn \"Double Slash.\" Damage of this skill depends on both ATK and M.ATK",
+            "Attribute": "Shadow",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of greatsword combo",
+            "Desc": "Learn \"Triple Slash.\" Damage of this skill depends on both ATK and M.ATK",
+            "Attribute": "Shadow",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of greatsword combo",
+            "Desc": "Learn \"Numerous Slash.\" Damage of this skill depends on both ATK and M.ATK",
+            "Attribute": "Shadow",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "A Spell from My Brother",
+            "Desc": "Brother's mana-enhancing skill will awaken some of the latent power.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Princess of Al Maajik",
+            "Desc": "Significantly increases the magic attack of the entire team.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Dark Sultan Cyclone",
+            "Desc": "An ultimate skill imitating his brother's ability. Damage of this skill depends on both ATK and M.ATK",
+            "Attribute": "Shadow",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 40,
+            "Name": "Feather Diving",
+            "Desc": "Both ATK and M.ATK will affect DMG dealt\r Increases Fury growth of nearby allies.",
+            "Attribute": "Shadow",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "Princess of Al Maajik, one of the kingdoms in Reveria. The younger sister of the Dark Sultan Daemon.\n\nShe is lively and full of curiosity. She often sneaks out of the tower, causing quite the headache for Odin, the commander of the Dark Sultan's army.\n\nHer favorite person is her older brother Daemon. She always hopes to help her brother, but her good intentions often lead her to cause much trouble for him. Her mother Demona is always teaching her to behave like a princess, but she herself is very nonchalant about the matter.\n\nShe possesses a magical prowess befitting the sister of the Dark Sultan, and she relies on this strength to wield her large sword. It was Odin who taught her swordsmanship.\n\nShe is close friends with Camilla the vampire. One time, when she snuck out of the tower and was wandering the streets, she found Camilla lying on the side of the road. Since then, she goes to Camilla every time she slips out of the tower, bringing her along to help her find things she can do to help her brother.",
+    "OtherText": [
+      "I'm Lisa!\nHey, hey, shall we go on an adventure?",
+      "I'm Lisa!\nHey, hey, shall we go on an adventure?",
+      "Huh? What's happening?\nDid I just\nget stronger!?",
+      "Heh heh, amazing, huh?\nI have a lot more up my sleeves!\nI'll show you the might of the Dark Sultan's sister!",
+      "Leave it to me!",
+      "A piece of cake♪",
+      "Heehee. I'm so excited!",
+      "See? That's proof of my hard work!",
+      "That was the power of the Dark Sultan's sister!",
+      "Oh, I'm feeling good!",
+      "I failed?",
+      "Okay, I'll handle it!",
+      "This is for you!",
+      "Hooray! Thanks!",
+      "Hooray! Please leave it to me.",
+      "Hooray! Please leave it to me.",
+      "Hooray! Please leave it to me.",
+      "Hooray! Please leave it to me.",
+      "The Dark Sultan's sister can be strong too!",
+      "The Dark Sultan's sister can be strong too!",
+      "The Dark Sultan's sister can be strong too!",
+      "This is for you!",
+      "Hey, hey! Where shall we go next~?",
+      "What is it?",
+      "What is it?",
+      "Hey, hey! Where shall we go next~?",
+      "What is it?",
+      "Ha—ha—ha! No, not there!",
+      "Heh heh♪",
+      "What do I do?",
+      "Let me see.",
+      "Adventures have so much fun!",
+      "Yeah!",
+      "Take this!",
+      "Hee-yah!",
+      "Awesome!",
+      "Here goes!",
+      "Let me try this!",
+      "Ugh!",
+      "That hurts!",
+      "Brother...",
+      "Brother...",
+      "I won't lose again!",
+      "I can do it too.",
+      "I can do it too.",
+      "I can do it too.",
+      "I can do it too.",
+      "I can do it too.",
+      "I can do it too.",
+      "I can do it too."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc312_0001",
+    "IcnAssetBundleId": 1883863581,
+    "FullFilename": "npc312_0001",
+    "FullAssetBundleId": 1883863581,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_mercenary"
+  },
+  "ParamIds": {
+    "ObjId": 1623288715,
+    "Uniqid": 1623288715,
+    "Id": "OBJ_CHARA_10112_00_00",
+    "ResId": 3377507268,
+    "ResIdIcon": 506566054,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1258710692,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 142248836,
+    "DescriptionId": 2097195905,
+    "CommonParamId": 911516093,
+    "CharaParamId": 2350450689,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 3698611189,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

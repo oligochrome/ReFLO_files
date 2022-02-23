@@ -1,0 +1,155 @@
+{
+  "Name": "Angelic Sandals",
+  "Desc": "Angelic sandals that are quite revealing. They seem to be suggesting they have nothing to fear or hide.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Boot",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 4200,
+      "Sellprice": 1050,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 850,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly enhances healing magic",
+          "Desc": "Slightly enhances healing magic",
+          "Effects": [
+            {
+              "Effect": "Healing Gesture",
+              "Value": 104.0,
+              "AtlasIcon": "gui_buff_magic_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly reduces P.DMG received",
+          "Desc": "Slightly reduces P.DMG received",
+          "Effects": [
+            {
+              "Effect": "P.DMG Taken",
+              "Value": 98.0,
+              "AtlasIcon": "gui_buff_guard_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 2
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly enhances healing magic",
+        "Desc": "Slightly enhances healing magic",
+        "Effects": [
+          {
+            "Effect": "Healing Gesture",
+            "Value": 104.0,
+            "AtlasIcon": "gui_buff_magic_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly reduces P.DMG received",
+        "Desc": "Slightly reduces P.DMG received",
+        "Effects": [
+          {
+            "Effect": "P.DMG Taken",
+            "Value": 98.0,
+            "AtlasIcon": "gui_buff_guard_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 2
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm606_0247_10default",
+    "IcnAssetBundleId": 1034859530,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 782831145,
+    "Uniqid": 782831145,
+    "Id": "OBJ_ITEM_GUARD_15220_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 1966711712,
+    "ResswitchId": 2251537780,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 4060084563,
+    "NameId": 514402462,
+    "DescriptionId": 2102749413,
+    "CommonParamId": 1907009773,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3420914001,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

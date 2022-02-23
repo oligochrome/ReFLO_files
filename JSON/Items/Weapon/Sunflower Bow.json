@@ -1,0 +1,357 @@
+{
+  "Name": "Sunflower Bow",
+  "Desc": "A bow that accumulates power by sunbathing.\r The degree to which the flower is opening\r indicates how much light has been accumulated.",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Bow",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Bow",
+      "IconName": "icn_eqslot_bow",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 40,
+          "Name": "Chrystal Arrow",
+          "Desc": "Projects a huge orb of light frontward\r Increases your ATK SPD.",
+          "Attribute": "Light",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Increases Basic ATK DMG",
+          "Desc": "Increases basic attack damage dealt",
+          "Effects": [
+            {
+              "Effect": "Basic ATK DMG",
+              "Value": 110.0,
+              "AtlasIcon": "gui_buff_power_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases Light ATK",
+          "Desc": "Significantly increases Light damage",
+          "Effects": [
+            {
+              "Effect": "Light",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_light001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 5,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Bow",
+    "IconName": "icn_eqslot_bow",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 40,
+        "Name": "Chrystal Arrow",
+        "Desc": "Projects a huge orb of light frontward\r Increases your ATK SPD.",
+        "Attribute": "Light",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Increases Basic ATK DMG",
+        "Desc": "Increases basic attack damage dealt",
+        "Effects": [
+          {
+            "Effect": "Basic ATK DMG",
+            "Value": 110.0,
+            "AtlasIcon": "gui_buff_power_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases Light ATK",
+        "Desc": "Significantly increases Light damage",
+        "Effects": [
+          {
+            "Effect": "Light",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_light001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 5,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm404_1029_10default",
+    "IcnAssetBundleId": 2390749679,
+    "FullFilename": "at08229_Bow00",
+    "FullAssetBundleId": 2390749679,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 738952999,
+    "Uniqid": 738952999,
+    "Id": "OBJ_ITEM_WEAPON_13300_00_00",
+    "ResId": 3896850283,
+    "ResIdIcon": 3090426894,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1126115836,
+    "NameId": 2034147630,
+    "DescriptionId": 3196777946,
+    "CommonParamId": 2958918184,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 1915760678,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}{
+  "Name": "Sunflower Bow",
+  "Desc": "A bow that accumulates power by sunbathing. The degree to which the flower is opening indicates how much light has been accumulated. ",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Bow",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Bow",
+      "IconName": "icn_eqslot_bow",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Significantly increases Light ATK",
+          "Desc": "Largely increases Light damage",
+          "Effects": [
+            {
+              "Effect": "Light",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_light001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Increases Fury according to own HP",
+          "Desc": "Boosts Fury growth when HP is full",
+          "Effects": [
+            {
+              "Effect": "Fury Growth",
+              "Value": 107.5,
+              "AtlasIcon": "gui_buff_skill_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 5,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Bow",
+    "IconName": "icn_eqslot_bow",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Significantly increases Light ATK",
+        "Desc": "Largely increases Light damage",
+        "Effects": [
+          {
+            "Effect": "Light",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_light001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Increases Fury according to own HP",
+        "Desc": "Boosts Fury growth when HP is full",
+        "Effects": [
+          {
+            "Effect": "Fury Growth",
+            "Value": 107.5,
+            "AtlasIcon": "gui_buff_skill_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 5,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm404_1029_10default",
+    "IcnAssetBundleId": 2390749679,
+    "FullFilename": "at08229_Bow00",
+    "FullAssetBundleId": 2390749679,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 778484752,
+    "Uniqid": 778484752,
+    "Id": "OBJ_ITEM_WEAPON_13300_00_00_GUEST_00",
+    "ResId": 3896850283,
+    "ResIdIcon": 3090426894,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1126115836,
+    "NameId": 465859115,
+    "DescriptionId": 3647297598,
+    "CommonParamId": 2958918184,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2043604930,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

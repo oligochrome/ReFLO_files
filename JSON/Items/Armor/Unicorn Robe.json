@@ -1,0 +1,365 @@
+{
+  "Name": "Unicorn Robe",
+  "Desc": "A robe with unicorn as its motif. It blesses the wearer with Light power and increases their Shadow RES.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Hand",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 5000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 10000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Significantly increases max SP",
+          "Desc": "Significantly increases max SP",
+          "Effects": [
+            {
+              "Effect": "SP",
+              "Value": 40.0,
+              "AtlasIcon": "gui_buff_heal_sp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Holy Light",
+          "Desc": "Increases Light damage\nReduces Shadow damage received",
+          "Effects": [
+            {
+              "Effect": "Light",
+              "Value": 3.0,
+              "AtlasIcon": "gui_icon_attribute_light001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Shadow RES",
+              "Value": 3.0,
+              "AtlasIcon": "gui_icon_attribute_protect_dark001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Significantly increases max SP",
+        "Desc": "Significantly increases max SP",
+        "Effects": [
+          {
+            "Effect": "SP",
+            "Value": 40.0,
+            "AtlasIcon": "gui_buff_heal_sp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Holy Light",
+        "Desc": "Increases Light damage\nReduces Shadow damage received",
+        "Effects": [
+          {
+            "Effect": "Light",
+            "Value": 3.0,
+            "AtlasIcon": "gui_icon_attribute_light001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Shadow RES",
+            "Value": 3.0,
+            "AtlasIcon": "gui_icon_attribute_protect_dark001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm604_0219_10default",
+    "IcnAssetBundleId": 3551016525,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3232730222,
+    "Uniqid": 3232730222,
+    "Id": "OBJ_ITEM_GUARD_12910_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 2604605927,
+    "ResswitchId": 1748320051,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3805550160,
+    "NameId": 4038044377,
+    "DescriptionId": 2471750306,
+    "CommonParamId": 2678860458,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 635536150,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}{
+  "Name": "Unicorn Robe",
+  "Desc": "A piece of gear harnessing the power of Unicorn. It's a light cloak that deflects hostility, and has the power to protect its wearer.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Hand",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 20000,
+      "Sellprice": 5000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 3000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Unicorn Acceleration",
+          "Desc": "A successful dodge restores HP and SP",
+          "Effects": [
+            {
+              "Effect": "HP",
+              "Value": 30.0,
+              "AtlasIcon": "gui_buff_heal_hp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "SP",
+              "Value": 2.0,
+              "AtlasIcon": "gui_buff_heal_sp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Increases Dodge Counter DMG",
+          "Desc": "Boosts Dodge Counter damage",
+          "Effects": [
+            {
+              "Effect": "Dodge Counter DMG",
+              "Value": 120.0,
+              "AtlasIcon": "gui_buff_power_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "A successful dodge slightly increases Fury",
+          "Desc": "A successful dodge\nslightly restores Fury gauge",
+          "Effects": [
+            {
+              "Effect": "Fury",
+              "Value": 0.01,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Unicorn Acceleration",
+        "Desc": "A successful dodge restores HP and SP",
+        "Effects": [
+          {
+            "Effect": "HP",
+            "Value": 30.0,
+            "AtlasIcon": "gui_buff_heal_hp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "SP",
+            "Value": 2.0,
+            "AtlasIcon": "gui_buff_heal_sp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Increases Dodge Counter DMG",
+        "Desc": "Boosts Dodge Counter damage",
+        "Effects": [
+          {
+            "Effect": "Dodge Counter DMG",
+            "Value": 120.0,
+            "AtlasIcon": "gui_buff_power_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "A successful dodge slightly increases Fury",
+        "Desc": "A successful dodge\nslightly restores Fury gauge",
+        "Effects": [
+          {
+            "Effect": "Fury",
+            "Value": 0.01,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm604_0281_10default",
+    "IcnAssetBundleId": 4071239318,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3786249397,
+    "Uniqid": 3786249397,
+    "Id": "OBJ_ITEM_GUARD_16050_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 3124574524,
+    "ResswitchId": 1228351464,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3805550160,
+    "NameId": 3517821442,
+    "DescriptionId": 2991714937,
+    "CommonParamId": 3199087217,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 82025421,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

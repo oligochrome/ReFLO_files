@@ -1,0 +1,236 @@
+{
+  "Name": "Wolf Fang",
+  "Desc": "An even sharper version of Wolf Greatsword that risks the wielder's sanity. It's sharp enough to crush the earth with ease.",
+  "Rarity": 6,
+  "Category": "Weapon",
+  "Subcategory": "Greatsword",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 14000,
+      "Sellprice": 3500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 3500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Greatsword",
+      "IconName": "icn_eqslot_lsword",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 36,
+          "Name": "WolfÂ Crunch",
+          "Desc": "Performs a swift attack frontward, followed by a Dodge Counter.\r.",
+          "Attribute": "Earth",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Earth-type attack [20]",
+          "Desc": "Earth ATK +20",
+          "Effects": [
+            {
+              "Effect": "Earth",
+              "Value": 20.0,
+              "AtlasIcon": "gui_icon_attribute_earth001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Damage received reduced by [15%]",
+          "Desc": "Damage Taken-15%",
+          "Effects": [
+            {
+              "Effect": "P.DMG Taken",
+              "Value": 85.0,
+              "AtlasIcon": "gui_buff_guard_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "M.DMG Taken",
+              "Value": 85.0,
+              "AtlasIcon": "gui_buff_magicg_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "Damage dealt when HP is full [15%]",
+          "Desc": "At 100% HP,\nDamage Dealt +15%",
+          "Effects": [
+            {
+              "Effect": "DMG",
+              "Value": 115.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 10,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4221800423
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Greatsword",
+    "IconName": "icn_eqslot_lsword",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 36,
+        "Name": "WolfÂ Crunch",
+        "Desc": "Performs a swift attack frontward, followed by a Dodge Counter.\r.",
+        "Attribute": "Earth",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Earth-type attack [20]",
+        "Desc": "Earth ATK +20",
+        "Effects": [
+          {
+            "Effect": "Earth",
+            "Value": 20.0,
+            "AtlasIcon": "gui_icon_attribute_earth001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Damage received reduced by [15%]",
+        "Desc": "Damage Taken-15%",
+        "Effects": [
+          {
+            "Effect": "P.DMG Taken",
+            "Value": 85.0,
+            "AtlasIcon": "gui_buff_guard_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "M.DMG Taken",
+            "Value": 85.0,
+            "AtlasIcon": "gui_buff_magicg_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "Damage dealt when HP is full [15%]",
+        "Desc": "At 100% HP,\nDamage Dealt +15%",
+        "Effects": [
+          {
+            "Effect": "DMG",
+            "Value": 115.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 10,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 4221800423
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm402_1060_10default",
+    "IcnAssetBundleId": 3764790905,
+    "FullFilename": "at09302_Blade11",
+    "FullAssetBundleId": 3764790905,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1108496561,
+    "Uniqid": 1108496561,
+    "Id": "OBJ_ITEM_WEAPON_60009_00_00",
+    "ResId": 2254233853,
+    "ResIdIcon": 3593337752,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 3686778005,
+    "NameId": 388462264,
+    "DescriptionId": 3499303500,
+    "CommonParamId": 3729020350,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 472508336,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "Name": "Ursa Circlet",
+  "Desc": "A stylish hat famous among the Leafes in Elderwood.",
+  "Rarity": 3,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 2000,
+      "Sellprice": 1000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly increases Wind RES",
+          "Desc": "Slightly reduces Wind damage received",
+          "Effects": [
+            {
+              "Effect": "Water RES",
+              "Value": 2.0,
+              "AtlasIcon": "gui_icon_attribute_protect_wind001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases chance of applying Paralysis",
+          "Desc": "Slightly reduces target's Paralysis RES",
+          "Effects": [
+            {
+              "Effect": "Paralysis Chance",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_palsy_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly increases Wind RES",
+        "Desc": "Slightly reduces Wind damage received",
+        "Effects": [
+          {
+            "Effect": "Water RES",
+            "Value": 2.0,
+            "AtlasIcon": "gui_icon_attribute_protect_wind001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases chance of applying Paralysis",
+        "Desc": "Slightly reduces target's Paralysis RES",
+        "Effects": [
+          {
+            "Effect": "Paralysis Chance",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_palsy_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0204_10default",
+    "IcnAssetBundleId": 2765788363,
+    "FullFilename": "ae07440_Hat00_typeC",
+    "FullAssetBundleId": 2765788363,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3084725992,
+    "Uniqid": 3084725992,
+    "Id": "OBJ_ITEM_GUARD_12100_00_00",
+    "ResId": 2552748561,
+    "ResIdIcon": 3964502881,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 161754055,
+    "NameId": 2279409759,
+    "DescriptionId": 3827386404,
+    "CommonParamId": 3906897964,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1385374096,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

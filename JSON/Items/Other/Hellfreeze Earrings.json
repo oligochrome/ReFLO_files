@@ -1,0 +1,101 @@
+{
+  "Name": "Hellfreeze Earrings",
+  "Desc": "Earrings gifted by the king of Castele. They are proof that one has defeated the Hulcold Spook. They are quite cool and comfortable to wear on both ears.",
+  "Rarity": 5,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        },
+        {
+          "Slot": 2,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 2,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm706_1204_10default",
+    "IcnAssetBundleId": 3063368033,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2777740098,
+    "Uniqid": 2777740098,
+    "Id": "OBJ_ITEM_GUARD_60031_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 4261437131,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 431315941,
+    "NameId": 2509297141,
+    "DescriptionId": 4134311310,
+    "CommonParamId": 4203959686,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1088355386,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

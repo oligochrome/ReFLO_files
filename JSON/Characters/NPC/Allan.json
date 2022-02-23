@@ -1,0 +1,628 @@
+{
+  "Name": "Allan",
+  "Title": "Royal Genius Chef",
+  "Desc": "A Palace Chef acknowledged by the royal family. His signature dish is hamburger steak.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Frying Pan Dance",
+      "Desc": "Increases chance of JUST during \"Timing Challenge\"",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of frying pan combo",
+            "Desc": "Learn \"Rightward Swat\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of frying pan combo",
+            "Desc": "Learn \"Triple Fly Swat\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of frying pan combo",
+            "Desc": "Learn \"Jump Fly Swat\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Cook",
+            "Desc": "Cooking +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Cook",
+            "Desc": "Cooking +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Cook",
+            "Desc": "Cooking +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Cook",
+            "Desc": "Cooking +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Burger Chef",
+            "Desc": "A \"burger\" recipe using meat as raw material\nCrafting improved!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "The Pretty Orderly",
+            "Desc": "Increases the effect of\nAoE healing items on female",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 15,
+            "Name": "Karma Fireball",
+            "Desc": "Releases a huge fireball\r to inflict Fire damage.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Dinner Dash",
+            "Desc": "When cooking hamburger recipes, hit EXCELLENT 3 times to earn +3s crafting time and completion bonus! ",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Triple Fire Swing",
+            "Desc": "Three successive hits with the power of fire.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Boosted Morale",
+            "Desc": "Boosts own Fury growth significantly on obtaining Fury Ball",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Allan, a Palace Chef.\nIf you wanna taste the top-notch royal courses,\nyou're always welcome.",
+      "The more you dig in,\nthe more you learn about cooking!",
+      "I can feel my power surging.\nI need my frying pan,\nright now!",
+      "I've been aiming for perfect burgers...\nPerhaps I can do it now.\nMay I go to the kitchen?",
+      "Come. Shall we begin?",
+      "Let's concentrate.",
+      "The best result for you.",
+      "How's that?",
+      "Not bad.",
+      "I can do that blindfold.",
+      "Was I being careless...?",
+      "Understood.",
+      "Here's a special gift from me.",
+      "Thank you.",
+      "Please, leave it to me.",
+      "My turn.",
+      "Let's go!",
+      "Bring me along again!",
+      "Are you pleased?",
+      "It seems I'm getting better.",
+      "One day I'll reach the pinnacle of cooking!",
+      "Here's a special gift from me.",
+      "※Specifications under considerationã",
+      "Hi",
+      "How may I help you?",
+      "I'll cook anything for you.",
+      "Oh?",
+      "Are you playing with me?",
+      "So naive...",
+      "Haha",
+      "Hm~ Yeah...",
+      "Yep.",
+      "Enjoy the deluxe cooking of the court?",
+      "Phew!",
+      "Ha!",
+      "Ho!",
+      "Hahaha!",
+      "Ha!",
+      "Please.",
+      "Ugh!",
+      "Errr!",
+      "Looks like combat is not my expertise...",
+      "Arghhh!",
+      "...I'm safe now!",
+      "Fire is a cook's best aid!",
+      "Fire at will!",
+      "Fire is a cook's best aid!",
+      "Fire at will!",
+      "Come, have a taste!",
+      "How about this?",
+      "The show's over!",
+      "Behold, the level of mastership!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp001_0011",
+    "IcnAssetBundleId": 527627146,
+    "FullFilename": "bnp001_0011",
+    "FullAssetBundleId": 527627146,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_cook"
+  },
+  "ParamIds": {
+    "ObjId": 268100124,
+    "Uniqid": 268100124,
+    "Id": "OBJ_CHARA_00168_00_00",
+    "ResId": 2792038995,
+    "ResIdIcon": 1896487985,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 608038707,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1732313619,
+    "DescriptionId": 305865238,
+    "CommonParamId": 1500457002,
+    "CharaParamId": 3810689430,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1236593723,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Allan",
+  "Title": "Royal Genius Chef",
+  "Desc": "A Palace Chef acknowledged by the royal family. His signature dish is hamburger steak.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Frying Pan Dance",
+      "Desc": "Increases chance of JUST during \"Timing Challenge\"",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Allan, a Palace Chef.\nIf you wanna taste the top-notch royal courses,\nyou're always welcome.",
+      "The more you dig in,\nthe more you learn about cooking!",
+      "I can feel my power surging.\nI need my frying pan,\nright now!",
+      "I've been aiming for perfect burgers...\nPerhaps I can do it now.\nMay I go to the kitchen?",
+      "Come. Shall we begin?",
+      "Let's concentrate.",
+      "The best result for you.",
+      "How's that?",
+      "Not bad.",
+      "I can do that blindfold.",
+      "Was I being careless...?",
+      "Understood.",
+      "Here's a special gift from me.",
+      "Thank you.",
+      "Please, leave it to me.",
+      "My turn.",
+      "Let's go!",
+      "Bring me along again!",
+      "Are you pleased?",
+      "It seems I'm getting better.",
+      "One day I'll reach the pinnacle of cooking!",
+      "Here's a special gift from me.",
+      "※Specifications under considerationã",
+      "Hi",
+      "How may I help you?",
+      "I'll cook anything for you.",
+      "Oh?",
+      "Are you playing with me?",
+      "So naive...",
+      "Haha",
+      "Hm~ Yeah...",
+      "Yep.",
+      "Enjoy the deluxe cooking of the court?",
+      "Phew!",
+      "Ha!",
+      "Ho!",
+      "Hahaha!",
+      "Ha!",
+      "Please.",
+      "Ugh!",
+      "Errr!",
+      "Looks like combat is not my expertise...",
+      "Arghhh!",
+      "...I'm safe now!",
+      "Fire is a cook's best aid!",
+      "Fire at will!",
+      "Fire is a cook's best aid!",
+      "Fire at will!",
+      "Come, have a taste!",
+      "How about this?",
+      "The show's over!",
+      "Behold, the level of mastership!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp001_0011",
+    "IcnAssetBundleId": 527627146,
+    "FullFilename": "bnp001_0011",
+    "FullAssetBundleId": 527627146,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_cook"
+  },
+  "ParamIds": {
+    "ObjId": 3074852217,
+    "Uniqid": 3074852217,
+    "Id": "OBJ_CHARA_00168_01_00",
+    "ResId": 2792038995,
+    "ResIdIcon": 1896487985,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 608038707,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3757925750,
+    "DescriptionId": 2860991859,
+    "CommonParamId": 1500457002,
+    "CharaParamId": 1537140467,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1236593723,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

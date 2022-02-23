@@ -1,0 +1,155 @@
+{
+  "Name": "Desert Traveler Scarf",
+  "Desc": "A turban used by someone who traveled across deserts. Shelters you from searing sunlight.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 16000,
+      "Sellprice": 4000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2750,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly increases Fire ATK+",
+          "Desc": "Slightly increases Fire damage dealt",
+          "Effects": [
+            {
+              "Effect": "Fire",
+              "Value": 3.0,
+              "AtlasIcon": "gui_icon_attribute_fire001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases critical rate",
+          "Desc": "Slightly increases critical rate",
+          "Effects": [
+            {
+              "Effect": "Critical Rate",
+              "Value": 1.0,
+              "AtlasIcon": "gui_icon_menu_critical001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 2,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly increases Fire ATK+",
+        "Desc": "Slightly increases Fire damage dealt",
+        "Effects": [
+          {
+            "Effect": "Fire",
+            "Value": 3.0,
+            "AtlasIcon": "gui_icon_attribute_fire001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases critical rate",
+        "Desc": "Slightly increases critical rate",
+        "Effects": [
+          {
+            "Effect": "Critical Rate",
+            "Value": 1.0,
+            "AtlasIcon": "gui_icon_menu_critical001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 2,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0332_10default",
+    "IcnAssetBundleId": 3713818834,
+    "FullFilename": "ae09390_Hat00_typeD",
+    "FullAssetBundleId": 3713818834,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3462126321,
+    "Uniqid": 3462126321,
+    "Id": "OBJ_ITEM_GUARD_18670_00_00",
+    "ResId": 3785436680,
+    "ResIdIcon": 2513139576,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 674297905,
+    "NameId": 4267441222,
+    "DescriptionId": 2645015613,
+    "CommonParamId": 2438495285,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 722851209,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

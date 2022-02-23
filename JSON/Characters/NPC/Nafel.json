@@ -1,0 +1,74 @@
+{
+  "Name": "Nafel",
+  "Title": "-",
+  "Desc": "An Alchemist who looks cute but is actually a bit insane, and whose personality would suddenly make a U-turn.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Neffel)",
+      "Repeated summon script (Neffel)",
+      "End script (Neffel)",
+      "End script 2 (Neffel)",
+      "End script 2 (Neffel)",
+      "End-in-failure script (Neffel)",
+      "Confirmation script (Neffel)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc277_0001",
+    "IcnAssetBundleId": 4083501182,
+    "FullFilename": "npc277_0001",
+    "FullAssetBundleId": 4083501182,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_alchemist"
+  },
+  "ParamIds": {
+    "ObjId": 3823983080,
+    "Uniqid": 3823983080,
+    "Id": "OBJ_CHARA_10077_00_00",
+    "ResId": 1249679783,
+    "ResIdIcon": 2635966405,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3358217415,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2337716711,
+    "DescriptionId": 4264335842,
+    "CommonParamId": 3044578270,
+    "CharaParamId": 255146594,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4117589977,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

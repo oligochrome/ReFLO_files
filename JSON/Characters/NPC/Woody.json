@@ -1,0 +1,74 @@
+{
+  "Name": "Woody",
+  "Title": "Master Carpenter",
+  "Desc": "The frank and laid-back Master Carpenter who doesn't feel like working or having any apprentices.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Woody)",
+      "Repeated summon script (Woody)",
+      "End script (Woody)",
+      "End script 2 (Woody)",
+      "End script 2 (Woody)",
+      "End-in-failure script (Woody)",
+      "Confirmation script (Woody)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp087_0001",
+    "IcnAssetBundleId": 542543909,
+    "FullFilename": "bnp087_0001",
+    "FullAssetBundleId": 542543909,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_carpenter"
+  },
+  "ParamIds": {
+    "ObjId": 819888563,
+    "Uniqid": 819888563,
+    "Id": "OBJ_CHARA_00321_00_00",
+    "ResId": 2572108284,
+    "ResIdIcon": 1311670174,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 454659228,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1483039164,
+    "DescriptionId": 757023161,
+    "CommonParamId": 1716210565,
+    "CharaParamId": 3691438649,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2634205741,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

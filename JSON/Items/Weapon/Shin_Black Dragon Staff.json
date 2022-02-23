@@ -1,0 +1,236 @@
+{
+  "Name": "Shin/Black Dragon Staff",
+  "Desc": "A staff decorated with the scales of the Black Dragon\r defeated by adventurers. A masterpiece that grants\r a bit of the Black Dragon's power.",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Staff",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Staff",
+      "IconName": "icn_eqslot_cane",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 35,
+          "Name": "Illusion March",
+          "Desc": "Sends an invisible dragon to trample on enemies in the front.",
+          "Attribute": "",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Significantly increases ATK of the 4 elements",
+          "Desc": "Largely increases Fire, Water, Wind, and Earth damage dealt",
+          "Effects": [
+            {
+              "Effect": "Fire",
+              "Value": 7.0,
+              "AtlasIcon": "gui_icon_attribute_fire001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Water",
+              "Value": 7.0,
+              "AtlasIcon": "gui_icon_attribute_water001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Wind",
+              "Value": 7.0,
+              "AtlasIcon": "gui_icon_attribute_wind001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Earth",
+              "Value": 7.0,
+              "AtlasIcon": "gui_icon_attribute_earth001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases max SP",
+          "Desc": "Significantly increases max SP",
+          "Effects": [
+            {
+              "Effect": "SP",
+              "Value": 40.0,
+              "AtlasIcon": "gui_buff_heal_sp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Staff",
+    "IconName": "icn_eqslot_cane",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 35,
+        "Name": "Illusion March",
+        "Desc": "Sends an invisible dragon to trample on enemies in the front.",
+        "Attribute": "",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Significantly increases ATK of the 4 elements",
+        "Desc": "Largely increases Fire, Water, Wind, and Earth damage dealt",
+        "Effects": [
+          {
+            "Effect": "Fire",
+            "Value": 7.0,
+            "AtlasIcon": "gui_icon_attribute_fire001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Water",
+            "Value": 7.0,
+            "AtlasIcon": "gui_icon_attribute_water001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Wind",
+            "Value": 7.0,
+            "AtlasIcon": "gui_icon_attribute_wind001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Earth",
+            "Value": 7.0,
+            "AtlasIcon": "gui_icon_attribute_earth001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases max SP",
+        "Desc": "Significantly increases max SP",
+        "Effects": [
+          {
+            "Effect": "SP",
+            "Value": 40.0,
+            "AtlasIcon": "gui_buff_heal_sp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm405_1016_10default",
+    "IcnAssetBundleId": 1217448713,
+    "FullFilename": "at08316_Staff00",
+    "FullAssetBundleId": 1217448713,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2648935767,
+    "Uniqid": 2648935767,
+    "Id": "OBJ_ITEM_WEAPON_14170_00_01",
+    "ResId": 782896525,
+    "ResIdIcon": 2128287464,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1087232629,
+    "NameId": 3369511774,
+    "DescriptionId": 258146218,
+    "CommonParamId": 28674136,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 3285727830,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

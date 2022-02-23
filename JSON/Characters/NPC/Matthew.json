@@ -1,0 +1,131 @@
+{
+  "Name": "Matthew",
+  "Title": "Life Proctor",
+  "Desc": "The Plushling proctor of the \"3rd Trial\" for all Lives. Not good at talking, but cares a lot for companions. A secret fan of Snow.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc367_0010",
+    "IcnAssetBundleId": 1316298283,
+    "FullFilename": "npc367_0010",
+    "FullAssetBundleId": 1316298283,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1593642941,
+    "Uniqid": 1593642941,
+    "Id": "OBJ_CHARA_10514_00_00",
+    "ResId": 4151103474,
+    "ResIdIcon": 537784720,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1966736018,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1453935802,
+    "NameId": 910618546,
+    "DescriptionId": 1128058807,
+    "CommonParamId": 141084043,
+    "CharaParamId": 2988796983,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Matthew",
+  "Title": "Life Proctor",
+  "Desc": "A Plushling proctor, who wears a crown that symbolizes his passing the \"3rd Trial\". Not good at talking, but cares a lot for companions. A secret fan of Snow.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc367_0010",
+    "IcnAssetBundleId": 1316298283,
+    "FullFilename": "npc367_0022",
+    "FullAssetBundleId": 963784381,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 704266027,
+    "Uniqid": 704266027,
+    "Id": "OBJ_CHARA_10514_00_01",
+    "ResId": 2154561380,
+    "ResIdIcon": 537784720,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1966736018,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1094836004,
+    "DescriptionId": 876347169,
+    "CommonParamId": 141084043,
+    "CharaParamId": 2988796983,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

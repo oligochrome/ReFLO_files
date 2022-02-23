@@ -1,0 +1,74 @@
+{
+  "Name": "Female Aristocrat",
+  "Title": "-",
+  "Desc": "(description) Aristocrat (Female)",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used.",
+      "Reserved line. Won't be used."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc001_0043",
+    "IcnAssetBundleId": 1929816010,
+    "FullFilename": "npc001_0043",
+    "FullAssetBundleId": 1929816010,
+    "AtlasResID": 1007313192,
+    "SpriteName": "gui_icon_grp_port"
+  },
+  "ParamIds": {
+    "ObjId": 1670297180,
+    "Uniqid": 1670297180,
+    "Id": "OBJ_CHARA_00030_00_00",
+    "ResId": 3391059475,
+    "ResIdIcon": 494815345,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1212791667,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 188044883,
+    "DescriptionId": 2119136854,
+    "CommonParamId": 890993770,
+    "CharaParamId": 2404832726,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 89076559,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

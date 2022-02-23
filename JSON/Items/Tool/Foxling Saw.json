@@ -1,0 +1,178 @@
+{
+  "Name": "Foxling Saw",
+  "Desc": "A saw made in the shape of a small fox in a mountain forest.\r It's best for processing pine wood.",
+  "Rarity": 4,
+  "Category": "Tool",
+  "Subcategory": "Saw",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 6000,
+      "Sellprice": 1500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Saw",
+      "IconName": "icn_eqslot_saw",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 0,
+          "Name": "Wood Lacquering",
+          "Desc": "If you get GREAT 5 times in [Hold] Assignment, boosts recipe Completion significantly.",
+          "Attribute": "",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Pine Creator",
+          "Desc": "Boosts Crafting when crafting recipes\nthat mainly require Pines!",
+          "Effects": [
+            {
+              "Effect": "Special Effects",
+              "Value": 110.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 3,
+          "Name": "-",
+          "Desc": "-",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Saw",
+    "IconName": "icn_eqslot_saw",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 0,
+        "Name": "Wood Lacquering",
+        "Desc": "If you get GREAT 5 times in [Hold] Assignment, boosts recipe Completion significantly.",
+        "Attribute": "",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Pine Creator",
+        "Desc": "Boosts Crafting when crafting recipes\nthat mainly require Pines!",
+        "Effects": [
+          {
+            "Effect": "Special Effects",
+            "Value": 110.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 3,
+        "Name": "-",
+        "Desc": "-",
+        "Effects": []
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm504_1009_10default",
+    "IcnAssetBundleId": 2820861963,
+    "FullFilename": "at08809_Saw00",
+    "FullAssetBundleId": 2820861963,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3271591187,
+    "Uniqid": 3271591187,
+    "Id": "OBJ_ITEM_TOOL_13090_00_00",
+    "ResId": 1451817775,
+    "ResIdIcon": 2365788588,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 833237686,
+    "NameId": 1993989116,
+    "DescriptionId": 2364897761,
+    "CommonParamId": 3308144938,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 1058102841,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

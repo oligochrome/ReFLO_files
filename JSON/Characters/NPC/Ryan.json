@@ -1,0 +1,448 @@
+{
+  "Name": "Ryan",
+  "Title": "Genius Magician of Ice and Fire",
+  "Desc": "A puzzling Magician who always managed to accomplish what he set out to do. He lacks enthusiasm and motive, but won't turn down any request from a female.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Fire & Water",
+    "CV": "Jun Fukuyama",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Element Charge",
+      "Desc": "Significantly boosts Fire ATK and Water ATK on self for a short period of time.",
+      "Attribute": "Fire & Water",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of Fire/Water Magic combo",
+            "Desc": "Learn \"Fire Ball\"\nand \"Freeze Ball\"",
+            "Attribute": "Fire & Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of Fire/Water Magic combo",
+            "Desc": "Learn \"Heavy Flame\"\nand \"Small Help\"",
+            "Attribute": "Fire & Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of Fire/Water Magic combo",
+            "Desc": "Learn \"Flame Shot\"\nand \"Snow Triplets\"",
+            "Attribute": "Fire & Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Cool Genius",
+            "Desc": "While dealing damage over time,\ndamage taken is increased.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Clever Tactics",
+            "Desc": "Increases max HP and max SP.\nSlightly reduces SP cost when dodging.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Ancient Blast",
+            "Desc": "An ancient spell that creates a powerful magic bomb and hurls it at the targets.",
+            "Attribute": "Fire & Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 26,
+            "Name": "Arcane Rain",
+            "Desc": "Performs a secret ritual to create a distorted space above head\r Rains torrent of mana at the enemy.",
+            "Attribute": "Fire & Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "A naturally talented Magician who can learn even difficult spells after just watching them. He is especially good at both ice and fire spells.\n\nHis confidence in his own talents and strength has led him to be somewhat narcissistic. In addition, he often uses words to agitate hard-working people. He hates troublesome things and often played hooky as a student.\n\nHe and the Ice Wolf Magician Cliff were both peers and rivals as students. He often quarreled with the hardworking Cliff.\n\nBecause he is a genius, he grew up having never encountered a setback or roadblock once and feels that his life is \"Easy Mode\" in which he can muddle along day in and day out. However, he is actually tired of this kind of life, and deep down, he looks forward to finding something to get serious about.\n\nHe treats girls—even female cats—quite gently, but as for guys, he just deals with them casually. Although he hates trouble, he won't turn down any request from a woman.",
+    "OtherText": [
+      "Ah... I'm Ryan.\nPlease, I don't want troublesome work.",
+      "Ah... I'm Ryan.\nPlease, I don't want troublesome work.",
+      "Power keeps pouring in.\nLooks like\nI am the chosen one.",
+      "Hmph, I never thought\nI could still improve.\nWanna see my ultimate ability?",
+      "You wanna taste my skills?",
+      "Alright, I'll see what I can do.",
+      "You're hopeless.",
+      "Nothing is too difficult for me.",
+      "Am I being too serious?",
+      "That was mind-blowing, wasn't it?",
+      "Really?",
+      "Alright, you win.",
+      "I suppose you'll like this.",
+      "Wow, nicely done.",
+      "Alright, you win.",
+      "Alright, you win.",
+      "Alright, you win.",
+      "Alright, you win.",
+      "Oh, well, more and more female fans.",
+      "Oh, well, more and more female fans.",
+      "Oh, well, more and more female fans.",
+      "I suppose you'll like this.",
+      "Yo, I've got some time to spare.",
+      "Can I help you?",
+      "Can I help you?",
+      "Yo, I've got some time to spare.",
+      "Can I help you?",
+      "Hahaha! It tickles!",
+      "I feel just great!",
+      "Ah...",
+      "Got so much time to kill...",
+      "Bah! I'm feeling lazy...",
+      "Take this!",
+      "Hyaa!",
+      "Take this!",
+      "Who do you think you are?",
+      "Alright, shall we go?",
+      "Take it.",
+      "Ugh!",
+      "Ugh!",
+      "This is impossible...!",
+      "This is impossible...!",
+      "I think I heard a girl.",
+      "Perhaps I should take it more seriously.",
+      "Perhaps I should take it more seriously.",
+      "Perhaps I should take it more seriously.",
+      "Perhaps I should take it more seriously.",
+      "Perhaps I should take it more seriously.",
+      "Perhaps I should take it more seriously.",
+      "Perhaps I should take it more seriously."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc375_0001",
+    "IcnAssetBundleId": 2278451463,
+    "FullFilename": "npc375_0001",
+    "FullAssetBundleId": 2278451463,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_sorcerer"
+  },
+  "ParamIds": {
+    "ObjId": 2537978001,
+    "Uniqid": 2537978001,
+    "Id": "OBJ_CHARA_10171_00_00",
+    "ResId": 1054324958,
+    "ResIdIcon": 3921053372,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3162600894,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4294809758,
+    "DescriptionId": 2324150427,
+    "CommonParamId": 3251876519,
+    "CharaParamId": 2073959195,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1354512169,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

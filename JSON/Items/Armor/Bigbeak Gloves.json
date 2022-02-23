@@ -1,0 +1,155 @@
+{
+  "Name": "Bigbeak Gloves",
+  "Desc": "They say that with these gloves, you can pet Bigbeaks' heads to your heart's content.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Hand",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 4000,
+      "Sellprice": 1000,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 1000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly increases Water RES",
+          "Desc": "Slightly reduces Water damage received",
+          "Effects": [
+            {
+              "Effect": "Water RES",
+              "Value": 2.0,
+              "AtlasIcon": "gui_icon_attribute_protect_water001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases crit dodge",
+          "Desc": "Slightly increases crit dodge",
+          "Effects": [
+            {
+              "Effect": "Crit Dodge",
+              "Value": 1.0,
+              "AtlasIcon": "gui_icon_menu_critical_protect001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 2,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly increases Water RES",
+        "Desc": "Slightly reduces Water damage received",
+        "Effects": [
+          {
+            "Effect": "Water RES",
+            "Value": 2.0,
+            "AtlasIcon": "gui_icon_attribute_protect_water001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases crit dodge",
+        "Desc": "Slightly increases crit dodge",
+        "Effects": [
+          {
+            "Effect": "Crit Dodge",
+            "Value": 1.0,
+            "AtlasIcon": "gui_icon_menu_critical_protect001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 2,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm605_0126_10default",
+    "IcnAssetBundleId": 1629161294,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1914486125,
+    "Uniqid": 1914486125,
+    "Id": "OBJ_ITEM_GUARD_11300_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 697045220,
+    "ResswitchId": 3666218544,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 299134533,
+    "NameId": 1109171162,
+    "DescriptionId": 568384417,
+    "CommonParamId": 757013417,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2538779157,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

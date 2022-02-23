@@ -1,0 +1,155 @@
+{
+  "Name": "Thunder Cape",
+  "Desc": "The key piece of the Fulminos Shapeshift Set",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Cape",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 5400,
+      "Sellprice": 1350,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 1350,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly increases Water RES",
+          "Desc": "Slightly reduces Water damage received",
+          "Effects": [
+            {
+              "Effect": "Water RES",
+              "Value": 2.0,
+              "AtlasIcon": "gui_icon_attribute_protect_water001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases Frozen RES",
+          "Desc": "Slightly increases Frozen RES",
+          "Effects": [
+            {
+              "Effect": "Frozen RES",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_snow_protect_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 2,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly increases Water RES",
+        "Desc": "Slightly reduces Water damage received",
+        "Effects": [
+          {
+            "Effect": "Water RES",
+            "Value": 2.0,
+            "AtlasIcon": "gui_icon_attribute_protect_water001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases Frozen RES",
+        "Desc": "Slightly increases Frozen RES",
+        "Effects": [
+          {
+            "Effect": "Frozen RES",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_snow_protect_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 2,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm701_0053_10default",
+    "IcnAssetBundleId": 2127712575,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1842735900,
+    "Uniqid": 1842735900,
+    "Id": "OBJ_ITEM_GUARD_11720_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 910509717,
+    "ResswitchId": 3310311489,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 3059829398,
+    "NameId": 1574292907,
+    "DescriptionId": 1042910672,
+    "CommonParamId": 852905432,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2291917924,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

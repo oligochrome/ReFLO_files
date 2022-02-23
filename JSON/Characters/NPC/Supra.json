@@ -1,0 +1,656 @@
+{
+  "Name": "Supra",
+  "Title": "Plushling Alchemist",
+  "Desc": "A curious Plushling Alchemist. The sound of explosions constantly comes from his lab, and it still will.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Intuitional Alchemy",
+      "Desc": "Complete Assignment 8 times and Time Limit +1 sec",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of flask combo",
+            "Desc": "Learn \"Hop 'n' Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of flask combo",
+            "Desc": "Learn \"Roundhouse Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "All-Purpose Alchemy",
+            "Desc": "Improves crafting when making \"healing-type\" recipes that lift abnormal status.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Necklace Meister",
+            "Desc": "Significantly improves Crafting when making necklace-type recipes!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 13,
+            "Name": "Poison Flask",
+            "Desc": "Chance to apply Poison.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Crafting\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Soprano Song",
+            "Desc": "Completion bonus for recovery recipes when hitting EXCELLENT 2-3 times!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Dodge Stance",
+            "Desc": "Increases your Crit Dodge for a short period of time.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Supra, an Alchemist.\nAlchemy is fun.",
+      "I don't know why,\nbut my alchemy always causes explosions...",
+      "I feel amazing!\nI'm certain there will no more explosions this time!",
+      "I am not who I used to be. (nods)\nNot anymore!",
+      "I'll give it a shot.",
+      "I will... pull myself together.",
+      "Where there's a will there's a way.",
+      "Done!",
+      "Anyway, I made it through.",
+      "Failure is not necessary!",
+      "Next time I shall prevail!",
+      "You can count on me.",
+      "Here's a gift for you.",
+      "Thank you.",
+      "Got it.",
+      "Me?",
+      "I'll do my best!",
+      "It's me.",
+      "I did it!",
+      "The experiment paid off.",
+      "Now I can do more experiments.",
+      "Here's a gift for you.",
+      "※Specifications under considerationã",
+      "Right.",
+      "What is it?",
+      "How may I help?",
+      "What is it?",
+      "Stay quiet and proceed with caution.",
+      "I feel a little happy.",
+      "Getting excited.",
+      "I don't get it...",
+      "I'm so happy!",
+      "Mistakes can't ruin the fun of alchemy.",
+      "Ta!",
+      "Yargh!",
+      "Here!",
+      "Uh!",
+      "Ugh!",
+      "Good.",
+      "Whoa!",
+      "Wahhhh!",
+      "Badly... wounded...",
+      "Can't do this anymore...",
+      "I'm resilient!",
+      "One more experiment!",
+      "That's what I'm talking about.",
+      "One more experiment!",
+      "That's what I'm talking about.",
+      "Failure is nothing to be afraid of!",
+      "I feel energetic!",
+      "At least I tried!",
+      "Preparation's over!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp033_0018",
+    "IcnAssetBundleId": 4093867239,
+    "FullFilename": "bnp033_0018",
+    "FullAssetBundleId": 4093867239,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_alchemist"
+  },
+  "ParamIds": {
+    "ObjId": 3834340721,
+    "Uniqid": 3834340721,
+    "Id": "OBJ_CHARA_10152_00_00",
+    "ResId": 1293591870,
+    "ResIdIcon": 2591791964,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3477891166,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2351990142,
+    "DescriptionId": 4182418811,
+    "CommonParamId": 2988355399,
+    "CharaParamId": 139659003,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4117589977,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Supra",
+  "Title": "Plushling Alchemist",
+  "Desc": "A curious Plushling Alchemist. The sound of explosions constantly comes from his lab, and it still will.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Intuitional Alchemy",
+      "Desc": "Complete Assignment 8 times and Time Limit +1 sec",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Supra, an Alchemist.\nAlchemy is fun.",
+      "I don't know why,\nbut my alchemy always causes explosions...",
+      "I feel amazing!\nI'm certain there will no more explosions this time!",
+      "I am not who I used to be. (nods)\nNot anymore!",
+      "I'll give it a shot.",
+      "I will... pull myself together.",
+      "Where there's a will there's a way.",
+      "Done!",
+      "Anyway, I made it through.",
+      "Failure is not necessary!",
+      "Next time I shall prevail!",
+      "You can count on me.",
+      "Here's a gift for you.",
+      "Thank you.",
+      "Got it.",
+      "Me?",
+      "I'll do my best!",
+      "It's me.",
+      "I did it!",
+      "The experiment paid off.",
+      "Now I can do more experiments.",
+      "Here's a gift for you.",
+      "※Specifications under considerationã",
+      "Right.",
+      "What is it?",
+      "How may I help?",
+      "What is it?",
+      "Stay quiet and proceed with caution.",
+      "I feel a little happy.",
+      "Getting excited.",
+      "I don't get it...",
+      "I'm so happy!",
+      "Mistakes can't ruin the fun of alchemy.",
+      "Ta!",
+      "Yargh!",
+      "Here!",
+      "Uh!",
+      "Ugh!",
+      "Good.",
+      "Whoa!",
+      "Wahhhh!",
+      "Badly... wounded...",
+      "Can't do this anymore...",
+      "I'm resilient!",
+      "One more experiment!",
+      "That's what I'm talking about.",
+      "One more experiment!",
+      "That's what I'm talking about.",
+      "Failure is nothing to be afraid of!",
+      "I feel energetic!",
+      "At least I tried!",
+      "Preparation's over!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp033_0018",
+    "IcnAssetBundleId": 4093867239,
+    "FullFilename": "bnp033_0018",
+    "FullAssetBundleId": 4093867239,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_alchemist"
+  },
+  "ParamIds": {
+    "ObjId": 1547108884,
+    "Uniqid": 1547108884,
+    "Id": "OBJ_CHARA_10152_01_00",
+    "ResId": 1293591870,
+    "ResIdIcon": 2591791964,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3477891166,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 881648155,
+    "DescriptionId": 1106690590,
+    "CommonParamId": 2988355399,
+    "CharaParamId": 2968478110,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4117589977,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Supra",
+  "Title": "Plushling Alchemist",
+  "Desc": "A curious Plushling Alchemist. The sound of explosions constantly comes from his lab, and it still will.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Intuitional Alchemy",
+      "Desc": "Complete Assignment 8 times and Time Limit +1 sec",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Supra, an Alchemist.\nAlchemy is fun.",
+      "I don't know why,\nbut my alchemy always causes explosions...",
+      "I feel amazing!\nI'm certain there will no more explosions this time!",
+      "I am not who I used to be. (nods)\nNot anymore!",
+      "I'll give it a shot.",
+      "I will... pull myself together.",
+      "Where there's a will there's a way.",
+      "Done!",
+      "Anyway, I made it through.",
+      "Failure is not necessary!",
+      "Next time I shall prevail!",
+      "You can count on me.",
+      "Here's a gift for you.",
+      "Thank you.",
+      "Got it.",
+      "Me?",
+      "I'll do my best!",
+      "It's me.",
+      "I did it!",
+      "The experiment paid off.",
+      "Now I can do more experiments.",
+      "Here's a gift for you.",
+      "※Specifications under considerationã",
+      "Right.",
+      "What is it?",
+      "How may I help?",
+      "What is it?",
+      "Stay quiet and proceed with caution.",
+      "I feel a little happy.",
+      "Getting excited.",
+      "I don't get it...",
+      "I'm so happy!",
+      "Mistakes can't ruin the fun of alchemy.",
+      "Ta!",
+      "Yargh!",
+      "Here!",
+      "Uh!",
+      "Ugh!",
+      "Good.",
+      "Whoa!",
+      "Wahhhh!",
+      "Badly... wounded...",
+      "Can't do this anymore...",
+      "I'm resilient!",
+      "One more experiment!",
+      "That's what I'm talking about.",
+      "One more experiment!",
+      "That's what I'm talking about.",
+      "Failure is nothing to be afraid of!",
+      "I feel energetic!",
+      "At least I tried!",
+      "Preparation's over!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp033_0018",
+    "IcnAssetBundleId": 4093867239,
+    "FullFilename": "bnp033_0018",
+    "FullAssetBundleId": 4093867239,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_alchemist"
+  },
+  "ParamIds": {
+    "ObjId": 3545601347,
+    "Uniqid": 3545601347,
+    "Id": "OBJ_CHARA_10152_05_00",
+    "ResId": 1293591870,
+    "ResIdIcon": 2591791964,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3477891166,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 881648155,
+    "DescriptionId": 1106690590,
+    "CommonParamId": 2988355399,
+    "CharaParamId": 2968478110,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4117589977,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

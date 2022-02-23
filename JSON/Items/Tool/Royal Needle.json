@@ -1,0 +1,194 @@
+{
+  "Name": "Royal Needle",
+  "Desc": "A needle that has been used to make clothes for the royal family.\r It has witnessed historical changes together with the kingdom.",
+  "Rarity": 5,
+  "Category": "Tool",
+  "Subcategory": "Needle",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Needle",
+      "IconName": "icn_eqslot_needle",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 0,
+          "Name": "Royal Symphony",
+          "Desc": "When completion reaches 50% and you get GREAT, increases Fury 2 times.",
+          "Attribute": "",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Royal Master",
+          "Desc": "Significantly boosts Crafting when crafting recipes\nthat mainly require King's Wool",
+          "Effects": [
+            {
+              "Effect": "Special Effects",
+              "Value": 115.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases critical rate",
+          "Desc": "Significantly increases critical rate",
+          "Effects": [
+            {
+              "Effect": "Critical Rate",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_menu_critical001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Needle",
+    "IconName": "icn_eqslot_needle",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 0,
+        "Name": "Royal Symphony",
+        "Desc": "When completion reaches 50% and you get GREAT, increases Fury 2 times.",
+        "Attribute": "",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Royal Master",
+        "Desc": "Significantly boosts Crafting when crafting recipes\nthat mainly require King's Wool",
+        "Effects": [
+          {
+            "Effect": "Special Effects",
+            "Value": 115.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases critical rate",
+        "Desc": "Significantly increases critical rate",
+        "Effects": [
+          {
+            "Effect": "Critical Rate",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_menu_critical001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm509_1001_10default",
+    "IcnAssetBundleId": 2649628922,
+    "FullFilename": "at08901_Needle00",
+    "FullAssetBundleId": 2649628922,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 4140586466,
+    "Uniqid": 4140586466,
+    "Id": "OBJ_ITEM_TOOL_16010_00_00",
+    "ResId": 1665412062,
+    "ResIdIcon": 3100623197,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 2026962333,
+    "NameId": 1125452557,
+    "DescriptionId": 3107563792,
+    "CommonParamId": 4041382363,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 182292168,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

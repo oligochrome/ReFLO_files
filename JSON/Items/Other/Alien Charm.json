@@ -1,0 +1,101 @@
+{
+  "Name": "Alien Charm",
+  "Desc": "A mysterious-looking pendant that emits a black light.\r Pick it up and the red gem on it will glow.",
+  "Rarity": 5,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        },
+        {
+          "Slot": 2,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        },
+        {
+          "Slot": 3,
+          "Name": "Special Slot",
+          "Desc": "Its hidden power will be revealed when it's obtained.",
+          "Effects": []
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Effects": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm704_1035_10default",
+    "IcnAssetBundleId": 1898785939,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1646958256,
+    "Uniqid": 1646958256,
+    "Id": "OBJ_ITEM_GUARD_20150_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 968506169,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 431315941,
+    "NameId": 1378529287,
+    "DescriptionId": 836169852,
+    "CommonParamId": 1026109556,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2271517128,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

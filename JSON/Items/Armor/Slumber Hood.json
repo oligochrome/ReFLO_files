@@ -1,0 +1,155 @@
+{
+  "Name": "Slumber Hood",
+  "Desc": "You will become sleepy the moment you put this hood on, and get tons of mana when you wake up.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 1,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly increases Earth RES",
+          "Desc": "Slightly reduces Earth damage received",
+          "Effects": [
+            {
+              "Effect": "Earth RES",
+              "Value": 2.0,
+              "AtlasIcon": "gui_icon_attribute_protect_earth001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases Fire ATK",
+          "Desc": "Slightly increases Fire damage dealt",
+          "Effects": [
+            {
+              "Effect": "Fire",
+              "Value": 2.0,
+              "AtlasIcon": "gui_icon_attribute_fire001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 2,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 1,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly increases Earth RES",
+        "Desc": "Slightly reduces Earth damage received",
+        "Effects": [
+          {
+            "Effect": "Earth RES",
+            "Value": 2.0,
+            "AtlasIcon": "gui_icon_attribute_protect_earth001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases Fire ATK",
+        "Desc": "Slightly increases Fire damage dealt",
+        "Effects": [
+          {
+            "Effect": "Fire",
+            "Value": 2.0,
+            "AtlasIcon": "gui_icon_attribute_fire001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 2,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0166_10default",
+    "IcnAssetBundleId": 3210764253,
+    "FullFilename": "ae07040_Hat00_typeF",
+    "FullAssetBundleId": 3210764253,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2892490238,
+    "Uniqid": 2892490238,
+    "Id": "OBJ_ITEM_GUARD_10190_00_00",
+    "ResId": 2208108807,
+    "ResIdIcon": 4160178295,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 161754055,
+    "NameId": 2624045897,
+    "DescriptionId": 4288381746,
+    "CommonParamId": 4083434298,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1227483782,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

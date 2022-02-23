@@ -1,0 +1,194 @@
+{
+  "Name": "Windcalling Staff",
+  "Desc": "An ancient staff that hosts the spirit of the Wind.\r Two komainu will appear as spirits to determine\r whether one is qualified to wield Hermes' Bow.",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Staff",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Staff",
+      "IconName": "icn_eqslot_cane",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 34,
+          "Name": "Thunder Revelry",
+          "Desc": "Summons 2 shrine lions to release a breath attack Boosts Wind ATK of nearby allies tremendously.",
+          "Attribute": "Wind",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Fury",
+          "Desc": "Critical attack dealt\nincreases Fury significantly",
+          "Effects": [
+            {
+              "Effect": "Fury",
+              "Value": 0.02,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases Wind ATK",
+          "Desc": "Largely increases Wind damage dealt",
+          "Effects": [
+            {
+              "Effect": "Wind",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_wind001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 5,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Staff",
+    "IconName": "icn_eqslot_cane",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 34,
+        "Name": "Thunder Revelry",
+        "Desc": "Summons 2 shrine lions to release a breath attack Boosts Wind ATK of nearby allies tremendously.",
+        "Attribute": "Wind",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Fury",
+        "Desc": "Critical attack dealt\nincreases Fury significantly",
+        "Effects": [
+          {
+            "Effect": "Fury",
+            "Value": 0.02,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases Wind ATK",
+        "Desc": "Largely increases Wind damage dealt",
+        "Effects": [
+          {
+            "Effect": "Wind",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_wind001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 5,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm405_1032_10default",
+    "IcnAssetBundleId": 3794595189,
+    "FullFilename": "at08227_Staff00",
+    "FullAssetBundleId": 3794595189,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1079548861,
+    "Uniqid": 1079548861,
+    "Id": "OBJ_ITEM_WEAPON_14330_00_00",
+    "ResId": 2216045553,
+    "ResIdIcon": 3563532436,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 1087232629,
+    "NameId": 359513524,
+    "DescriptionId": 3537496384,
+    "CommonParamId": 3691945650,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 509815996,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

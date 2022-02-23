@@ -1,0 +1,147 @@
+{
+  "Name": "Laura (Young)",
+  "Title": "-",
+  "Desc": "The only daughter of Erik and Ophelia. As righteous as her father and as gentle as her mother.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Laura)",
+      "Repeated summon script (Laura)",
+      "End script (Laura)",
+      "End script 2 (Laura)",
+      "End script 2 (Laura)",
+      "End-in-failure script (Laura)",
+      "Confirmation script (Laura)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp004_0002",
+    "IcnAssetBundleId": 2673910891,
+    "FullFilename": "bnp004_0002",
+    "FullAssetBundleId": 2673910891,
+    "AtlasResID": 1007313192,
+    "SpriteName": "gui_icon_grp_kur"
+  },
+  "ParamIds": {
+    "ObjId": 2414392829,
+    "Uniqid": 2414392829,
+    "Id": "OBJ_CHARA_00181_00_00",
+    "ResId": 645494194,
+    "ResIdIcon": 4044901328,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2754590930,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3880998386,
+    "DescriptionId": 2452190711,
+    "CommonParamId": 3648880587,
+    "CharaParamId": 1664145015,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2322276548,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Laura (Young)",
+  "Title": "-",
+  "Desc": "The only daughter of Erik and Ophelia. As righteous as her father and as gentle as her mother.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Laura)",
+      "Repeated summon script (Laura)",
+      "End script (Laura)",
+      "End script 2 (Laura)",
+      "End script 2 (Laura)",
+      "End-in-failure script (Laura)",
+      "Confirmation script (Laura)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp004_0002",
+    "IcnAssetBundleId": 2673910891,
+    "FullFilename": "bnp004_0002",
+    "FullAssetBundleId": 2673910891,
+    "AtlasResID": 1007313192,
+    "SpriteName": "gui_icon_grp_kur"
+  },
+  "ParamIds": {
+    "ObjId": 928305816,
+    "Uniqid": 928305816,
+    "Id": "OBJ_CHARA_00181_01_00",
+    "ResId": 645494194,
+    "ResIdIcon": 4044901328,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2754590930,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1609511575,
+    "DescriptionId": 714412690,
+    "CommonParamId": 3648880587,
+    "CharaParamId": 3683430674,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2322276548,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

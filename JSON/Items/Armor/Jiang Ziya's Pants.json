@@ -1,0 +1,169 @@
+{
+  "Name": "Jiang Ziya's Pants",
+  "Desc": "A proof of becoming a Master Angler. It makes you want to discover unknown Giant Fish.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Leg",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Master Angler",
+          "Desc": "Increases ATK and Fishing",
+          "Effects": [
+            {
+              "Effect": "ATK",
+              "Value": 2.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Fishing",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_fishing_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "A successful Let It Run insignificantly boosts Line gauge recovery",
+          "Desc": "A successful \"Let It Run\"\ninsignificantly boosts Line gauge recovery",
+          "Effects": [
+            {
+              "Effect": "-",
+              "Value": 0.5,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Effects": []
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Master Angler",
+        "Desc": "Increases ATK and Fishing",
+        "Effects": [
+          {
+            "Effect": "ATK",
+            "Value": 2.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Fishing",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_fishing_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "A successful Let It Run insignificantly boosts Line gauge recovery",
+        "Desc": "A successful \"Let It Run\"\ninsignificantly boosts Line gauge recovery",
+        "Effects": [
+          {
+            "Effect": "-",
+            "Value": 0.5,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm603_0148_10default",
+    "IcnAssetBundleId": 2026961224,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1809269611,
+    "Uniqid": 1809269611,
+    "Id": "OBJ_ITEM_GUARD_14060_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 810020578,
+    "ResswitchId": 3276664886,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 2364896053,
+    "NameId": 1540842972,
+    "DescriptionId": 942351783,
+    "CommonParamId": 886367663,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 2392411155,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

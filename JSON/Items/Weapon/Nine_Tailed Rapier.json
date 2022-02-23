@@ -1,0 +1,194 @@
+{
+  "Name": "Nine-Tailed Rapier",
+  "Desc": "A simple rapier with a beautiful white blade.\r It's rumored that a narcissistic noble's son loves to use this sword.",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Sword",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Sword",
+      "IconName": "icn_eqslot_weapon",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [
+        {
+          "ChargeLevel": 1,
+          "SpCost": 40,
+          "Name": "Incensed Rhapsody",
+          "Desc": "Holds up the sword and charges An attack with a high critical rate.",
+          "Attribute": "Wind",
+          "AwakenLvDamageMultiplier": {
+            "1": 1.0,
+            "2": 1.125,
+            "3": 1.25,
+            "4": 1.375,
+            "5": 1.5
+          }
+        }
+      ],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Increases Fury when attack hits",
+          "Desc": "Significantly increases Fury growth",
+          "Effects": [
+            {
+              "Effect": "Fury Growth",
+              "Value": 110.0,
+              "AtlasIcon": "gui_buff_skill_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases Wind ATK",
+          "Desc": "Significantly increases\nWind damage dealt",
+          "Effects": [
+            {
+              "Effect": "Wind",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_wind001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 5,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Sword",
+    "IconName": "icn_eqslot_weapon",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [
+      {
+        "ChargeLevel": 1,
+        "SpCost": 40,
+        "Name": "Incensed Rhapsody",
+        "Desc": "Holds up the sword and charges An attack with a high critical rate.",
+        "Attribute": "Wind",
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.125,
+          "3": 1.25,
+          "4": 1.375,
+          "5": 1.5
+        }
+      }
+    ],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Increases Fury when attack hits",
+        "Desc": "Significantly increases Fury growth",
+        "Effects": [
+          {
+            "Effect": "Fury Growth",
+            "Value": 110.0,
+            "AtlasIcon": "gui_buff_skill_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases Wind ATK",
+        "Desc": "Significantly increases\nWind damage dealt",
+        "Effects": [
+          {
+            "Effect": "Wind",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_wind001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 5,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm401_1047_10default",
+    "IcnAssetBundleId": 510016526,
+    "FullFilename": "at09290_Sword00",
+    "FullAssetBundleId": 510016526,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3155315398,
+    "Uniqid": 3155315398,
+    "Id": "OBJ_ITEM_WEAPON_10490_00_00",
+    "ResId": 2019359370,
+    "ResIdIcon": 674095599,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 2554785512,
+    "NameId": 3911675087,
+    "DescriptionId": 781400123,
+    "CommonParamId": 541347785,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 3794402759,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

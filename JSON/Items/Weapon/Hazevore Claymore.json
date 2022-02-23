@@ -1,0 +1,164 @@
+{
+  "Name": "Hazevore Claymore",
+  "Desc": "The passion of a Blacksmith's soul is imbued\r into the sword's blade like a flame.\r With a powerful swing, your surroundings\r will turn into a sea of flames.",
+  "Rarity": 5,
+  "Category": "Weapon",
+  "Subcategory": "Greatsword",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10000,
+      "Sellprice": 2500,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Greatsword",
+      "IconName": "icn_eqslot_lsword",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Significantly increases Fire ATK",
+          "Desc": "Largely increases Fire damage dealt",
+          "Effects": [
+            {
+              "Effect": "Fire",
+              "Value": 10.0,
+              "AtlasIcon": "gui_icon_attribute_fire001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Significantly increases max HP",
+          "Desc": "Significantly increases max HP",
+          "Effects": [
+            {
+              "Effect": "HP",
+              "Value": 50.0,
+              "AtlasIcon": "gui_buff_heal_hp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 5,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Greatsword",
+    "IconName": "icn_eqslot_lsword",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Significantly increases Fire ATK",
+        "Desc": "Largely increases Fire damage dealt",
+        "Effects": [
+          {
+            "Effect": "Fire",
+            "Value": 10.0,
+            "AtlasIcon": "gui_icon_attribute_fire001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Significantly increases max HP",
+        "Desc": "Significantly increases max HP",
+        "Effects": [
+          {
+            "Effect": "HP",
+            "Value": 50.0,
+            "AtlasIcon": "gui_buff_heal_hp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 5,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm402_1043_10default",
+    "IcnAssetBundleId": 1788953313,
+    "FullFilename": "at09210_Blade00",
+    "FullAssetBundleId": 1788953313,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3369415721,
+    "Uniqid": 3369415721,
+    "Id": "OBJ_ITEM_WEAPON_11440_00_00",
+    "ResId": 211518565,
+    "ResIdIcon": 1558880000,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4019880336,
+    "ContentsTypeId": 3686778005,
+    "NameId": 2648707616,
+    "DescriptionId": 1515472596,
+    "CommonParamId": 1417883942,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2532213544,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

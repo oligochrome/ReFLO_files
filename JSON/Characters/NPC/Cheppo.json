@@ -1,0 +1,506 @@
+{
+  "Name": "Cheppo",
+  "Title": "Woodcutter with a Stump Hat",
+  "Desc": "A novice Woodcutter who wants to grow strong soon. Whenever he finds a good tree, he dreams of felling it one day.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 12,
+      "Name": "Earth Motive Charge",
+      "Desc": "Spins 1 round before striking with axe energetically\r to inflict Earth damage.",
+      "Attribute": "Earth",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of axe combo",
+            "Desc": "Learn \"Firewood Split\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of axe combo",
+            "Desc": "Learn \"Stump Crush\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Woodcutter",
+            "Desc": "Logging +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Woodcutter",
+            "Desc": "Logging +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Woodcutter",
+            "Desc": "Logging +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Superior Oak Tree Killer",
+            "Desc": "Slightly increases damage to Superior Oak Tree.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 11,
+            "Name": "Stump Removal",
+            "Desc": "Slashes while spinning\r to inflict Earth damage.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Gathering\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Long Hatchet of Earth",
+            "Desc": "Spin around and launch an axe slash, inflicting Earth damage to enemies.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Earth Spirit Shield",
+            "Desc": "Increases your Wind RES for a short period of time.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Cheppo, a Woodcutter!\nI really love this hat!",
+      "Chop down a Great Tree\nand become a great Woodcutter!",
+      "What is this feeling? Amazing!",
+      "Huh!? I think I've grown stronger!",
+      "Finally made it!",
+      "Brilliant—! Keep it up!",
+      "Here we go! Hah!",
+      "Hooray!",
+      "Have I improved?",
+      "Good job!",
+      "I feel so bad... Did we actually fail?",
+      "Alright, got it!",
+      "It's a gift!",
+      "Thank you!",
+      "Leave it to me!",
+      "Me! Me!",
+      "Come on!",
+      "Bring me along!",
+      "Great—!",
+      "I want to grow taller and stronger!",
+      "Someday, I'll become a great Woodcutter!",
+      "It's a gift!",
+      "※Specifications under considerationã",
+      "Yoohoo!",
+      "What's up?",
+      "I am Cheppo the Woodcutter!",
+      "Huh? What happened?",
+      "So itchy!",
+      "Stop tickling me—!",
+      "Hahaha",
+      "Um~...",
+      "Right!",
+      "What trees am I gonna find—?",
+      "Ya!",
+      "Heh!",
+      "This guy's insane!",
+      "Take this!",
+      "Whew.",
+      "Heh.",
+      "Whoa!",
+      "Whoaaa!",
+      "I missed...",
+      "Impossible—!",
+      "Darn, I won't lose!",
+      "The Earth Lord will protect me!",
+      "Very well— I'm just getting started!",
+      "Here we go!",
+      "I'll cut you down!",
+      "The Earth Lord will protect me!",
+      "Very well— I'm just getting started!",
+      "As short as I may get, I won't surrender!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc244_0001",
+    "IcnAssetBundleId": 1275221248,
+    "FullFilename": "npc244_0001",
+    "FullAssetBundleId": 1275221248,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_lunber"
+  },
+  "ParamIds": {
+    "ObjId": 1552565398,
+    "Uniqid": 1552565398,
+    "Id": "OBJ_CHARA_10044_00_00",
+    "ResId": 4112221401,
+    "ResIdIcon": 578468539,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2001553849,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 875668633,
+    "DescriptionId": 1095468188,
+    "CommonParamId": 169840288,
+    "CharaParamId": 2958173980,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1656036953,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Cheppo",
+  "Title": "Woodcutter with a Stump Hat",
+  "Desc": "A novice Woodcutter who wants to grow strong soon. Whenever he finds a good tree, he dreams of felling it one day.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 12,
+      "Name": "Earth Motive Charge",
+      "Desc": "Spins 1 round before striking with axe energetically\r to inflict Earth damage.",
+      "Attribute": "Earth",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Cheppo, a Woodcutter!\nI really love this hat!",
+      "Chop down a Great Tree\nand become a great Woodcutter!",
+      "What is this feeling? Amazing!",
+      "Huh!? I think I've grown stronger!",
+      "Finally made it!",
+      "Brilliant—! Keep it up!",
+      "Here we go! Hah!",
+      "Hooray!",
+      "Have I improved?",
+      "Good job!",
+      "I feel so bad... Did we actually fail?",
+      "Alright, got it!",
+      "It's a gift!",
+      "Thank you!",
+      "Leave it to me!",
+      "Me! Me!",
+      "Come on!",
+      "Bring me along!",
+      "Great—!",
+      "I want to grow taller and stronger!",
+      "Someday, I'll become a great Woodcutter!",
+      "It's a gift!",
+      "※Specifications under considerationã",
+      "Yoohoo!",
+      "What's up?",
+      "I am Cheppo the Woodcutter!",
+      "Huh? What happened?",
+      "So itchy!",
+      "Stop tickling me—!",
+      "Hahaha",
+      "Um~...",
+      "Right!",
+      "What trees am I gonna find—?",
+      "Ya!",
+      "Heh!",
+      "This guy's insane!",
+      "Take this!",
+      "Whew.",
+      "Heh.",
+      "Whoa!",
+      "Whoaaa!",
+      "I missed...",
+      "Impossible—!",
+      "Darn, I won't lose!",
+      "The Earth Lord will protect me!",
+      "Very well— I'm just getting started!",
+      "Here we go!",
+      "I'll cut you down!",
+      "The Earth Lord will protect me!",
+      "Very well— I'm just getting started!",
+      "As short as I may get, I won't surrender!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc244_0001",
+    "IcnAssetBundleId": 1275221248,
+    "FullFilename": "npc244_0001",
+    "FullAssetBundleId": 1275221248,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_lunber"
+  },
+  "ParamIds": {
+    "ObjId": 3828753395,
+    "Uniqid": 3828753395,
+    "Id": "OBJ_CHARA_10044_01_00",
+    "ResId": 4112221401,
+    "ResIdIcon": 578468539,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2001553849,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2358100988,
+    "DescriptionId": 4193772537,
+    "CommonParamId": 169840288,
+    "CharaParamId": 149831801,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1656036953,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

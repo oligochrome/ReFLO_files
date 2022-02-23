@@ -1,0 +1,164 @@
+{
+  "Name": "Arctic Wolf",
+  "Desc": "An arrogant saw that can further glow in the bitter cold.",
+  "Rarity": 4,
+  "Category": "Tool",
+  "Subcategory": "Saw",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 6000,
+      "Sellprice": 3000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 6000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Saw",
+      "IconName": "icn_eqslot_saw",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Boosts Crafting",
+          "Desc": "Enhances Crafting. (Recast, enhance, and transmutation not included)",
+          "Effects": [
+            {
+              "Effect": "-",
+              "Value": 105.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Increases Water ATK",
+          "Desc": "Increases Water damage dealt",
+          "Effects": [
+            {
+              "Effect": "Water",
+              "Value": 5.0,
+              "AtlasIcon": "gui_icon_attribute_water001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Saw",
+    "IconName": "icn_eqslot_saw",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Boosts Crafting",
+        "Desc": "Enhances Crafting. (Recast, enhance, and transmutation not included)",
+        "Effects": [
+          {
+            "Effect": "-",
+            "Value": 105.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Increases Water ATK",
+        "Desc": "Increases Water damage dealt",
+        "Effects": [
+          {
+            "Effect": "Water",
+            "Value": 5.0,
+            "AtlasIcon": "gui_icon_attribute_water001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm504_1001_10default",
+    "IcnAssetBundleId": 2076699582,
+    "FullFilename": "at08801_Saw00",
+    "FullAssetBundleId": 2076699582,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 283483814,
+    "Uniqid": 283483814,
+    "Id": "OBJ_ITEM_TOOL_13010_00_00",
+    "ResId": 2238570650,
+    "ResIdIcon": 1592134169,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 833237686,
+    "NameId": 2772222025,
+    "DescriptionId": 1594909268,
+    "CommonParamId": 382423711,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 3975431564,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

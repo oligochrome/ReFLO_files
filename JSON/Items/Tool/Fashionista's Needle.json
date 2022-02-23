@@ -1,0 +1,164 @@
+{
+  "Name": "Fashionista's Needle",
+  "Desc": "A needle designed for people with excellent craftsmanship and taste.\r It's thin but very strong.",
+  "Rarity": 4,
+  "Category": "Tool",
+  "Subcategory": "Needle",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 6000,
+      "Sellprice": 3000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 6000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Weapon": {
+      "Category": "Needle",
+      "IconName": "icn_eqslot_needle",
+      "CanEquipNPC": 1,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Boosts Crafting",
+          "Desc": "Enhances Crafting. (Recast, enhance, and transmutation not included)",
+          "Effects": [
+            {
+              "Effect": "-",
+              "Value": 105.0,
+              "AtlasIcon": "",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Increases critical rate",
+          "Desc": "Increases critical rate",
+          "Effects": [
+            {
+              "Effect": "Critical Rate",
+              "Value": 2.5,
+              "AtlasIcon": "gui_icon_menu_critical001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    },
+    "Effects": []
+  },
+  "Weapon": {
+    "Category": "Needle",
+    "IconName": "icn_eqslot_needle",
+    "CanEquipNPC": 1,
+    "ChargeSkillBattle": [],
+    "ChargeSkillGather": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Boosts Crafting",
+        "Desc": "Enhances Crafting. (Recast, enhance, and transmutation not included)",
+        "Effects": [
+          {
+            "Effect": "-",
+            "Value": 105.0,
+            "AtlasIcon": "",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Increases critical rate",
+        "Desc": "Increases critical rate",
+        "Effects": [
+          {
+            "Effect": "Critical Rate",
+            "Value": 2.5,
+            "AtlasIcon": "gui_icon_menu_critical001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm509_0006_10default",
+    "IcnAssetBundleId": 2722505473,
+    "FullFilename": "at00453_Needle00",
+    "FullAssetBundleId": 2722505473,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3378796057,
+    "Uniqid": 3378796057,
+    "Id": "OBJ_ITEM_TOOL_00840_00_00",
+    "ResId": 1558980645,
+    "ResIdIcon": 2271724198,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3188418170,
+    "ContentsTypeId": 2026962333,
+    "NameId": 2092763382,
+    "DescriptionId": 2257693419,
+    "CommonParamId": 3477772832,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 896896307,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

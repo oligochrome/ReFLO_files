@@ -1,0 +1,653 @@
+{
+  "Name": "Lusica",
+  "Title": "Levelheaded Hunter Girl",
+  "Desc": "A laid-back Hunter who loves the forest. Doesn't look threatening, but has real strength.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 14,
+      "Name": "Flame Shot",
+      "Desc": "Shoots a Fire arrow frontward to cause explosion.",
+      "Attribute": "Fire",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of bow combo",
+            "Desc": "Learn \"Jump Shot\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of bow combo",
+            "Desc": "Learn \"Hero Shot\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of bow combo",
+            "Desc": "Learn \"Arrow Web\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Blessing of Fire",
+            "Desc": "Increases the Fire ATK of all team members.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fire Rain",
+            "Desc": "Your fire arrows will rain down upon the enemies.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 21,
+            "Name": "Flame Blast",
+            "Desc": "Shoots a fire arrow frontward to cause explosion.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.0,
+              "3": 1.0,
+              "4": 1.0,
+              "5": 1.0
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 1.0,
+          "4": 1.0,
+          "5": 1.0
+        }
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I am Lusica, a Hunter.\nI enjoy the leisure life\nin the forest.",
+      "In terms of the love for the forest,\nI won't lose to anyone.",
+      "Is this my true power...?\nHooray!\nI've grown stronger!",
+      "Much have I improved.\nI...\nwon't lose to anyone...!",
+      "If I may.",
+      "Please!",
+      "Sure! Here we go!",
+      "Good, job done.",
+      "Phew, I'm a bit tired.",
+      "Next time, I'll work even harder!",
+      "Huh? That's weird...",
+      "Got it!",
+      "If it makes you happy, I'm happy.",
+      "I'm so happy!",
+      "Great!",
+      "I'll do my best!",
+      "Please, leave it to me.",
+      "Alright, I'm retreating!",
+      "Feels great!",
+      "Haha, I'm glad.",
+      "Getting better!",
+      "If it makes you happy, I'm happy.",
+      "※Specifications under considerationã",
+      "Confirm",
+      "Is something the matter?",
+      "Give it your best shot!",
+      "What's the matter?",
+      "What's up?",
+      "Haha, it's stopped.",
+      "Haha",
+      "Hm~ Yeah...",
+      "Yep.",
+      "In order not to forget where I started...",
+      "Ha!",
+      "Hee-yah!",
+      "Heh!",
+      "Arghhh!",
+      "Rawh...",
+      "Heh.",
+      "Uh!",
+      "Arghhh!",
+      "Sorry...",
+      "Arghhh!",
+      "Make it work this time!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "Goal: Miss no shot!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc214_0001",
+    "IcnAssetBundleId": 81943396,
+    "FullFilename": "npc214_0001",
+    "FullAssetBundleId": 81943396,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_hunter"
+  },
+  "ParamIds": {
+    "ObjId": 342510322,
+    "Uniqid": 342510322,
+    "Id": "OBJ_CHARA_10014_00_00",
+    "ResId": 3187378877,
+    "ResIdIcon": 1788523743,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1068320733,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2094115581,
+    "DescriptionId": 162237176,
+    "CommonParamId": 1124040900,
+    "CharaParamId": 4172425592,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 871198064,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Lusica",
+  "Title": "Levelheaded Hunter Girl",
+  "Desc": "A laid-back Hunter who loves the forest. Doesn't look threatening, but has real strength.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 14,
+      "Name": "Flame Shot",
+      "Desc": "Shoots a Fire arrow frontward to cause explosion.",
+      "Attribute": "Fire",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I am Lusica, a Hunter.\nI enjoy the leisure life\nin the forest.",
+      "In terms of the love for the forest,\nI won't lose to anyone.",
+      "Is this my true power...?\nHooray!\nI've grown stronger!",
+      "Much have I improved.\nI...\nwon't lose to anyone...!",
+      "If I may.",
+      "Please!",
+      "Sure! Here we go!",
+      "Good, job done.",
+      "Phew, I'm a bit tired.",
+      "Next time, I'll work even harder!",
+      "Huh? That's weird...",
+      "Got it!",
+      "If it makes you happy, I'm happy.",
+      "I'm so happy!",
+      "Great!",
+      "I'll do my best!",
+      "Please, leave it to me.",
+      "Alright, I'm retreating!",
+      "Feels great!",
+      "Haha, I'm glad.",
+      "Getting better!",
+      "If it makes you happy, I'm happy.",
+      "※Specifications under considerationã",
+      "Confirm",
+      "Is something the matter?",
+      "Give it your best shot!",
+      "What's the matter?",
+      "What's up?",
+      "Haha, it's stopped.",
+      "Haha",
+      "Hm~ Yeah...",
+      "Yep.",
+      "In order not to forget where I started...",
+      "Ha!",
+      "Hee-yah!",
+      "Heh!",
+      "Arghhh!",
+      "Rawh...",
+      "Heh.",
+      "Uh!",
+      "Arghhh!",
+      "Sorry...",
+      "Arghhh!",
+      "Make it work this time!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "Goal: Miss no shot!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc214_0001",
+    "IcnAssetBundleId": 81943396,
+    "FullFilename": "npc214_0001",
+    "FullAssetBundleId": 81943396,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_hunter"
+  },
+  "ParamIds": {
+    "ObjId": 2899717527,
+    "Uniqid": 2899717527,
+    "Id": "OBJ_CHARA_10014_01_00",
+    "ResId": 3187378877,
+    "ResIdIcon": 1788523743,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1068320733,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3295530392,
+    "DescriptionId": 2971135389,
+    "CommonParamId": 1124040900,
+    "CharaParamId": 1074679325,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 871198064,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Lusica",
+  "Title": "Levelheaded Hunter Girl",
+  "Desc": "A laid-back Hunter who loves the forest. Doesn't look threatening, but has real strength.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 14,
+      "Name": "Flame Shot",
+      "Desc": "Shoots a Fire arrow frontward to cause explosion.",
+      "Attribute": "Fire",
+      "AwakenLvDamageMultiplier": {
+        "1": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 1.0,
+        "5": 1.0
+      },
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I am Lusica, a Hunter.\nI enjoy the leisure life\nin the forest.",
+      "In terms of the love for the forest,\nI won't lose to anyone.",
+      "Is this my true power...?\nHooray!\nI've grown stronger!",
+      "Much have I improved.\nI...\nwon't lose to anyone...!",
+      "If I may.",
+      "Please!",
+      "Sure! Here we go!",
+      "Good, job done.",
+      "Phew, I'm a bit tired.",
+      "Next time, I'll work even harder!",
+      "Huh? That's weird...",
+      "Got it!",
+      "If it makes you happy, I'm happy.",
+      "I'm so happy!",
+      "Great!",
+      "I'll do my best!",
+      "Please, leave it to me.",
+      "Alright, I'm retreating!",
+      "Feels great!",
+      "Haha, I'm glad.",
+      "Getting better!",
+      "If it makes you happy, I'm happy.",
+      "※Specifications under considerationã",
+      "Confirm",
+      "Is something the matter?",
+      "Give it your best shot!",
+      "What's the matter?",
+      "What's up?",
+      "Haha, it's stopped.",
+      "Haha",
+      "Hm~ Yeah...",
+      "Yep.",
+      "In order not to forget where I started...",
+      "Ha!",
+      "Hee-yah!",
+      "Heh!",
+      "Arghhh!",
+      "Rawh...",
+      "Heh.",
+      "Uh!",
+      "Arghhh!",
+      "Sorry...",
+      "Arghhh!",
+      "Make it work this time!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "I won't lose!",
+      "I'll emerge victorious!",
+      "Goal: Miss no shot!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc214_0001",
+    "IcnAssetBundleId": 81943396,
+    "FullFilename": "npc214_0001",
+    "FullAssetBundleId": 81943396,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_hunter"
+  },
+  "ParamIds": {
+    "ObjId": 599046848,
+    "Uniqid": 599046848,
+    "Id": "OBJ_CHARA_10014_05_00",
+    "ResId": 3187378877,
+    "ResIdIcon": 1788523743,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1068320733,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3295530392,
+    "DescriptionId": 2971135389,
+    "CommonParamId": 1124040900,
+    "CharaParamId": 1074679325,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 871198064,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}
