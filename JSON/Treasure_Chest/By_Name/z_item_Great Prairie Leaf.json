@@ -1,0 +1,23 @@
+{
+  "ChestName": "",
+  "ChestRarity": 0,
+  "Drops": [
+    {
+      "Name": "Great Prairie Leaf",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Green Oak Fruit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 778932295
+}

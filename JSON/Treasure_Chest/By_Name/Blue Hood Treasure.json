@@ -1,0 +1,107 @@
+{
+  "ChestName": "Blue Hood Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Garnet Apple",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Blue Coin",
+      "ItemCount": 3,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Coin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 261911127
+}{
+  "ChestName": "Blue Hood Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Apple Princess's Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Garnet Apple",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Garnet Apple",
+      "ItemCount": 2,
+      "ProbabilityPercent": 34.0,
+      "Weight": 34.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Coin",
+      "ItemCount": 4,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1614817265
+}{
+  "ChestName": "Blue Hood Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Apple Princess's Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Garnet Apple",
+      "ItemCount": 4,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Garnet Apple",
+      "ItemCount": 3,
+      "ProbabilityPercent": 34.0,
+      "Weight": 34.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Coin",
+      "ItemCount": 5,
+      "ProbabilityPercent": 34.0,
+      "Weight": 34.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1496877745
+}

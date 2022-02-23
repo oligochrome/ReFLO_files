@@ -1,0 +1,29 @@
+{
+  "ChestName": "Leilah (Pending) Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Ursibang Token",
+      "ItemCount": 50,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 763328808
+}{
+  "ChestName": "Leilah (Pending) Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Dark Ursibang Token",
+      "ItemCount": 50,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 820707310
+}

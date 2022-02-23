@@ -1,0 +1,15 @@
+{
+  "ChestName": "Valkyrie Sword",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Fine Blackiron Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1567208946
+}

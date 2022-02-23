@@ -1,0 +1,23 @@
+{
+  "ChestName": "Green Turtle Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Thick Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Turtle Shell",
+      "ItemCount": 3,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 992887156
+}

@@ -1,0 +1,63 @@
+{
+  "ChestName": "Elder Worm Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 2,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (XL)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (XL)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1443746335
+}

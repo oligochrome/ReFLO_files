@@ -1,0 +1,15 @@
+{
+  "ChestName": "Great Earth Stone",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Great Earth Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1611188892
+}

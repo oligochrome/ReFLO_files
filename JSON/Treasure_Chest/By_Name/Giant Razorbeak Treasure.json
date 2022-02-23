@@ -1,0 +1,31 @@
+{
+  "ChestName": "Giant Razorbeak Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Royal Egg",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Pine Nuts",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bird's Egg",
+      "ItemCount": 5,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1407752805
+}

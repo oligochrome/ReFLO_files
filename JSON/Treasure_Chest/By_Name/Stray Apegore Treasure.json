@@ -1,0 +1,23 @@
+{
+  "ChestName": "Stray Apegore Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sturdy Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hi-SP Potion",
+      "ItemCount": 3,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3750792018
+}

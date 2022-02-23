@@ -1,0 +1,31 @@
+{
+  "ChestName": "Clear Gem",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Aquamarine",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "DEF Upgrade Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 749644637
+}

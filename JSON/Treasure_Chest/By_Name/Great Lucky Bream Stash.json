@@ -1,0 +1,89 @@
+{
+  "ChestName": "Great Lucky Bream Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Great Lucky Bream Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Greater Fin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1023474619
+}{
+  "ChestName": "Great Lucky Bream Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Great Lucky Bream Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Greater Fin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 200436552
+}{
+  "ChestName": "Great Lucky Bream Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Great Lucky Bream Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Greater Fin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2926235104
+}{
+  "ChestName": "Great Lucky Bream Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Great Lucky Bream Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Greater Fin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 26283177
+}

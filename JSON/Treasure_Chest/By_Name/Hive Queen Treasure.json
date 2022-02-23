@@ -1,0 +1,23 @@
+{
+  "ChestName": "Hive Queen Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Plateau Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 3,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1380250862
+}

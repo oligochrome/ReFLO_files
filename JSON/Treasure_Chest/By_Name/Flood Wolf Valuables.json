@@ -1,0 +1,31 @@
+{
+  "ChestName": "Flood Wolf Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Black Beast's Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4171675572
+}

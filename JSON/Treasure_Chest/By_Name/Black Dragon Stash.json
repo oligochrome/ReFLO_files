@@ -1,0 +1,79 @@
+{
+  "ChestName": "Black Dragon Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Dragon Tears",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.695652,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon's Horn",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.043478,
+      "Weight": 15.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Dragon Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.391304,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon Scale",
+      "ItemCount": 1,
+      "ProbabilityPercent": 26.086956,
+      "Weight": 30.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift: Black Dragon Head",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.95652151,
+      "Weight": 8.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift: Black Dragon Outfit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.95652151,
+      "Weight": 8.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift: Black Dragon Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.95652151,
+      "Weight": 8.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift: Black Dragon Feet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.95652151,
+      "Weight": 8.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift: Black Dragon Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.95652151,
+      "Weight": 8.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2075930323
+}

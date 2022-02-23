@@ -1,0 +1,109 @@
+{
+  "ChestName": "Swordsman Hidden Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Dueling Cap",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Dueling Outfit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Dueling Bottoms",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Dueling Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Cape",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 713295203
+}{
+  "ChestName": "Swordsman Hidden Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Zephyr Sword Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Zephyr Sword Outfit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Zephyr Sword Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Zephyr Sword Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Zephyr Sword Scarf",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4212107482
+}

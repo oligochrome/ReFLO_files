@@ -1,0 +1,157 @@
+{
+  "ChestName": "Lumiere Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2141523022
+}{
+  "ChestName": "Lumiere Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3755274420
+}{
+  "ChestName": "Lumiere Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 50,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3482407021
+}{
+  "ChestName": "Lumiere Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 15,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lumiere Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 50,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2391124338
+}{
+  "ChestName": "Lumiere Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Large Lumiere Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Large Lumiere Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Large Lumiere Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 50,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1721540815
+}{
+  "ChestName": "Lumiere Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Large Lumiere Token",
+      "ItemCount": 15,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Large Lumiere Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Large Lumiere Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1611885949
+}

@@ -1,0 +1,55 @@
+{
+  "ChestName": "Bronze Armor Hidden Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Helm",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Armor",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Greaves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 489573242
+}

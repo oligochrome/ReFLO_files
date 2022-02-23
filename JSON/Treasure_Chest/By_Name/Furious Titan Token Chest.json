@@ -1,0 +1,91 @@
+{
+  "ChestName": "Furious Titan Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2518955032
+}{
+  "ChestName": "Furious Titan Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1506335745
+}{
+  "ChestName": "Furious Titan Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 18,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 15,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Furious Titan Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3775110199
+}

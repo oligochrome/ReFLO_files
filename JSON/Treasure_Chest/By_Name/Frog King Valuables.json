@@ -1,0 +1,31 @@
+{
+  "ChestName": "Frog King Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Frog Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Pouch of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4291083997
+}

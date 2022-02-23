@@ -1,0 +1,23 @@
+{
+  "ChestName": "",
+  "ChestRarity": 0,
+  "Drops": [
+    {
+      "Name": "Water Mana",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3210157404
+}

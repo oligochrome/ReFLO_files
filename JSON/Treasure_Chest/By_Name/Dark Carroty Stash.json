@@ -1,0 +1,15 @@
+{
+  "ChestName": "Dark Carroty Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2334732046
+}

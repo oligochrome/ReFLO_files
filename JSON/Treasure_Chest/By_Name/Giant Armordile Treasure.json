@@ -1,0 +1,31 @@
+{
+  "ChestName": "Giant Armordile Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Thick Fang",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Big Tail",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2683037453
+}

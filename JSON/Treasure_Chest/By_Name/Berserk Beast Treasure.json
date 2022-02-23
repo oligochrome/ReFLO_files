@@ -1,0 +1,61 @@
+{
+  "ChestName": "Berserk Beast Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Rough Beast Hide",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wild Beast Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wild Beast Claw",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 381446282
+}{
+  "ChestName": "Berserk Beast Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Rough Beast Hide",
+      "ItemCount": 6,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wild Beast Fang",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wild Beast Claw",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1912535237
+}

@@ -1,0 +1,15 @@
+{
+  "ChestName": "Superior Wind Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Wind Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 989964107
+}

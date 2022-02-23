@@ -1,0 +1,15 @@
+{
+  "ChestName": "Rainbow Flying Fish",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Rainbow Flying Fish",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2636654556
+}

@@ -1,0 +1,157 @@
+{
+  "ChestName": "Marinetaur Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2623830186
+}{
+  "ChestName": "Marinetaur Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2896861633
+}{
+  "ChestName": "Marinetaur Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1386599939
+}{
+  "ChestName": "Marinetaur Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3390189441
+}{
+  "ChestName": "Marinetaur Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 14,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3087163488
+}{
+  "ChestName": "Marinetaur Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Marinetaur Token",
+      "ItemCount": 50,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 150535230
+}

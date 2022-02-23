@@ -1,0 +1,47 @@
+{
+  "ChestName": "Iron Weapon Hidden Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Iron Shield",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iron Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iron Claymore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iron Pickaxe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3842757964
+}

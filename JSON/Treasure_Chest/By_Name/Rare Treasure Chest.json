@@ -1,0 +1,15 @@
+{
+  "ChestName": "Rare Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 30,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3872728500
+}

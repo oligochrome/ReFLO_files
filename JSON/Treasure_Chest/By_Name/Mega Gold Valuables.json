@@ -1,0 +1,23 @@
+{
+  "ChestName": "Mega Gold Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 3,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2203106470
+}

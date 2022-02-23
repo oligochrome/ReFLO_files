@@ -1,0 +1,23 @@
+{
+  "ChestName": "Royal Spook Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Combustible Powder",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3766849983
+}

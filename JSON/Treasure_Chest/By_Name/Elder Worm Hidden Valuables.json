@@ -1,0 +1,23 @@
+{
+  "ChestName": "Elder Worm Hidden Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Forest Hermit's Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (XL)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 95.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3727228465
+}

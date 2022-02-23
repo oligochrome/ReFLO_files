@@ -1,0 +1,15 @@
+{
+  "ChestName": "Scorching Dragon Stone",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Lava Dragon Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2137012345
+}

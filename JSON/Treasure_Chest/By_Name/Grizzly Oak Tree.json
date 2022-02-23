@@ -1,0 +1,15 @@
+{
+  "ChestName": "Grizzly Oak Tree",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Grizzly Oak Log",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 345822628
+}

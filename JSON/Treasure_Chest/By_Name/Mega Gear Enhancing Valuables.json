@@ -1,0 +1,29 @@
+{
+  "ChestName": "Mega Gear Enhancing Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2612826910
+}{
+  "ChestName": "Mega Gear Enhancing Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (XL)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 397700489
+}

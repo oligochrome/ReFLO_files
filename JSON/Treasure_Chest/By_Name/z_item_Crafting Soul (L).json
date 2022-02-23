@@ -1,0 +1,15 @@
+{
+  "ChestName": "",
+  "ChestRarity": 0,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (L)",
+      "ItemCount": 0,
+      "ProbabilityPercent": "NaN",
+      "Weight": 0.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2217307720
+}

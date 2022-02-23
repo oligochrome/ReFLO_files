@@ -1,0 +1,39 @@
+{
+  "ChestName": "Chocolate Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1160184609
+}

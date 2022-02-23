@@ -1,0 +1,47 @@
+{
+  "ChestName": "Buccaneer Bird Hidden Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Buccaneer's Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 14.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Buccaneer's Wristbands",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 14.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Buccaneer's Costume",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 14.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Pirate Handkerchief",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 14.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 44.0,
+      "Weight": 44.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3211643678
+}

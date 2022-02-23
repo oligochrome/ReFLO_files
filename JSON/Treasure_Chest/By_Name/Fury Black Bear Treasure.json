@@ -1,0 +1,47 @@
+{
+  "ChestName": "Fury Black Bear Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Saw",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 3,
+      "ProbabilityPercent": 44.5,
+      "Weight": 89.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 1.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 4011096723
+}

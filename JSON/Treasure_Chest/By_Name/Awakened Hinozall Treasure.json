@@ -1,0 +1,43 @@
+{
+  "ChestName": "Awakened Hinozall Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Shadow Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1767304756
+}{
+  "ChestName": "Awakened Hinozall Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Shadow Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4062512352
+}{
+  "ChestName": "Awakened Hinozall Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Shadow Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2227191261
+}

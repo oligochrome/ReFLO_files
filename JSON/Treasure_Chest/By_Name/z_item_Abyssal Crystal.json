@@ -1,0 +1,91 @@
+{
+  "ChestName": "",
+  "ChestRarity": 0,
+  "Drops": [
+    {
+      "Name": "Abyssal Crystal",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1936187963
+}{
+  "ChestName": "",
+  "ChestRarity": 0,
+  "Drops": [
+    {
+      "Name": "Abyssal Crystal",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1682933499
+}{
+  "ChestName": "",
+  "ChestRarity": 0,
+  "Drops": [
+    {
+      "Name": "Abyssal Crystal",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1563896763
+}

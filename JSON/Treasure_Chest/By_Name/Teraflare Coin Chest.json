@@ -1,0 +1,29 @@
+{
+  "ChestName": "Teraflare Coin Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Teraflare Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1424432748
+}{
+  "ChestName": "Teraflare Coin Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Teraflare Coin",
+      "ItemCount": 3,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2207371776
+}

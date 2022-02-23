@@ -1,0 +1,225 @@
+{
+  "ChestName": "Dance Lion Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 773932130
+}{
+  "ChestName": "Dance Lion Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Claw",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Mane",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1597546712
+}{
+  "ChestName": "Dance Lion Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Claw",
+      "ItemCount": 3,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Mane",
+      "ItemCount": 3,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3008133786
+}{
+  "ChestName": "Dance Lion Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Claw",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Mane",
+      "ItemCount": 4,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1540216324
+}{
+  "ChestName": "Dance Lion Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Claw",
+      "ItemCount": 3,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Hide",
+      "ItemCount": 3,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Stormbolg Mane",
+      "ItemCount": 3,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 651720863
+}{
+  "ChestName": "Dance Lion Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Horn",
+      "ItemCount": 2,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Hide",
+      "ItemCount": 6,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Stormbolg Claw",
+      "ItemCount": 4,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Stormbolg Mane",
+      "ItemCount": 6,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4079066648
+}{
+  "ChestName": "Dance Lion Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Horn",
+      "ItemCount": 3,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Claw",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Stormbolg Hide",
+      "ItemCount": 8,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Stormbolg Mane",
+      "ItemCount": 10,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 937614957
+}{
+  "ChestName": "Dance Lion Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Horn",
+      "ItemCount": 3,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Claw",
+      "ItemCount": 8,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Stormbolg Hide",
+      "ItemCount": 12,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Stormbolg Mane",
+      "ItemCount": 14,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2895197369
+}

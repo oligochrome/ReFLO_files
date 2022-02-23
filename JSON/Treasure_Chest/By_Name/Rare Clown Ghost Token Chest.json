@@ -1,0 +1,469 @@
+{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3546410610
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3927524146
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4247857138
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3508229404
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3898865756
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4283145372
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2694031416
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2582316408
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2395169208
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 303892471
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1693990602
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Clown Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4287353886
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1512230401
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3122815619
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 558991447
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 15,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1032374806
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 15,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1265496875
+}{
+  "ChestName": "Rare Clown Ghost Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 15,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Scythe Ghost Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3491633663
+}

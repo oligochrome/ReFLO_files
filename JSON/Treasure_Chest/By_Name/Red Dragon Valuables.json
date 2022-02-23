@@ -1,0 +1,15 @@
+{
+  "ChestName": "Red Dragon Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Napdragon's Teardrop",
+      "ItemCount": 10,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3665542208
+}

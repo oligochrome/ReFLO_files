@@ -1,0 +1,31 @@
+{
+  "ChestName": "Guardian Beast Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Woodbolg's Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plateau Honey",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 5,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2797604483
+}

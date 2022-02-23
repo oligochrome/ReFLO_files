@@ -1,0 +1,29 @@
+{
+  "ChestName": "Mecha X Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "2 Yr Anniversary Jade",
+      "ItemCount": 30,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1770380787
+}{
+  "ChestName": "Mecha X Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Levitania Egg",
+      "ItemCount": 3,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 4067288678
+}

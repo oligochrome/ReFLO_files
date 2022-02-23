@@ -1,0 +1,23 @@
+{
+  "ChestName": "Spirit of Wind Valuables",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Antipara Berries",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Antidote Berries",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3456004830
+}

@@ -1,0 +1,121 @@
+{
+  "ChestName": "Goldmeer Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Golden Sheep Fleece",
+      "ItemCount": 3,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Goat Fleece",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sheep Fleece",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 339180876
+}{
+  "ChestName": "Goldmeer Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Golden Sheep Fleece",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Black Goat Fleece",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sheep Fleece",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 52369804
+}{
+  "ChestName": "Goldmeer Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Golden Sheep Fleece",
+      "ItemCount": 3,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sheep King's Fleece",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Goat Fleece",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 979875020
+}{
+  "ChestName": "Goldmeer Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Golden Sheep Fleece",
+      "ItemCount": 6,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sheep King's Fleece",
+      "ItemCount": 4,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Goat Fleece",
+      "ItemCount": 4,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1562715267
+}

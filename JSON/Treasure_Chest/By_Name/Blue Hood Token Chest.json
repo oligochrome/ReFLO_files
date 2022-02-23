@@ -1,0 +1,91 @@
+{
+  "ChestName": "Blue Hood Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 34,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 30,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 26,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1976943365
+}{
+  "ChestName": "Blue Hood Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 44,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 40,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 36,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3148951781
+}{
+  "ChestName": "Blue Hood Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 54,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 50,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Hood Token",
+      "ItemCount": 46,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4206143628
+}

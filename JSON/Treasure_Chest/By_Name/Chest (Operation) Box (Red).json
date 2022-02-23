@@ -1,0 +1,15 @@
+{
+  "ChestName": "Chest (Operation) Box (Red)",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Spring Water",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 70343600
+}

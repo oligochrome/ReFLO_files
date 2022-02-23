@@ -1,0 +1,855 @@
+{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Spring Water",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3178637344
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 95.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1022413920
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1206800003
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3627339037
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 65.0,
+      "Weight": 65.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2983414597
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 772393179
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 95.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1693345096
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 535881643
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2150261813
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 65.0,
+      "Weight": 65.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3922584173
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chimera Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1981243891
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.0,
+      "Weight": 1600.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 264936117
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.9104481,
+      "Weight": 1800.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.9104481,
+      "Weight": 1800.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.9104481,
+      "Weight": 1800.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.9104481,
+      "Weight": 1800.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.9203978,
+      "Weight": 1600.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.4378109,
+      "Weight": 1250.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 917649397
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.5,
+      "Weight": 1250.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Holy Maiden Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 8,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 920733558
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 1400.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Holy Maiden Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2665344577
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 1400.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Holy Maiden Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 8,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2960700996
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Beast Hide",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.0,
+      "Weight": 1600.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 975645926
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Beast Hide",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.0,
+      "Weight": 1600.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 56590758
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 1800.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Beast Hide",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.5,
+      "Weight": 1250.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Holy Maiden Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 8,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 981585376
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 1400.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Holy Maiden Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2461885655
+}{
+  "ChestName": "Chimera Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.5,
+      "Weight": 1450.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 1400.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Holy Maiden Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 8,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2241134615
+}

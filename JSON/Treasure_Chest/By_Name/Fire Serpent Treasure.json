@@ -1,0 +1,15 @@
+{
+  "ChestName": "Fire Serpent Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Fire Serpent Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3592962014
+}

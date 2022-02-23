@@ -1,0 +1,23 @@
+{
+  "ChestName": "Great Forest Bear Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 872797427
+}

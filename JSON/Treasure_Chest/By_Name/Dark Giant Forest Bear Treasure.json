@@ -1,0 +1,31 @@
+{
+  "ChestName": "Dark Giant Forest Bear Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Emerald Clover",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Forest Fur",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Forest Leaf",
+      "ItemCount": 5,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3837105504
+}

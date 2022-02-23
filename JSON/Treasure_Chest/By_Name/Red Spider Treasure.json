@@ -1,0 +1,23 @@
+{
+  "ChestName": "Red Spider Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Top-Class Mushroom",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Mountainshroom",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 984274938
+}

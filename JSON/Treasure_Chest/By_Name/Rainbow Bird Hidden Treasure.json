@@ -1,0 +1,71 @@
+{
+  "ChestName": "Rainbow Bird Hidden Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Bigbeak Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bigbeak Outfit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bigbeak Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bigbeak Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bigbeak Shawl",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bigbeak Shooter",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Feather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4290816781
+}

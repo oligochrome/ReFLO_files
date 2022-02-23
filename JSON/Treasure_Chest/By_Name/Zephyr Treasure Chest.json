@@ -1,0 +1,2481 @@
+{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2696740276
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3754299048
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3432412329
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Wind Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4127003239
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Fire Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 31.5789471,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.7894735,
+      "Weight": 15.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Antidote Berries",
+      "ItemCount": 1,
+      "ProbabilityPercent": 26.31579,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 26.31579,
+      "Weight": 25.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4246921166
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Earth Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Thick Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1092069188
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Thick Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 991803375
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Wind Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Apple",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2319493381
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Thick Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1374308322
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Fire Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Top-Class Beef",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1579676870
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Earth Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Dark Straw Thread",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4149790499
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Wind Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plateau Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2762986647
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 10,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 996911913
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 10,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1141987381
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 10,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1463886388
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Big Tail",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4233371750
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sleep Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 323548455
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Fire Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Chicken",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2424220027
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 905263477
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 736295210
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Antipara Berries",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1915078244
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3774139402
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wind Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sheep King's Fleece",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3107189572
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 973451032
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1589591037
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1390391659
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1099942762
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2575347890
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Antidote Berries",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3009279606
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Thick Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 812362282
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.888889,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.333333,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.333333,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.1111107,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Thick Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.1111107,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.2222214,
+      "Weight": 20.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 591122475
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Apple",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1312188926
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Thick Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3955096048
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Top-Class Beef",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 175540756
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Dark Straw Thread",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2952600090
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plateau Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 751519302
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1080177669
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gathering Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2227201281
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 742964504
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Big Tail",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2271067978
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gathering Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sleep Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3550070803
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Chicken",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3950458455
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1325180505
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1357604358
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Antipara Berries",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 153901384
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2617070374
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sheep King's Fleece",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3258608744
+}{
+  "ChestName": "Zephyr Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gathering Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 18.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4208235052
+}

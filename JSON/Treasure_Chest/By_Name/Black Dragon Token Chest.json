@@ -1,0 +1,97 @@
+{
+  "ChestName": "Black Dragon Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1499210752
+}{
+  "ChestName": "Black Dragon Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3309439693
+}{
+  "ChestName": "Black Dragon Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3902438885
+}{
+  "ChestName": "Black Dragon Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Dragon Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3065007239
+}

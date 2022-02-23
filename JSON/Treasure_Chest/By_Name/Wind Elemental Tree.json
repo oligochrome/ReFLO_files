@@ -1,0 +1,23 @@
+{
+  "ChestName": "Wind Elemental Tree",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Wind Leaf",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elder Wind Log",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1668908490
+}

@@ -1,0 +1,23 @@
+{
+  "ChestName": "Lord of the Dead Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Giant Horn",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Evil Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1376013550
+}

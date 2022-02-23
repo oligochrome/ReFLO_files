@@ -1,0 +1,31 @@
+{
+  "ChestName": "Dark Eye Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Snow-White Feather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Moon Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fine Feather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2718426703
+}

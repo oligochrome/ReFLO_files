@@ -1,0 +1,29 @@
+{
+  "ChestName": "Mega Fire Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Fire Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2083186112
+}{
+  "ChestName": "Mega Fire Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Fire Enh. Orb (XL)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 954253509
+}

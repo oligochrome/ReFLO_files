@@ -1,0 +1,107 @@
+{
+  "ChestName": "Flame Owl King Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Mana",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flame Feather",
+      "ItemCount": 2,
+      "ProbabilityPercent": 94.0,
+      "Weight": 94.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2403642787
+}{
+  "ChestName": "Flame Owl King Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Golden Feather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Mana",
+      "ItemCount": 2,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flame Feather",
+      "ItemCount": 3,
+      "ProbabilityPercent": 22.0,
+      "Weight": 22.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 969684783
+}{
+  "ChestName": "Flame Owl King Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Golden Feather",
+      "ItemCount": 2,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Mana",
+      "ItemCount": 3,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flame Feather",
+      "ItemCount": 4,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2579352533
+}

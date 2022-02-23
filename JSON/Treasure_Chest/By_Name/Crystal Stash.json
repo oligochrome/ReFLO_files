@@ -1,0 +1,47 @@
+{
+  "ChestName": "Crystal Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Abyssal Crystal",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 32.0,
+      "Weight": 64.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 32.5,
+      "Weight": 65.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 1.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 4101339941
+}

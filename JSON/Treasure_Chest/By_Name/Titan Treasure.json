@@ -1,0 +1,371 @@
+{
+  "ChestName": "Titan Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gold Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Emerald",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Tourmaline",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 11,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ruby",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 12,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Aquamarine",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 13,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Topaz",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 14,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3440004350
+}{
+  "ChestName": "Titan Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gold Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Emerald",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Tourmaline",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 11,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ruby",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 12,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Aquamarine",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 13,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Topaz",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.8,
+      "Weight": 380.0,
+      "Priority": 14,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1450812970
+}{
+  "ChestName": "Titan Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gold Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Emerald",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.7,
+      "Weight": 370.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Tourmaline",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.7,
+      "Weight": 370.0,
+      "Priority": 11,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ruby",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.7,
+      "Weight": 370.0,
+      "Priority": 12,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Aquamarine",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.7,
+      "Weight": 370.0,
+      "Priority": 13,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Topaz",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.7,
+      "Weight": 370.0,
+      "Priority": 14,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blast Earring",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 15,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iceglory Earring",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 16,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 547135255
+}

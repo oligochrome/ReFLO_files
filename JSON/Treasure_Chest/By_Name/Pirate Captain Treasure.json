@@ -1,0 +1,31 @@
+{
+  "ChestName": "Pirate Captain Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pirate Captain Gem",
+      "ItemCount": 1,
+      "ProbabilityPercent": 33.0,
+      "Weight": 33.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Pirate Captain Button",
+      "ItemCount": 2,
+      "ProbabilityPercent": 33.0,
+      "Weight": 33.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Golden Rope",
+      "ItemCount": 4,
+      "ProbabilityPercent": 34.0,
+      "Weight": 34.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3909688891
+}

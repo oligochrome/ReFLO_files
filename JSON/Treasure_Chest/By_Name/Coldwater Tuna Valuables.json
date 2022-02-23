@@ -1,0 +1,23 @@
+{
+  "ChestName": "Coldwater Tuna Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Water Mana",
+      "ItemCount": 2,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2468007540
+}

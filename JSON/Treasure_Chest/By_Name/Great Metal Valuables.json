@@ -1,0 +1,37 @@
+{
+  "ChestName": "Great Metal Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 797847385
+}{
+  "ChestName": "Great Metal Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 83100108
+}

@@ -1,0 +1,23 @@
+{
+  "ChestName": "Plains Lordfish Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Plains Lordfish Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Geo Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 13196565
+}

@@ -1,0 +1,31 @@
+{
+  "ChestName": "Great Magma Deposit",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "DEF Upgrade Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 2,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Quality Minty Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3504114435
+}

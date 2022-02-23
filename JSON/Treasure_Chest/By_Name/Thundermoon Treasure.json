@@ -1,0 +1,45 @@
+{
+  "ChestName": "Thundermoon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Thundermoon Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 95.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Thundermoon Jade",
+      "ItemCount": 3,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1309591993
+}{
+  "ChestName": "Thundermoon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Wind Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wind Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3663963284
+}

@@ -1,0 +1,257 @@
+{
+  "ChestName": "Hermit Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 75.2,
+      "Weight": 752.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Mysterious Object",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 120.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 90.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Forest Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 30.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hermit Staff",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Hood",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1892092856
+}{
+  "ChestName": "Hermit Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 51.6,
+      "Weight": 516.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Mysterious Object",
+      "ItemCount": 1,
+      "ProbabilityPercent": 23.0,
+      "Weight": 230.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 170.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Forest Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 60.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hermit Staff",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Hood",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1237296888
+}{
+  "ChestName": "Hermit Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Mysterious Object",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Forest Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 11.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hermit Staff",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Hood",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 177015582
+}{
+  "ChestName": "Hermit Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Giant Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Forest Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 22.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hermit Staff",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Wraith Hood",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3021482674
+}

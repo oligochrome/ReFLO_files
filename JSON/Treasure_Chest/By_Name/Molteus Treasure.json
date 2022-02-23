@@ -1,0 +1,15 @@
+{
+  "ChestName": "Molteus Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Phoenix Feather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 146468320
+}

@@ -1,0 +1,15 @@
+{
+  "ChestName": "Coldwater Tuna Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1625511148
+}

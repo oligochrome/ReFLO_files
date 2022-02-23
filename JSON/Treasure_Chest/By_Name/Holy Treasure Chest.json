@@ -1,0 +1,353 @@
+{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3582339088
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2792032704
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3641834204
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3393290461
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hi-SP Potion",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1881823722
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hi-HP Potion",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2537029501
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "XP Orb (S)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hi-SP Potion",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1700795013
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1035755357
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1120316481
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (S)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1368839744
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1483263881
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1409828127
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (M)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1196965662
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Weapon Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1260005529
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gathering Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2411231645
+}{
+  "ChestName": "Holy Treasure Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Crafting Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Soul (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 657498500
+}

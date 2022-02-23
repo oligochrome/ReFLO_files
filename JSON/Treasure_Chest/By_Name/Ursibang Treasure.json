@@ -1,0 +1,295 @@
+{
+  "ChestName": "Ursibang Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Giant Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elderwood Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1128967655
+}{
+  "ChestName": "Ursibang Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elderwood Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2262322913
+}{
+  "ChestName": "Ursibang Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elderwood Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Big Bang Ring",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3808522401
+}{
+  "ChestName": "Ursibang Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elderwood Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Big Bang Ring",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4096332897
+}{
+  "ChestName": "Ursibang Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Animal Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elderwood Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Big Bang Ring",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 617810293
+}

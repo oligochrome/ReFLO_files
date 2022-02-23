@@ -1,0 +1,15 @@
+{
+  "ChestName": "Superior Gear Enhancing Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1535561025
+}

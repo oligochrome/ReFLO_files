@@ -1,0 +1,23 @@
+{
+  "ChestName": "Lycan Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Animal Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4036570828
+}

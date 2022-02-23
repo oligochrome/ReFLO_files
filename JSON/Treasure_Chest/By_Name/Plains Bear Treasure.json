@@ -1,0 +1,53 @@
+{
+  "ChestName": "Plains Bear Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 5,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2719789912
+}{
+  "ChestName": "Plains Bear Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Rainbow Trout",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plateau Honey",
+      "ItemCount": 3,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 5,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2433597343
+}

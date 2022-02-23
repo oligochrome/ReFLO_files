@@ -1,0 +1,105 @@
+{
+  "ChestName": "Red Hood Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Red Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 78305672
+}{
+  "ChestName": "Red Hood Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Red Coin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Red Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 114320102
+}{
+  "ChestName": "Red Hood Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Red Hood's Cloth Scrap",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Red Coin",
+      "ItemCount": 4,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Red Coin",
+      "ItemCount": 3,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1395171947
+}{
+  "ChestName": "Red Hood Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Justice Brooch",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Red Hood's Cloth Scrap",
+      "ItemCount": 5,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Red Hood's Cloth Scrap",
+      "ItemCount": 4,
+      "ProbabilityPercent": 34.0,
+      "Weight": 34.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Red Coin",
+      "ItemCount": 5,
+      "ProbabilityPercent": 34.0,
+      "Weight": 34.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2645714503
+}

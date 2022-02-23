@@ -1,0 +1,5335 @@
+{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.65,
+      "Weight": 4065.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.65,
+      "Weight": 4065.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 266596327
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Mega Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.01,
+      "Weight": 1.0,
+      "Priority": 10,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Mega Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.01,
+      "Weight": 1.0,
+      "Priority": 20,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 19.5,
+      "Weight": 1950.0,
+      "Priority": 30,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 40,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 50,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Combat Alchematter V",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 60,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "XP Orb (XL)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 70,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (XL)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 80,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.93,
+      "Weight": 593.0,
+      "Priority": 90,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 600555590
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Diamond",
+      "ItemCount": 5,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.45,
+      "Weight": 145.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.5,
+      "Weight": 3650.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.5,
+      "Weight": 3650.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1451749197
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crafting Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.05,
+      "Weight": 305.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.2,
+      "Weight": 3620.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.2,
+      "Weight": 3620.0,
+      "Priority": 90,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2768670194
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gathering Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.05,
+      "Weight": 205.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.7,
+      "Weight": 3670.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.7,
+      "Weight": 3670.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 648172264
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Bluefeather Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bluefeather Armor",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bluefeather Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bluefeather Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bluefeather Cape",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.01,
+      "Weight": 1.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.01,
+      "Weight": 1.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.01,
+      "Weight": 1.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.69,
+      "Weight": 269.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.01,
+      "Weight": 1.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.01,
+      "Weight": 1.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.01,
+      "Weight": 1.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1526306967
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Book of Great Stars Voucher",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 12.4,
+      "Weight": 1240.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 12.4,
+      "Weight": 1240.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 33,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2813971755
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Ring Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 12.4,
+      "Weight": 1240.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 12.4,
+      "Weight": 1240.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 33,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3198714802
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Ring Token Oct.",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 12.4,
+      "Weight": 1240.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 12.4,
+      "Weight": 1240.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 33,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 968022691
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 250790932
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 197310182
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gathering Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 33,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 4018485573
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2013940360
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gathering Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1544623238
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crafting Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 894979266
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crafting Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3896539712
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2009545356
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gathering Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 33,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 755494863
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gathering Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.05,
+      "Weight": 305.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.2,
+      "Weight": 3620.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.2,
+      "Weight": 3620.0,
+      "Priority": 90,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1625425971
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crafting Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 29.4,
+      "Weight": 2940.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.05,
+      "Weight": 205.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 3000.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 3000.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crafting Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wizard Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wizard Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wizard Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wizard Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Warrior's Helm",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Warrior's Cloak",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Warrior's Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Warrior's Iron Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2647483890
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "High Allagan Circlet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Plate",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Circlet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 11.4,
+      "Weight": 1140.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 33,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 11.4,
+      "Weight": 1140.0,
+      "Priority": 34,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 35,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 36,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 37,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 38,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 39,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1750872504
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "High Allagan Circlet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Plate",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Circlet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 8.9,
+      "Weight": 890.0,
+      "Priority": 33,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 34,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 8.9,
+      "Weight": 890.0,
+      "Priority": 35,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 36,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 37,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 38,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 39,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 323138395
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "High Allagan Circlet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Plate",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "High Allagan Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Circlet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Healer's Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Combat Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 8.4,
+      "Weight": 840.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 6.5,
+      "Weight": 650.0,
+      "Priority": 33,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 8.4,
+      "Weight": 840.0,
+      "Priority": 34,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 6.5,
+      "Weight": 650.0,
+      "Priority": 35,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 36,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 37,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 38,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 39,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2358784197
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gathering Alchematter IV",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter III",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter II",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gathering Alchematter I",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.3,
+      "Weight": 30.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Armor Recaster (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 8,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 42,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 18,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 19,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 21,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 22,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 23,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 24,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 25,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 13.4,
+      "Weight": 1340.0,
+      "Priority": 26,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gear Enh. Orb (L)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 27,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 28,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.2,
+      "Weight": 20.0,
+      "Priority": 29,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Small Stardust Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 31,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.05,
+      "Weight": 5.0,
+      "Priority": 32,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3269248688
+}{
+  "ChestName": "Mini Celestia Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Divine Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.247191,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.247191,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.2359552,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.2359552,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (XL)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.8539333,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Divine Potion",
+      "ItemCount": 3,
+      "ProbabilityPercent": 16.8539333,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.8539333,
+      "Weight": 15.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 25,
+      "ProbabilityPercent": 22.47191,
+      "Weight": 20.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1080271436
+}

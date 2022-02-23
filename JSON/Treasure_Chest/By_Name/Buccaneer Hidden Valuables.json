@@ -1,0 +1,47 @@
+{
+  "ChestName": "Buccaneer Hidden Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Silver Shield",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 14.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Claymore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 14.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 14.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Hammer",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.0,
+      "Weight": 14.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 44.0,
+      "Weight": 44.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2563003983
+}

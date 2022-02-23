@@ -1,0 +1,97 @@
+{
+  "ChestName": "Flamebolg Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2401126398
+}{
+  "ChestName": "Flamebolg Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2372205712
+}{
+  "ChestName": "Flamebolg Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 10.5263157,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 42.1052628,
+      "Weight": 40.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 47.36842,
+      "Weight": 45.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4243325364
+}{
+  "ChestName": "Flamebolg Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 406967929
+}

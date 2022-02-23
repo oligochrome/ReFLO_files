@@ -1,0 +1,15 @@
+{
+  "ChestName": "Paralyzing Gecko Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Thundermoon Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2126717570
+}

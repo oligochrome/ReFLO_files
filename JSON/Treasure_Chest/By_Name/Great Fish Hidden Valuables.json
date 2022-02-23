@@ -1,0 +1,55 @@
+{
+  "ChestName": "Great Fish Hidden Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Shell Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shell Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shell Bottoms",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shell Armor",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shellmet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4109741641
+}

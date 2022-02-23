@@ -1,0 +1,15 @@
+{
+  "ChestName": "Turtanic Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Spring Water",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3994139042
+}

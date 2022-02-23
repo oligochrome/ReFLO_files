@@ -1,0 +1,47 @@
+{
+  "ChestName": "Wicked Spook Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Weird Object",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Ghastly Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 44.5,
+      "Weight": 89.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 1.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 256006360
+}

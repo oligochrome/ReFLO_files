@@ -1,0 +1,39 @@
+{
+  "ChestName": "White WoolieKing Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "King Mutton",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wind Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sheep King's Fleece",
+      "ItemCount": 3,
+      "ProbabilityPercent": 37.0,
+      "Weight": 37.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 727279454
+}

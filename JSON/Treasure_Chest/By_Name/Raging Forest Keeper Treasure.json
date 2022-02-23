@@ -1,0 +1,23 @@
+{
+  "ChestName": "Raging Forest Keeper Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Elder Oak Log",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Oak Log",
+      "ItemCount": 3,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1985836969
+}

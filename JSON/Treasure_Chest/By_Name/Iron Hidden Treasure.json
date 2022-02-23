@@ -1,0 +1,55 @@
+{
+  "ChestName": "Iron Hidden Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iron Helm",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iron Armor",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iron Leg Guards",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iron Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Iron Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 792202029
+}

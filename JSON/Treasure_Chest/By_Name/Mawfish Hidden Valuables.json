@@ -1,0 +1,55 @@
+{
+  "ChestName": "Mawfish Hidden Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Coastal Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Coastal Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Coastal Bottoms",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Coastal Armor",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Coastal Headwear",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 106618412
+}

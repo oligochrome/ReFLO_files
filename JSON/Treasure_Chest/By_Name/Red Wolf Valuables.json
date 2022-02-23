@@ -1,0 +1,23 @@
+{
+  "ChestName": "Red Wolf Valuables",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Beast Hide",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Animal Claws",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2208776993
+}

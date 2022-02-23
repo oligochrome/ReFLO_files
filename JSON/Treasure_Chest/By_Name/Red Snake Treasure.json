@@ -1,0 +1,23 @@
+{
+  "ChestName": "Red Snake Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Python Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Snake Scales",
+      "ItemCount": 5,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3112074736
+}

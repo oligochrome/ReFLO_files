@@ -1,0 +1,47 @@
+{
+  "ChestName": "Frog King Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Frog Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Poison Essence",
+      "ItemCount": 5,
+      "ProbabilityPercent": 34.5,
+      "Weight": 69.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 1.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 4039404497
+}

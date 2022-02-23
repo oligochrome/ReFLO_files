@@ -1,0 +1,87 @@
+{
+  "ChestName": "Stephanie Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sun Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3767417583
+}

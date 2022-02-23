@@ -1,0 +1,39 @@
+{
+  "ChestName": "Coliseum Gold Chest",
+  "ChestRarity": 1,
+  "Drops": [
+    {
+      "Name": "Coliseum Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Coliseum Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Coliseum Token",
+      "ItemCount": 3,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Coliseum Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1025228763
+}

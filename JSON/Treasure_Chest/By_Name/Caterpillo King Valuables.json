@@ -1,0 +1,31 @@
+{
+  "ChestName": "Caterpillo King Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Caterpillo Leaf",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 84.0,
+      "Weight": 84.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3483694715
+}

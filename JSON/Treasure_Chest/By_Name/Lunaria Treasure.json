@@ -1,0 +1,31 @@
+{
+  "ChestName": "Lunaria Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Moonlight Cape",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lunaria Feather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3451004409
+}

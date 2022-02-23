@@ -1,0 +1,47 @@
+{
+  "ChestName": "Ominous Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Terroblagon Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "XP Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "XP Orb (M)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 5,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 798293199
+}

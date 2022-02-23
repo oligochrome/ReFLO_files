@@ -1,0 +1,47 @@
+{
+  "ChestName": "Water Shade Hidden Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Water Wraith Hood",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Wraith Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Wraith Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sea Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 34.0,
+      "Weight": 34.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3597774299
+}

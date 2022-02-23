@@ -1,0 +1,23 @@
+{
+  "ChestName": "Bass of Crystal Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Abyssal Crystal",
+      "ItemCount": 1,
+      "ProbabilityPercent": 33.3333321,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 66.6666641,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 468051810
+}

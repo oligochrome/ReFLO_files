@@ -1,0 +1,277 @@
+{
+  "ChestName": "Megaflare/Present",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.5,
+      "Weight": 2050.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Geo Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.5,
+      "Weight": 2050.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.5,
+      "Weight": 2050.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.5,
+      "Weight": 2050.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Moon Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sun Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3216132766
+}{
+  "ChestName": "Megaflare/Present",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Ring of Light Dragon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.5,
+      "Weight": 250.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Ring of Dark Dragon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.5,
+      "Weight": 250.0,
+      "Priority": 2,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 9500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1009612303
+}{
+  "ChestName": "Megaflare/Present",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.5,
+      "Weight": 2050.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Geo Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.5,
+      "Weight": 2050.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.5,
+      "Weight": 2050.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.5,
+      "Weight": 2050.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Moon Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sun Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2261444574
+}{
+  "ChestName": "Megaflare/Present",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Ring of Light Dragon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Ring of Dark Dragon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 2,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 9000.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1681121063
+}{
+  "ChestName": "Megaflare/Present",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 19.0,
+      "Weight": 1900.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Geo Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 19.0,
+      "Weight": 1900.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 19.0,
+      "Weight": 1900.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 19.0,
+      "Weight": 1900.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Moon Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sun Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2447541022
+}{
+  "ChestName": "Megaflare/Present",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Ring of Light Dragon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.5,
+      "Weight": 1250.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Ring of Dark Dragon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.5,
+      "Weight": 1250.0,
+      "Priority": 2,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 75.0,
+      "Weight": 7500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3843471872
+}

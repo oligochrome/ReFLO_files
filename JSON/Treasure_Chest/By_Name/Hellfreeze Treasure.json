@@ -1,0 +1,37 @@
+{
+  "ChestName": "Hellfreeze Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Hellfreeze Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 95.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Hellfreeze Jade",
+      "ItemCount": 3,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2678427756
+}{
+  "ChestName": "Hellfreeze Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Levitania Egg",
+      "ItemCount": 3,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2955183358
+}

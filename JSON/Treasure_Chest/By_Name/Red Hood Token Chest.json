@@ -1,0 +1,89 @@
+{
+  "ChestName": "Red Hood Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Red Hood Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Red Hood Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3791455003
+}{
+  "ChestName": "Red Hood Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Red Hood Token",
+      "ItemCount": 16,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Red Hood Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3353055381
+}{
+  "ChestName": "Red Hood Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Red Hood Token",
+      "ItemCount": 22,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Red Hood Token",
+      "ItemCount": 18,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3011882599
+}{
+  "ChestName": "Red Hood Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Red Hood Token",
+      "ItemCount": 32,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Red Hood Token",
+      "ItemCount": 28,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 733739521
+}

@@ -1,0 +1,307 @@
+{
+  "ChestName": "Wind Hive Queen Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Apian Outfit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen's Hair",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen's Hair",
+      "ItemCount": 3,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 6.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gale Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Honey Toast",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2409423558
+}{
+  "ChestName": "Wind Hive Queen Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Apian Outfit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen's Hair",
+      "ItemCount": 3,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen's Hair",
+      "ItemCount": 5,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen Crown Shards",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gale Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 6.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Honey Toast",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 6.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 247039969
+}{
+  "ChestName": "Wind Hive Queen Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Apian Outfit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Gloves",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Apian Whisker",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen's Hair",
+      "ItemCount": 6,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen's Hair",
+      "ItemCount": 10,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen's Hair",
+      "ItemCount": 14,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen Crown Shards",
+      "ItemCount": 2,
+      "ProbabilityPercent": 13.0,
+      "Weight": 13.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen Crown Shards",
+      "ItemCount": 3,
+      "ProbabilityPercent": 26.0,
+      "Weight": 26.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen Crown Shards",
+      "ItemCount": 4,
+      "ProbabilityPercent": 13.0,
+      "Weight": 13.0,
+      "Priority": 11,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen Gem",
+      "ItemCount": 2,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 12,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen Gem",
+      "ItemCount": 3,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 13,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hive Queen Gem",
+      "ItemCount": 4,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 14,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 15,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gale Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 16,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Honey Toast",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 17,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1453797065
+}

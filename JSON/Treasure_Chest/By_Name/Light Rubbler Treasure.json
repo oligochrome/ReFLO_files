@@ -1,0 +1,15 @@
+{
+  "ChestName": "Light Rubbler Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Light Enh. Orb (M)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 100.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 679869860
+}

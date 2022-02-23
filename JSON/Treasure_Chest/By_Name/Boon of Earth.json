@@ -1,0 +1,23 @@
+{
+  "ChestName": "Boon of Earth",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Earth Mana",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Geo Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 642983348
+}

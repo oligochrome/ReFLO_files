@@ -1,0 +1,143 @@
+{
+  "ChestName": "Scorching Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Lava Titan Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.64583325,
+      "Weight": 35.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 5,
+      "ProbabilityPercent": 3.125,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 6.25,
+      "Weight": 60.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.25,
+      "Weight": 60.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 5,
+      "ProbabilityPercent": 3.125,
+      "Weight": 30.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 3,
+      "ProbabilityPercent": 6.25,
+      "Weight": 60.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.04166663,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.125,
+      "Weight": 30.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 5.20833349,
+      "Weight": 50.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.416667,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.64583325,
+      "Weight": 35.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 6,
+      "ProbabilityPercent": 7.29166651,
+      "Weight": 70.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 4,
+      "ProbabilityPercent": 14.583333,
+      "Weight": 140.0,
+      "Priority": 13,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.04166663,
+      "Weight": 10.0,
+      "Priority": 14,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 5,
+      "ProbabilityPercent": 7.29166651,
+      "Weight": 70.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 14.583333,
+      "Weight": 140.0,
+      "Priority": 16,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.125,
+      "Weight": 30.0,
+      "Priority": 17,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1620683430
+}

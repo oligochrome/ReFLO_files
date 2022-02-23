@@ -1,0 +1,15 @@
+{
+  "ChestName": "Black Army Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Army Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3758731191
+}

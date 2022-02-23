@@ -1,0 +1,23 @@
+{
+  "ChestName": "Devilish Lizard Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Big Tail",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Little Tail",
+      "ItemCount": 5,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 148921028
+}

@@ -1,0 +1,371 @@
+{
+  "ChestName": "Pumpkin Lamp Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pumpkin Lamp Token",
+      "ItemCount": 50,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 376613106
+}{
+  "ChestName": "Pumpkin Lamp Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pumpkin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wonderful String",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 543380544
+}{
+  "ChestName": "Pumpkin Lamp Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pumpkin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wonderful String",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2148706490
+}{
+  "ChestName": "Pumpkin Lamp Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pumpkin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 2,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 2,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wonderful String",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.5,
+      "Weight": 450.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Pumpkin Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2537213050
+}{
+  "ChestName": "Pumpkin Lamp Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pumpkin",
+      "ItemCount": 3,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 2,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 2,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wonderful String",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Pumpkin Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 7,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2246361772
+}{
+  "ChestName": "Pumpkin Lamp Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pumpkin",
+      "ItemCount": 3,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 2,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 2,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wonderful String",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Pumpkin Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 7,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1577784113
+}{
+  "ChestName": "Pumpkin Lamp Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pumpkin",
+      "ItemCount": 3,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 2,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassy Plains Barley",
+      "ItemCount": 2,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wonderful String",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 800.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Pumpkin Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 7,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2421944217
+}

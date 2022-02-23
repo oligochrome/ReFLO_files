@@ -1,0 +1,23 @@
+{
+  "ChestName": "Wind Rock",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Wind Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 669163622
+}

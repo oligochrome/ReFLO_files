@@ -1,0 +1,23 @@
+{
+  "ChestName": "Cherry Koi Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Tight Fin",
+      "ItemCount": 3,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Small Fin",
+      "ItemCount": 3,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3816999736
+}

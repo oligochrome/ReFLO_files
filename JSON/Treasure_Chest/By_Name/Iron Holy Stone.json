@@ -1,0 +1,31 @@
+{
+  "ChestName": "Iron Holy Stone",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Quality Minty Ore",
+      "ItemCount": 2,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "DEF Upgrade Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2767665598
+}

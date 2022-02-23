@@ -1,0 +1,39 @@
+{
+  "ChestName": "Flood Wolf Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Beast's Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Beast Leather",
+      "ItemCount": 2,
+      "ProbabilityPercent": 47.0,
+      "Weight": 47.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2479296369
+}

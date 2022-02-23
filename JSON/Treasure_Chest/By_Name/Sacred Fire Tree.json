@@ -1,0 +1,23 @@
+{
+  "ChestName": "Sacred Fire Tree",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Fire Log",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Mana +",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 319514232
+}

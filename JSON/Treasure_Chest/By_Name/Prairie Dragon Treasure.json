@@ -1,0 +1,361 @@
+{
+  "ChestName": "Prairie Dragon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Nectar",
+      "ItemCount": 1,
+      "ProbabilityPercent": 76.6,
+      "Weight": 766.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Prairie Leaf",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 110.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Prairie Dragon Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 90.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Prairie's Tear",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 20.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Captain's Shield",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Captain's Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 90,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Set",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 100,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.2,
+      "Weight": 2.0,
+      "Priority": 110,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 4128925434
+}{
+  "ChestName": "Prairie Dragon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Nectar",
+      "ItemCount": 1,
+      "ProbabilityPercent": 51.8,
+      "Weight": 518.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Prairie Leaf",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 220.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Prairie Dragon Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 18.0,
+      "Weight": 180.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Prairie's Tear",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 40.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Captain's Shield",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Captain's Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 90,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Set",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 100,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.6,
+      "Weight": 6.0,
+      "Priority": 110,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3479358394
+}{
+  "ChestName": "Prairie Dragon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Great Prairie Leaf",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Prairie Dragon Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Prairie's Tear",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Captain's Shield",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Captain's Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Set",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 90,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 100,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 52136134
+}{
+  "ChestName": "Prairie Dragon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Prairie Dragon Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 69.0,
+      "Weight": 69.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Prairie's Tear",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.0,
+      "Weight": 16.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Captain's Shield",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Captain's Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 60,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 70,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Set",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 80,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shapeshift Prairie Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 90,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Geolord Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 100,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3465144496
+}

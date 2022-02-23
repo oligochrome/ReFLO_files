@@ -1,0 +1,23 @@
+{
+  "ChestName": "Wind Gem",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Wind Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Wind Mana",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3969772885
+}

@@ -1,0 +1,31 @@
+{
+  "ChestName": "Prince White WoolieTreasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "King Mutton",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sheep King's Fleece",
+      "ItemCount": 3,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2145629506
+}

@@ -1,0 +1,47 @@
+{
+  "ChestName": "Spook Hidden Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sack of Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magician's Cowl",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magician's Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Magician's Wristband",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Durable Charm",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3142834675
+}

@@ -1,0 +1,29 @@
+{
+  "ChestName": "Mega Water Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Water Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2244282286
+}{
+  "ChestName": "Mega Water Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Water Enh. Orb (XL)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 164493625
+}

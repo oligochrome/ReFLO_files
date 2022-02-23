@@ -1,0 +1,23 @@
+{
+  "ChestName": "Desert Blessing",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Amethyst",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sun Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 439619066
+}

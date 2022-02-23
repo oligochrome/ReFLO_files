@@ -1,0 +1,499 @@
+{
+  "ChestName": "Lumiere Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Healweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Vitalweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Cureweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Alcheweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lightlord Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 60,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Light Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 70,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 80,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3595014743
+}{
+  "ChestName": "Lumiere Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Healweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Vitalweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Cureweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Alcheweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lightlord Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.5,
+      "Weight": 2.5,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.5,
+      "Weight": 7.5,
+      "Priority": 60,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Light Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 70,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 80,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4013899543
+}{
+  "ChestName": "Lumiere Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Healweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.25,
+      "Weight": 17.25,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Vitalweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.25,
+      "Weight": 17.25,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Cureweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.25,
+      "Weight": 17.25,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Alcheweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.25,
+      "Weight": 17.25,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lightlord Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 60,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Light Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 70,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 80,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4162280407
+}{
+  "ChestName": "Lumiere Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Healweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 17.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Vitalweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 17.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Cureweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 17.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Alcheweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 17.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lightlord Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.5,
+      "Weight": 3.5,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 60,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Light Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.25,
+      "Weight": 10.25,
+      "Priority": 70,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.25,
+      "Weight": 10.25,
+      "Priority": 80,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2647549335
+}{
+  "ChestName": "Lumiere Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Healweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 11.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Vitalweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 11.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Cureweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 11.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Alcheweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 11.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lightlord Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 11.0,
+      "Priority": 60,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Light Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 11.0,
+      "Priority": 70,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 11.0,
+      "Weight": 11.0,
+      "Priority": 80,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Linen",
+      "ItemCount": 1,
+      "ProbabilityPercent": 8.0,
+      "Weight": 8.0,
+      "Priority": 90,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 100,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Light Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 110,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3819578372
+}{
+  "ChestName": "Lumiere Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Healweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Vitalweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Cureweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Alcheweed",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lightlord Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Star Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 60,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Light Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 70,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 80,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Linen",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 90,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.5,
+      "Weight": 6.5,
+      "Priority": 100,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Light Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.5,
+      "Weight": 6.5,
+      "Priority": 110,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3671230788
+}{
+  "ChestName": "Lumiere Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 37.0,
+      "Weight": 37.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1803080279
+}

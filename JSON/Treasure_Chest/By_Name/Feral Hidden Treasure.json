@@ -1,0 +1,63 @@
+{
+  "ChestName": "Feral Hidden Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sack of Copper",
+      "ItemCount": 1,
+      "ProbabilityPercent": 21.73913,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Leather Cap",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.043478,
+      "Weight": 15.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Leather Armor",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.043478,
+      "Weight": 15.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Leather Leggings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.043478,
+      "Weight": 15.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Leather Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.043478,
+      "Weight": 15.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Leather Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.043478,
+      "Weight": 15.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Claw Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.043478,
+      "Weight": 15.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1278963597
+}

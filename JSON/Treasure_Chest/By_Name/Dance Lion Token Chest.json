@@ -1,0 +1,179 @@
+{
+  "ChestName": "Dance Lion Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 699754163
+}{
+  "ChestName": "Dance Lion Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Token",
+      "ItemCount": 15,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2249695888
+}{
+  "ChestName": "Dance Lion Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stormbolg Token",
+      "ItemCount": 20,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Stormbolg Token",
+      "ItemCount": 15,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2236525812
+}{
+  "ChestName": "Dance Lion Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 65.0,
+      "Weight": 65.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2657590235
+}{
+  "ChestName": "Dance Lion Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 10,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 8,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3308134698
+}{
+  "ChestName": "Dance Lion Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 24,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 20,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 16,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1053859950
+}{
+  "ChestName": "Dance Lion Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 48,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 40,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Darkbolg Token",
+      "ItemCount": 32,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3759746788
+}

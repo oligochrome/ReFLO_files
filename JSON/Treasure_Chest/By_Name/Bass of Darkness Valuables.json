@@ -1,0 +1,23 @@
+{
+  "ChestName": "Bass of Darkness Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Dark Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Beautiful Fin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1606230489
+}

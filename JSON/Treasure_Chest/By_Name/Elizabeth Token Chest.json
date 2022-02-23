@@ -1,0 +1,61 @@
+{
+  "ChestName": "Elizabeth Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Elizabeth Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Elizabeth Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elizabeth Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2514523411
+}{
+  "ChestName": "Elizabeth Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Elizabeth Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Elizabeth Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elizabeth Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 348516404
+}

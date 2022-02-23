@@ -1,0 +1,31 @@
+{
+  "ChestName": "Guardian Beast Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Great Forest Button",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Woodbolg's Fang",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plateau Honey",
+      "ItemCount": 5,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4130921409
+}

@@ -1,0 +1,79 @@
+{
+  "ChestName": "Prairie Dragon Hidden Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Shapeshift Prairie Hat",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift Prairie Set",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift Prairie Gauntlets",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift Prairie Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift Prairie Wings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Captain's Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Captain's Shield",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Prairie Dragon Scales",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Prairie's Tear",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.0,
+      "Weight": 16.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 896411499
+}

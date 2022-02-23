@@ -1,0 +1,23 @@
+{
+  "ChestName": "Snowy Night Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Snow Crystal",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Snow Crystal",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3786732722
+}

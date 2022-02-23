@@ -1,0 +1,77 @@
+{
+  "ChestName": "Platinum Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Platinum Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.333333343,
+      "Weight": 1.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.666667,
+      "Weight": 29.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 16.666666,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gold Token",
+      "ItemCount": 3,
+      "ProbabilityPercent": 73.3333359,
+      "Weight": 220.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3746824163
+}{
+  "ChestName": "Platinum Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Platinum Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.333333343,
+      "Weight": 1.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.666667,
+      "Weight": 29.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 16.666666,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gold Token",
+      "ItemCount": 3,
+      "ProbabilityPercent": 73.3333359,
+      "Weight": 220.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1388226275
+}

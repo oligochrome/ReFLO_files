@@ -1,0 +1,201 @@
+{
+  "ChestName": "Sea Turtle Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Turtle Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Quality Minty Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Port Puerto Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Aquamarine",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Steel Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.5,
+      "Weight": 950.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ghostly Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3079059541
+}{
+  "ChestName": "Sea Turtle Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Turtle Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Quality Minty Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Port Puerto Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Aquamarine",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Steel Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.3,
+      "Weight": 930.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ghostly Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.7,
+      "Weight": 70.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2399016213
+}{
+  "ChestName": "Sea Turtle Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Turtle Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Quality Minty Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Port Puerto Silver",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Silver Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Aquamarine",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Steel Shell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ghostly Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2580967893
+}{
+  "ChestName": "Sea Turtle Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3283992527
+}

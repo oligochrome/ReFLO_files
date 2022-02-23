@@ -1,0 +1,31 @@
+{
+  "ChestName": "Tough Bandit Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.0,
+      "Weight": 13.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Black Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.0,
+      "Weight": 13.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 74.0,
+      "Weight": 74.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 84368847
+}

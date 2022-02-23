@@ -1,0 +1,51 @@
+{
+  "ChestName": "Peachum Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Peachum Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 559563033
+}{
+  "ChestName": "Peachum Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Peachum Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 552582148
+}{
+  "ChestName": "Peachum Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Wind Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wind Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1818229648
+}

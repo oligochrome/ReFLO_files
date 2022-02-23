@@ -1,0 +1,47 @@
+{
+  "ChestName": "Ultra Carrotella Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Carrot",
+      "ItemCount": 1,
+      "ProbabilityPercent": 92.0,
+      "Weight": 92.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Carrotella Head",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Carrotella Costume",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Carrotella Hands",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Carrotella Boots",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 929632872
+}

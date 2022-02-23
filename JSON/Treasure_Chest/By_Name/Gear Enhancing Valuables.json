@@ -1,0 +1,15 @@
+{
+  "ChestName": "Gear Enhancing Valuables",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (M)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 100.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1953604440
+}

@@ -1,0 +1,59 @@
+{
+  "ChestName": "Giant Chocolate Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chocolate Essence",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2426569582
+}{
+  "ChestName": "Giant Chocolate Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chocolate Essence",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Chocolate Essence",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2463643648
+}{
+  "ChestName": "Giant Chocolate Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chocolate Essence",
+      "ItemCount": 3,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Chocolate Essence",
+      "ItemCount": 2,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2470064555
+}

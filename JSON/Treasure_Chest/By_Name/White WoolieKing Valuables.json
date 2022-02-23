@@ -1,0 +1,31 @@
+{
+  "ChestName": "White WoolieKing Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.0,
+      "Weight": 13.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "King Mutton",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.0,
+      "Weight": 13.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 74.0,
+      "Weight": 74.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1534666924
+}

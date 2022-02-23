@@ -1,0 +1,15 @@
+{
+  "ChestName": "Century-old Oak",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Chubby Oak Log",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3828445994
+}

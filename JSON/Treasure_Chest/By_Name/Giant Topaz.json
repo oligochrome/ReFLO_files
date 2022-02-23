@@ -1,0 +1,23 @@
+{
+  "ChestName": "Giant Topaz",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Topaz",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 4,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1406029038
+}

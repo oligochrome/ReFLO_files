@@ -1,0 +1,29 @@
+{
+  "ChestName": "Rare Bear Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Ursibang Token",
+      "ItemCount": 30,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 431181229
+}{
+  "ChestName": "Rare Bear Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Dark Ursibang Token",
+      "ItemCount": 30,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 69651307
+}

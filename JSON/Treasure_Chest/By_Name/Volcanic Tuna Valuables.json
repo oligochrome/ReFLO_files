@@ -1,0 +1,23 @@
+{
+  "ChestName": "Volcanic Tuna Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Fire Mana",
+      "ItemCount": 2,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Volcanic Fin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2871136172
+}

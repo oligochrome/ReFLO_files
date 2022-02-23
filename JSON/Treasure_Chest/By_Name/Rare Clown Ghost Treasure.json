@@ -1,0 +1,133 @@
+{
+  "ChestName": "Rare Clown Ghost Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crescent Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 11,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 99.0,
+      "Weight": 99.0,
+      "Priority": 15,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4075154101
+}{
+  "ChestName": "Rare Clown Ghost Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 98.0,
+      "Weight": 98.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crescent Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4258280458
+}{
+  "ChestName": "Rare Clown Ghost Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 97.0,
+      "Weight": 97.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crescent Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2781781282
+}{
+  "ChestName": "Rare Clown Ghost Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crescent Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 96.0,
+      "Weight": 96.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3416082421
+}{
+  "ChestName": "Rare Clown Ghost Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crescent Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 95.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2923723189
+}{
+  "ChestName": "Rare Clown Ghost Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crescent Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 11,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 15,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3110870389
+}

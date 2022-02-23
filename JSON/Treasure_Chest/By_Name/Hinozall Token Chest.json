@@ -1,0 +1,91 @@
+{
+  "ChestName": "Hinozall Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Primeval Hinozall Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Primeval Hinozall Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Primeval Hinozall Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1247100043
+}{
+  "ChestName": "Hinozall Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Origin Hinozall Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Origin Hinozall Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Origin Hinozall Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 699155157
+}{
+  "ChestName": "Hinozall Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Warrior Hinozall Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Warrior Hinozall Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Warrior Hinozall Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2658173123
+}

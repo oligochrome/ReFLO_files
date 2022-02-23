@@ -1,0 +1,53 @@
+{
+  "ChestName": "Great Gold Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2907786849
+}{
+  "ChestName": "Great Gold Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 44.4444427,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 55.5555573,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2900669308
+}

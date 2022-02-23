@@ -1,0 +1,23 @@
+{
+  "ChestName": "Warrior Divine Rock",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Minty Ore",
+      "ItemCount": 2,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 678691645
+}

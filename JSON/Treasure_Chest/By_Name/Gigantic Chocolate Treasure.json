@@ -1,0 +1,61 @@
+{
+  "ChestName": "Gigantic Chocolate Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chocolate Jelly",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Chocolate Jelly",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Chocolate Essence",
+      "ItemCount": 4,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 588175202
+}{
+  "ChestName": "Gigantic Chocolate Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Chocolate Jelly",
+      "ItemCount": 4,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Chocolate Jelly",
+      "ItemCount": 3,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Chocolate Essence",
+      "ItemCount": 7,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1360959619
+}

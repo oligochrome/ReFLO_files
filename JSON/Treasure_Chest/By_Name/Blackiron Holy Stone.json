@@ -1,0 +1,31 @@
+{
+  "ChestName": "Blackiron Holy Stone",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Quality Minty Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "M.DEF Upgrade Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4170850422
+}

@@ -1,0 +1,91 @@
+{
+  "ChestName": "Bronze Token Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 3,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4010065330
+}{
+  "ChestName": "Bronze Token Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 3,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1716014289
+}{
+  "ChestName": "Bronze Token Chest",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 3,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bronze Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3243537458
+}

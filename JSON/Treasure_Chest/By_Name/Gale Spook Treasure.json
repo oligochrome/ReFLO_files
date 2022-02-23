@@ -1,0 +1,23 @@
+{
+  "ChestName": "Gale Spook Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Mysterious Object",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3616002160
+}

@@ -1,0 +1,109 @@
+{
+  "ChestName": "Greenleaf Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Greenleaf Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1611331256
+}{
+  "ChestName": "Greenleaf Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earth Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 581360271
+}{
+  "ChestName": "Greenleaf Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Greenleaf Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1639910309
+}{
+  "ChestName": "Greenleaf Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earth Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1101071275
+}{
+  "ChestName": "Greenleaf Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Greenleaf Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1667304578
+}{
+  "ChestName": "Greenleaf Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earth Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3836307655
+}

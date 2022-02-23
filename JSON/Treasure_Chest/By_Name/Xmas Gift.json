@@ -1,0 +1,113 @@
+{
+  "ChestName": "Xmas Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Festive Ribbon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Snow Shard",
+      "ItemCount": 2,
+      "ProbabilityPercent": 85.0,
+      "Weight": 85.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3829705988
+}{
+  "ChestName": "Xmas Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Festive Ribbon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Snow Shard",
+      "ItemCount": 3,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3711696964
+}{
+  "ChestName": "Xmas Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Festive Ribbon",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Festive Ribbon",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Snow Shard",
+      "ItemCount": 4,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1394423102
+}{
+  "ChestName": "Xmas Gift",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Festive Ribbon",
+      "ItemCount": 4,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Festive Ribbon",
+      "ItemCount": 3,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Festive Ribbon",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Snow Shard",
+      "ItemCount": 6,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3752308299
+}

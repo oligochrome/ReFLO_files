@@ -1,0 +1,23 @@
+{
+  "ChestName": "Sand Golem Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Sun Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Al Maajik Gold",
+      "ItemCount": 3,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2200533037
+}

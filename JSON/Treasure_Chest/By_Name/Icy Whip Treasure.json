@@ -1,0 +1,107 @@
+{
+  "ChestName": "Icy Whip Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lucky Flower",
+      "ItemCount": 1,
+      "ProbabilityPercent": 65.0,
+      "Weight": 65.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4249192967
+}{
+  "ChestName": "Icy Whip Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lucky Flower",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3933073095
+}{
+  "ChestName": "Icy Whip Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 22.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 23.0,
+      "Weight": 23.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lucky Flower",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3541386119
+}

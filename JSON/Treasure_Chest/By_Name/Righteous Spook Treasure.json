@@ -1,0 +1,107 @@
+{
+  "ChestName": "Righteous Spook Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.970297,
+      "Weight": 3.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 2,
+      "ProbabilityPercent": 48.51485,
+      "Weight": 49.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Mysterious Object",
+      "ItemCount": 2,
+      "ProbabilityPercent": 48.51485,
+      "Weight": 49.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 170164680
+}{
+  "ChestName": "Righteous Spook Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Arcane Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.0,
+      "Weight": 4.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 2,
+      "ProbabilityPercent": 28.0,
+      "Weight": 28.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Mysterious Object",
+      "ItemCount": 2,
+      "ProbabilityPercent": 28.0,
+      "Weight": 28.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2455385026
+}{
+  "ChestName": "Righteous Spook Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Arcane Powder",
+      "ItemCount": 2,
+      "ProbabilityPercent": 39.6039619,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 4.95049524,
+      "Weight": 5.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Spiritual Powder",
+      "ItemCount": 3,
+      "ProbabilityPercent": 27.7227726,
+      "Weight": 28.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Mysterious Object",
+      "ItemCount": 3,
+      "ProbabilityPercent": 27.7227726,
+      "Weight": 28.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 841731896
+}

@@ -1,0 +1,45 @@
+{
+  "ChestName": "Flame Moth Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flame Moth Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 95.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Flame Moth Jade",
+      "ItemCount": 3,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 598605053
+}{
+  "ChestName": "Flame Moth Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Fire Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Fire Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3758390045
+}

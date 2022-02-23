@@ -1,0 +1,421 @@
+{
+  "ChestName": "Spirit Tree Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1560976983
+}{
+  "ChestName": "Spirit Tree Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3329848451
+}{
+  "ChestName": "Spirit Tree Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.5,
+      "Weight": 17.5,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2963033534
+}{
+  "ChestName": "Spirit Tree Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Green Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 17.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 17.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Yellow Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 17.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 17.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 737126250
+}{
+  "ChestName": "Spirit Tree Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ghastly Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Weird Object",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 6.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2651382257
+}{
+  "ChestName": "Spirit Tree Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Yellow Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Novel Green Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "White Ore",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Purple Stone",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 12.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ghastly Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 8,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Weird Object",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 9,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 6.0,
+      "Weight": 6.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 91949861
+}

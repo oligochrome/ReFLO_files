@@ -1,0 +1,63 @@
+{
+  "ChestName": "Crystal Beast Hidden Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Shapeshift: Behemoth's Head",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift: Behemoth's Set",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift: Behemoth's Forelimb",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Shapeshift: Behemoth's Hind Leg",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Crystal Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Monster Crystal",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Scale",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 7,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1316494530
+}

@@ -1,0 +1,45 @@
+{
+  "ChestName": "Peachum Hidden Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Peachum Pendant",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 4082271196
+}{
+  "ChestName": "Peachum Hidden Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Plain Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 241776926
+}

@@ -1,0 +1,57 @@
+{
+  "ChestName": "Boon of Great Lucky Bream",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Greater Fin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1661632587
+}{
+  "ChestName": "Boon of Great Lucky Bream",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Greater Fin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4262077090
+}{
+  "ChestName": "Boon of Great Lucky Bream",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Greater Fin",
+      "ItemCount": 4,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 383548042
+}{
+  "ChestName": "Boon of Great Lucky Bream",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Greater Fin",
+      "ItemCount": 6,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4195097729
+}

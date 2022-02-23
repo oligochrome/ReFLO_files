@@ -1,0 +1,15 @@
+{
+  "ChestName": "Great Fire Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Fire Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 100.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2781456315
+}

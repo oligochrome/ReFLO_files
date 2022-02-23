@@ -1,0 +1,97 @@
+{
+  "ChestName": "Guardian of Earth Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 24745765
+}{
+  "ChestName": "Guardian of Earth Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2701683679
+}{
+  "ChestName": "Guardian of Earth Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2974665478
+}{
+  "ChestName": "Guardian of Earth Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 12,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 9,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Guardian Coin",
+      "ItemCount": 6,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3405731994
+}

@@ -1,0 +1,23 @@
+{
+  "ChestName": "Spook Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Magic Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 38.46154,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Suspicious Object",
+      "ItemCount": 3,
+      "ProbabilityPercent": 61.53846,
+      "Weight": 80.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1161399786
+}

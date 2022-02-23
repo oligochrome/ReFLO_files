@@ -1,0 +1,45 @@
+{
+  "ChestName": "White Bear Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Smelt",
+      "ItemCount": 1,
+      "ProbabilityPercent": 21.4285717,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Frosty Fish",
+      "ItemCount": 1,
+      "ProbabilityPercent": 14.2857141,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Grassland Honey",
+      "ItemCount": 2,
+      "ProbabilityPercent": 64.28571,
+      "Weight": 90.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3396835664
+}{
+  "ChestName": "White Bear Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Spring Water",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 81417489
+}

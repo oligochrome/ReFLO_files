@@ -1,0 +1,45 @@
+{
+  "ChestName": "Rare Bear Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 7000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 3000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1058819167
+}{
+  "ChestName": "Rare Bear Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 7000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 3000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3444285863
+}

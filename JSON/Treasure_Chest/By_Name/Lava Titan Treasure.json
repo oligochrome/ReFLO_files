@@ -1,0 +1,51 @@
+{
+  "ChestName": "Lava Titan Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Lava Titan Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1876943507
+}{
+  "ChestName": "Lava Titan Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Lava Titan Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1852448654
+}{
+  "ChestName": "Lava Titan Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Fire Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Fire Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 4234912305
+}

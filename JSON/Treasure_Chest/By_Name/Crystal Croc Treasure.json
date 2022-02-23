@@ -1,0 +1,39 @@
+{
+  "ChestName": "Crystal Croc Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Crystal Tail",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Thick Fang",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 3,
+      "ProbabilityPercent": 47.0,
+      "Weight": 47.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1222001602
+}

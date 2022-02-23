@@ -1,0 +1,153 @@
+{
+  "ChestName": "Black Dragon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Great Dragon Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Black Dragon Scale",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3106679043
+}{
+  "ChestName": "Black Dragon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Dragon Rings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 1.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Black Dragon's Horn",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Great Dragon Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 60.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon Scale",
+      "ItemCount": 1,
+      "ProbabilityPercent": 59.5,
+      "Weight": 119.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1654543673
+}{
+  "ChestName": "Black Dragon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Dragon Rings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Black Dragon Tears",
+      "ItemCount": 1,
+      "ProbabilityPercent": 28.0,
+      "Weight": 28.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Black Dragon's Horn",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Great Dragon Claws",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Dragon Scale",
+      "ItemCount": 4,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 50,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1541863545
+}{
+  "ChestName": "Black Dragon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Black Dragon Scale",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Black Ore",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4131663099
+}

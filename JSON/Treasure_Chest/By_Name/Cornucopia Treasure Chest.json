@@ -1,0 +1,647 @@
+{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Cherry Lordfish",
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 97.0,
+      "Weight": 97.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 1236393470,
+    "TargetObjId": 2506129236,
+    "MasterSurpriseboxId": 253206078,
+    "Life": "Fishing",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Bass of Crystal",
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 93.0,
+      "Weight": 93.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 1609095648,
+    "TargetObjId": 857175264,
+    "MasterSurpriseboxId": 2518601604,
+    "Life": "Fishing",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Forest Lordfish",
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 93.0,
+      "Weight": 93.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 1609095648,
+    "TargetObjId": 3409184384,
+    "MasterSurpriseboxId": 3776577298,
+    "Life": "Fishing",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Swordfish",
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 93.0,
+      "Weight": 93.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 1609095648,
+    "TargetObjId": 211053812,
+    "MasterSurpriseboxId": 2138925745,
+    "Life": "Fishing",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Dark Bass Shadow",
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 93.0,
+      "Weight": 93.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 1609095648,
+    "TargetObjId": 2567711015,
+    "MasterSurpriseboxId": 142236199,
+    "Life": "Fishing",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Greenleaf Lordfish",
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 97.0,
+      "Weight": 97.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 1236393470,
+    "TargetObjId": 2126986199,
+    "MasterSurpriseboxId": 2440235933,
+    "Life": "Fishing",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Greenleaf Lordfish",
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 93.0,
+      "Weight": 93.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 1609095648,
+    "TargetObjId": 163580737,
+    "MasterSurpriseboxId": 3866376971,
+    "Life": "Fishing",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Greenleaf Lordfish",
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 2355177809,
+    "TargetObjId": 2429115131,
+    "MasterSurpriseboxId": 1993025178,
+    "Life": "Fishing",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Sacred Earth Tree",
+  "Drops": [
+    {
+      "Name": "Whitespirit Fruit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 375863055,
+    "TargetObjId": 4090569229,
+    "MasterSurpriseboxId": 3326385776,
+    "Life": "Logging",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Sacred Water Tree",
+  "Drops": [
+    {
+      "Name": "Whitespirit Fruit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 4076305,
+    "TargetObjId": 1821142727,
+    "MasterSurpriseboxId": 1598934986,
+    "Life": "Logging",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Great Elderwood Tree",
+  "Drops": [
+    {
+      "Name": "Whitespirit Fruit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 4076305,
+    "TargetObjId": 224071431,
+    "MasterSurpriseboxId": 676003676,
+    "Life": "Logging",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Sacred Wind Tree",
+  "Drops": [
+    {
+      "Name": "Whitespirit Fruit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 4076305,
+    "TargetObjId": 3405473139,
+    "MasterSurpriseboxId": 3056495359,
+    "Life": "Logging",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Earth Wingrock",
+  "Drops": [
+    {
+      "Name": "Whitespirit Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 782513735,
+    "TargetObjId": 3611654185,
+    "MasterSurpriseboxId": 3716616914,
+    "Life": "Mining",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Wind Wingrock",
+  "Drops": [
+    {
+      "Name": "Whitespirit Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 956117593,
+    "TargetObjId": 2272920436,
+    "MasterSurpriseboxId": 1150174056,
+    "Life": "Mining",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Water Wingrock",
+  "Drops": [
+    {
+      "Name": "Whitespirit Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 956117593,
+    "TargetObjId": 554502336,
+    "MasterSurpriseboxId": 864646142,
+    "Life": "Mining",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "OriginName": "Palm of Titan",
+  "Drops": [
+    {
+      "Name": "Whitespirit Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 956117593,
+    "TargetObjId": 3778874534,
+    "MasterSurpriseboxId": 2918049373,
+    "Life": "Mining",
+    "License": "Master"
+  }
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 97.0,
+      "Weight": 97.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2826050373
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 7.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 93.0,
+      "Weight": 93.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3730981922
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Moss",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2676302889
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Fruit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4177694372
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Fruit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2400375235
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Fruit",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3472208328
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 971793497
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1341930302
+}{
+  "ChestName": "Cornucopia Treasure Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Whitespirit Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 236673845
+}

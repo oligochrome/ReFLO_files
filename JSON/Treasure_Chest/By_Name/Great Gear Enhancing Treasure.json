@@ -1,0 +1,15 @@
+{
+  "ChestName": "Great Gear Enhancing Treasure",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 100.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4262846281
+}

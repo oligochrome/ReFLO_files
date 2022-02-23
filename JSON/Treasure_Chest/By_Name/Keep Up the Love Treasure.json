@@ -1,0 +1,37 @@
+{
+  "ChestName": "Keep Up the Love Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pink Gel",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3222361536
+}{
+  "ChestName": "Keep Up the Love Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Pink Gel",
+      "ItemCount": 6,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Pink Gel",
+      "ItemCount": 5,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3305515703
+}

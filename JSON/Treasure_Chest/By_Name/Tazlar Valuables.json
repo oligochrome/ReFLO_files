@@ -1,0 +1,23 @@
+{
+  "ChestName": "Tazlar Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Plushling Summon Coin",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 95.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Plushling Summon Coin",
+      "ItemCount": 5,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3969370776
+}

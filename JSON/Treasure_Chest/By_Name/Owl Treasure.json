@@ -1,0 +1,39 @@
+{
+  "ChestName": "Owl Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flame Feather",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Moon Cluster",
+      "ItemCount": 1,
+      "ProbabilityPercent": 36.0,
+      "Weight": 36.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flame Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 41.0,
+      "Weight": 41.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1694395491
+}

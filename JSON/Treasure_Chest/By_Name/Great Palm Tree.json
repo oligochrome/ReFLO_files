@@ -1,0 +1,23 @@
+{
+  "ChestName": "Great Palm Tree",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Palm Log",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elder Palm Log",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4158992335
+}

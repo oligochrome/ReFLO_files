@@ -1,0 +1,191 @@
+{
+  "ChestName": "Icy Whip Treasure/Plus",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lucky Flower",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3009026389
+}{
+  "ChestName": "Icy Whip Treasure/Plus",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Lucky Flower",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2317530133
+}{
+  "ChestName": "Icy Whip Treasure/Plus",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Waterdrop Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.4,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.6,
+      "Weight": 960.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Lucky Flower",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2968271188
+}{
+  "ChestName": "Icy Whip Treasure/Plus",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Waterdrop Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.4,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Waterdrop Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.4,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.2,
+      "Weight": 920.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Lucky Flower",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 842793999
+}{
+  "ChestName": "Icy Whip Treasure/Plus",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Waterdrop Amulet",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Waterdrop Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Water Shard",
+      "ItemCount": 1,
+      "ProbabilityPercent": 9.0,
+      "Weight": 900.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Lucky Flower",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blue Stone",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 4500.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2917566353
+}

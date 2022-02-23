@@ -1,0 +1,47 @@
+{
+  "ChestName": "Inishir Non-Elemental Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Rebirth Relic/Neutral",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rebirth Relic/Neutral",
+      "ItemCount": 2,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rebirth Relic/Neutral",
+      "ItemCount": 3,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rebirth Relic/Neutral",
+      "ItemCount": 4,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Rebirth Relic/Neutral",
+      "ItemCount": 5,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1839052843
+}

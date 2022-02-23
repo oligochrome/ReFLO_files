@@ -1,0 +1,181 @@
+{
+  "ChestName": "Battle-tested Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Pouch of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 142883379
+}{
+  "ChestName": "Battle-tested Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Pouch of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 838637427
+}{
+  "ChestName": "Battle-tested Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 55.0,
+      "Weight": 55.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Pouch of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 651490227
+}{
+  "ChestName": "Battle-tested Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Pouch of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1124978163
+}{
+  "ChestName": "Battle-tested Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Pouch of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1030327392
+}{
+  "ChestName": "Battle-tested Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 2,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Pouch of Dosh",
+      "ItemCount": 2,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 2,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2635624602
+}

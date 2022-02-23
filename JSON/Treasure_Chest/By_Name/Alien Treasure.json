@@ -1,0 +1,265 @@
+{
+  "ChestName": "Alien Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 52.0,
+      "Weight": 5200.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wind Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Topaz",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 5,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1317220573
+}{
+  "ChestName": "Alien Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Alien Charm",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 75.0,
+      "Weight": 7500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1675998220
+}{
+  "ChestName": "Alien Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 44.0,
+      "Weight": 4400.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 1700.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wind Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 1700.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 17.0,
+      "Weight": 1700.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Topaz",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 5,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 946211296
+}{
+  "ChestName": "Alien Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Alien Charm",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 65.0,
+      "Weight": 6500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1006312740
+}{
+  "ChestName": "Alien Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 33.0,
+      "Weight": 3300.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wind Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 2000.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Topaz",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 700.0,
+      "Priority": 5,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2736120628
+}{
+  "ChestName": "Alien Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Alien Charm",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3135141891
+}{
+  "ChestName": "Alien Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gear Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plain Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wind Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Earth Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 2200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Topaz",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 5,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1539931058
+}{
+  "ChestName": "Alien Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Alien Charm",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 10000.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3204285070
+}

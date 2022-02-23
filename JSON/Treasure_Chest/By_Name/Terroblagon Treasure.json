@@ -1,0 +1,73 @@
+{
+  "ChestName": "Terroblagon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Terroblagon Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3765273033
+}{
+  "ChestName": "Terroblagon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Shadow Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shadow Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1406420116
+}{
+  "ChestName": "Terroblagon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Terroblagon Jade",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3808852979
+}{
+  "ChestName": "Terroblagon Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Shadow Enh. Orb (L)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Shadow Enh. Orb (M)",
+      "ItemCount": 5,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2514220764
+}

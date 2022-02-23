@@ -1,0 +1,47 @@
+{
+  "ChestName": "Enraged Ox Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Wild Ox Horn",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Large Beef",
+      "ItemCount": 2,
+      "ProbabilityPercent": 35.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Darky-Milky",
+      "ItemCount": 2,
+      "ProbabilityPercent": 39.5,
+      "Weight": 79.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 10.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 1.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1149712879
+}

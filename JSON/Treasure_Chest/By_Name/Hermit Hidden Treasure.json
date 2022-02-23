@@ -1,0 +1,55 @@
+{
+  "ChestName": "Hermit Hidden Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earth Wraith Hood",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Wraith Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Earth Wraith Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hermit Staff",
+      "ItemCount": 1,
+      "ProbabilityPercent": 2.0,
+      "Weight": 2.0,
+      "Priority": 4,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Giant Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 5,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Forest Powder",
+      "ItemCount": 1,
+      "ProbabilityPercent": 22.0,
+      "Weight": 22.0,
+      "Priority": 6,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 464959928
+}

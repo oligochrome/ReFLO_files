@@ -1,0 +1,53 @@
+{
+  "ChestName": "Black Devil Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Holy Bell",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Snow Shard",
+      "ItemCount": 3,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4017164604
+}{
+  "ChestName": "Black Devil Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Holy Maiden Necklace",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Holy Bell",
+      "ItemCount": 4,
+      "ProbabilityPercent": 49.0,
+      "Weight": 49.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Holy Bell",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3556842243
+}

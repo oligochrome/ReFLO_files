@@ -1,0 +1,91 @@
+{
+  "ChestName": "Dominator of Gale Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2835256285
+}{
+  "ChestName": "Dominator of Gale Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 12,
+      "ProbabilityPercent": 33.0,
+      "Weight": 33.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 6,
+      "ProbabilityPercent": 33.0,
+      "Weight": 33.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 9,
+      "ProbabilityPercent": 34.0,
+      "Weight": 34.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3686482189
+}{
+  "ChestName": "Dominator of Gale Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 6,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 10,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 9,
+      "ProbabilityPercent": 9.0,
+      "Weight": 9.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Gale Dominator Coin",
+      "ItemCount": 12,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2259573341
+}

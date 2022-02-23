@@ -1,0 +1,123 @@
+{
+  "ChestName": "Dark Flamebolg Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flamebolg Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 30.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Flamebolg Hide",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 70.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Fur",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 100.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2530424942
+}{
+  "ChestName": "Dark Flamebolg Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flamebolg Brooch",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 2.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Flamebolg Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 30.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 40.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Hide",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 60.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Fur",
+      "ItemCount": 1,
+      "ProbabilityPercent": 34.0,
+      "Weight": 68.0,
+      "Priority": 50,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 927882194
+}{
+  "ChestName": "Dark Flamebolg Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Flamebolg Cape",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Flamebolg Brooch",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 3.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Flame Ruby",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 30,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Claws",
+      "ItemCount": 1,
+      "ProbabilityPercent": 32.0,
+      "Weight": 32.0,
+      "Priority": 40,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Flamebolg Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 25.0,
+      "Priority": 50,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1560873881
+}

@@ -1,0 +1,29 @@
+{
+  "ChestName": "Mega Light Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Light Enh. Orb (L)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4136204771
+}{
+  "ChestName": "Mega Light Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Light Enh. Orb (XL)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2990759142
+}

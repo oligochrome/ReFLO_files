@@ -1,0 +1,31 @@
+{
+  "ChestName": "Crystal Croc Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.0,
+      "Weight": 13.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Crystal Tail",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.0,
+      "Weight": 13.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 74.0,
+      "Weight": 74.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3436121153
+}

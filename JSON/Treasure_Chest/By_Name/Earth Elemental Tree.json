@@ -1,0 +1,23 @@
+{
+  "ChestName": "Earth Elemental Tree",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Earthen Leaf",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Elder Earth Log",
+      "ItemCount": 1,
+      "ProbabilityPercent": 60.0,
+      "Weight": 60.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1539139452
+}

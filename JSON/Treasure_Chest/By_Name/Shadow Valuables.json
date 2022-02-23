@@ -1,0 +1,15 @@
+{
+  "ChestName": "Shadow Valuables",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "Shadow Enh. Orb (M)",
+      "ItemCount": 3,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2627464808
+}

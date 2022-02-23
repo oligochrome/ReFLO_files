@@ -1,0 +1,231 @@
+{
+  "ChestName": "Scorching Valuables",
+  "ChestRarity": 3,
+  "Drops": [
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Relic Replica",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 3,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.1,
+      "Weight": 10.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 5,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 6,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Platinum Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 7,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.25,
+      "Weight": 25.0,
+      "Priority": 8,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 0.5,
+      "Weight": 50.0,
+      "Priority": 9,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Gold Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 100.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 3,
+      "ProbabilityPercent": 0.75,
+      "Weight": 75.0,
+      "Priority": 11,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 2,
+      "ProbabilityPercent": 1.5,
+      "Weight": 150.0,
+      "Priority": 12,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Silver Key",
+      "ItemCount": 1,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 13,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 3,
+      "ProbabilityPercent": 2.0,
+      "Weight": 200.0,
+      "Priority": 14,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 2,
+      "ProbabilityPercent": 4.0,
+      "Weight": 400.0,
+      "Priority": 15,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Life Cure",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.3,
+      "Weight": 730.0,
+      "Priority": 16,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plains Iron",
+      "ItemCount": 20,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 17,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plains Iron",
+      "ItemCount": 10,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 18,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Plains Iron",
+      "ItemCount": 5,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 19,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blackiron Ore",
+      "ItemCount": 20,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 20,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blackiron Ore",
+      "ItemCount": 10,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 21,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Blackiron Ore",
+      "ItemCount": 5,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 22,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Port Puerto Silver",
+      "ItemCount": 20,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 23,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Port Puerto Silver",
+      "ItemCount": 10,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 24,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Port Puerto Silver",
+      "ItemCount": 5,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 25,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ruby",
+      "ItemCount": 5,
+      "ProbabilityPercent": 3.0,
+      "Weight": 300.0,
+      "Priority": 26,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ruby",
+      "ItemCount": 3,
+      "ProbabilityPercent": 6.0,
+      "Weight": 600.0,
+      "Priority": 27,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Ruby",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 28,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1345494911
+}

@@ -1,0 +1,325 @@
+{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Extra Creamy Milk",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 4000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Large Beef",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.5,
+      "Weight": 1250.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.5,
+      "Weight": 1250.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 2159097736
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stampedeur Brooch",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 500.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 95.0,
+      "Weight": 9500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2915263019
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Extra Creamy Milk",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 4000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Large Beef",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.5,
+      "Weight": 1250.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.5,
+      "Weight": 1250.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 3116997320
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stampedeur Brooch",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 9000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 4124953347
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Darky-Milky",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 3000.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Large Beef",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 3000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.5,
+      "Weight": 1650.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Armor Core (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 16.5,
+      "Weight": 1650.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wild Ox Horn",
+      "ItemCount": 1,
+      "ProbabilityPercent": 7.0,
+      "Weight": 700.0,
+      "Priority": 5,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1942862837
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stampedeur Brooch",
+      "ItemCount": 1,
+      "ProbabilityPercent": 25.0,
+      "Weight": 2500.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 75.0,
+      "Weight": 7500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1962454564
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Darky-Milky",
+      "ItemCount": 1,
+      "ProbabilityPercent": 26.0,
+      "Weight": 2600.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Large Beef",
+      "ItemCount": 1,
+      "ProbabilityPercent": 26.0,
+      "Weight": 2600.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 26.0,
+      "Weight": 2600.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 12.0,
+      "Weight": 1200.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wild Ox Horn",
+      "ItemCount": 1,
+      "ProbabilityPercent": 10.0,
+      "Weight": 1000.0,
+      "Priority": 5,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 370443701
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stampedeur Brooch",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 3500.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 65.0,
+      "Weight": 6500.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1172347219
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Darky-Milky",
+      "ItemCount": 1,
+      "ProbabilityPercent": 24.0,
+      "Weight": 2400.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Large Beef",
+      "ItemCount": 1,
+      "ProbabilityPercent": 24.0,
+      "Weight": 2400.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Water Enh. Orb (S)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 24.0,
+      "Weight": 2400.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Fire Armor Core (M)",
+      "ItemCount": 1,
+      "ProbabilityPercent": 15.0,
+      "Weight": 1500.0,
+      "Priority": 4,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Wild Ox Horn",
+      "ItemCount": 1,
+      "ProbabilityPercent": 13.0,
+      "Weight": 1300.0,
+      "Priority": 5,
+      "DropRareTag": "Mega Rare"
+    }
+  ],
+  "SurpriseboxObjId": 20767093
+}{
+  "ChestName": "Oceantaur Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Stampedeur Brooch",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 1,
+      "DropRareTag": "Mega Rare"
+    },
+    {
+      "Name": "Bag of Dosh",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 5000.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3301309556
+}

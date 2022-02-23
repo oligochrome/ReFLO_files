@@ -1,0 +1,39 @@
+{
+  "ChestName": "Black Bee Knight Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Huge Sting",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Dark Honey",
+      "ItemCount": 2,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Sack of Dosh",
+      "ItemCount": 1,
+      "ProbabilityPercent": 49.0,
+      "Weight": 49.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Genesis Relic",
+      "ItemCount": 1,
+      "ProbabilityPercent": 1.0,
+      "Weight": 1.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 86183908
+}

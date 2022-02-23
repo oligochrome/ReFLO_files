@@ -1,0 +1,15 @@
+{
+  "ChestName": "Snowpard Queen Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Snowpard's Claw",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 958433799
+}

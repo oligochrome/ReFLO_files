@@ -1,0 +1,23 @@
+{
+  "ChestName": "Great Blue Beast Treasure",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Thick Fang",
+      "ItemCount": 1,
+      "ProbabilityPercent": 20.0,
+      "Weight": 20.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Hard Claws",
+      "ItemCount": 3,
+      "ProbabilityPercent": 80.0,
+      "Weight": 80.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3237509559
+}

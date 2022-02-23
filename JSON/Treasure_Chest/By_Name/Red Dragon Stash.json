@@ -1,0 +1,85 @@
+{
+  "ChestName": "Red Dragon Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Napdragon's Teardrop",
+      "ItemCount": 1,
+      "ProbabilityPercent": 30.0,
+      "Weight": 30.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Napdragon's Scale",
+      "ItemCount": 1,
+      "ProbabilityPercent": 70.0,
+      "Weight": 70.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1808919420
+}{
+  "ChestName": "Red Dragon Stash",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Paladin's Sword",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 10,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Knightly Shield",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 20,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Slumber Hood",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 30,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Slumber Robe",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 40,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Slumber Shoes",
+      "ItemCount": 1,
+      "ProbabilityPercent": 5.0,
+      "Weight": 5.0,
+      "Priority": 50,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Napdragon's Teardrop",
+      "ItemCount": 1,
+      "ProbabilityPercent": 35.0,
+      "Weight": 35.0,
+      "Priority": 60,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Napdragon's Scale",
+      "ItemCount": 1,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 70,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1141700539
+}

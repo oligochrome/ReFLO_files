@@ -1,0 +1,23 @@
+{
+  "ChestName": "Hellfreeze Hidden Valuables",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Hellfreeze Earrings",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": "Rare"
+    },
+    {
+      "Name": "Master's Star",
+      "ItemCount": 1,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": "Rare"
+    }
+  ],
+  "SurpriseboxObjId": 1746128735
+}

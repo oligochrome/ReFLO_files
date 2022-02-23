@@ -1,0 +1,259 @@
+{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1563719421
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1065389220
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 526591331
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2410991751
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 90.0,
+      "Weight": 90.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1830769027
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 4,
+      "ProbabilityPercent": 40.0,
+      "Weight": 40.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 45.0,
+      "Weight": 45.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 262908890
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 12,
+      "ProbabilityPercent": 10.0,
+      "Weight": 10.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 9,
+      "ProbabilityPercent": 15.0,
+      "Weight": 15.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 6,
+      "ProbabilityPercent": 75.0,
+      "Weight": 75.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2834190975
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Waterpard Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3214931961
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 3118771999
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 3,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 50.0,
+      "Weight": 50.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1086499571
+}{
+  "ChestName": "Aqua Token Chest",
+  "ChestRarity": 4,
+  "Drops": [
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 5,
+      "ProbabilityPercent": 41.17647,
+      "Weight": 35.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 2,
+      "ProbabilityPercent": 35.294117,
+      "Weight": 30.0,
+      "Priority": 2,
+      "DropRareTag": ""
+    },
+    {
+      "Name": "Icy Whip Token",
+      "ItemCount": 3,
+      "ProbabilityPercent": 23.5294113,
+      "Weight": 20.0,
+      "Priority": 3,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 2430182022
+}

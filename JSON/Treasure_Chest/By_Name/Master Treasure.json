@@ -1,0 +1,35 @@
+{
+  "ChestName": "Master Treasure",
+  "OriginName": "-",
+  "Drops": [
+    {
+      "Name": "HP Potion",
+      "ItemCount": 3,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "Params": {
+    "SurpriseboxObjId": 633528225,
+    "TargetObjId": 986327055,
+    "MasterSurpriseboxId": 3281518784,
+    "Life": "",
+    "License": "Expert"
+  }
+}{
+  "ChestName": "Master Treasure",
+  "ChestRarity": 2,
+  "Drops": [
+    {
+      "Name": "HP Potion",
+      "ItemCount": 3,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1486628086
+}
