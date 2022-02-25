@@ -1,12 +1,2 @@
 # ReFLO_files
  Part of the ReFLO project
-
-## Old references ##
- ### files_json_dump  ###
- Processed JSON extractions. Ignore _0ut* associated files as they are still in progress of being written
-
- ### files_proto_dump ###
- Processed protobuf files to be used for integration. Search in these files for any particular information you wish to collect information for.
-
-### files_manager_dump ###
-Pseudocode obtained from Ghidra. Ignore as it is used for debugging the proto dump (especially for the arrays/vectors)
