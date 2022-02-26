@@ -28,9 +28,7 @@
           "Name": "Promising Woodcutter",
           "Desc": "For a short period of time, slightly enhances own Logging\r.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "PassiveProperties": [
@@ -100,9 +98,7 @@
         "Name": "Promising Woodcutter",
         "Desc": "For a short period of time, slightly enhances own Logging\r.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "PassiveProperties": [

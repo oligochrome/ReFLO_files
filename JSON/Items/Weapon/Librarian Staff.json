@@ -27,9 +27,7 @@
           "Name": "Book of Wizard",
           "Desc": "Increases M.ATK and M.DEF of self and nearby allies for a period of time.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "ChargeSkillGather": [],
@@ -93,9 +91,7 @@
         "Name": "Book of Wizard",
         "Desc": "Increases M.ATK and M.DEF of self and nearby allies for a period of time.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "ChargeSkillGather": [],

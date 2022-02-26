@@ -1,0 +1,68 @@
+{
+  "Name": "Ethanna",
+  "Title": "-",
+  "Desc": "A young Angler that's always sleepy.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Ethanna)",
+      "Repeated summon script (Ethanna)",
+      "End script (Ethanna)",
+      "End script 2 (Ethanna)",
+      "End script 2 (Ethanna)",
+      "End-in-failure script (Ethanna)",
+      "Confirmation script (Ethanna)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc238_0001",
+    "IcnAssetBundleId": 2171025005,
+    "FullFilename": "npc238_0001",
+    "FullAssetBundleId": 2171025005,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_fisherman"
+  },
+  "ParamIds": {
+    "ObjId": 2448369659,
+    "Uniqid": 2448369659,
+    "Id": "OBJ_CHARA_10038_00_00",
+    "ResId": 947840948,
+    "ResIdIcon": 4011842006,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3123194580,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4183082996,
+    "DescriptionId": 2351884273,
+    "CommonParamId": 3346722253,
+    "CharaParamId": 2100774001,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 886568454,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,60 @@
+{
+  "Name": "Barely-There Arches",
+  "Title": "-",
+  "Desc": "(input description)",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_avp00544",
+    "IcnAssetBundleId": 3469121516,
+    "FullFilename": "af00544_Brow01_00_def_lq",
+    "FullAssetBundleId": 664324353,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2246885321,
+    "Uniqid": 2246885321,
+    "Id": "OBJ_AVATAR_BROW_00011_00_00",
+    "ResId": 528739811,
+    "ResIdIcon": 1688785255,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3716825662,
+    "ContentsTypeId": 284916288,
+    "NameId": 3503921600,
+    "DescriptionId": 393071924,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,60 @@
+{
+  "Name": "Star Steed",
+  "Title": "-",
+  "Desc": "A rare horse that emits a blue light.\nIt looks like a comet when running through fields.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_vic002_0015",
+    "IcnAssetBundleId": 3054117272,
+    "FullFilename": "vic002_0015",
+    "FullAssetBundleId": 3054117272,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 776248858,
+    "Uniqid": 776248858,
+    "Id": "OBJ_RIDE_002_15_00",
+    "ResId": 655831339,
+    "ResIdIcon": 2705225481,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3987568552,
+    "ObjTypeId": 296109364,
+    "ContentsTypeId": 2986619045,
+    "NameId": 2499283148,
+    "DescriptionId": 6475791,
+    "CommonParamId": 101662971,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2301381524
+  },
+  "Category": ""
+}

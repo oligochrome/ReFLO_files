@@ -27,9 +27,7 @@
           "Name": "Icicle Lance",
           "Desc": "Penetrates the enemy with a freezing spear, dealing significant damage Increases your Fury DMG.",
           "Attribute": "Water",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "ChargeSkillGather": [],
@@ -101,9 +99,7 @@
         "Name": "Icicle Lance",
         "Desc": "Penetrates the enemy with a freezing spear, dealing significant damage Increases your Fury DMG.",
         "Attribute": "Water",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "ChargeSkillGather": [],

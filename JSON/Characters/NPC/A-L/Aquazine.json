@@ -1,0 +1,60 @@
+{
+  "Name": "Aquazine",
+  "Title": "-",
+  "Desc": "(description) Aquazine",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 955906765,
+    "FullFilename": "mon058_0006",
+    "FullAssetBundleId": 955906765,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 678554459,
+    "Uniqid": 678554459,
+    "Id": "OBJ_CHARA_00624_00_00",
+    "ResId": 2178951956,
+    "ResIdIcon": 1451300214,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1086982996,
+    "DescriptionId": 900737873,
+    "CommonParamId": 2128879981,
+    "CharaParamId": 3299444945,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

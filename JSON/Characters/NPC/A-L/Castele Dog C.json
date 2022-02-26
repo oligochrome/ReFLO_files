@@ -1,0 +1,60 @@
+{
+  "Name": "Castele Dog C",
+  "Title": "-",
+  "Desc": "(description) Castele Dog C",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp015_0003",
+    "IcnAssetBundleId": 1613097618,
+    "FullFilename": "bnp015_0003",
+    "FullAssetBundleId": 1613097618,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1890450180,
+    "Uniqid": 1890450180,
+    "Id": "OBJ_CHARA_00199_00_00",
+    "ResId": 3644603211,
+    "ResIdIcon": 240977193,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 404101899,
+    "DescriptionId": 1835809550,
+    "CommonParamId": 641216818,
+    "CharaParamId": 2624952462,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

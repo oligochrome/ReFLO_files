@@ -28,9 +28,7 @@
           "Name": "Ordinary Happiness",
           "Desc": "Slightly restores Line gauge of self and nearby allies\r.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "PassiveProperties": [
@@ -94,9 +92,7 @@
         "Name": "Ordinary Happiness",
         "Desc": "Slightly restores Line gauge of self and nearby allies\r.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "PassiveProperties": [

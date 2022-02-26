@@ -1,0 +1,743 @@
+{
+  "Name": "Leilah",
+  "Title": "Spirit Forest Guardian",
+  "Desc": "A girl who lives in the Elderwood hinterlands among spirits. She has replaced her older brother as a Guardian of the Forest to watch over Elderwood.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Light",
+    "CV": "Inori Minase",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 20,
+      "Name": "Twinkle Arrow",
+      "Desc": "Attacks while applying auto-heal to nearby allies \r Gains 2 \"Flower Piecesâ.",
+      "Attribute": "Light",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of bow combo",
+            "Desc": "Learn \"Five Stars\"",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of bow combo",
+            "Desc": "Learn \"Ray Light Cross\"",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of bow combo",
+            "Desc": "Learn \"Stardust Shower\"",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Secret Strength",
+            "Desc": "Increases basic attack's\ndamage (L)",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "With My Allies",
+            "Desc": "Increases all team members' ATK and M.ATK.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Astral Fantasy",
+            "Desc": "Take to the sky and fire countless light arrows. Get 3 Flower Pieces.",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 30,
+            "Name": "Twinkle Raise",
+            "Desc": "Increases M.ATK of nearby allies Attacks the enemy and reduces their Light RES. Gains 3 \"Flower Pieces\".",
+            "Attribute": "Light",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "A forest dweller who lives deep in Elderwood. She has replaced her older brother Pino as a Guardian of the Forest guarding Elderwood.\n\nShe is frank and innocent, and until now, she has never set foot outside Elderwood. Because of this, she doesn't understand the world, and believes every word of others wholeheartedly.\n\nAlthough she replaced her older brother Pino as Guardian, she is not sure whether or not she can protect Elderwood like her revered brother. Just then, she met the God's Envoy, and her state of mind changed a bit.\n\nShe respects fellow forest-dweller Kiba as if he were another older brother. When she was little, Kiba would often play with her and Pino. She is close friends with Leafe, the Spirit of Forest. She is often invited to Leafe's tea parties. The homemade cream stew she prepared as a souvenir is particularly popular among the Spirit of Forests.\n\nRegarding Pierre's crush on her, she's absolutely clueless. It seems when it comes to romance, she still has much to learn.",
+    "OtherText": [
+      "From this moment on, I'll always be here for you,\ncuz... cuz we're friends...",
+      "From this moment on, I'll always be here for you,\ncuz... cuz we're friends...",
+      "I can see and hear clearer than before,\neven the slightest voice...\nSomething's changed.",
+      "I'd love to help out\nby safeguarding the world\nwith my newly acquired power.",
+      "Are you calling me?",
+      "Yes, I understand.",
+      "I'll do my best.",
+      "How's that?",
+      "Ended peacefully.",
+      "This is probably the best result.",
+      "I... I'm sorry!",
+      "Yes, I'll do it.",
+      "Take it.",
+      "M-May I",
+      "I... I'll do my best!",
+      "I... I'll do my best!",
+      "I... I'll do my best!",
+      "I... I'll do my best!",
+      "I feel relaxed being surrounded by nature.",
+      "I feel relaxed being surrounded by nature.",
+      "I feel relaxed being surrounded by nature.",
+      "Take it.",
+      "※Specifications under considerationã",
+      "Hm?",
+      "What's wrong?",
+      "What's wrong?",
+      "Hm?",
+      "What's wrong?",
+      "Please, stop it...",
+      "Yes!",
+      "Phew...",
+      "Ya!",
+      "Please teach me all sorts of things.",
+      "Yes!",
+      "Heh!",
+      "There!",
+      "No, no, no...!",
+      "Aim!",
+      "Please!",
+      "That hurts!",
+      "Arghhh!",
+      "Sorry...",
+      "Sorry...",
+      "I'll fight to the very end!",
+      "I'll give it my all!",
+      "I'll give it my all!",
+      "Spirits of Forest...!",
+      "I can make it too!",
+      "Spirits of Forest...!",
+      "I can make it too!",
+      "I'll give it my all!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp048_0001",
+    "IcnAssetBundleId": 1386396861,
+    "FullFilename": "bnp048_0001",
+    "FullAssetBundleId": 1386396861,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_hunter"
+  },
+  "ParamIds": {
+    "ObjId": 1110093099,
+    "Uniqid": 1110093099,
+    "Id": "OBJ_CHARA_00285_00_00",
+    "ResId": 3954928996,
+    "ResIdIcon": 1020941062,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1777180676,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 714165540,
+    "DescriptionId": 1609264417,
+    "CommonParamId": 348088093,
+    "CharaParamId": 2935148193,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 871198064,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Leilah",
+  "Title": "Spirit Forest Guardian",
+  "Desc": "A girl from Elderwood who calls herself a Guardian of the Forest. It's the first time she has left the forest, which makes her a bit nervous.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Light",
+    "CV": "Inori Minase",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 20,
+      "Name": "Twinkle Arrow",
+      "Desc": "Attacks while applying auto-heal to nearby allies \r Gains 2 \"Flower Piecesâ.",
+      "Attribute": "Light",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "From this moment on, I'll always be here for you,\ncuz... cuz we're friends...",
+      "From this moment on, I'll always be here for you,\ncuz... cuz we're friends...",
+      "I can see and hear clearer than before,\neven the slightest voice...\nSomething's changed.",
+      "I'd love to help out\nby safeguarding the world\nwith my newly acquired power.",
+      "Are you calling me?",
+      "Yes, I understand.",
+      "I'll do my best.",
+      "How's that?",
+      "Ended peacefully.",
+      "This is probably the best result.",
+      "I... I'm sorry!",
+      "Yes, I'll do it.",
+      "Take it.",
+      "M-May I",
+      "I... I'll do my best!",
+      "I... I'll do my best!",
+      "I... I'll do my best!",
+      "I... I'll do my best!",
+      "I feel relaxed being surrounded by nature.",
+      "I feel relaxed being surrounded by nature.",
+      "I feel relaxed being surrounded by nature.",
+      "Take it.",
+      "※Specifications under considerationã",
+      "Hm?",
+      "What's wrong?",
+      "What's wrong?",
+      "Hm?",
+      "What's wrong?",
+      "Please, stop it...",
+      "Yes!",
+      "Phew...",
+      "Ya!",
+      "Please teach me all sorts of things.",
+      "Yes!",
+      "Heh!",
+      "There!",
+      "No, no, no...!",
+      "Aim!",
+      "Please!",
+      "That hurts!",
+      "Arghhh!",
+      "Sorry...",
+      "Sorry...",
+      "I'll fight to the very end!",
+      "I'll give it my all!",
+      "I'll give it my all!",
+      "Spirits of Forest...!",
+      "I can make it too!",
+      "Spirits of Forest...!",
+      "I can make it too!",
+      "I'll give it my all!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp048_0001",
+    "IcnAssetBundleId": 1386396861,
+    "FullFilename": "bnp048_0001",
+    "FullAssetBundleId": 1386396861,
+    "AtlasResID": 1007313192,
+    "SpriteName": "gui_icon_grp_kom"
+  },
+  "ParamIds": {
+    "ObjId": 4204186190,
+    "Uniqid": 4204186190,
+    "Id": "OBJ_CHARA_00285_01_00",
+    "ResId": 3954928996,
+    "ResIdIcon": 1020941062,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1777180676,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2452433473,
+    "DescriptionId": 3881241156,
+    "CommonParamId": 348088093,
+    "CharaParamId": 374254020,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2105870020,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Leilah",
+  "Title": "Guardian of Earth",
+  "Desc": "A forest dweller living in the depth of Elderwood with spirits. After training with Kiba, she has gained a new Earth power.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "Inori Minase",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 30,
+      "Name": "Fairy Rain",
+      "Desc": "Deals damage\r ATK, M.ATK and critical dodge rate of enemy -30% for 20 sec.",
+      "Attribute": "Earth",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of bow combo",
+            "Desc": "Learn \"Right Counterattack\"",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of bow combo",
+            "Desc": "Learn \"Left Counterattack\"",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of bow combo",
+            "Desc": "Learn \"Low-Level Shot\"",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "With My Allies",
+            "Desc": "All team members' Earth-type attack +15",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fruit of Training",
+            "Desc": "At 75% HP or higher,\nDamage Dealt +15%",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Darkest Dungeon",
+            "Desc": "Damages the targets in front of you. Creates 3 \"Earth Jades.\"",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 30,
+            "Name": "Power of Allies",
+            "Desc": "Deals damage\r Fury growth of nearby allies +25% for 20 sec.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "A forest dweller living in the depths of Elderwood. She has replaced her older brother Pino as a Guardian of the Forest guarding Elderwood.\n\nWhen entering the forest one day, she encountered an armored monster felling trees. Leilah originally wanted to stop the monster, but because of the language barrier and her lack of strength, she was helpless to do so. This was when Kiba came on the scene, and Leilah decided to work hard with him to defeat the monster.\n\nLeilah is introverted and has no confidence in her own strength. But when she heard Kiba say, \"If you want to gain the power to protect things that are precious to you, you must first learn to believe in yourself,\" she realized the importance of believing in her own strength.\n\nAfter Leilah gained the ability to withstand the power of the Earth, she put on the new outfit given to her by the fairies and has embarked on a journey to challenge the armored monsters.",
+    "OtherText": [
+      "People's blessings\nhave reached me through the land...\nI'll do my best...!",
+      "People's blessings\nhave reached me through the land...\nI'll do my best...!",
+      "I must grow stronger...\nSo I can protect what I value!",
+      "Whatever the future has in store...\nI will never lose my way again.",
+      "Here we go!",
+      "Leave it to me!",
+      "I'll do my best!",
+      "I did my best!",
+      "You can count on my help.",
+      "Now I feel relieved.",
+      "Still too early...",
+      "Certainly.",
+      "A token of my gratitude.",
+      "I'm so happy!",
+      "I must see it through.",
+      "I must see it through.",
+      "I must see it through.",
+      "I must see it through.",
+      "Gotta work harder.",
+      "Gotta work harder.",
+      "Gotta work harder.",
+      "A token of my gratitude.",
+      "A good day for adventure.",
+      "What is it?",
+      "Please don't bully me...",
+      "A good day for adventure.",
+      "What is it?",
+      "Please don't bully me...",
+      "I'll do my best!",
+      "Right—",
+      "Good.",
+      "The spirits are cheering for me.",
+      "Oh!",
+      "An opening!",
+      "Take this!",
+      "Even I have my...",
+      "I'm being serious!",
+      "Take this!",
+      "Ahh.",
+      "No.",
+      "I need power...",
+      "I need power...",
+      "I get what you mean.",
+      "Oh, the almighty lord of earth!",
+      "Oh, the almighty lord of earth!",
+      "Oh, the almighty lord of earth!",
+      "Oh, the almighty lord of earth!",
+      "Oh, the almighty lord of earth!",
+      "Oh, the almighty lord of earth!",
+      "Oh, the almighty lord of earth!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc385_0001",
+    "IcnAssetBundleId": 4170805279,
+    "FullFilename": "npc385_0001",
+    "FullAssetBundleId": 4170805279,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_hunter"
+  },
+  "ParamIds": {
+    "ObjId": 3893453193,
+    "Uniqid": 3893453193,
+    "Id": "OBJ_CHARA_10180_00_00",
+    "ResId": 1098949062,
+    "ResIdIcon": 2531368868,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3285609638,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2158657926,
+    "DescriptionId": 4124090755,
+    "CommonParamId": 3196365759,
+    "CharaParamId": 80282115,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 871198064,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

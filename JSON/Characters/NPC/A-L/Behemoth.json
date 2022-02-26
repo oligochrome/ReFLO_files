@@ -1,0 +1,60 @@
+{
+  "Name": "Behemoth",
+  "Title": "-",
+  "Desc": "A monster that makes even the strongest Miners to cower in fear. It actually feeds on mushrooms.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 2094192993,
+    "FullFilename": "mon009_0001",
+    "FullAssetBundleId": 2094192993,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1817889015,
+    "Uniqid": 1817889015,
+    "Id": "OBJ_CHARA_00435_00_00",
+    "ResId": 3318417592,
+    "ResIdIcon": 313145050,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1201522136,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 81864952,
+    "DescriptionId": 1905985789,
+    "CommonParamId": 986645185,
+    "CharaParamId": 2156047229,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

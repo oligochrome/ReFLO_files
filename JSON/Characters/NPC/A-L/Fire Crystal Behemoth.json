@@ -1,0 +1,60 @@
+{
+  "Name": "Fire Crystal Behemoth",
+  "Title": "-",
+  "Desc": "Fire Crystal Behemoth (monster description)",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 2823171176,
+    "FullFilename": "mon009_0006",
+    "FullAssetBundleId": 2823171176,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3100524030,
+    "Uniqid": 3100524030,
+    "Id": "OBJ_CHARA_20155_00_00",
+    "ResId": 291503537,
+    "ResIdIcon": 3326002131,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2466853073,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 3497385457,
+    "DescriptionId": 2769288692,
+    "CommonParamId": 3999004616,
+    "CharaParamId": 1410752116,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -1,0 +1,68 @@
+{
+  "Name": "Young Ophelia",
+  "Title": "-",
+  "Desc": "(description) Young Ophelia",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 15,
+      "Name": "Freezing Saber",
+      "Desc": "Slashes frontward and deals damage.\r Increases Fury significantly.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Young Ophelia)",
+      "Repeated summon script (Young Ophelia)",
+      "End script (Young Ophelia)",
+      "End script 2 (Young Ophelia)",
+      "End script 2 (Young Ophelia)",
+      "End-in-failure script (Young Ophelia)",
+      "Confirmation script (Young Ophelia)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc299_0001",
+    "IcnAssetBundleId": 3067093265,
+    "FullFilename": "npc299_0001",
+    "FullAssetBundleId": 3067093265,
+    "AtlasResID": 1007313192,
+    "SpriteName": "gui_icon_grp_kur"
+  },
+  "ParamIds": {
+    "ObjId": 2790797447,
+    "Uniqid": 2790797447,
+    "Id": "OBJ_CHARA_10099_00_00",
+    "ResId": 264892616,
+    "ResIdIcon": 3634941610,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2376023464,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3471036552,
+    "DescriptionId": 3147427981,
+    "CommonParamId": 4040030897,
+    "CharaParamId": 1249923853,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2322276548,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

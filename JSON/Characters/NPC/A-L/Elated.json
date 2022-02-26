@@ -1,0 +1,60 @@
+{
+  "Name": "Elated",
+  "Title": "-",
+  "Desc": "(input description)",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_avp06504",
+    "IcnAssetBundleId": 3469121516,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1287941749,
+    "Uniqid": 1287941749,
+    "Id": "OBJ_AVATAR_EYE_00077_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 2402184274,
+    "ResswitchId": 3831422248,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3716825662,
+    "ContentsTypeId": 671370427,
+    "NameId": 2093238466,
+    "DescriptionId": 523765945,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

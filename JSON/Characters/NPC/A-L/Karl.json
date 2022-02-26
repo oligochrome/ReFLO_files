@@ -1,0 +1,350 @@
+{
+  "Name": "Karl",
+  "Title": "Passionate Paladin",
+  "Desc": "A Paladin who pours forth all his effort into everything he does. Though he is still a rookie now, he won't lose to anyone when it comes to motive.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 15,
+      "Name": "Rising Edge",
+      "Desc": "Leaps into the air and slashes\r. Inflicts Fire damage.",
+      "Attribute": "Fire",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of sword combo",
+            "Desc": "Learn \"Rising Swing\"\n\"Crescent Edge\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of sword combo",
+            "Desc": "Learn \"Crescent Strike\"\n\"Axel Moon\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Charging Boar",
+            "Desc": "Increases movement\nwhen moving towards locked enemies.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fierce Fight",
+            "Desc": "Increases your basic attack and Fire-type attack for a period of time.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "My name's Karl!\nPleased to make your acquaintance!",
+      "I will overtake that man!\nPleased to make your acquaintance!",
+      "I'm all fired up!\nI can be much stronger!\nHee-yah!!!",
+      "I believe I can be\nthe Paladin who fights alongside\nthe one I admire!",
+      "Alright!",
+      "Okay, I can do it!",
+      "The hype is real!",
+      "Done!",
+      "What a thrilling period of time!",
+      "Feels awesome!",
+      "Uh, just you wait...",
+      "Got it!",
+      "I believe you'll like it!",
+      "Thank you!",
+      "Alright!",
+      "Keep your eyes peeled!",
+      "My turn!",
+      "Huh? It's ready?",
+      "Fantastic!",
+      "Getting much stronger!",
+      "I will get stronger!",
+      "I believe you'll like it!",
+      "※Specifications under considerationã",
+      "Yo!",
+      "What's up?",
+      "I'm feeling great!",
+      "Huh? What's up?",
+      "It's so itchy!",
+      "W-Wait!",
+      "Haha!",
+      "Hah...",
+      "Oh.",
+      "One two, one two... getting warmed up!",
+      "Tch!",
+      "Ha!",
+      "Eeeeyyy!",
+      "Arghhh!",
+      "Yo!",
+      "Here.",
+      "Uh!",
+      "Ugh!",
+      "What... a shame...",
+      "Whoa!",
+      "I'm safe now!",
+      "Don't underestimate me!",
+      "This is my true power!",
+      "Don't underestimate me!",
+      "This is my true power!",
+      "Don't underestimate me!",
+      "This is my true power!",
+      "Mission complete!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc200_0001",
+    "IcnAssetBundleId": 1007124457,
+    "FullFilename": "npc200_0001",
+    "FullAssetBundleId": 1007124457,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 747597439,
+    "Uniqid": 747597439,
+    "Id": "OBJ_CHARA_10000_00_00",
+    "ResId": 2233380400,
+    "ResIdIcon": 1384091730,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 122184528,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1144295024,
+    "DescriptionId": 827240053,
+    "CommonParamId": 2048566345,
+    "CharaParamId": 3226930677,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Karl",
+  "Title": "Passionate Paladin",
+  "Desc": "A Paladin who pours forth all his effort into everything he does. Though he is still a rookie now, he won't lose to anyone when it comes to motive.",
+  "Rarity": 3,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 15,
+      "Name": "Rising Edge",
+      "Desc": "Leaps into the air and slashes\r. Inflicts Fire damage.",
+      "Attribute": "Fire",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "My name's Karl!\nPleased to make your acquaintance!",
+      "I will overtake that man!\nPleased to make your acquaintance!",
+      "I'm all fired up!\nI can be much stronger!\nHee-yah!!!",
+      "I believe I can be\nthe Paladin who fights alongside\nthe one I admire!",
+      "Alright!",
+      "Okay, I can do it!",
+      "The hype is real!",
+      "Done!",
+      "What a thrilling period of time!",
+      "Feels awesome!",
+      "Uh, just you wait...",
+      "Got it!",
+      "I believe you'll like it!",
+      "Thank you!",
+      "Alright!",
+      "Keep your eyes peeled!",
+      "My turn!",
+      "Huh? It's ready?",
+      "Fantastic!",
+      "Getting much stronger!",
+      "I will get stronger!",
+      "I believe you'll like it!",
+      "※Specifications under considerationã",
+      "Yo!",
+      "What's up?",
+      "I'm feeling great!",
+      "Huh? What's up?",
+      "It's so itchy!",
+      "W-Wait!",
+      "Haha!",
+      "Hah...",
+      "Oh.",
+      "One two, one two... getting warmed up!",
+      "Tch!",
+      "Ha!",
+      "Eeeeyyy!",
+      "Arghhh!",
+      "Yo!",
+      "Here.",
+      "Uh!",
+      "Ugh!",
+      "What... a shame...",
+      "Whoa!",
+      "I'm safe now!",
+      "Don't underestimate me!",
+      "This is my true power!",
+      "Don't underestimate me!",
+      "This is my true power!",
+      "Don't underestimate me!",
+      "This is my true power!",
+      "Mission complete!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc200_0001",
+    "IcnAssetBundleId": 1007124457,
+    "FullFilename": "npc200_0001",
+    "FullAssetBundleId": 1007124457,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 2486372634,
+    "Uniqid": 2486372634,
+    "Id": "OBJ_CHARA_10000_01_00",
+    "ResId": 2233380400,
+    "ResIdIcon": 1384091730,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 122184528,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4236830997,
+    "DescriptionId": 2314389776,
+    "CommonParamId": 2048566345,
+    "CharaParamId": 2028694160,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

@@ -27,9 +27,7 @@
           "Name": "Prairie Heal",
           "Desc": "Removes Poison of self and nearby allies\r and restores HP slightly.",
           "Attribute": "Earth",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "ChargeSkillGather": [],
@@ -101,9 +99,7 @@
         "Name": "Prairie Heal",
         "Desc": "Removes Poison of self and nearby allies\r and restores HP slightly.",
         "Attribute": "Earth",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "ChargeSkillGather": [],

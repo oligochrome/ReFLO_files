@@ -28,9 +28,7 @@
           "Name": "Pray for Blessings",
           "Desc": "Boosts Rod ATK of self and nearby allies for a short period of time\r Slightly restores own Line gauge.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "PassiveProperties": [
@@ -109,9 +107,7 @@
         "Name": "Pray for Blessings",
         "Desc": "Boosts Rod ATK of self and nearby allies for a short period of time\r Slightly restores own Line gauge.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "PassiveProperties": [

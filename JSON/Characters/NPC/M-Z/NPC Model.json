@@ -1,0 +1,60 @@
+{
+  "Name": "NPC Model",
+  "Title": "-",
+  "Desc": "(description) It's a dummy",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 4253655081,
+    "FullFilename": "_reference",
+    "FullAssetBundleId": 3599487408,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1703184374,
+    "Uniqid": 1703184374,
+    "Id": "OBJ_CHARA__COMMON_CHARA",
+    "ResId": 1477185192,
+    "ResIdIcon": 2482065298,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2429467243,
+    "ObjTypeId": 3716825662,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1108742650,
+    "DescriptionId": 68136973,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

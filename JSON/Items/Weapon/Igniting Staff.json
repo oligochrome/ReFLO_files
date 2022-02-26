@@ -27,9 +27,7 @@
           "Name": "Blazing Lance",
           "Desc": "Penetrates the enemy with a burning spear, dealing significant damage\r Increases your Fury DMG.",
           "Attribute": "Fire",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "ChargeSkillGather": [],
@@ -101,9 +99,7 @@
         "Name": "Blazing Lance",
         "Desc": "Penetrates the enemy with a burning spear, dealing significant damage\r Increases your Fury DMG.",
         "Attribute": "Fire",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "ChargeSkillGather": [],

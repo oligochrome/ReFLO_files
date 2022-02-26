@@ -1,0 +1,418 @@
+{
+  "Name": "Fizz",
+  "Title": "Reliable Alchemist",
+  "Desc": "An Alchemist and an expert in making accessories. She calls herself an ally of youths in love.",
+  "Rarity": 2,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Flavor Conductor",
+      "Desc": "Increases chance of JUST during \"Timing Challenge\"",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of flask combo",
+            "Desc": "Learn \"Hop 'n' Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of flask combo",
+            "Desc": "Learn \"Roundhouse Throw\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Alchemist",
+            "Desc": "Alchemy +10\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Green Alchemy",
+            "Desc": "Improves the crafting of\n\"healing\" recipes.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "The Jeweler",
+            "Desc": "Improves crafting\nwhen making \"Charm\" necklace.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 11,
+            "Name": "Flask Combo",
+            "Desc": "Attacks by throwing flasks.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Crafting\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Little Breakthrough",
+            "Desc": "Completion bonus for healing recipes when hitting EXCELLENT 2-3 times!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Love Support",
+            "Desc": "Slightly recovers the HP and SP of yourself and nearby allies.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Fizz.\nAn experienced Alchemist.",
+      "-",
+      "I've improved a bit,\nhavent' I?",
+      "Whatever the experiment,\nI can make it!",
+      "It's gonna be busy!",
+      "Cheer up!",
+      "I won't... lose!",
+      "Not bad!",
+      "Quite an achievement, huh?",
+      "I can probably push it further!",
+      "Oops... Failed...",
+      "Alright, leave it to me!",
+      "I hope you can take this!",
+      "Thank you!",
+      "Right!",
+      "You can count on me!",
+      "Good judgement!",
+      "Hah!",
+      "Doing great!!",
+      "Got the hang of it!",
+      "One should be good at something to make their dreams come true!",
+      "I hope you can take this!",
+      "※Specifications under considerationã",
+      "Huh?",
+      "What's up?",
+      "I believe I can make it!",
+      "Hey!",
+      "C'mon, what are you doing?",
+      "I can share with you my data!",
+      "Hahaha.",
+      "Ugh...",
+      "I see.",
+      "I'll show you the art of alchemy.",
+      "Phew!",
+      "Ha!",
+      "Arghhh!",
+      "Heh!",
+      "Heh.",
+      "Okay.",
+      "Ah!",
+      "Arghhh!",
+      "I thought... I could make it...",
+      "Arghhh!",
+      "That was a big help! I appreciate it!",
+      "You can count on me!",
+      "I will support you!",
+      "You can count on me!",
+      "I will support you!",
+      "Let's get the show on the road!",
+      "Got a good idea!",
+      "Easy peasy!",
+      "Will you be my lab table?"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp059_0001",
+    "IcnAssetBundleId": 2950735550,
+    "FullFilename": "bnp059_0001",
+    "FullAssetBundleId": 2950735550,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_alchemist"
+  },
+  "ParamIds": {
+    "ObjId": 3211310888,
+    "Uniqid": 3211310888,
+    "Id": "OBJ_CHARA_00296_00_00",
+    "ResId": 385447783,
+    "ResIdIcon": 3247982853,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2494544391,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3620951847,
+    "DescriptionId": 2729015074,
+    "CommonParamId": 3925703966,
+    "CharaParamId": 1404097698,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4117589977,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Fizz",
+  "Title": "Reliable Alchemist",
+  "Desc": "An Alchemist and an expert in making accessories. She calls herself an ally of youths in love.",
+  "Rarity": 2,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Flavor Conductor",
+      "Desc": "Increases chance of JUST during \"Timing Challenge\"",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Fizz.\nAn experienced Alchemist.",
+      "-",
+      "I've improved a bit,\nhavent' I?",
+      "Whatever the experiment,\nI can make it!",
+      "It's gonna be busy!",
+      "Cheer up!",
+      "I won't... lose!",
+      "Not bad!",
+      "Quite an achievement, huh?",
+      "I can probably push it further!",
+      "Oops... Failed...",
+      "Alright, leave it to me!",
+      "I hope you can take this!",
+      "Thank you!",
+      "Right!",
+      "You can count on me!",
+      "Good judgement!",
+      "Hah!",
+      "Doing great!!",
+      "Got the hang of it!",
+      "One should be good at something to make their dreams come true!",
+      "I hope you can take this!",
+      "※Specifications under considerationã",
+      "Huh?",
+      "What's up?",
+      "I believe I can make it!",
+      "Hey!",
+      "C'mon, what are you doing?",
+      "I can share with you my data!",
+      "Hahaha.",
+      "Ugh...",
+      "I see.",
+      "I'll show you the art of alchemy.",
+      "Phew!",
+      "Ha!",
+      "Arghhh!",
+      "Heh!",
+      "Heh.",
+      "Okay.",
+      "Ah!",
+      "Arghhh!",
+      "I thought... I could make it...",
+      "Arghhh!",
+      "That was a big help! I appreciate it!",
+      "You can count on me!",
+      "I will support you!",
+      "You can count on me!",
+      "I will support you!",
+      "Let's get the show on the road!",
+      "Got a good idea!",
+      "Easy peasy!",
+      "Will you be my lab table?"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp059_0001",
+    "IcnAssetBundleId": 2950735550,
+    "FullFilename": "bnp059_0001",
+    "FullAssetBundleId": 2950735550,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_alchemist"
+  },
+  "ParamIds": {
+    "ObjId": 131387469,
+    "Uniqid": 131387469,
+    "Id": "OBJ_CHARA_00296_01_00",
+    "ResId": 385447783,
+    "ResIdIcon": 3247982853,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2494544391,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1869557826,
+    "DescriptionId": 437588039,
+    "CommonParamId": 3925703966,
+    "CharaParamId": 3943478215,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 4117589977,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

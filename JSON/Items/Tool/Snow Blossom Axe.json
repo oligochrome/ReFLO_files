@@ -28,9 +28,7 @@
           "Name": "Earth Hymn",
           "Desc": "Significantly enhances Logging of self and nearby allies for a short period of time\r.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "PassiveProperties": [
@@ -102,9 +100,7 @@
         "Name": "Earth Hymn",
         "Desc": "Significantly enhances Logging of self and nearby allies for a short period of time\r.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "PassiveProperties": [

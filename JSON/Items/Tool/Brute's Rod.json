@@ -28,9 +28,7 @@
           "Name": "Masculine Poet",
           "Desc": "For a short period of time,\r slightly enhances own Fishing.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "PassiveProperties": [
@@ -102,9 +100,7 @@
         "Name": "Masculine Poet",
         "Desc": "For a short period of time,\r slightly enhances own Fishing.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "PassiveProperties": [

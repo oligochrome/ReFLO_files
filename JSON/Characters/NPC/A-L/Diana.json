@@ -1,0 +1,68 @@
+{
+  "Name": "Diana",
+  "Title": "-",
+  "Desc": "A Hunter who looks mature but is an innocent romanticist within. She's called Goddess of the Moon due to her beauty.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I am Diana, a Hunter.\nI'm quite good at it!\nI'll be at your service anytime♪",
+      "I'm confident\nat archery♪",
+      "It worked out!",
+      "Everything's sailing smoothly!",
+      "The best result we could hope for!",
+      "Next... Next time I'll definitely...!",
+      "Got it!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc220_0001",
+    "IcnAssetBundleId": 2116188308,
+    "FullFilename": "npc220_0001",
+    "FullAssetBundleId": 2116188308,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_hunter"
+  },
+  "ParamIds": {
+    "ObjId": 1856661762,
+    "Uniqid": 1856661762,
+    "Id": "OBJ_CHARA_10020_00_00",
+    "ResId": 3342575949,
+    "ResIdIcon": 274372399,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1164796973,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 101812493,
+    "DescriptionId": 1936435464,
+    "CommonParamId": 943694644,
+    "CharaParamId": 2188511880,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 871198064,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

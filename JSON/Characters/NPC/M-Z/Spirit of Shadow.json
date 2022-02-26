@@ -1,0 +1,60 @@
+{
+  "Name": "Spirit of Shadow",
+  "Title": "-",
+  "Desc": "A mischievous spirit that possesses the power of shadow. It often makes pickaxes get stuck in rocks.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Shadow",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 2612965418,
+    "FullFilename": "mon048_0004",
+    "FullAssetBundleId": 2612965418,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2335613372,
+    "Uniqid": 2335613372,
+    "Id": "OBJ_CHARA_00598_00_00",
+    "ResId": 581394931,
+    "ResIdIcon": 4123418513,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2700192915,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 3817685427,
+    "DescriptionId": 2532794806,
+    "CommonParamId": 3718474634,
+    "CharaParamId": 1743700534,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

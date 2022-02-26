@@ -27,9 +27,7 @@
           "Name": "Mystery Veil",
           "Desc": "Within a period of time,\r increases your M.DEF.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "ChargeSkillGather": [],
@@ -99,9 +97,7 @@
         "Name": "Mystery Veil",
         "Desc": "Within a period of time,\r increases your M.DEF.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "ChargeSkillGather": [],

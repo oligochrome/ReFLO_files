@@ -1,0 +1,68 @@
+{
+  "Name": "Crawford",
+  "Title": "-",
+  "Desc": "A wandering Miner who can see through the weakness of rocks and break them with one blow.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Crawford)",
+      "Repeated summon script (Crawford)",
+      "End script (Crawford)",
+      "End script 2 (Crawford)",
+      "End script 2 (Crawford)",
+      "End-in-failure script (Crawford)",
+      "Confirmation script (Crawford)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc233_0001",
+    "IcnAssetBundleId": 2204131991,
+    "FullFilename": "npc233_0001",
+    "FullAssetBundleId": 2204131991,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_prospector"
+  },
+  "ParamIds": {
+    "ObjId": 2481484545,
+    "Uniqid": 2481484545,
+    "Id": "OBJ_CHARA_10033_00_00",
+    "ResId": 981054286,
+    "ResIdIcon": 3977809196,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3090120238,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4216558350,
+    "DescriptionId": 2385097483,
+    "CommonParamId": 3313350967,
+    "CharaParamId": 2133856395,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2519372694,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

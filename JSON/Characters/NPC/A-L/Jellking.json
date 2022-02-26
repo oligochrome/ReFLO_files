@@ -1,0 +1,60 @@
+{
+  "Name": "Jellking",
+  "Title": "-",
+  "Desc": "A giant sea cow merged from 8 sea cows. However, it only grants XP slightly more than that of 5 sea cows.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 1654977330,
+    "FullFilename": "mon030_0008",
+    "FullAssetBundleId": 1654977330,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1915544228,
+    "Uniqid": 1915544228,
+    "Id": "OBJ_CHARA_00522_00_00",
+    "ResId": 3686605547,
+    "ResIdIcon": 215751817,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 446104235,
+    "DescriptionId": 1877811886,
+    "CommonParamId": 616114322,
+    "CharaParamId": 2666823982,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

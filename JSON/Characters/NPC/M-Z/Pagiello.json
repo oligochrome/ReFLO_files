@@ -1,0 +1,68 @@
+{
+  "Name": "Pagiello",
+  "Title": "-",
+  "Desc": "A Cook for Cocina Rica by day and for the pirates by night. A Cook with two identities.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Pagiello)",
+      "Repeated summon script (Pagiello)",
+      "End script (Pagiello)",
+      "End script 2 (Pagiello)",
+      "End script 2 (Pagiello)",
+      "End-in-failure script (Pagiello)",
+      "Confirmation script (Pagiello)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc121_0001",
+    "IcnAssetBundleId": 4210007216,
+    "FullFilename": "npc121_0001",
+    "FullAssetBundleId": 4210007216,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_cook"
+  },
+  "ParamIds": {
+    "ObjId": 3932654886,
+    "Uniqid": 3932654886,
+    "Id": "OBJ_CHARA_00125_00_00",
+    "ResId": 1140215145,
+    "ResIdIcon": 2492953355,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3248521225,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2195483945,
+    "DescriptionId": 4154871084,
+    "CommonParamId": 3169994512,
+    "CharaParamId": 113241772,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1236593723,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

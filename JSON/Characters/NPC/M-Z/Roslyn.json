@@ -1,0 +1,350 @@
+{
+  "Name": "Roslyn",
+  "Title": "Energetic Paladin Girl",
+  "Desc": "A rookie Paladin filled with hope and dreams. Her favorite saying is, \"Talent is limited, but hard work is not.\"",
+  "Rarity": 2,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 14,
+      "Name": "Whirlwind Slash",
+      "Desc": "Spins and slashes without relocating\r. Inflicts Wind damage.",
+      "Attribute": "Wind",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of sword combo",
+            "Desc": "Learn \"Rising Swing\"\n\"Crescent Edge\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of sword combo",
+            "Desc": "Learn \"Crescent Strike\"\n\"Axel Moon\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Paladin",
+            "Desc": "Max HP +13\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Lifetime Friendship",
+            "Desc": "When you're a Paladin at specific level,\nthe more you outlevel Roslyn, the more powerful you are.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fruit of Training",
+            "Desc": "Increases your DEF and Wind ATK for a short period of time.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Roslyn, a Paladin.\nWe'll work together!",
+      "-",
+      "So this... is my power...?",
+      "They're all under my protection!",
+      "Okay. Go for it!",
+      "Come, give it your best shot!",
+      "I'm on fire!",
+      "Phew, that's pretty much it.",
+      "Is this the result of training?",
+      "That was a Paladin's true power!",
+      "Uh, need more training...?",
+      "Okay! Got it!",
+      "Hey! What's that feeling?",
+      "Thank you!",
+      "I will protect you!",
+      "Leave it to me!",
+      "Roslyn is going!",
+      "I'll leave it to you!",
+      "Feels great!",
+      "I'm getting stronger!",
+      "The path of Paladin is just beginning!",
+      "Hey! What's that feeling?",
+      "※Specifications under considerationã",
+      "Hi!",
+      "May I help you?",
+      "Feels great!",
+      "What's up?",
+      "Haha, that was itchy.",
+      "D-Don't do that...",
+      "Aha!",
+      "Ugh...",
+      "Yep.",
+      "One day I'll become a Paladin of Castele!",
+      "Ha!",
+      "Ya!",
+      "Tch!",
+      "Hahaha!",
+      "Yo!",
+      "Heh.",
+      "Ugh!",
+      "Uh!",
+      "This is... not the place...",
+      "Whoaaa!",
+      "One more time!",
+      "I can't lose!",
+      "By the honor of a Paladin!",
+      "I can't lose!",
+      "By the honor of a Paladin!",
+      "I can't lose!",
+      "By the honor of a Paladin!",
+      "End it with this shot!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp005_0001",
+    "IcnAssetBundleId": 2928197366,
+    "FullFilename": "bnp005_0001",
+    "FullAssetBundleId": 2928197366,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 3187715936,
+    "Uniqid": 3187715936,
+    "Id": "OBJ_CHARA_00182_00_00",
+    "ResId": 395407151,
+    "ResIdIcon": 3236974925,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2512888399,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3602599791,
+    "DescriptionId": 2747363178,
+    "CommonParamId": 3902104918,
+    "CharaParamId": 1389939946,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Roslyn",
+  "Title": "Energetic Paladin Girl",
+  "Desc": "A rookie Paladin filled with hope and dreams. Her favorite saying is, \"Talent is limited, but hard work is not.\"",
+  "Rarity": 2,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 14,
+      "Name": "Whirlwind Slash",
+      "Desc": "Spins and slashes without relocating\r. Inflicts Wind damage.",
+      "Attribute": "Wind",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Roslyn, a Paladin.\nWe'll work together!",
+      "-",
+      "So this... is my power...?",
+      "They're all under my protection!",
+      "Okay. Go for it!",
+      "Come, give it your best shot!",
+      "I'm on fire!",
+      "Phew, that's pretty much it.",
+      "Is this the result of training?",
+      "That was a Paladin's true power!",
+      "Uh, need more training...?",
+      "Okay! Got it!",
+      "Hey! What's that feeling?",
+      "Thank you!",
+      "I will protect you!",
+      "Leave it to me!",
+      "Roslyn is going!",
+      "I'll leave it to you!",
+      "Feels great!",
+      "I'm getting stronger!",
+      "The path of Paladin is just beginning!",
+      "Hey! What's that feeling?",
+      "※Specifications under considerationã",
+      "Hi!",
+      "May I help you?",
+      "Feels great!",
+      "What's up?",
+      "Haha, that was itchy.",
+      "D-Don't do that...",
+      "Aha!",
+      "Ugh...",
+      "Yep.",
+      "One day I'll become a Paladin of Castele!",
+      "Ha!",
+      "Ya!",
+      "Tch!",
+      "Hahaha!",
+      "Yo!",
+      "Heh.",
+      "Ugh!",
+      "Uh!",
+      "This is... not the place...",
+      "Whoaaa!",
+      "One more time!",
+      "I can't lose!",
+      "By the honor of a Paladin!",
+      "I can't lose!",
+      "By the honor of a Paladin!",
+      "I can't lose!",
+      "By the honor of a Paladin!",
+      "End it with this shot!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp005_0001",
+    "IcnAssetBundleId": 2928197366,
+    "FullFilename": "bnp005_0001",
+    "FullAssetBundleId": 2928197366,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_soldier"
+  },
+  "ParamIds": {
+    "ObjId": 113035269,
+    "Uniqid": 113035269,
+    "Id": "OBJ_CHARA_00182_01_00",
+    "ResId": 395407151,
+    "ResIdIcon": 3236974925,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2512888399,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1845962762,
+    "DescriptionId": 461178895,
+    "CommonParamId": 3902104918,
+    "CharaParamId": 3932466063,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2100512677,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

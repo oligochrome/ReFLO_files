@@ -27,9 +27,7 @@
           "Name": "Chicken Guard",
           "Desc": "Within a period of time,\r enhances own Block slightly.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "ChargeSkillGather": [],
@@ -99,9 +97,7 @@
         "Name": "Chicken Guard",
         "Desc": "Within a period of time,\r enhances own Block slightly.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "ChargeSkillGather": [],

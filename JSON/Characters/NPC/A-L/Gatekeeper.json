@@ -1,0 +1,60 @@
+{
+  "Name": "Gatekeeper",
+  "Title": "Village Billboard",
+  "Desc": "She keeps her appearance perfect to greet visitors at all times. Even the angle of the entrance was designed after careful consideration.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc001_0059",
+    "IcnAssetBundleId": 737902964,
+    "FullFilename": "npc001_0059",
+    "FullAssetBundleId": 737902964,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1355187072,
+    "Uniqid": 1355187072,
+    "Id": "OBJ_CHARA_00340_00_00",
+    "ResId": 2464305325,
+    "ResIdIcon": 1166241487,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 998549139,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 947741583,
+    "DescriptionId": 1292321674,
+    "CommonParamId": 106121654,
+    "CharaParamId": 3156140042,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

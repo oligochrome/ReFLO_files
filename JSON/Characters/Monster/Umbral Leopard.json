@@ -12,23 +12,13 @@
       "Name": "--------",
       "Desc": "-",
       "Attribute": "",
-      "AwakenLvDamageMultiplier": {
-        "5": 1.0
-      },
+      "AwakenLvDamageMultiplier": {},
       "NearComboCount": 0,
       "FarComboCount": 0
     },
     "Skillboard": [],
     "EpisodeText": "-",
-    "OtherText": [
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used."
-    ]
+    "OtherText": []
   },
   "Resources": {
     "IcnFilename": "icn_mon003_0201",
@@ -81,23 +71,13 @@
       "Name": "--------",
       "Desc": "-",
       "Attribute": "",
-      "AwakenLvDamageMultiplier": {
-        "5": 1.0
-      },
+      "AwakenLvDamageMultiplier": {},
       "NearComboCount": 0,
       "FarComboCount": 0
     },
     "Skillboard": [],
     "EpisodeText": "-",
-    "OtherText": [
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used.",
-      "Reserved line. Won't be used."
-    ]
+    "OtherText": []
   },
   "Resources": {
     "IcnFilename": "icn_mon003_0201",

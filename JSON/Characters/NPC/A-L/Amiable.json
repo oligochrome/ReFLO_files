@@ -1,0 +1,60 @@
+{
+  "Name": "Amiable",
+  "Title": "-",
+  "Desc": "(input description)",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_avp00625",
+    "IcnAssetBundleId": 3469121516,
+    "FullFilename": "af00625_Mouth00_00_def_lq",
+    "FullAssetBundleId": 705043556,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3206226576,
+    "Uniqid": 3206226576,
+    "Id": "OBJ_AVATAR_MOUTH_00008_00_00",
+    "ResId": 1681556500,
+    "ResIdIcon": 3533795215,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3716825662,
+    "ContentsTypeId": 3329683763,
+    "NameId": 3331501842,
+    "DescriptionId": 2089102659,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

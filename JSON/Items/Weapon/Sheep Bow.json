@@ -27,9 +27,7 @@
           "Name": "Sheep Lullaby",
           "Desc": "Within a period of time, \r makes the enemy susceptible to Sleep.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "ChargeSkillGather": [],
@@ -99,9 +97,7 @@
         "Name": "Sheep Lullaby",
         "Desc": "Within a period of time, \r makes the enemy susceptible to Sleep.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "ChargeSkillGather": [],

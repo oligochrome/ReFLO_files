@@ -1,0 +1,317 @@
+{
+  "Name": "Haku",
+  "Title": "Tenfu Shrine Maiden",
+  "Desc": "The Tenfu Shrine Maiden in charge of the \"Dog\" branch of the year. She has two guardian beasts. Skillful, but quick to split hairs and get nervous.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "Yui Horie",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 14,
+      "Name": "Fog Repellent",
+      "Desc": "Releases 2 small whirlwinds\r Has a high critical rate.",
+      "Attribute": "Wind",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of Wind magic combo",
+            "Desc": "Learn \"Galeforce\"",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of Wind magic combo",
+            "Desc": "Learn \"Cyclone\"",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of Wind magic combo",
+            "Desc": "Learn \"Bolt Strike\"",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Mountfog Feather",
+            "Desc": "The more Fury you have,\nthe higher the damage.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Blessing of Wind",
+            "Desc": "When all team members dodge,\nSP cost is slightly reduced.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Tenfu/Exorcism",
+            "Desc": "The effect scales with the number of Thunderwind Gogok. Once used, all Thunderwind Gogoks will be consumed.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 21,
+            "Name": "Fog Cutter",
+            "Desc": "Increases ATK of nearby allies and obtains 3 Thunderwind Gogoks When possessing Thunderwind Gogoks, consumes 1 to use the skill.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "The Tenfu Shrine Maiden who is in charge of the eleventh of the Twelve Earthly Branches, the \"Dog\" branch.\n\nShe is quick to split hairs. When talking with others, she often stutters out of nervousness. At the same time, she's always excessively worried, and often observes other people's reactions while adjusting her own statements accordingly. Her lack of self-confidence frustrates people, but her skills as a Magician are evident to all, particularly her superb talent with Wind spells.\n\nBecause her family puts great focus on etiquette, she has remarkably graceful manners. Her elegant posture is well-known, and her graceful dancing is hailed as being akin to a goddess descending to the earth. However, because of her introverted nature, she rarely dances in front of others.\n\nShe has two guardian beasts, \"Lotus\" and \"Amaranth.\" In her opinion, they are her good friends, and she only talks in casual speech when talking to the guardian beasts.\n\nShe is a calm and quiet person, but on occasion, she also shows a childish side—for example, when she is playing on the swings or training Lotus and Amaranth's unique skills.\n\nShe loves wagashi more than anything else—especially her favorite of all time, kusa mochi. Lately, she is keen on going to the delicious wagashi shop introduced to her by Hayate, a wandering Mercenary and member of the Gourmet Club, buying confections, and then eating them as she walks.",
+    "OtherText": [
+      "P-Pleased to make your acquaintance...!\nOops, that came out louder than I...\nA-am I being too noisy?",
+      "P-Pleased to make your acquaintance...!\nOops, that came out louder than I...\nA-am I being too noisy?",
+      "I think I got stronger again...\nWow, I'm almost in tears!",
+      "Lotus... Amaranth...\nLook at me!\nI'm exploding with power!",
+      "Ah, sure!",
+      "Here I come!",
+      "Phew... Ha...\nOkay, understood!",
+      "How was that?",
+      "Um... Are you pleased with that?",
+      "Satisfied?",
+      "My deepest apologies.",
+      "I will do everything in my power...",
+      "It was a good deal, though...",
+      "I'll treat it as an heirloom!",
+      "Please!",
+      "Please!",
+      "Please!",
+      "Please!",
+      "Was I helpful?",
+      "Was I helpful?",
+      "Was I helpful?",
+      "It was a good deal, though...",
+      "※Specifications under considerationã",
+      "Um... H-how are you doing?",
+      "Er?? Me?",
+      "Er?? Me?",
+      "Um... H-how are you doing?",
+      "Er?? Me?",
+      "Please don't...",
+      "No problem!",
+      "Ugh...",
+      "Um, well...",
+      "Lotus, Amaranth, come here.",
+      "Ha!",
+      "Hah!",
+      "Yes, sure!",
+      "Take this!",
+      "All set!",
+      "This way!",
+      "Oh!",
+      "No!",
+      "I'm sorry...",
+      "I'm sorry...",
+      "Please give me a second chance...!",
+      "I'm going all out!",
+      "I'm going all out!",
+      "I'm going all out!",
+      "I'm going all out!",
+      "I'm going all out!",
+      "I'm going all out!",
+      "I'm going all out!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc359_0001",
+    "IcnAssetBundleId": 2056024836,
+    "FullFilename": "npc359_0001",
+    "FullAssetBundleId": 2056024836,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_sorcerer"
+  },
+  "ParamIds": {
+    "ObjId": 1778672274,
+    "Uniqid": 1778672274,
+    "Id": "OBJ_CHARA_10162_00_00",
+    "ResId": 3281363677,
+    "ResIdIcon": 351575231,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1103327165,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 46105245,
+    "DescriptionId": 2009440920,
+    "CommonParamId": 1016178852,
+    "CharaParamId": 2262565144,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1354512169,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

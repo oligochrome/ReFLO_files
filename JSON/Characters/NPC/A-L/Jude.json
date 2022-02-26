@@ -1,0 +1,350 @@
+{
+  "Name": "Jude",
+  "Title": "Merc Deserter",
+  "Desc": "A cowardly and somehow pessimistic Mercenary who claims that running away is also an option.",
+  "Rarity": 2,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 17,
+      "Name": "3 Hits Impossible",
+      "Desc": "Slashes 3 times after a small step forward\r and inflicts Water damage.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of greatsword combo",
+            "Desc": "Learn \"Cross-Cut\"\n\"Axel Edge\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 3
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of greatsword combo",
+            "Desc": "Learn \"Axel Swing\"\n\"Home Run Swing\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Giant Killer",
+            "Desc": "Easier to deal critical attack,\nwhen attacking an opponent with higher level.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Dauntless Courage",
+            "Desc": "Increases your Defense and Water-type attack for a period of time.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Hi, I'm Jude, a Mercenary.\nUnconfident as I am, I'll do my best.",
+      "-",
+      "Someone like me\ncan still improve... Heh heh.\nThanks to you.",
+      "Can you believe that?\nThis is the improvement\nI made!",
+      "I'll grow at my own pace.",
+      "No... I won't escape.",
+      "It feels like... I can make it too...!",
+      "Hee-hee, I made it!",
+      "Gonna do a good job once in a while.",
+      "It means I've grown, right?",
+      "Oops... I was so stupid.",
+      "Understood!",
+      "Thank you for being here with me.",
+      "Thank you!",
+      "Um, yeah.",
+      "May I?",
+      "Let's go...!",
+      "That was so scary.",
+      "Whoa!",
+      "Am I stronger!",
+      "If only I could keep up with you!",
+      "Thank you for being here with me.",
+      "※Specifications under considerationã",
+      "Hi",
+      "What's up?",
+      "Is there anything... I can do?",
+      "Hm?",
+      "Alas... What was it?",
+      "I feel very happy.",
+      "Heh heh.",
+      "Hah...",
+      "Yep.",
+      "Whoa, let's stay away from the danger.",
+      "Ya!",
+      "Ha!",
+      "Hee-yah!",
+      "Arghhh!",
+      "Heh.",
+      "Phew.",
+      "Uh!",
+      "Arghh!",
+      "What... a pity...",
+      "How is it possible...?",
+      "One more time...!",
+      "Great...!",
+      "No, I won't lose!",
+      "Great...!",
+      "No, I won't lose!",
+      "Great...!",
+      "No, I won't lose!",
+      "I'll... beat it...!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp041_0001",
+    "IcnAssetBundleId": 2156446971,
+    "FullFilename": "bnp041_0001",
+    "FullAssetBundleId": 2156446971,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_mercenary"
+  },
+  "ParamIds": {
+    "ObjId": 2415973741,
+    "Uniqid": 2415973741,
+    "Id": "OBJ_CHARA_00269_00_00",
+    "ResId": 965809442,
+    "ResIdIcon": 4008717120,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3150436418,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4173018466,
+    "DescriptionId": 2378241383,
+    "CommonParamId": 3331661659,
+    "CharaParamId": 2094577383,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 3698611189,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Jude",
+  "Title": "Merc Deserter",
+  "Desc": "A cowardly and somehow pessimistic Mercenary who claims that running away is also an option.",
+  "Rarity": 2,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 17,
+      "Name": "3 Hits Impossible",
+      "Desc": "Slashes 3 times after a small step forward\r and inflicts Water damage.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "Hi, I'm Jude, a Mercenary.\nUnconfident as I am, I'll do my best.",
+      "-",
+      "Someone like me\ncan still improve... Heh heh.\nThanks to you.",
+      "Can you believe that?\nThis is the improvement\nI made!",
+      "I'll grow at my own pace.",
+      "No... I won't escape.",
+      "It feels like... I can make it too...!",
+      "Hee-hee, I made it!",
+      "Gonna do a good job once in a while.",
+      "It means I've grown, right?",
+      "Oops... I was so stupid.",
+      "Understood!",
+      "Thank you for being here with me.",
+      "Thank you!",
+      "Um, yeah.",
+      "May I?",
+      "Let's go...!",
+      "That was so scary.",
+      "Whoa!",
+      "Am I stronger!",
+      "If only I could keep up with you!",
+      "Thank you for being here with me.",
+      "※Specifications under considerationã",
+      "Hi",
+      "What's up?",
+      "Is there anything... I can do?",
+      "Hm?",
+      "Alas... What was it?",
+      "I feel very happy.",
+      "Heh heh.",
+      "Hah...",
+      "Yep.",
+      "Whoa, let's stay away from the danger.",
+      "Ya!",
+      "Ha!",
+      "Hee-yah!",
+      "Arghhh!",
+      "Heh.",
+      "Phew.",
+      "Uh!",
+      "Arghh!",
+      "What... a pity...",
+      "How is it possible...?",
+      "One more time...!",
+      "Great...!",
+      "No, I won't lose!",
+      "Great...!",
+      "No, I won't lose!",
+      "Great...!",
+      "No, I won't lose!",
+      "I'll... beat it...!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp041_0001",
+    "IcnAssetBundleId": 2156446971,
+    "FullFilename": "bnp041_0001",
+    "FullAssetBundleId": 2156446971,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_mercenary"
+  },
+  "ParamIds": {
+    "ObjId": 683454984,
+    "Uniqid": 683454984,
+    "Id": "OBJ_CHARA_00269_01_00",
+    "ResId": 965809442,
+    "ResIdIcon": 4008717120,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3150436418,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1074221575,
+    "DescriptionId": 897413634,
+    "CommonParamId": 3331661659,
+    "CharaParamId": 3294941570,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 3698611189,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

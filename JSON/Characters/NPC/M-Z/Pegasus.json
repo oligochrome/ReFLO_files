@@ -1,0 +1,60 @@
+{
+  "Name": "Pegasus",
+  "Title": "-",
+  "Desc": "A legendary horse of heaven which gallops freely in the sky.\nLegend states that it was enchanted\nto send a princess to a ball long ago.",
+  "Rarity": 4,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_vic002_0013",
+    "IcnAssetBundleId": 2472640068,
+    "FullFilename": "vic002_0013",
+    "FullAssetBundleId": 2472640068,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 187679174,
+    "Uniqid": 187679174,
+    "Id": "OBJ_RIDE_002_13_00",
+    "ResId": 3483564904,
+    "ResIdIcon": 1308873449,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 778338822,
+    "ObjTypeId": 296109364,
+    "ContentsTypeId": 2986619045,
+    "NameId": 3890377030,
+    "DescriptionId": 1408481771,
+    "CommonParamId": 593764135,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2890339400
+  },
+  "Category": ""
+}

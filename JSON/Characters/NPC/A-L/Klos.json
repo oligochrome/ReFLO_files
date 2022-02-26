@@ -1,0 +1,316 @@
+{
+  "Name": "Klos",
+  "Title": "Peaceful Guardian",
+  "Desc": "A Hunter who loves the forest and all that lives in it. Has been traveling the world, fighting black monsters and calming down berserk beasts.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Earth",
+    "CV": "KenshÃ´ Ono",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 20,
+      "Name": "Leaf Rash Arrow",
+      "Desc": "Fires arrows that apply Poison\r and increases critical rate and DMG dealt of self and nearby allies.",
+      "Attribute": "Earth",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of bow combo",
+            "Desc": "Learn \"Thorn Barrage\"",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of bow combo",
+            "Desc": "Learn \"Thorn Destruction\"",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of bow combo",
+            "Desc": "Learn \"Thorn Blitz\"",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Hunter",
+            "Desc": "Critical Rate +2\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Woods Landmark",
+            "Desc": "Slightly increases Fury when an attack hits.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Knowledge Woods",
+            "Desc": "Increases damage to Poisoned targets.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Earth Lance",
+            "Desc": "Lift into the air and hurl huge penetrating lances at the ground.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 30,
+            "Name": "Leaf Rapid Shot",
+            "Desc": "Fires arrows that reduce DEF/M.DEF Produces numerous whirlwinds behind that shoot homing leaf arrows.",
+            "Attribute": "Earth",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "A Hunter who loves nature and guards the order and peace in the forest. While traveling across Reveria, he patrols the forests everywhere.\n\nHas a calm and prudent personality and resolves to wisdom rather than power. He can tell whether there're abnormities in the forest by observing shadows of trees swaying, or birds singing, etc. He has a good relationship with the Woodcutter Tsukiha, who is also a Guardian of the Forest, and the two often exchange information with each other.\n\nHis face is always frigid and leaves a cold impression, but he actually likes relaxing with the Plushlings and basking in the sun to pass the time. He also stays in the trees often, observing others, meditating, or talking to the birds, enjoying a time that belongs only to him.\n\nHe spent his childhood in the forest and grew up alongside the animals. Maybe it was this experience that left him very unaccustomed with talking to humans. This is also why deep down, he envies the Hunter Hawke, who can mingle with anyone.",
+    "OtherText": [
+      "Greetings.\nThis must be Namona... the land of origin.\nA beautiful place, isn't it?",
+      "Greetings.\nThis must be Namona... the land of origin.\nA beautiful place, isn't it?",
+      "Experience leads to improvements.\nIt sounds simple,\nbut it's very important.",
+      "Changes can be good\nor bad. It's all up to us.",
+      "It's about time!",
+      "Let's give it a try.",
+      "I'm ready!",
+      "There's still much room for improvement.",
+      "Everything's going as planned.",
+      "Let it be.",
+      "...There's no success like failure!",
+      "Got it!",
+      "I found it in the forest. Take it.",
+      "Thanks.",
+      "Alright, I'll see what I can do.",
+      "Alright, I'll see what I can do.",
+      "Alright, I'll see what I can do.",
+      "Alright, I'll see what I can do.",
+      "There are wounded beasts nearby...",
+      "There are wounded beasts nearby...",
+      "There are wounded beasts nearby...",
+      "I found it in the forest. Take it.",
+      "Hello there.",
+      "What's going on?",
+      "What's going on?",
+      "Hello there.",
+      "What's going on?",
+      "...Stop it please.",
+      "Hm...",
+      "...Is it?",
+      "I see.",
+      "I can probably climb this tree...",
+      "Hah!",
+      "Oh!",
+      "Hyaa!",
+      "It's working!",
+      "Let's go.",
+      "All set.",
+      "Ack!",
+      "Ugh!",
+      "Ugh... I was too careless.",
+      "Ugh... I was too careless.",
+      "I won't make the same mistake twice.",
+      "I hear the echo of the forest...!",
+      "I hear the echo of the forest...!",
+      "I hear the echo of the forest...!",
+      "I hear the echo of the forest...!",
+      "I hear the echo of the forest...!",
+      "I hear the echo of the forest...!",
+      "I hear the echo of the forest...!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc370_0001",
+    "IcnAssetBundleId": 2395166487,
+    "FullFilename": "npc370_0001",
+    "FullAssetBundleId": 2395166487,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_hunter"
+  },
+  "ParamIds": {
+    "ObjId": 2655733377,
+    "Uniqid": 2655733377,
+    "Id": "OBJ_CHARA_10166_00_00",
+    "ResId": 937068238,
+    "ResIdIcon": 3770398892,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3045870510,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4142966414,
+    "DescriptionId": 2206893707,
+    "CommonParamId": 3370028215,
+    "CharaParamId": 1922245899,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 871198064,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

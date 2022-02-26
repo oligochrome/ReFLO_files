@@ -27,9 +27,7 @@
           "Name": "Bee Rondo",
           "Desc": "Within a period of time,\r makes the enemy susceptible to Poison.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "ChargeSkillGather": [],
@@ -99,9 +97,7 @@
         "Name": "Bee Rondo",
         "Desc": "Within a period of time,\r makes the enemy susceptible to Poison.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "ChargeSkillGather": [],

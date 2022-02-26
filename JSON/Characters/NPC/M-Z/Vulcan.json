@@ -1,0 +1,68 @@
+{
+  "Name": "Vulcan",
+  "Title": "Master Blacksmith",
+  "Desc": "The Master Blacksmith who's strict with both himself and others. A most devoted craftsman who detests dabblers.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Vulcan)",
+      "Repeated summon script (Vulcan)",
+      "End script (Vulcan)",
+      "End script 2 (Vulcan)",
+      "End script 2 (Vulcan)",
+      "End-in-failure script (Vulcan)",
+      "Confirmation script (Vulcan)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp086_0001",
+    "IcnAssetBundleId": 2250349457,
+    "FullFilename": "bnp086_0001",
+    "FullAssetBundleId": 2250349457,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_blacksmith"
+  },
+  "ParamIds": {
+    "ObjId": 2527693319,
+    "Uniqid": 2527693319,
+    "Id": "OBJ_CHARA_00320_00_00",
+    "ResId": 1060653640,
+    "ResIdIcon": 3898176554,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 3178137384,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 4262619656,
+    "DescriptionId": 2338867725,
+    "CommonParamId": 3225174065,
+    "CharaParamId": 2054285709,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2246258902,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

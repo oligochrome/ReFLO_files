@@ -1,0 +1,358 @@
+{
+  "Name": "Sylvia",
+  "Title": "Silver Miner Girl",
+  "Desc": "Daughter of Bray, the Palace Blacksmith. Young, but talented. Looks cold, but becomes enthusiastic when talking about ores.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Water",
+    "CV": "Maaya Uchida",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 20,
+      "Name": "Ice Crush",
+      "Desc": "Gets focused and clear-minded\r and inflicts Water damage.",
+      "Attribute": "Water",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of pickaxe combo",
+            "Desc": "Learn \"Spin Strike\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of pickaxe combo",
+            "Desc": "Learn \"Spin Combo\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of pickaxe combo",
+            "Desc": "Learn \"Rock Crush\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Miner",
+            "Desc": "Mining +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Miner",
+            "Desc": "Mining +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Miner",
+            "Desc": "Mining +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Miner",
+            "Desc": "Mining +10\nATK +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Raised in Winterheim",
+            "Desc": "Significantly increases\nwater attack damage.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "A Miner's Intuition",
+            "Desc": "Significantly increases Charged Attack damage.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 24,
+            "Name": "Blizzard Mine",
+            "Desc": "Pulls nearby targets and creates an ice whirlpool\r When using the skill, weakens the enemy and enhances self.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Gathering\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Absolute Zero Strike",
+            "Desc": "Inflict Water damage with your freezing pickaxe, significantly reducing target's Water RES.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Absolute Prism",
+            "Desc": "Increases your ATK for a long period of time and damages the targets in front of you.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Gathering\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 30,
+            "Name": "Frozen Crush",
+            "Desc": "Performs an omni-freezing blow\r and inflicts Water damage.",
+            "Attribute": "Water",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "A calm silver Miner. She is the daughter of Royal Blacksmith Bray.\n\nShe is the quiet type, just like her father, and rarely expresses her personal feelings. Because of this, she often gives people a cold first impression, but she also has a passionate side. Whenever she talks about ore, her eyes light up, and she becomes more eloquent. If you talk to her while she is mining, you will only get an icy-cold, \"Don't disturb me.\" But this also shows her devotion and enthusiasm for mining.\n\nShe respects her father Bray very much. Her decision to become a Miner was also made out of her desire to help her father. Her inadvertently-spoken-of childhood dream of wanting to \"forge clouds\" has been hidden in the depths of her heart to this day, and she's never given up on it.\n\nShe and the passionate yet rude Blacksmith Rab can be said to be a quarrelsome pair and can never see eye to eye, always beginning to argue each time they see each other, yet they still respect each other's skills.\n\nShe likes quiet places, so she often visits the summit of Mt Snowpeak. She is a nodding acquaintance of Woolf of the Mt Snowpeak Summit.",
+    "OtherText": [
+      "I'm Sylvia, a Miner.\nWhen you're going mining,\nbring me along.",
+      "I'm Sylvia, a Miner.\nWhen you're going mining,\nbring me along.",
+      "I feel power flowing through me...\nI can't wait to use it in battle.",
+      "Nice... My body's\ngetting lighter...",
+      "Let's get started.",
+      "Don't get in my way.",
+      "Easy as pie!",
+      "Will that do?",
+      "Easy peasy!",
+      "I'll be here if you need me again.",
+      "There must have been a mistake...",
+      "Okay.",
+      "Make good use of it.",
+      "...Thanks.",
+      "Allow me.",
+      "Allow me.",
+      "Allow me.",
+      "Allow me.",
+      "Not only strength, sharp eyes are critical too.",
+      "Not only strength, sharp eyes are critical too.",
+      "Not only strength, sharp eyes are critical too.",
+      "Make good use of it.",
+      "You going mining?",
+      "What is it?",
+      "What is it?",
+      "You going mining?",
+      "What is it?",
+      "Hey... Don't touch that.",
+      "Haha.",
+      "This is not good.",
+      "Really?",
+      "Those deposits are known for their...",
+      "Hmph.",
+      "Hyaa!",
+      "Bwahaha!",
+      "Let's go.",
+      "Whew.",
+      "Hah!",
+      "Ack!",
+      "Yikes!",
+      "I was... overconfident...",
+      "I was... overconfident...",
+      "This time, I'll keep my eyes peeled...!",
+      "Absolute Zero Strike!",
+      "Absolute Zero Strike!",
+      "Absolute Zero Strike!",
+      "Absolute Zero Strike!",
+      "Absolute Zero Strike!",
+      "Absolute Zero Strike!",
+      "Absolute Zero Strike!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc234_0001",
+    "IcnAssetBundleId": 1187470361,
+    "FullFilename": "npc234_0001",
+    "FullAssetBundleId": 1187470361,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_prospector"
+  },
+  "ParamIds": {
+    "ObjId": 1448037775,
+    "Uniqid": 1448037775,
+    "Id": "OBJ_CHARA_10034_00_00",
+    "ResId": 4292775360,
+    "ResIdIcon": 683652002,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2106081440,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1056222592,
+    "DescriptionId": 1267633541,
+    "CommonParamId": 14321593,
+    "CharaParamId": 3130469893,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2519372694,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

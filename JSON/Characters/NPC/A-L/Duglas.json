@@ -1,0 +1,68 @@
+{
+  "Name": "Duglas",
+  "Title": "Master Miner",
+  "Desc": "The confused Master Miner. Extremely enthusiastic, and now passing his enthusiasm to his apprentices.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Duglas)",
+      "Repeated summon script (Duglas)",
+      "End script (Duglas)",
+      "End script 2 (Duglas)",
+      "End script 2 (Duglas)",
+      "End-in-failure script (Duglas)",
+      "Confirmation script (Duglas)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_bnp080_0001",
+    "IcnAssetBundleId": 1803462984,
+    "FullFilename": "bnp080_0001",
+    "FullAssetBundleId": 1803462984,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_prospector"
+  },
+  "ParamIds": {
+    "ObjId": 2079766750,
+    "Uniqid": 2079766750,
+    "Id": "OBJ_CHARA_00316_00_00",
+    "ResId": 3529996433,
+    "ResIdIcon": 84297459,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1345435121,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 323836113,
+    "DescriptionId": 1714911444,
+    "CommonParamId": 761492200,
+    "CharaParamId": 2536430420,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2519372694,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

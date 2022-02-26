@@ -1,0 +1,68 @@
+{
+  "Name": "Clark",
+  "Title": "-",
+  "Desc": "A wild and reliable young Miner that's like an older brother.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "First summon script (Clark)",
+      "Repeated summon script (Clark)",
+      "End script (Clark)",
+      "End script 2 (Clark)",
+      "End script 2 (Clark)",
+      "End-in-failure script (Clark)",
+      "Confirmation script (Clark)"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc230_0001",
+    "IcnAssetBundleId": 2995288074,
+    "FullFilename": "npc230_0001",
+    "FullAssetBundleId": 2995288074,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_prospector"
+  },
+  "ParamIds": {
+    "ObjId": 2717936028,
+    "Uniqid": 2717936028,
+    "Id": "OBJ_CHARA_10030_00_00",
+    "ResId": 194095571,
+    "ResIdIcon": 3706754993,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2311546035,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 3401288083,
+    "DescriptionId": 3217140118,
+    "CommonParamId": 4103447466,
+    "CharaParamId": 1322781206,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2519372694,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

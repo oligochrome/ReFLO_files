@@ -1,0 +1,60 @@
+{
+  "Name": "Spirit of Light",
+  "Title": "-",
+  "Desc": "A mischievous spirit that possesses the power of light. It often dazzles people and makes them sneeze.",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "Light",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 686084631,
+    "FullFilename": "mon048_0007",
+    "FullAssetBundleId": 686084631,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 946652033,
+    "Uniqid": 946652033,
+    "Id": "OBJ_CHARA_00601_00_00",
+    "ResId": 2449277902,
+    "ResIdIcon": 1184644524,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4222102461,
+    "ContentsTypeId": 1453935802,
+    "NameId": 1356276622,
+    "DescriptionId": 632095627,
+    "CommonParamId": 1861814711,
+    "CharaParamId": 3568607243,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

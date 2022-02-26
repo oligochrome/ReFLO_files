@@ -1,0 +1,322 @@
+{
+  "Name": "Hayate",
+  "Title": "Rogue of Iai Quickdraw",
+  "Desc": "A wanderer who has been driven out by his master to broaden his horizons. A greedy eater who travels around to perfect his skills while enjoying all the food.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Wind",
+    "CV": "Kenichi Suzumura",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 10,
+      "Name": "Insanity Sword - Flash Wind",
+      "Desc": "Makes 1 fast slash and sheathes the blade Basic ATK DMG +60% in 20 sec.",
+      "Attribute": "Wind",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of greatsword combo",
+            "Desc": "Learn \"Wind Repel\"",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of greatsword combo",
+            "Desc": "Learn \"Storm Sword\"",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of greatsword combo",
+            "Desc": "Learn \"Wind Split\"",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Merc",
+            "Desc": "Max HP +13\nDEF +5",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Iaigiri Skill",
+            "Desc": "When the blade is drawn,ã\nATK SPD +50% over 12 sec.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Calm and Focused",
+            "Desc": "Critical DMG +30%",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Insanity Sword Ascend: High Wind",
+            "Desc": "Slash two time in quick successions, before sheathing the blade.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 20,
+            "Name": "Insanity Sword - Hatred Wind",
+            "Desc": "Makes 2 fast slashes and sheathes the blade Enemy DEF -50% in 20 sec.",
+            "Attribute": "Wind",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "A Mercenary who uses exotic swordsmanship like the wind. He is optimistic, occasionally going too far, but his attainments in swordsmanship are indeed obvious to all. His unique swordsmanship was learned from his adoptive father and master.\n\nHis master, being a head monk, also taught him cultural lessons, but he obviously has no talent in this area. Moreover, he hates staying still and wants to slip out as soon as he finds an opportunity, and the punishment for that—meditating—makes him suffer even more.\n\nHe likes his master and respects him very much, but he wonders why he, a monk, has more troubles than non-religious people. Regarding the sudden act of being driven out of the temple by his master to train, he feels a little dissatisfied, but he still aims to surpass his master and travels all across Reveria to grow stronger.\n\nHis hobby when traveling and studying is to buy local specialty snacks, eating and shopping. It is said that he has written hundreds of records on various foods. Just like the Paladin Porthos and the Cook Glutton, he is a fellow member of the \"Gourmet Club.\"",
+    "OtherText": [
+      "Is this my new territory?\nHm...\nWhere can I find the delicacies?",
+      "Is this my new territory?\nHm...\nWhere can I find the delicacies?",
+      "Hmm! I feel much stronger...\nIt's only a matter of time before\nI overtake my Master!",
+      "Training with you\nhelps me improve.\nTogether, we will grow stronger!!",
+      "Alright, shall we begin?",
+      "You can count on me!",
+      "I'll give my best shot!",
+      "I want delicious food as a reward!",
+      "How did it go?",
+      "I was pretty amazing, huh?",
+      "I was too careless...",
+      "Leave it to me!",
+      "This is for you!",
+      "Thank you!",
+      "Yes, sir!",
+      "Yes, sir!",
+      "Yes, sir!",
+      "Yes, sir!",
+      "Am I getting closer to my master?",
+      "Am I getting closer to my master?",
+      "Am I getting closer to my master?",
+      "This is for you!",
+      "Wanna train with me?",
+      "Can I help you?",
+      "Can I help you?",
+      "Wanna train with me?",
+      "Can I help you?",
+      "Hahaha, I'm very ticklish there...",
+      "Hahaha!",
+      "Yeah...",
+      "I get it.",
+      "I'd like to try something yummy...",
+      "Hyaa!",
+      "Oh!",
+      "There!",
+      "Check this out!",
+      "Hah!",
+      "Let me try this!",
+      "That really hurts!",
+      "Wahhh!",
+      "I was too careless...",
+      "I was too careless...",
+      "I won't lose again!",
+      "Insanity Sword, Ultimate!",
+      "Insanity Sword, Ultimate!",
+      "Insanity Sword, Ultimate!",
+      "Insanity Sword, Ultimate!",
+      "Insanity Sword, Ultimate!",
+      "Insanity Sword, Ultimate!",
+      "Insanity Sword, Ultimate!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc377_0001",
+    "IcnAssetBundleId": 273774638,
+    "FullFilename": "npc377_0001",
+    "FullAssetBundleId": 273774638,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_mercenary"
+  },
+  "ParamIds": {
+    "ObjId": 14248376,
+    "Uniqid": 14248376,
+    "Id": "OBJ_CHARA_10173_00_00",
+    "ResId": 2840111607,
+    "ResIdIcon": 2116654997,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 723412119,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1751288247,
+    "DescriptionId": 488155570,
+    "CommonParamId": 1447863182,
+    "CharaParamId": 3959491122,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 3698611189,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

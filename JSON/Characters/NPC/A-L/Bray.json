@@ -1,0 +1,525 @@
+{
+  "Name": "Bray",
+  "Title": "-",
+  "Desc": "For male",
+  "Rarity": 1,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  },
+  "Resources": {
+    "IcnFilename": "icn_avp93021",
+    "IcnAssetBundleId": 3469121516,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 819867742,
+    "Uniqid": 819867742,
+    "Id": "OBJ_AVATAR_VOICE_00012_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 3664417446,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3716825662,
+    "ContentsTypeId": 3209229727,
+    "NameId": 1230487004,
+    "DescriptionId": 4081074061,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Bray",
+  "Title": "Demonic Blackiron Smith",
+  "Desc": "An experienced Master Blacksmith who can perceive the inner essence of both people and materials alike. Usually gentle, but can be strict when it comes to smithing.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "Keiji Fujiwara",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Care of the Blue Devil",
+      "Desc": "Enhances Bray whenever other allies complete Assignment 5 times",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of hammer combo",
+            "Desc": "Learn \"One-Hand Stab\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of hammer combo",
+            "Desc": "Learn \"Upward Slash\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of hammer combo",
+            "Desc": "Learn \"Jump Hit\"",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Blacksmith",
+            "Desc": "Forging +10\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Blacksmith",
+            "Desc": "Forging +10\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Blacksmith",
+            "Desc": "Forging +10\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Blacksmith",
+            "Desc": "Forging +10\nDEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Blackiron Smith",
+            "Desc": "Improves crafting when making recipes using Blackiron Ingot as raw materials.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Castele Blue Imp",
+            "Desc": "Forge +30\nDEF +20",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 4,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 14,
+            "Name": "Charging Tackle",
+            "Desc": "For a period of time,\r attracts the attention of the enemy hit.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Crafting\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Blackiron Forge",
+            "Desc": "Hit EXCELLENT 4 times. The higher your familiarity, the better the effect!",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 30,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Dark Fortress",
+            "Desc": "For a period of time, significantly reduces the damage you and nearby allies receive, and reduces your Knockback chance.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Crafting Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Still as a Mountain",
+            "Desc": "Enhances ability when Fury gauge is full",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "A Blacksmith hired by the Castele royal family. His skill in forging blackiron is particularly apparent and known as the best in Castele. Ian and Colin are his apprentices.\n\nHe is usually a silent fellow and not good with words, but when it comes to forging, it's as if he undergoes a sudden change in personality and never compromises. People who have seen such a state call him \"the Blue Devil of Castele.\" The Miner Sylvia is his only daughter.\n\nHis daughter is unlike his cheerful and talkative wife and more like his silent self. In this regard, he always feels a little sorry for the both of them.\nAlthough he never says it aloud, he is very concerned about his daughter becoming a Miner. Though he didn't completely support his daughter's decision in the beginning, when he saw the shining look in her eyes when she brought back a ton of ore, he realized his worries were unnecessary.\n\nHe is an old acquaintance of the Ironsmith (Steele), who is known as \"the Red Devil of Castele.\" The two were once evenly matched competitors, and also good partners. However, Bray is determined to seek the pinnacle of forging, while Steele's dream is to become a Blacksmith who serves everyone. They then went their separate ways, and they have been at odds ever since.",
+    "OtherText": [
+      "I'm Bray,\na Blacksmith who excels at forging Blackiron.\nPleased to make your acquaintance.",
+      "I'm Bray,\na Blacksmith who excels at forging Blackiron.\nPleased to make your acquaintance.",
+      "Huh...? How fascinating!\nMy hammer never had so much power!",
+      "There's nothing I can't make.\nI'll show you the pinnacle of craftsmanship!",
+      "Let's get started.",
+      "You won't find an opening.",
+      "This old body needs some whipping.",
+      "I don't see any problem.",
+      "A decent finisher.",
+      "Are you satisfied?",
+      "Am I getting slow...?",
+      "Alright, got it.",
+      "How about this?",
+      "I appreciate it.",
+      "Alright.",
+      "Alright.",
+      "Alright.",
+      "Alright.",
+      "Uh-huh, that was a bit challenging.",
+      "Uh-huh, that was a bit challenging.",
+      "Uh-huh, that was a bit challenging.",
+      "How about this?",
+      "※Specifications under considerationã",
+      "Uh-huh.",
+      "What's going on?",
+      "What's going on?",
+      "Uh-huh.",
+      "What's going on?",
+      "Don't make it hard on me.",
+      "Hi.",
+      "...Hm—",
+      "Hmph.",
+      "One must be able to distinguish the luster of materials.",
+      "Whoosh!",
+      "Ha!",
+      "Ahh!",
+      "Hmph.",
+      "Hmph!",
+      "Phew.",
+      "Ha!",
+      "Ahh!",
+      "Darn... Was I being careless...?",
+      "Darn... Was I being careless...?",
+      "If you get hit, hit back.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "This is an artisan's craftsmanship.",
+      "It's time to end this."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc253_0001",
+    "IcnAssetBundleId": 1158638352,
+    "FullFilename": "npc253_0001",
+    "FullAssetBundleId": 1158638352,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_blacksmith"
+  },
+  "ParamIds": {
+    "ObjId": 1434942086,
+    "Uniqid": 1434942086,
+    "Id": "OBJ_CHARA_10053_00_00",
+    "ResId": 4229348041,
+    "ResIdIcon": 729253035,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2118154153,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 1027381897,
+    "DescriptionId": 1212594828,
+    "CommonParamId": 51556528,
+    "CharaParamId": 3110017292,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2246258902,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}{
+  "Name": "Bray",
+  "Title": "Demonic Blackiron Smith",
+  "Desc": "An experienced Master Blacksmith who can perceive the inner essence of both people and materials alike. Usually gentle, but can be strict when it comes to smithing.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "Keiji Fujiwara",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "Care of the Blue Devil",
+      "Desc": "Enhances Bray whenever other allies complete Assignment 5 times",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": [
+      "I'm Bray,\na Blacksmith who excels at forging Blackiron.\nPleased to make your acquaintance.",
+      "I'm Bray,\na Blacksmith who excels at forging Blackiron.\nPleased to make your acquaintance.",
+      "Huh...? How fascinating!\nMy hammer never had so much power!",
+      "There's nothing I can't make.\nI'll show you the pinnacle of craftsmanship!",
+      "Let's get started.",
+      "You won't find an opening.",
+      "This old body needs some whipping.",
+      "I don't see any problem.",
+      "A decent finisher.",
+      "Are you satisfied?",
+      "Am I getting slow...?",
+      "Alright, got it.",
+      "How about this?",
+      "I appreciate it.",
+      "Alright.",
+      "Alright.",
+      "Alright.",
+      "Alright.",
+      "Uh-huh, that was a bit challenging.",
+      "Uh-huh, that was a bit challenging.",
+      "Uh-huh, that was a bit challenging.",
+      "How about this?",
+      "※Specifications under considerationã",
+      "Uh-huh.",
+      "What's going on?",
+      "What's going on?",
+      "Uh-huh.",
+      "What's going on?",
+      "Don't make it hard on me.",
+      "Hi.",
+      "...Hm—",
+      "Hmph.",
+      "One must be able to distinguish the luster of materials.",
+      "Whoosh!",
+      "Ha!",
+      "Ahh!",
+      "Hmph.",
+      "Hmph!",
+      "Phew.",
+      "Ha!",
+      "Ahh!",
+      "Darn... Was I being careless...?",
+      "Darn... Was I being careless...?",
+      "If you get hit, hit back.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "It's time to end this.",
+      "This is an artisan's craftsmanship.",
+      "It's time to end this."
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc253_0001",
+    "IcnAssetBundleId": 1158638352,
+    "FullFilename": "npc253_0001",
+    "FullAssetBundleId": 1158638352,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_blacksmith"
+  },
+  "ParamIds": {
+    "ObjId": 3980074467,
+    "Uniqid": 3980074467,
+    "Id": "OBJ_CHARA_10053_01_00",
+    "ResId": 4229348041,
+    "ResIdIcon": 729253035,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 2118154153,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 2239823340,
+    "DescriptionId": 4042972649,
+    "CommonParamId": 51556528,
+    "CharaParamId": 31686249,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 2246258902,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}

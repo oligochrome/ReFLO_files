@@ -28,9 +28,7 @@
           "Name": "Promising Miner",
           "Desc": "For a period of time,\r slightly enhances own Mining.",
           "Attribute": "",
-          "AwakenLvDamageMultiplier": {
-            "5": 1.0
-          }
+          "AwakenLvDamageMultiplier": {}
         }
       ],
       "PassiveProperties": [
@@ -94,9 +92,7 @@
         "Name": "Promising Miner",
         "Desc": "For a period of time,\r slightly enhances own Mining.",
         "Attribute": "",
-        "AwakenLvDamageMultiplier": {
-          "5": 1.0
-        }
+        "AwakenLvDamageMultiplier": {}
       }
     ],
     "PassiveProperties": [

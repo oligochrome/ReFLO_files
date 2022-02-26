@@ -1,0 +1,316 @@
+{
+  "Name": "Zazel",
+  "Title": "Chairman of the Yo-kai Council",
+  "Desc": "The chairman of the Yo-kai Council who assists Lord Enma. Terribly troubled by Lord Enma's habit of playing around in the mortal realm.",
+  "Rarity": 5,
+  "CharInfo": {
+    "Attribute": "Fire",
+    "CV": "Takehito Koyasu",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 16,
+      "Name": "Unpredictable Orb",
+      "Desc": "Attacks with an orb made with sorcery and restores part of the DMG dealt as HP.",
+      "Attribute": "Fire",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [
+      {
+        "PieceNameTextId": "Enhanced Combo I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "4th move of sorcery combo",
+            "Desc": "Learn \"Fourth: Lamp Fireâ",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 4,
+            "FarComboCount": 4
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "5th move of sorcery combo",
+            "Desc": "Learn \"Fifth: Will-O-Wisp\"",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 5,
+            "FarComboCount": 5
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Enhanced Combo III",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "6th move of sorcery combo",
+            "Desc": "Learn \"Sixth: Hellfire\"",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 6,
+            "FarComboCount": 6
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Fledgling Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus II",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Apprentice Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus III",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Adept Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Life Bonus IV",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Expert Magician",
+            "Desc": "M.ATK +5\nM.DEF +6",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill I",
+        "LevelLimit": 0,
+        "UseSkillPoint": 5,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Power",
+            "Desc": "Increases allies' Fire-type attack",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Passive Skill II",
+        "LevelLimit": 30,
+        "UseSkillPoint": 7,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Pressure of Hell",
+            "Desc": "Chance to tremendously enhance\ndamage to targets.",
+            "Attribute": "",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nFury Skill I",
+        "LevelLimit": 15,
+        "UseSkillPoint": 6,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 0,
+            "Name": "Judgment Wave",
+            "Desc": "Sends forth huge shockwaves with the Judgement Power and slowly recovers nearby allies' SP.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {
+              "1": 1.0,
+              "2": 1.125,
+              "3": 1.25,
+              "4": 1.375,
+              "5": 1.5
+            },
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      },
+      {
+        "PieceNameTextId": "Battle\nCharge Skill II",
+        "LevelLimit": 40,
+        "UseSkillPoint": 8,
+        "Skill": [
+          {
+            "ChargeLevel": 0,
+            "SpCost": 25,
+            "Name": "Devil Explosion",
+            "Desc": "Causes an explosion in the front with sorcery Increases ATK of nearby allies.",
+            "Attribute": "Fire",
+            "AwakenLvDamageMultiplier": {},
+            "NearComboCount": 0,
+            "FarComboCount": 0
+          }
+        ],
+        "AwakenLvDamageMultiplier": {}
+      }
+    ],
+    "EpisodeText": "-",
+    "OtherText": [
+      "The name's Zazel.\nI serve Lord Enma.\nPleasure.",
+      "The name's Zazel.\nI serve Lord Enma.\nPleasure.",
+      "Power is pouring out of my body...",
+      "Something's raging inside me...\nIs it power?",
+      "I'll take care of it.",
+      "I don't have all the time in the world.",
+      "Looks like I don't need to pull my punches.",
+      "Haha, how was that?",
+      "Hm, is that all you got?",
+      "A lesson learned.",
+      "Uh... sorry...",
+      "Got it!",
+      "Take it.",
+      "Oh, thank you!",
+      "I'll take care of it.",
+      "I'll take care of it.",
+      "I'll take care of it.",
+      "I'll take care of it.",
+      "Don't let your guard down.",
+      "Don't let your guard down.",
+      "Don't let your guard down.",
+      "Take it.",
+      "Uh-huh.",
+      "Oh, how can I help you?",
+      "Oh, how can I help you?",
+      "Uh-huh.",
+      "Oh, how can I help you?",
+      "Y-you...!?",
+      "I feel good.",
+      "Oh...",
+      "My lord...",
+      "Haha, interesting!",
+      "There!",
+      "Hmph!",
+      "Go!",
+      "Oh, impressive.",
+      "Go!",
+      "Let me try this.",
+      "Ack!",
+      "Arghhhh!",
+      "That was a mistake...",
+      "That was a mistake...",
+      "This ain't over!",
+      "No mercy!",
+      "No mercy!",
+      "No mercy!",
+      "No mercy!",
+      "No mercy!",
+      "No mercy!",
+      "No mercy!"
+    ]
+  },
+  "Resources": {
+    "IcnFilename": "icn_npc373_0001",
+    "IcnAssetBundleId": 2022385662,
+    "FullFilename": "npc373_0001",
+    "FullAssetBundleId": 2022385662,
+    "AtlasResID": 4171966347,
+    "SpriteName": "gui_icon_grp_sorcerer"
+  },
+  "ParamIds": {
+    "ObjId": 1745041000,
+    "Uniqid": 1745041000,
+    "Id": "OBJ_CHARA_10169_00_00",
+    "ResId": 3247633959,
+    "ResIdIcon": 385075269,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1136933703,
+    "ObjTypeId": 336089937,
+    "ContentsTypeId": 1103190199,
+    "NameId": 12113511,
+    "DescriptionId": 1975711330,
+    "CommonParamId": 1050082398,
+    "CharaParamId": 2228966882,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 1354512169,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "Category": ""
+}
