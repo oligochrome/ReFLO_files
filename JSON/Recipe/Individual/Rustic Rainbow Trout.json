@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Rustic Rainbow Trout",
+  "MatList": {
+    "Rainbow Trout": 1,
+    "Grassy Plains Barley": 2,
+    "Carrot": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 127847737
+}

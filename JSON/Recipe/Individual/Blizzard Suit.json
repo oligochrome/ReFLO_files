@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Blizzard Suit",
+  "MatList": {
+    "Marine Silk": 2,
+    "Aqua Leaf": 2,
+    "Frosty Feather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 627527255
+}

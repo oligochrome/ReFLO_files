@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Port Town Couch",
+  "MatList": {
+    "Palm Beam": 3,
+    "Silk": 2,
+    "Pretty Coral": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2683494464
+}

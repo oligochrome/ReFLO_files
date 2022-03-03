@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tidal Helmet",
+  "MatList": {
+    "Marine Ingot": 2,
+    "Silver Ingot": 2,
+    "Water Shard": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1225719252
+}

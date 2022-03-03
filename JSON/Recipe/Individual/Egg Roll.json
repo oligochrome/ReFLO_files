@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Egg Roll",
+  "MatList": {
+    "Bird's Egg": 2,
+    "Radish": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3636520085
+}

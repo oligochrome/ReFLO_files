@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Simple Curtains",
+  "MatList": {
+    "Dandelion Cotton": 3,
+    "String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2186083610
+}

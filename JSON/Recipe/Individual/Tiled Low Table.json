@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tiled Low Table",
+  "MatList": {
+    "Palm Beam": 2,
+    "Silk": 1,
+    "Aquamarine": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3726626868
+}

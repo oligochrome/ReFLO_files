@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Dueling Outfit",
+  "MatList": {
+    "Cashmere": 2,
+    "Black Cashmere": 1,
+    "Cute Ribbon": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3995900046
+}

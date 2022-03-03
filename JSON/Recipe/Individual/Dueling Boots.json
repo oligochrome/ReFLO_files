@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Dueling Boots",
+  "MatList": {
+    "Cashmere": 1,
+    "Animal Hide": 1,
+    "Leather String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1182564563
+}

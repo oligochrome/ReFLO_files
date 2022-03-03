@@ -170,7 +170,7 @@
             "ChargeLevel": 0,
             "SpCost": 15,
             "Name": "Shield Breaker",
-            "Desc": "For a period of time,\r Intimidates enemy hit.",
+            "Desc": "For a period of time, intimidates enemy hit.",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {},
             "NearComboCount": 0,
@@ -269,7 +269,6 @@
       "Yes, fantastic!",
       "Hooray!",
       "I will work harder!",
-      "Take it!",
       "※Specifications under considerationã",
       "Yoohoo!",
       "What?",
@@ -281,7 +280,6 @@
       "Um~...",
       "Right!",
       "I'll lend you some stamina!",
-      "Heh!",
       "Heh!",
       "Hee-yah!",
       "Haaaah!",
@@ -296,8 +294,6 @@
       "I won't allow you to run amok!",
       "I'm giving all out!",
       "Right here—!",
-      "I'll cut you down with one slash!",
-      "I won't allow you to run amok!",
       "I won't lose! Never!"
     ]
   },
@@ -380,7 +376,6 @@
       "Yes, fantastic!",
       "Hooray!",
       "I will work harder!",
-      "Take it!",
       "※Specifications under considerationã",
       "Yoohoo!",
       "What?",
@@ -392,7 +387,6 @@
       "Um~...",
       "Right!",
       "I'll lend you some stamina!",
-      "Heh!",
       "Heh!",
       "Hee-yah!",
       "Haaaah!",
@@ -407,8 +401,6 @@
       "I won't allow you to run amok!",
       "I'm giving all out!",
       "Right here—!",
-      "I'll cut you down with one slash!",
-      "I won't allow you to run amok!",
       "I won't lose! Never!"
     ]
   },
@@ -491,7 +483,6 @@
       "Yes, fantastic!",
       "Hooray!",
       "I will work harder!",
-      "Take it!",
       "※Specifications under considerationã",
       "Yoohoo!",
       "What?",
@@ -503,7 +494,6 @@
       "Um~...",
       "Right!",
       "I'll lend you some stamina!",
-      "Heh!",
       "Heh!",
       "Hee-yah!",
       "Haaaah!",
@@ -518,8 +508,6 @@
       "I won't allow you to run amok!",
       "I'm giving all out!",
       "Right here—!",
-      "I'll cut you down with one slash!",
-      "I won't allow you to run amok!",
       "I won't lose! Never!"
     ]
   },

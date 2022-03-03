@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Silver Gauntlets",
+  "MatList": {
+    "Silver Ingot": 2,
+    "Silk": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3116326115
+}

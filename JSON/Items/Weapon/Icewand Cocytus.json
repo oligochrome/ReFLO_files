@@ -1,6 +1,6 @@
 {
   "Name": "Icewand Cocytus",
-  "Desc": "A frozen staff that refuses life.\r People who are not recognized by this staff will be\r frozen in never-melting ice.",
+  "Desc": "A powerful frozen staff. People who are not recognized by this staff will be\r frozen in never-melting ice.",
   "Rarity": 5,
   "Category": "Weapon",
   "Subcategory": "Staff",
@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Staff",
       "IconName": "icn_eqslot_cane",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 42,
           "Name": "Ice Inferno",
-          "Desc": "Launches a giant ice spear at the enemy\r Deals increased damage to Frozen enemies..",
+          "Desc": "Launches a giant ice spear at the enemy. Deals increased damage to Frozen enemies..",
           "Attribute": "Water",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Staff",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 42,
         "Name": "Ice Inferno",
-        "Desc": "Launches a giant ice spear at the enemy\r Deals increased damage to Frozen enemies..",
+        "Desc": "Launches a giant ice spear at the enemy. Deals increased damage to Frozen enemies..",
         "Attribute": "Water",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,
@@ -193,7 +193,7 @@
   }
 }{
   "Name": "Icewand Cocytus",
-  "Desc": "A frozen staff that refuses life.\r People who are not recognized by this staff will be\r frozen in never-melting ice.",
+  "Desc": "A powerful frozen staff. People who are not recognized by this staff will be\r frozen in never-melting ice.",
   "Rarity": 5,
   "Category": "Weapon",
   "Subcategory": "Staff",
@@ -209,6 +209,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Staff",
       "IconName": "icn_eqslot_cane",
@@ -218,7 +219,7 @@
           "ChargeLevel": 1,
           "SpCost": 42,
           "Name": "Ice Inferno",
-          "Desc": "Launches a giant ice spear at the enemy\r Deals increased damage to Frozen enemies..",
+          "Desc": "Launches a giant ice spear at the enemy. Deals increased damage to Frozen enemies..",
           "Attribute": "Water",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -284,8 +285,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Staff",
@@ -296,7 +296,7 @@
         "ChargeLevel": 1,
         "SpCost": 42,
         "Name": "Ice Inferno",
-        "Desc": "Launches a giant ice spear at the enemy\r Deals increased damage to Frozen enemies..",
+        "Desc": "Launches a giant ice spear at the enemy. Deals increased damage to Frozen enemies..",
         "Attribute": "Water",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

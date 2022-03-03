@@ -16,6 +16,29 @@
       "CharaExp": 150,
       "EnchantNeedRich": 0
     },
+    "Effects": [
+      {
+        "Effect": "SP",
+        "Value": 30.0,
+        "AtlasIcon": "gui_buff_heal_sp_001",
+        "Duration": 0.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "DEF",
+        "Value": 44.0,
+        "AtlasIcon": "gui_buff_guard_001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "M.ATK",
+        "Value": 21.0,
+        "AtlasIcon": "gui_buff_magica_001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      }
+    ],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,30 +63,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": [
-      {
-        "Effect": "SP",
-        "Value": 30.0,
-        "AtlasIcon": "gui_buff_heal_sp_001",
-        "Duration": 0.0,
-        "Chance": 100.0
-      },
-      {
-        "Effect": "DEF",
-        "Value": 44.0,
-        "AtlasIcon": "gui_buff_guard_001",
-        "Duration": 60.0,
-        "Chance": 100.0
-      },
-      {
-        "Effect": "M.ATK",
-        "Value": 21.0,
-        "AtlasIcon": "gui_buff_magica_001",
-        "Duration": 60.0,
-        "Chance": 100.0
-      }
-    ]
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm203_1000_10default",

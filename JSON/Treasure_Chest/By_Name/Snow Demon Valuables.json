@@ -1,6 +1,5 @@
 {
   "ChestName": "Snow Demon Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Festive Ribbon",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 4257752684
 }{
   "ChestName": "Snow Demon Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Snow Crystal",

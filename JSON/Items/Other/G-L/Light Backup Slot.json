@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,8 +41,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "dummy",
@@ -97,6 +97,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -121,8 +122,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "dummy",
@@ -178,6 +178,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -202,8 +203,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "dummy",

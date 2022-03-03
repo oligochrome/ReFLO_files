@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Earth Hood",
+  "MatList": {
+    "King's Wool": 2,
+    "Spiritual Powder": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2551898128
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Oak Saw",
+  "MatList": {
+    "Oak Beam": 1,
+    "Bronze Ingot": 1,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3361316458
+}

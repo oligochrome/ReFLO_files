@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Bronze Pickaxe",
+  "MatList": {
+    "Bronze Ingot": 2,
+    "Minty Ore": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2752314571
+}

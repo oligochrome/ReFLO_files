@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Bandit Steak",
+  "MatList": {
+    "Top-Class Beef": 1,
+    "Pine Nuts": 1,
+    "Broccoli": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3164703068
+}

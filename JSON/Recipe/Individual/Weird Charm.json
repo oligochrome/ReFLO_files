@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Weird Charm",
+  "MatList": {
+    "Weird Object": 1,
+    "Leather String": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 194078417
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Ominous Valuables",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Gold Key",
@@ -38,7 +37,6 @@
   "SurpriseboxObjId": 3754921376
 }{
   "ChestName": "Ominous Valuables",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "2 Yr Anniversary Jade",

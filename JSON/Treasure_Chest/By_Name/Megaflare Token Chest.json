@@ -1,6 +1,5 @@
 {
   "ChestName": "Megaflare Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Megaflare Coin",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 2083067692
 }{
   "ChestName": "Megaflare Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Megaflare Coin",
@@ -52,7 +50,6 @@
   "SurpriseboxObjId": 1290270279
 }{
   "ChestName": "Megaflare Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Megaflare Coin",

@@ -1,6 +1,5 @@
 {
   "ChestName": "White Bear Treasure",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Smelt",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 3396835664
 }{
   "ChestName": "White Bear Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Spring Water",

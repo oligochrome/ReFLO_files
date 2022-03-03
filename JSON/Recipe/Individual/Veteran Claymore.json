@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Veteran Claymore",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Fire Ore": 1,
+    "Fine Feather": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 784880811
+}

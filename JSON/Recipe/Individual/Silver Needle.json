@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Silver Needle",
+  "MatList": {
+    "Silver Ingot": 2,
+    "Silver Ore": 1,
+    "Silk Thread": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2699192989
+}

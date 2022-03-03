@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Cotton Candy Sofa",
+  "MatList": {
+    "Whitesugar Beam": 2,
+    "Cloud Goat Fleece": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 3118859328
+}

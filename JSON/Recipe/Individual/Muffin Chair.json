@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Muffin Chair",
+  "MatList": {
+    "Pine Beam": 2,
+    "Wool": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 326116726
+}

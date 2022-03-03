@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shell Armor",
+  "MatList": {
+    "Durable Shell": 4,
+    "Little Shell": 2,
+    "Marine Silk": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3144846256
+}

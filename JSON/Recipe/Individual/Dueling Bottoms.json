@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Dueling Bottoms",
+  "MatList": {
+    "Cashmere": 2,
+    "Animal Hide": 1,
+    "Leather String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2497396549
+}

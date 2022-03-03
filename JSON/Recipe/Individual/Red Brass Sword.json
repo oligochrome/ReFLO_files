@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Red Brass Sword",
+  "MatList": {
+    "Red Ingot": 2,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 2478177004
+}

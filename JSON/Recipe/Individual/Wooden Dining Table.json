@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Wooden Dining Table",
+  "MatList": {
+    "Oak Beam": 3,
+    "Woven Straw Fabric": 1,
+    "Dandelion Cotton": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1116384247
+}

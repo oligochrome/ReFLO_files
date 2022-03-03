@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Crystal Sword",
+  "MatList": {
+    "Blackiron Ingot": 3,
+    "Monster Crystal": 1,
+    "Abyssal Crystal": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 402650134
+}

@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Water Beam",
+  "MatList": {
+    "Water Log": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1329487515
+}

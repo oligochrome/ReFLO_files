@@ -1,6 +1,5 @@
 {
   "ChestName": "Teraflare Coin Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Teraflare Coin",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 1424432748
 }{
   "ChestName": "Teraflare Coin Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Teraflare Coin",

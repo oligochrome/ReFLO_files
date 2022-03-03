@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Sleep Antidote",
+  "MatList": {
+    "Cureweed": 1,
+    "Wakeup Berries": 1,
+    "Spring Water": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3778922369
+}

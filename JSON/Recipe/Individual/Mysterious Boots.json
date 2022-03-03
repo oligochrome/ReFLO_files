@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Mysterious Boots",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1037112507
+}

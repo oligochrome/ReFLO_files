@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Dancer's Veil",
+  "MatList": {
+    "Flare Wool": 2,
+    "Plain Armor Core (M)": 2,
+    "Ruby": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1246355213
+}

@@ -170,7 +170,7 @@
             "ChargeLevel": 0,
             "SpCost": 14,
             "Name": "Tornado Shot",
-            "Desc": "Summons a hurricane to attack\r Inflicts Wind damage.",
+            "Desc": "Summons a hurricane to attack. Inflicts Wind damage.",
             "Attribute": "Wind",
             "AwakenLvDamageMultiplier": {},
             "NearComboCount": 0,
@@ -248,7 +248,7 @@
     ],
     "EpisodeText": "-",
     "OtherText": [
-      "I'm Bezel, a lofty\" Angler.\nWell, \"lofty\" may be an overstatement.",
+      "I'm Bezel, a lofty Angler.\nWell, \"lofty\" may be an overstatement.",
       "I'm fine with being alone, but I don't mind company.\nWhy don't we go fishing together?",
       "Wait, what just happened?\nA scale just fell out of my eye!",
       "I've never felt this way before!\nI think I've got the hang of fishing!",
@@ -269,7 +269,6 @@
       "Alright!",
       "Power up!",
       "Bring it on!",
-      "That's my collection!",
       "{Avatar_Name1}...\nPleased to meet you!",
       "Yo!",
       "About fishing?",
@@ -286,7 +285,6 @@
       "Ohhhh!",
       "Hooyah!",
       "Hee-yah!",
-      "Hah!",
       "Uh!",
       "Ughhh!",
       "The big guy... is still...",
@@ -296,8 +294,6 @@
       "Looks promising!",
       "None shall escape from my grasp!",
       "This is my target!",
-      "Let's get this over with!",
-      "Looks promising!",
       "One strike to kill!"
     ]
   },
@@ -359,7 +355,7 @@
     "Skillboard": [],
     "EpisodeText": "-",
     "OtherText": [
-      "I'm Bezel, a lofty\" Angler.\nWell, \"lofty\" may be an overstatement.",
+      "I'm Bezel, a lofty Angler.\nWell, \"lofty\" may be an overstatement.",
       "I'm fine with being alone, but I don't mind company.\nWhy don't we go fishing together?",
       "Wait, what just happened?\nA scale just fell out of my eye!",
       "I've never felt this way before!\nI think I've got the hang of fishing!",
@@ -380,7 +376,6 @@
       "Alright!",
       "Power up!",
       "Bring it on!",
-      "That's my collection!",
       "{Avatar_Name1}...\nPleased to meet you!",
       "Yo!",
       "About fishing?",
@@ -397,7 +392,6 @@
       "Ohhhh!",
       "Hooyah!",
       "Hee-yah!",
-      "Hah!",
       "Uh!",
       "Ughhh!",
       "The big guy... is still...",
@@ -407,8 +401,6 @@
       "Looks promising!",
       "None shall escape from my grasp!",
       "This is my target!",
-      "Let's get this over with!",
-      "Looks promising!",
       "One strike to kill!"
     ]
   },
@@ -470,7 +462,7 @@
     "Skillboard": [],
     "EpisodeText": "-",
     "OtherText": [
-      "I'm Bezel, a lofty\" Angler.\nWell, \"lofty\" may be an overstatement.",
+      "I'm Bezel, a lofty Angler.\nWell, \"lofty\" may be an overstatement.",
       "I'm fine with being alone, but I don't mind company.\nWhy don't we go fishing together?",
       "Wait, what just happened?\nA scale just fell out of my eye!",
       "I've never felt this way before!\nI think I've got the hang of fishing!",
@@ -491,7 +483,6 @@
       "Alright!",
       "Power up!",
       "Bring it on!",
-      "That's my collection!",
       "{Avatar_Name1}...\nPleased to meet you!",
       "Yo!",
       "About fishing?",
@@ -508,7 +499,6 @@
       "Ohhhh!",
       "Hooyah!",
       "Hee-yah!",
-      "Hah!",
       "Uh!",
       "Ughhh!",
       "The big guy... is still...",
@@ -518,8 +508,6 @@
       "Looks promising!",
       "None shall escape from my grasp!",
       "This is my target!",
-      "Let's get this over with!",
-      "Looks promising!",
       "One strike to kill!"
     ]
   },

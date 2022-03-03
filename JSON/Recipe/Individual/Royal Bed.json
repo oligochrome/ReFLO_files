@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Royal Bed",
+  "MatList": {
+    "Green Oak Beam": 5,
+    "Elder Green Oak Log": 1,
+    "King's Wool": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 4230141306
+}

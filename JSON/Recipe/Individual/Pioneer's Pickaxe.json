@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Pioneer's Pickaxe",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Yellow Stone": 1,
+    "Topaz": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3728852856
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Striped Skirt",
+  "MatList": {
+    "Wool": 2,
+    "Lucky Flower": 1,
+    "Running Flower": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2222795875
+}

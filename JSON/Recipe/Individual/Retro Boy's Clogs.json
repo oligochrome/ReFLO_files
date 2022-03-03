@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Retro Boy's Clogs",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Plain Armor Core (M)": 2,
+    "Dark Straw Fabric": 5
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3770227139
+}

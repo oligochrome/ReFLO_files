@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Coastal Headwear",
+  "MatList": {
+    "Marine Silk": 2,
+    "Goat Fleece": 1,
+    "Wonderful String": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3506105972
+}

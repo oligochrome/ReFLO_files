@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Pirate Handkerchief",
+  "MatList": {
+    "Silk": 2,
+    "Marine Silk": 1,
+    "Black Coin": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1189606873
+}

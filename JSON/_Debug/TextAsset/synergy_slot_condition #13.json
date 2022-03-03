@@ -1,0 +1,573 @@
+{
+  "TableSynergySlotCondition": [
+    {
+      "SynergySlotConditionInd": 3351998432,
+      "ID": 3351998432,
+      "ConditionTypeId": 3724362469,
+      "ValueId": 0,
+      "ValueNum": 0,
+      "TextIntroid": 237261743
+    },
+    {
+      "SynergySlotConditionInd": 4243294238,
+      "ID": 4243294238,
+      "ConditionTypeId": 3094190493,
+      "ValueId": 1774469781,
+      "ValueNum": 0,
+      "TextIntroid": 440482595
+    },
+    {
+      "SynergySlotConditionInd": 2713748921,
+      "ID": 2713748921,
+      "ConditionTypeId": 3094190493,
+      "ValueId": 2815902565,
+      "ValueNum": 0,
+      "TextIntroid": 729650214
+    },
+    {
+      "SynergySlotConditionInd": 911124756,
+      "ID": 911124756,
+      "ConditionTypeId": 3094190493,
+      "ValueId": 1774469781,
+      "ValueNum": 0,
+      "TextIntroid": 2854720910
+    },
+    {
+      "SynergySlotConditionInd": 1382737785,
+      "ID": 1382737785,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 2554785512,
+      "ValueNum": 0,
+      "TextIntroid": 3849550528
+    },
+    {
+      "SynergySlotConditionInd": 792951345,
+      "ID": 792951345,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 3686778005,
+      "ValueNum": 0,
+      "TextIntroid": 1162404750
+    },
+    {
+      "SynergySlotConditionInd": 4218160598,
+      "ID": 4218160598,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 1126115836,
+      "ValueNum": 0,
+      "TextIntroid": 3945404080
+    },
+    {
+      "SynergySlotConditionInd": 3638164547,
+      "ID": 3638164547,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 1087232629,
+      "ValueNum": 0,
+      "TextIntroid": 1874878970
+    },
+    {
+      "SynergySlotConditionInd": 1315735607,
+      "ID": 1315735607,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 986077383,
+      "ValueNum": 0,
+      "TextIntroid": 4124427558
+    },
+    {
+      "SynergySlotConditionInd": 3354444065,
+      "ID": 3354444065,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 1186045432,
+      "ValueNum": 0,
+      "TextIntroid": 3619082823
+    },
+    {
+      "SynergySlotConditionInd": 2524201400,
+      "ID": 2524201400,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 710227153,
+      "ValueNum": 0,
+      "TextIntroid": 2251444958
+    },
+    {
+      "SynergySlotConditionInd": 1132129020,
+      "ID": 1132129020,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 3279787438,
+      "ValueNum": 0,
+      "TextIntroid": 4050712649
+    },
+    {
+      "SynergySlotConditionInd": 851179966,
+      "ID": 851179966,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 833237686,
+      "ValueNum": 0,
+      "TextIntroid": 587066072
+    },
+    {
+      "SynergySlotConditionInd": 1011453241,
+      "ID": 1011453241,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 2026962333,
+      "ValueNum": 0,
+      "TextIntroid": 2386796428
+    },
+    {
+      "SynergySlotConditionInd": 3991666710,
+      "ID": 3991666710,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 1709142060,
+      "ValueNum": 0,
+      "TextIntroid": 1608913571
+    },
+    {
+      "SynergySlotConditionInd": 51000524,
+      "ID": 51000524,
+      "ConditionTypeId": 1386629032,
+      "ValueId": 164164233,
+      "ValueNum": 0,
+      "TextIntroid": 3021187445
+    },
+    {
+      "SynergySlotConditionInd": 2740779964,
+      "ID": 2740779964,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 2300705121,
+      "ValueNum": 0,
+      "TextIntroid": 127760834
+    },
+    {
+      "SynergySlotConditionInd": 3273404584,
+      "ID": 3273404584,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 3274547171,
+      "ValueNum": 0,
+      "TextIntroid": 2024111545
+    },
+    {
+      "SynergySlotConditionInd": 2947012116,
+      "ID": 2947012116,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 3355431860,
+      "ValueNum": 0,
+      "TextIntroid": 191255658
+    },
+    {
+      "SynergySlotConditionInd": 3325265236,
+      "ID": 3325265236,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 2762901997,
+      "ValueNum": 0,
+      "TextIntroid": 1660028714
+    },
+    {
+      "SynergySlotConditionInd": 4151787315,
+      "ID": 4151787315,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 1658945291,
+      "ValueNum": 0,
+      "TextIntroid": 2642192012
+    },
+    {
+      "SynergySlotConditionInd": 1953914892,
+      "ID": 1953914892,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 2524902084,
+      "ValueNum": 0,
+      "TextIntroid": 511572403
+    },
+    {
+      "SynergySlotConditionInd": 1525168409,
+      "ID": 1525168409,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 730741264,
+      "ValueNum": 0,
+      "TextIntroid": 3780211720
+    },
+    {
+      "SynergySlotConditionInd": 2047974813,
+      "ID": 2047974813,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 1898503243,
+      "ValueNum": 0,
+      "TextIntroid": 270140450
+    },
+    {
+      "SynergySlotConditionInd": 2706058804,
+      "ID": 2706058804,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 2187003451,
+      "ValueNum": 0,
+      "TextIntroid": 452092709
+    },
+    {
+      "SynergySlotConditionInd": 2657556100,
+      "ID": 2657556100,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 3262958588,
+      "ValueNum": 0,
+      "TextIntroid": 1961485592
+    },
+    {
+      "SynergySlotConditionInd": 1982851308,
+      "ID": 1982851308,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 1324894209,
+      "ValueNum": 0,
+      "TextIntroid": 3930510454
+    },
+    {
+      "SynergySlotConditionInd": 1906327787,
+      "ID": 1906327787,
+      "ConditionTypeId": 1785148777,
+      "ValueId": 3929318351,
+      "ValueNum": 0,
+      "TextIntroid": 3390639610
+    },
+    {
+      "SynergySlotConditionInd": 361680851,
+      "ID": 361680851,
+      "ConditionTypeId": 1777640393,
+      "ValueId": 702543998,
+      "ValueNum": 0,
+      "TextIntroid": 2922873538
+    },
+    {
+      "SynergySlotConditionInd": 3858309638,
+      "ID": 3858309638,
+      "ConditionTypeId": 1777640393,
+      "ValueId": 2085271289,
+      "ValueNum": 0,
+      "TextIntroid": 2415049657
+    },
+    {
+      "SynergySlotConditionInd": 563295209,
+      "ID": 563295209,
+      "ConditionTypeId": 1777640393,
+      "ValueId": 1342874959,
+      "ValueNum": 0,
+      "TextIntroid": 2586476280
+    },
+    {
+      "SynergySlotConditionInd": 910128390,
+      "ID": 910128390,
+      "ConditionTypeId": 1777640393,
+      "ValueId": 3428635843,
+      "ValueNum": 0,
+      "TextIntroid": 1546972345
+    },
+    {
+      "SynergySlotConditionInd": 2960610469,
+      "ID": 2960610469,
+      "ConditionTypeId": 1777640393,
+      "ValueId": 3965976276,
+      "ValueNum": 0,
+      "TextIntroid": 3665612058
+    },
+    {
+      "SynergySlotConditionInd": 1260997471,
+      "ID": 1260997471,
+      "ConditionTypeId": 1777640393,
+      "ValueId": 1786596426,
+      "ValueNum": 0,
+      "TextIntroid": 4035970638
+    },
+    {
+      "SynergySlotConditionInd": 2832061667,
+      "ID": 2832061667,
+      "ConditionTypeId": 2969046227,
+      "ValueId": 0,
+      "ValueNum": 2,
+      "TextIntroid": 3608130923
+    },
+    {
+      "SynergySlotConditionInd": 3754615925,
+      "ID": 3754615925,
+      "ConditionTypeId": 2969046227,
+      "ValueId": 0,
+      "ValueNum": 3,
+      "TextIntroid": 2684913149
+    },
+    {
+      "SynergySlotConditionInd": 1101951446,
+      "ID": 1101951446,
+      "ConditionTypeId": 2969046227,
+      "ValueId": 0,
+      "ValueNum": 4,
+      "TextIntroid": 1047269470
+    },
+    {
+      "SynergySlotConditionInd": 917061952,
+      "ID": 917061952,
+      "ConditionTypeId": 2969046227,
+      "ValueId": 0,
+      "ValueNum": 5,
+      "TextIntroid": 1231757512
+    },
+    {
+      "SynergySlotConditionInd": 3113320996,
+      "ID": 3113320996,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 3,
+      "TextIntroid": 257687990
+    },
+    {
+      "SynergySlotConditionInd": 1358046993,
+      "ID": 1358046993,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 5,
+      "TextIntroid": 3862930563
+    },
+    {
+      "SynergySlotConditionInd": 3204204093,
+      "ID": 3204204093,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 7,
+      "TextIntroid": 137479599
+    },
+    {
+      "SynergySlotConditionInd": 964944607,
+      "ID": 964944607,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 10,
+      "TextIntroid": 2404278605
+    },
+    {
+      "SynergySlotConditionInd": 3616375795,
+      "ID": 3616375795,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 12,
+      "TextIntroid": 1631584353
+    },
+    {
+      "SynergySlotConditionInd": 1055794886,
+      "ID": 1055794886,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 14,
+      "TextIntroid": 2284037460
+    },
+    {
+      "SynergySlotConditionInd": 1240012368,
+      "ID": 1240012368,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 15,
+      "TextIntroid": 4280587714
+    },
+    {
+      "SynergySlotConditionInd": 3504359402,
+      "ID": 3504359402,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 16,
+      "TextIntroid": 1714275448
+    },
+    {
+      "SynergySlotConditionInd": 313438492,
+      "ID": 313438492,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 20,
+      "TextIntroid": 2757964430
+    },
+    {
+      "SynergySlotConditionInd": 1657030035,
+      "ID": 1657030035,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 25,
+      "TextIntroid": 3557410305
+    },
+    {
+      "SynergySlotConditionInd": 196444253,
+      "ID": 196444253,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 30,
+      "TextIntroid": 3178759119
+    },
+    {
+      "SynergySlotConditionInd": 2078242002,
+      "ID": 2078242002,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 35,
+      "TextIntroid": 3440572224
+    },
+    {
+      "SynergySlotConditionInd": 1156847258,
+      "ID": 1156847258,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 40,
+      "TextIntroid": 4063859976
+    },
+    {
+      "SynergySlotConditionInd": 882827797,
+      "ID": 882827797,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 45,
+      "TextIntroid": 2186502535
+    },
+    {
+      "SynergySlotConditionInd": 1575954395,
+      "ID": 1575954395,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 50,
+      "TextIntroid": 3944916041
+    },
+    {
+      "SynergySlotConditionInd": 1518527426,
+      "ID": 1518527426,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 54,
+      "TextIntroid": 3964624976
+    },
+    {
+      "SynergySlotConditionInd": 3029107438,
+      "ID": 3029107438,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 56,
+      "TextIntroid": 37814652
+    },
+    {
+      "SynergySlotConditionInd": 1992455192,
+      "ID": 1992455192,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 60,
+      "TextIntroid": 3222271882
+    },
+    {
+      "SynergySlotConditionInd": 1876510041,
+      "ID": 1876510041,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 70,
+      "TextIntroid": 3642017483
+    },
+    {
+      "SynergySlotConditionInd": 2178360437,
+      "ID": 2178360437,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 72,
+      "TextIntroid": 924493799
+    },
+    {
+      "SynergySlotConditionInd": 1756660032,
+      "ID": 1756660032,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 74,
+      "TextIntroid": 3732472530
+    },
+    {
+      "SynergySlotConditionInd": 2260394092,
+      "ID": 2260394092,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 76,
+      "TextIntroid": 813130750
+    },
+    {
+      "SynergySlotConditionInd": 1627573611,
+      "ID": 1627573611,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 78,
+      "TextIntroid": 3620687609
+    },
+    {
+      "SynergySlotConditionInd": 3896596886,
+      "ID": 3896596886,
+      "ConditionTypeId": 4037203261,
+      "ValueId": 0,
+      "ValueNum": 80,
+      "TextIntroid": 1586289156
+    },
+    {
+      "SynergySlotConditionInd": 1326414667,
+      "ID": 1326414667,
+      "ConditionTypeId": 847107914,
+      "ValueId": 0,
+      "ValueNum": 1,
+      "TextIntroid": 2262845188
+    },
+    {
+      "SynergySlotConditionInd": 3590728433,
+      "ID": 3590728433,
+      "ConditionTypeId": 847107914,
+      "ValueId": 0,
+      "ValueNum": 2,
+      "TextIntroid": 535369406
+    },
+    {
+      "SynergySlotConditionInd": 2701204071,
+      "ID": 2701204071,
+      "ConditionTypeId": 847107914,
+      "ValueId": 0,
+      "ValueNum": 3,
+      "TextIntroid": 1760437800
+    },
+    {
+      "SynergySlotConditionInd": 1063620548,
+      "ID": 1063620548,
+      "ConditionTypeId": 847107914,
+      "ValueId": 0,
+      "ValueNum": 4,
+      "TextIntroid": 4136285067
+    },
+    {
+      "SynergySlotConditionInd": 3397211209,
+      "ID": 3397211209,
+      "ConditionTypeId": 559967860,
+      "ValueId": 0,
+      "ValueNum": 5,
+      "TextIntroid": 2091964379
+    },
+    {
+      "SynergySlotConditionInd": 2735509895,
+      "ID": 2735509895,
+      "ConditionTypeId": 559967860,
+      "ValueId": 0,
+      "ValueNum": 10,
+      "TextIntroid": 364974613
+    },
+    {
+      "SynergySlotConditionInd": 3546703112,
+      "ID": 3546703112,
+      "ConditionTypeId": 559967860,
+      "ValueId": 0,
+      "ValueNum": 15,
+      "TextIntroid": 1705764506
+    },
+    {
+      "SynergySlotConditionInd": 2283913796,
+      "ID": 2283913796,
+      "ConditionTypeId": 559967860,
+      "ValueId": 0,
+      "ValueNum": 20,
+      "TextIntroid": 1055670742
+    },
+    {
+      "SynergySlotConditionInd": 3055331722,
+      "ID": 3055331722,
+      "ConditionTypeId": 205130584,
+      "ValueId": 0,
+      "ValueNum": 0,
+      "TextIntroid": 4260187921
+    }
+  ],
+  "IdRef": {}
+}

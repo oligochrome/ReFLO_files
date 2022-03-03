@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Zenith Dionysus",
+  "MatList": {
+    "Dionysus": 1,
+    "White Ore": 8,
+    "Tourmaline": 30
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 2838800738
+}

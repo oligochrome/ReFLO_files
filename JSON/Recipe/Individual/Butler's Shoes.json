@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Butler's Shoes",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Beast Hide": 1,
+    "String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2938582672
+}

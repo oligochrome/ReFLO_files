@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Big Bang Armor",
+  "MatList": {
+    "Gold Ingot": 3,
+    "Earth Armor Core (M)": 3,
+    "Emerald": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3286593699
+}

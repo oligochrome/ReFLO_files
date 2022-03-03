@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Steel Claymore",
+  "MatList": {
+    "Golem Ingot": 3
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 1565810811
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Black Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Great Dragon Claws",
@@ -38,7 +37,6 @@
   "SurpriseboxObjId": 3106679043
 }{
   "ChestName": "Black Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Black Dragon Rings",
@@ -76,7 +74,6 @@
   "SurpriseboxObjId": 1654543673
 }{
   "ChestName": "Black Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Black Dragon Rings",
@@ -122,7 +119,6 @@
   "SurpriseboxObjId": 1541863545
 }{
   "ChestName": "Black Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Black Dragon Scale",

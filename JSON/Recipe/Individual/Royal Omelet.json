@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Royal Omelet",
+  "MatList": {
+    "Royal Egg": 2,
+    "Extra Creamy Milk": 1,
+    "Truffle": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2091957211
+}

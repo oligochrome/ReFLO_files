@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Onihime Bathrobe",
+  "MatList": {
+    "Black Cashmere": 3,
+    "Plain Armor Core (M)": 3,
+    "Amethyst": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 926985807
+}

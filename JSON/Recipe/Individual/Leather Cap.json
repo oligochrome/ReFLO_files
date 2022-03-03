@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Leather Cap",
+  "MatList": {
+    "Animal Hide": 2,
+    "Leather String": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 1887682833
+}

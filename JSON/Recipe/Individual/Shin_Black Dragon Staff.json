@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shin/Black Dragon Staff",
+  "MatList": {
+    "Black Dragon Staff": 1,
+    "Giant Scale": 4,
+    "Topaz": 30
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 2079049189
+}

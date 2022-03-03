@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Silvermoon Gloves",
+  "MatList": {
+    "King's Wool": 2,
+    "Light Armor Core (M)": 2,
+    "Topaz": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 706088527
+}

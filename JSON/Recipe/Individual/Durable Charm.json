@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Durable Charm",
+  "MatList": {
+    "Mysterious Object": 1,
+    "Wonderful String": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3227157353
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Samurai Mail",
+  "MatList": {
+    "Blackiron Ingot": 3,
+    "Shadow Armor Core (M)": 3,
+    "Abyssal Crystal": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1086665561
+}

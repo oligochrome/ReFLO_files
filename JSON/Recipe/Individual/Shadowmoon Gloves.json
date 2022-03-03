@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shadowmoon Gloves",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Shadow Armor Core (M)": 2,
+    "Giant Claws": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 80399492
+}

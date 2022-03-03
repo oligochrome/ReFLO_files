@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Greatsword",
       "IconName": "icn_eqslot_lsword",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 34,
           "Name": "Threat Slash",
-          "Desc": "Within a period of time,\r Intimidates enemy hit.",
+          "Desc": "Within a period of time,\r intimidates enemy hit.",
           "Attribute": "",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -83,8 +84,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Greatsword",
@@ -95,7 +95,7 @@
         "ChargeLevel": 1,
         "SpCost": 34,
         "Name": "Threat Slash",
-        "Desc": "Within a period of time,\r Intimidates enemy hit.",
+        "Desc": "Within a period of time,\r intimidates enemy hit.",
         "Attribute": "",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

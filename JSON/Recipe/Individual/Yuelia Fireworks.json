@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Yuelia Fireworks",
+  "MatList": {
+    "Mini Bomb": 1,
+    "Yellow Gel": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 420731899
+}

@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Staff",
       "IconName": "icn_eqslot_cane",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 39,
           "Name": "Nether Fire",
-          "Desc": "Fires demon bullets that fly in straight lines\r Increases Fire DMG of nearby allies.",
+          "Desc": "Fires demon bullets that fly in straight lines. Increases Fire DMG of nearby allies.",
           "Attribute": "Fire",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Staff",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 39,
         "Name": "Nether Fire",
-        "Desc": "Fires demon bullets that fly in straight lines\r Increases Fire DMG of nearby allies.",
+        "Desc": "Fires demon bullets that fly in straight lines. Increases Fire DMG of nearby allies.",
         "Attribute": "Fire",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

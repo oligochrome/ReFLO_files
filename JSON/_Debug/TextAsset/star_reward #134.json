@@ -1,0 +1,831 @@
+{
+  "TableStarReward": [
+    {
+      "StarRewardInd": 2737691206,
+      "Uniqid": 2737691206,
+      "StarId": 2488430298,
+      "ObjId": 3305440413,
+      "Num": 1000
+    },
+    {
+      "StarRewardInd": 112912555,
+      "Uniqid": 112912555,
+      "StarId": 2488430298,
+      "ObjId": 2709571805,
+      "Num": 8
+    },
+    {
+      "StarRewardInd": 1569716508,
+      "Uniqid": 1569716508,
+      "StarId": 2488430298,
+      "ObjId": 4206221674,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 2552809362,
+      "Uniqid": 2552809362,
+      "StarId": 2488430298,
+      "ObjId": 1058203620,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 570253216,
+      "Uniqid": 570253216,
+      "StarId": 849131651,
+      "ObjId": 3305440413,
+      "Num": 500
+    },
+    {
+      "StarRewardInd": 2511107405,
+      "Uniqid": 2511107405,
+      "StarId": 849131651,
+      "ObjId": 2564460658,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 3348388586,
+      "Uniqid": 3348388586,
+      "StarId": 849131651,
+      "ObjId": 3403857877,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 3989600764,
+      "Uniqid": 3989600764,
+      "StarId": 849131651,
+      "ObjId": 3770326211,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 711725960,
+      "Uniqid": 711725960,
+      "StarId": 849131651,
+      "ObjId": 656078519,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 1366964158,
+      "Uniqid": 1366964158,
+      "StarId": 2780460103,
+      "ObjId": 3305440413,
+      "Num": 3000
+    },
+    {
+      "StarRewardInd": 3596404485,
+      "Uniqid": 3596404485,
+      "StarId": 2780460103,
+      "ObjId": 4206221674,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 335280523,
+      "Uniqid": 335280523,
+      "StarId": 2780460103,
+      "ObjId": 1058203620,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 3848596744,
+      "Uniqid": 3848596744,
+      "StarId": 2780460103,
+      "ObjId": 3381523303,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 3678333199,
+      "Uniqid": 3678333199,
+      "StarId": 268210483,
+      "ObjId": 3770326211,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 3060240681,
+      "Uniqid": 3060240681,
+      "StarId": 63799283,
+      "ObjId": 3305440413,
+      "Num": 5000
+    },
+    {
+      "StarRewardInd": 3985503454,
+      "Uniqid": 3985503454,
+      "StarId": 63799283,
+      "ObjId": 251329913,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 2219814039,
+      "Uniqid": 2219814039,
+      "StarId": 63799283,
+      "ObjId": 1731765552,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 2252929133,
+      "Uniqid": 2252929133,
+      "StarId": 63799283,
+      "ObjId": 1698689482,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 304922442,
+      "Uniqid": 304922442,
+      "StarId": 3451304364,
+      "ObjId": 2635891626,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 2996132791,
+      "Uniqid": 2996132791,
+      "StarId": 137277721,
+      "ObjId": 3305440413,
+      "Num": 1000
+    },
+    {
+      "StarRewardInd": 794174516,
+      "Uniqid": 794174516,
+      "StarId": 137277721,
+      "ObjId": 1298171430,
+      "Num": 8
+    },
+    {
+      "StarRewardInd": 3448016342,
+      "Uniqid": 3448016342,
+      "StarId": 2169888833,
+      "ObjId": 3305440413,
+      "Num": 500
+    },
+    {
+      "StarRewardInd": 409198549,
+      "Uniqid": 409198549,
+      "StarId": 2169888833,
+      "ObjId": 3403857877,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 2392118964,
+      "Uniqid": 2392118964,
+      "StarId": 2169888833,
+      "ObjId": 1544926900,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 1881078718,
+      "Uniqid": 1881078718,
+      "StarId": 2169888833,
+      "ObjId": 2728369086,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 932987964,
+      "Uniqid": 932987964,
+      "StarId": 2169888833,
+      "ObjId": 3843892284,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 1086502479,
+      "Uniqid": 1086502479,
+      "StarId": 969321348,
+      "ObjId": 3305440413,
+      "Num": 3000
+    },
+    {
+      "StarRewardInd": 49418649,
+      "Uniqid": 49418649,
+      "StarId": 969321348,
+      "ObjId": 3944189330,
+      "Num": 6
+    },
+    {
+      "StarRewardInd": 2836625109,
+      "Uniqid": 2836625109,
+      "StarId": 3157641713,
+      "ObjId": 1298171430,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 2816413912,
+      "Uniqid": 2816413912,
+      "StarId": 2679218224,
+      "ObjId": 3305440413,
+      "Num": 5000
+    },
+    {
+      "StarRewardInd": 2211619408,
+      "Uniqid": 2211619408,
+      "StarId": 2679218224,
+      "ObjId": 2779326867,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 3453696629,
+      "Uniqid": 3453696629,
+      "StarId": 2122309998,
+      "ObjId": 2635891626,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 4083426525,
+      "Uniqid": 4083426525,
+      "StarId": 616342687,
+      "ObjId": 3305440413,
+      "Num": 1000
+    },
+    {
+      "StarRewardInd": 468271989,
+      "Uniqid": 468271989,
+      "StarId": 616342687,
+      "ObjId": 3287253445,
+      "Num": 8
+    },
+    {
+      "StarRewardInd": 3343544705,
+      "Uniqid": 3343544705,
+      "StarId": 244062564,
+      "ObjId": 3305440413,
+      "Num": 500
+    },
+    {
+      "StarRewardInd": 2836207691,
+      "Uniqid": 2836207691,
+      "StarId": 244062564,
+      "ObjId": 4173500993,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 2895782563,
+      "Uniqid": 2895782563,
+      "StarId": 244062564,
+      "ObjId": 4250249385,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 3096345170,
+      "Uniqid": 3096345170,
+      "StarId": 244062564,
+      "ObjId": 3913412696,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 20171045,
+      "Uniqid": 20171045,
+      "StarId": 357875202,
+      "ObjId": 3305440413,
+      "Num": 3000
+    },
+    {
+      "StarRewardInd": 911046360,
+      "Uniqid": 911046360,
+      "StarId": 357875202,
+      "ObjId": 1704495729,
+      "Num": 6
+    },
+    {
+      "StarRewardInd": 2765265724,
+      "Uniqid": 2765265724,
+      "StarId": 871117012,
+      "ObjId": 3287253445,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 3861802930,
+      "Uniqid": 3861802930,
+      "StarId": 3005461942,
+      "ObjId": 3305440413,
+      "Num": 5000
+    },
+    {
+      "StarRewardInd": 821034210,
+      "Uniqid": 821034210,
+      "StarId": 3005461942,
+      "ObjId": 2896435075,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 1318441087,
+      "Uniqid": 1318441087,
+      "StarId": 4054194251,
+      "ObjId": 2635891626,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 3132858098,
+      "Uniqid": 3132858098,
+      "StarId": 140431012,
+      "ObjId": 3305440413,
+      "Num": 1000
+    },
+    {
+      "StarRewardInd": 2561385115,
+      "Uniqid": 2561385115,
+      "StarId": 140431012,
+      "ObjId": 789565246,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 311078632,
+      "Uniqid": 311078632,
+      "StarId": 140431012,
+      "ObjId": 2771305293,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 980591295,
+      "Uniqid": 980591295,
+      "StarId": 140431012,
+      "ObjId": 2379665178,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 1543875262,
+      "Uniqid": 1543875262,
+      "StarId": 2484891460,
+      "ObjId": 3305440413,
+      "Num": 500
+    },
+    {
+      "StarRewardInd": 540400112,
+      "Uniqid": 540400112,
+      "StarId": 2484891460,
+      "ObjId": 518509987,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 4045521972,
+      "Uniqid": 4045521972,
+      "StarId": 2484891460,
+      "ObjId": 3488860263,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 872484964,
+      "Uniqid": 872484964,
+      "StarId": 2484891460,
+      "ObjId": 181607479,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 1223455498,
+      "Uniqid": 1223455498,
+      "StarId": 968283193,
+      "ObjId": 3305440413,
+      "Num": 3000
+    },
+    {
+      "StarRewardInd": 3037697846,
+      "Uniqid": 3037697846,
+      "StarId": 968283193,
+      "ObjId": 2306393226,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 2421468897,
+      "Uniqid": 2421468897,
+      "StarId": 968283193,
+      "ObjId": 2888039773,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 1161828998,
+      "Uniqid": 1161828998,
+      "StarId": 2843494132,
+      "ObjId": 1298171430,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 2951861661,
+      "Uniqid": 2951861661,
+      "StarId": 2680283021,
+      "ObjId": 3305440413,
+      "Num": 5000
+    },
+    {
+      "StarRewardInd": 2590869415,
+      "Uniqid": 2590869415,
+      "StarId": 2680283021,
+      "ObjId": 1770308563,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 4126242187,
+      "Uniqid": 4126242187,
+      "StarId": 2680283021,
+      "ObjId": 102248959,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 562583078,
+      "Uniqid": 562583078,
+      "StarId": 1798729323,
+      "ObjId": 2635891626,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 3203968282,
+      "Uniqid": 3203968282,
+      "StarId": 3254261106,
+      "ObjId": 3305440413,
+      "Num": 300
+    },
+    {
+      "StarRewardInd": 730447856,
+      "Uniqid": 730447856,
+      "StarId": 1492206792,
+      "ObjId": 1576788902,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 1855696164,
+      "Uniqid": 1855696164,
+      "StarId": 1492206792,
+      "ObjId": 417984882,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 1102520483,
+      "Uniqid": 1102520483,
+      "StarId": 2979193341,
+      "ObjId": 3927369901,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 644294156,
+      "Uniqid": 644294156,
+      "StarId": 4237835458,
+      "ObjId": 3287253445,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 3341420453,
+      "Uniqid": 3341420453,
+      "StarId": 1053955165,
+      "ObjId": 2518083904,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 2486029342,
+      "Uniqid": 2486029342,
+      "StarId": 808507640,
+      "ObjId": 3305440413,
+      "Num": 300
+    },
+    {
+      "StarRewardInd": 904414315,
+      "Uniqid": 904414315,
+      "StarId": 2839120194,
+      "ObjId": 1576788902,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 1895454399,
+      "Uniqid": 1895454399,
+      "StarId": 2839120194,
+      "ObjId": 417984882,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 537603628,
+      "Uniqid": 537603628,
+      "StarId": 928849121,
+      "ObjId": 3927369901,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 939974039,
+      "Uniqid": 939974039,
+      "StarId": 223408456,
+      "ObjId": 3287253445,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 638497479,
+      "Uniqid": 638497479,
+      "StarId": 3474643415,
+      "ObjId": 1767090105,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 4146971997,
+      "Uniqid": 4146971997,
+      "StarId": 586300540,
+      "ObjId": 3305440413,
+      "Num": 300
+    },
+    {
+      "StarRewardInd": 1138236790,
+      "Uniqid": 1138236790,
+      "StarId": 3153817030,
+      "ObjId": 1576788902,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 113905570,
+      "Uniqid": 113905570,
+      "StarId": 3153817030,
+      "ObjId": 417984882,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 1748928039,
+      "Uniqid": 1748928039,
+      "StarId": 631240805,
+      "ObjId": 1312542182,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 3233383273,
+      "Uniqid": 3233383273,
+      "StarId": 529667532,
+      "ObjId": 1298171430,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 1346300890,
+      "Uniqid": 1346300890,
+      "StarId": 3721936211,
+      "ObjId": 1767090105,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 1994246712,
+      "Uniqid": 1994246712,
+      "StarId": 1045847542,
+      "ObjId": 3305440413,
+      "Num": 300
+    },
+    {
+      "StarRewardInd": 1033778837,
+      "Uniqid": 1033778837,
+      "StarId": 2808024140,
+      "ObjId": 1576788902,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 2022450241,
+      "Uniqid": 2022450241,
+      "StarId": 2808024140,
+      "ObjId": 417984882,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 2665227575,
+      "Uniqid": 2665227575,
+      "StarId": 1312598393,
+      "ObjId": 1312542182,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 812691305,
+      "Uniqid": 812691305,
+      "StarId": 53900358,
+      "ObjId": 3287253445,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 593201021,
+      "Uniqid": 593201021,
+      "StarId": 1595459962,
+      "ObjId": 2518083904,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 1534486339,
+      "Uniqid": 1534486339,
+      "StarId": 4193466874,
+      "ObjId": 3305440413,
+      "Num": 300
+    },
+    {
+      "StarRewardInd": 2159937724,
+      "Uniqid": 2159937724,
+      "StarId": 1627023424,
+      "ObjId": 1576788902,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 3316390504,
+      "Uniqid": 3316390504,
+      "StarId": 1627023424,
+      "ObjId": 417984882,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 44428762,
+      "Uniqid": 44428762,
+      "StarId": 4271832547,
+      "ObjId": 1312542182,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 64984739,
+      "Uniqid": 64984739,
+      "StarId": 3297972298,
+      "ObjId": 1298171430,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 2472082960,
+      "Uniqid": 2472082960,
+      "StarId": 114899157,
+      "ObjId": 1767090105,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 3997781939,
+      "Uniqid": 3997781939,
+      "StarId": 328241782,
+      "ObjId": 3305440413,
+      "Num": 1000
+    },
+    {
+      "StarRewardInd": 2543968845,
+      "Uniqid": 2543968845,
+      "StarId": 328241782,
+      "ObjId": 1202032447,
+      "Num": 6
+    },
+    {
+      "StarRewardInd": 1676592734,
+      "Uniqid": 1676592734,
+      "StarId": 328241782,
+      "ObjId": 3018500908,
+      "Num": 6
+    },
+    {
+      "StarRewardInd": 3908500309,
+      "Uniqid": 3908500309,
+      "StarId": 328241782,
+      "ObjId": 955422247,
+      "Num": 6
+    },
+    {
+      "StarRewardInd": 66311936,
+      "Uniqid": 66311936,
+      "StarId": 3609240434,
+      "ObjId": 3305440413,
+      "Num": 500
+    },
+    {
+      "StarRewardInd": 792891496,
+      "Uniqid": 792891496,
+      "StarId": 3609240434,
+      "ObjId": 1544926900,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 1943498202,
+      "Uniqid": 1943498202,
+      "StarId": 3609240434,
+      "ObjId": 8407814,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 2659737347,
+      "Uniqid": 2659737347,
+      "StarId": 3609240434,
+      "ObjId": 3990845919,
+      "Num": 2
+    },
+    {
+      "StarRewardInd": 471769675,
+      "Uniqid": 471769675,
+      "StarId": 578324715,
+      "ObjId": 3305440413,
+      "Num": 3000
+    },
+    {
+      "StarRewardInd": 1389223889,
+      "Uniqid": 1389223889,
+      "StarId": 578324715,
+      "ObjId": 152734906,
+      "Num": 6
+    },
+    {
+      "StarRewardInd": 824044267,
+      "Uniqid": 824044267,
+      "StarId": 578324715,
+      "ObjId": 1791670656,
+      "Num": 6
+    },
+    {
+      "StarRewardInd": 33569040,
+      "Uniqid": 33569040,
+      "StarId": 3930098370,
+      "ObjId": 1202032447,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 4211279068,
+      "Uniqid": 4211279068,
+      "StarId": 2215609183,
+      "ObjId": 3305440413,
+      "Num": 5000
+    },
+    {
+      "StarRewardInd": 1942317645,
+      "Uniqid": 1942317645,
+      "StarId": 2215609183,
+      "ObjId": 3884723950,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 2059949149,
+      "Uniqid": 2059949149,
+      "StarId": 2215609183,
+      "ObjId": 4001435902,
+      "Num": 4
+    },
+    {
+      "StarRewardInd": 3704488109,
+      "Uniqid": 3704488109,
+      "StarId": 671785565,
+      "ObjId": 769654702,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 1852689150,
+      "Uniqid": 1852689150,
+      "StarId": 4236215459,
+      "ObjId": 3305440413,
+      "Num": 300
+    },
+    {
+      "StarRewardInd": 968065793,
+      "Uniqid": 968065793,
+      "StarId": 1702286617,
+      "ObjId": 1576788902,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 2090963413,
+      "Uniqid": 2090963413,
+      "StarId": 1702286617,
+      "ObjId": 417984882,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 1750049969,
+      "Uniqid": 1750049969,
+      "StarId": 2350215212,
+      "ObjId": 1312542182,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 3134332190,
+      "Uniqid": 3134332190,
+      "StarId": 3240078611,
+      "ObjId": 1298171430,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 3574610772,
+      "Uniqid": 3574610772,
+      "StarId": 55936396,
+      "ObjId": 2518083904,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 3198074409,
+      "Uniqid": 3198074409,
+      "StarId": 126411163,
+      "ObjId": 3305440413,
+      "Num": 300
+    },
+    {
+      "StarRewardInd": 644287728,
+      "Uniqid": 644287728,
+      "StarId": 2659299361,
+      "ObjId": 1576788902,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 1668619812,
+      "Uniqid": 1668619812,
+      "StarId": 2659299361,
+      "ObjId": 417984882,
+      "Num": 3
+    },
+    {
+      "StarRewardInd": 3285967668,
+      "Uniqid": 3285967668,
+      "StarId": 15017346,
+      "ObjId": 3927369901,
+      "Num": 1
+    },
+    {
+      "StarRewardInd": 730436876,
+      "Uniqid": 730436876,
+      "StarId": 988334123,
+      "ObjId": 3287253445,
+      "Num": 5
+    },
+    {
+      "StarRewardInd": 2719935349,
+      "Uniqid": 2719935349,
+      "StarId": 4171423924,
+      "ObjId": 4274828944,
+      "Num": 1
+    }
+  ],
+  "IdRef": {}
+}

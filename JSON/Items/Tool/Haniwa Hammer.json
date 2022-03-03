@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Hammer",
       "IconName": "icn_eqslot_hammer",
@@ -41,7 +42,7 @@
         {
           "Slot": 1,
           "Name": "Scale Expert",
-          "Desc": "Insignificantly boosts Crafting when crafting recipes\nthat mainly require scales!",
+          "Desc": "Slightly boosts Crafting when crafting recipes that mainly require scales!",
           "Effects": [
             {
               "Effect": "Special Effects",
@@ -89,8 +90,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Hammer",
@@ -117,7 +117,7 @@
       {
         "Slot": 1,
         "Name": "Scale Expert",
-        "Desc": "Insignificantly boosts Crafting when crafting recipes\nthat mainly require scales!",
+        "Desc": "Slightly boosts Crafting when crafting recipes that mainly require scales!",
         "Effects": [
           {
             "Effect": "Special Effects",

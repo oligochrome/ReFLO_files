@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Flame Cosmo",
+  "MatList": {
+    "Flame Ore": 2,
+    "Mystical Droplet": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 3737348580
+}

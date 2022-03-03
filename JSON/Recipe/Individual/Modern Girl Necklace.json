@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Modern Girl Necklace",
+  "MatList": {
+    "Fire Ore": 2,
+    "Plain Armor Core (M)": 2,
+    "Energizing Flower": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 4146746298
+}

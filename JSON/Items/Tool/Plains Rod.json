@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Fishing Rod",
       "IconName": "icn_eqslot_fishingrod",
@@ -89,8 +90,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Fishing Rod",

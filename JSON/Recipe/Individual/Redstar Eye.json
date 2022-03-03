@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Redstar Eye",
+  "MatList": {
+    "Meteorite": 1,
+    "Pome Blossom": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 1740798539
+}

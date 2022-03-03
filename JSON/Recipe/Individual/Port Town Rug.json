@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Port Town Rug",
+  "MatList": {
+    "Marine Silk": 3,
+    "Cashmere": 3,
+    "Bluebell": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3339699966
+}

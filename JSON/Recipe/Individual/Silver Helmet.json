@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Silver Helmet",
+  "MatList": {
+    "Silver Ingot": 2,
+    "Giant Beast Leather": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 4049556103
+}

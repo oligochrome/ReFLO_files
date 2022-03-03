@@ -1,6 +1,5 @@
 {
   "ChestName": "Prairie Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Nectar",
@@ -94,7 +93,6 @@
   "SurpriseboxObjId": 4128925434
 }{
   "ChestName": "Prairie Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Nectar",
@@ -188,7 +186,6 @@
   "SurpriseboxObjId": 3479358394
 }{
   "ChestName": "Prairie Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Great Prairie Leaf",
@@ -274,7 +271,6 @@
   "SurpriseboxObjId": 52136134
 }{
   "ChestName": "Prairie Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Prairie Dragon Scales",

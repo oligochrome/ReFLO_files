@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Snowman's Head",
+  "MatList": {
+    "Silk": 2,
+    "Carrot": 1,
+    "Metal Buttons": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 4064501948
+}

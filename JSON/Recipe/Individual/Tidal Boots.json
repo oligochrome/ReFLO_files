@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tidal Boots",
+  "MatList": {
+    "Marine Ingot": 2,
+    "Silk": 1,
+    "Water Shard": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2811589794
+}

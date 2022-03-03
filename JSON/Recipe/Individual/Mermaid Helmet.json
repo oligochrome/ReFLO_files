@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Mermaid Helmet",
+  "MatList": {
+    "Fish Scales": 2,
+    "Giant Beast Leather": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2846086077
+}

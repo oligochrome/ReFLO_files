@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Palm Saw",
+  "MatList": {
+    "Palm Beam": 1,
+    "Silver Ingot": 1,
+    "Beast Hide": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2323421463
+}

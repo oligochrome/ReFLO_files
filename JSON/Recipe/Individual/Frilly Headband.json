@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Frilly Headband",
+  "MatList": {
+    "Cashmere": 1,
+    "Wonderful Ribbon": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1298540248
+}

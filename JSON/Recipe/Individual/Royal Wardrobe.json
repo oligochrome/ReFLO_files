@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Royal Wardrobe",
+  "MatList": {
+    "Green Oak Beam": 6,
+    "Elder Green Oak Log": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 647748079
+}

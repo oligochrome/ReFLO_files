@@ -1,6 +1,5 @@
 {
   "ChestName": "Gigaflare Coin Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gigaflare Coin",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 2680889989
 }{
   "ChestName": "Gigaflare Coin Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gigaflare Coin",
@@ -60,7 +58,6 @@
   "SurpriseboxObjId": 549421300
 }{
   "ChestName": "Gigaflare Coin Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gigaflare Coin",

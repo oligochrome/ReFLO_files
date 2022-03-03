@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Samurai Helmet",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Shadow Armor Core (M)": 2,
+    "Ruby": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 4181649585
+}

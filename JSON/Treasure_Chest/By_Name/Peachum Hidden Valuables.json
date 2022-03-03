@@ -1,6 +1,5 @@
 {
   "ChestName": "Peachum Hidden Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Peachum Pendant",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 4082271196
 }{
   "ChestName": "Peachum Hidden Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Plain Armor Core (M)",

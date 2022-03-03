@@ -1,6 +1,5 @@
 {
   "ChestName": "Elizabeth Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Shadow Armor Core (M)",
@@ -46,7 +45,6 @@
   "SurpriseboxObjId": 2820363000
 }{
   "ChestName": "Elizabeth Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Shadow Armor Core (M)",

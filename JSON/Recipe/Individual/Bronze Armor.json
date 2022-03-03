@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Bronze Armor",
+  "MatList": {
+    "Bronze Ingot": 3,
+    "Animal Hide": 2,
+    "Minty Ore": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3617420649
+}

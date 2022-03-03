@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Iron Leg Guards",
+  "MatList": {
+    "Iron Ingot": 2,
+    "Beast Hide": 1,
+    "Bronze Ingot": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2579706169
+}

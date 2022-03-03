@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Fishing Rod",
       "IconName": "icn_eqslot_fishingrod",
@@ -25,7 +26,7 @@
         {
           "ChargeLevel": 1,
           "SpCost": 20,
-          "Name": "Blossom Blade",
+          "Name": "Snow Blossom",
           "Desc": "For a short period of time, recovers own Line gauge quickly\r.",
           "Attribute": "",
           "AwakenLvDamageMultiplier": {}
@@ -85,8 +86,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Fishing Rod",
@@ -97,7 +97,7 @@
       {
         "ChargeLevel": 1,
         "SpCost": 20,
-        "Name": "Blossom Blade",
+        "Name": "Snow Blossom",
         "Desc": "For a short period of time, recovers own Line gauge quickly\r.",
         "Attribute": "",
         "AwakenLvDamageMultiplier": {}

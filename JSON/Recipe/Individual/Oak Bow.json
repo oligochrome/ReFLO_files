@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Oak Bow",
+  "MatList": {
+    "Oak Beam": 2,
+    "Straw Thread": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2356980893
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Swordsman Hidden Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Sack of Silver",
@@ -54,7 +53,6 @@
   "SurpriseboxObjId": 713295203
 }{
   "ChestName": "Swordsman Hidden Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Zephyr Sword Hat",

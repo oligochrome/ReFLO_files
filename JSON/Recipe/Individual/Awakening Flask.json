@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Awakening Flask",
+  "MatList": {
+    "Refreshing Herb": 2,
+    "Solar Powder": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 3880569052
+}

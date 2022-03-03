@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Resistance Aid",
+  "MatList": {
+    "Alcheweed": 2,
+    "Turtle Shell": 1,
+    "Cavedew": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 659738118
+}

@@ -20,7 +20,6 @@
   }
 }{
   "ChestName": "Master Treasure",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "HP Potion",

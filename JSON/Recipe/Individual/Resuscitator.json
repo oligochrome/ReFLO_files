@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Resuscitator",
+  "MatList": {
+    "Sleep Antidote": 2,
+    "Spiritual Powder": 1,
+    "Green Oak Fruit": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2103396685
+}

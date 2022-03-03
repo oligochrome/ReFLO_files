@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Whitebell Earrings",
+  "MatList": {
+    "White Ore": 1,
+    "Earth Armor Core (M)": 2,
+    "Superior Oak Leaf": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1530662482
+}

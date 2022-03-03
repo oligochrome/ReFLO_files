@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Iron Boots",
+  "MatList": {
+    "Iron Ingot": 2,
+    "Cashmere": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 601848408
+}

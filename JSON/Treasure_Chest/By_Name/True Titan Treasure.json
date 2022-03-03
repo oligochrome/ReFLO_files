@@ -1,6 +1,5 @@
 {
   "ChestName": "True Titan Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Yellow Stone",
@@ -134,7 +133,6 @@
   "SurpriseboxObjId": 3948559896
 }{
   "ChestName": "True Titan Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Yellow Stone",

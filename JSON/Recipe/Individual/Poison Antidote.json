@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Poison Antidote",
+  "MatList": {
+    "Cureweed": 1,
+    "Antidote Berries": 1,
+    "Spring Water": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 532146827
+}

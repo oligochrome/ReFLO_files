@@ -1,0 +1,100 @@
+{
+  "Name": "Greatsword",
+  "Desc": "-",
+  "Rarity": 1,
+  "Category": "dummy",
+  "Subcategory": "-",
+  "Type": "Panel07000_user_top",
+  "Resources": {
+    "IcnFilename": "dummy",
+    "IcnAssetBundleId": 1398675703,
+    "FullFilename": "CollectionListItemS",
+    "FullAssetBundleId": 2832308404,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 0,
+      "Sellprice": 0,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    }
+  },
+  "ParamIds": {
+    "ObjId": 4078649615,
+    "Uniqid": 4078649615,
+    "Id": "OBJ_UI_COLLECTION_BUTTON_LIFETOOL_0200",
+    "ResId": 3708671937,
+    "ResIdIcon": 421136110,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 1482650485,
+    "ContentsTypeId": 1453935802,
+    "NameId": 3142067202,
+    "DescriptionId": 4260187921,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  }
+}

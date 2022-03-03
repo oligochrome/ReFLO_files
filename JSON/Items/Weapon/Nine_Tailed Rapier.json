@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Sword",
       "IconName": "icn_eqslot_weapon",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 40,
           "Name": "Incensed Rhapsody",
-          "Desc": "Holds up the sword and charges An attack with a high critical rate.",
+          "Desc": "Holds up the sword and charges. An attack with a high critical rate.",
           "Attribute": "Wind",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Sword",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 40,
         "Name": "Incensed Rhapsody",
-        "Desc": "Holds up the sword and charges An attack with a high critical rate.",
+        "Desc": "Holds up the sword and charges. An attack with a high critical rate.",
         "Attribute": "Wind",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

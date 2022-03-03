@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shadowmoon Circlet",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Shadow Armor Core (M)": 2,
+    "Amethyst": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2890693909
+}

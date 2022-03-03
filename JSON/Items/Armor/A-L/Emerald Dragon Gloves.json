@@ -1,6 +1,6 @@
 {
   "Name": "Emerald Dragon Gloves",
-  "Desc": "A pair of glasses made from Terrawyrm's scale. Protected by the magic of earth and dragons.",
+  "Desc": "A pair of gloves made from Terrawyrm's scale. Protected by the magic of earth and dragons.",
   "Rarity": 4,
   "Category": "Armor",
   "Subcategory": "Hand",
@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -76,8 +77,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 3704125766
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,

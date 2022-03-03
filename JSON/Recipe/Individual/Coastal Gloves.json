@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Coastal Gloves",
+  "MatList": {
+    "Marine Silk": 1,
+    "Beast Hide": 1,
+    "Port Puerto Silver": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 399246779
+}

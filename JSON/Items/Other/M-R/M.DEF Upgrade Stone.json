@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 1000
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,8 +41,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm050_0015_10default",

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Silver Shield",
+  "MatList": {
+    "Silver Ingot": 2,
+    "Palm Beam": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 851181116
+}

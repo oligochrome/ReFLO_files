@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Southern Stew",
+  "MatList": {
+    "Mutton": 2,
+    "Extra Creamy Milk": 2,
+    "Tomato": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1879804354
+}

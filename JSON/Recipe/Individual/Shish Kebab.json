@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Shish Kebab",
+  "MatList": {
+    "Chicken": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 671153655
+}

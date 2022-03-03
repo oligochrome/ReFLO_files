@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Saw",
       "IconName": "icn_eqslot_saw",
@@ -41,7 +42,7 @@
         {
           "Slot": 1,
           "Name": "Wind Master",
-          "Desc": "Significantly boosts Crafting when crafting recipes\nthat mainly require Wind Beam!",
+          "Desc": "Significantly boosts Crafting when crafting recipes that mainly require Wind Beam!",
           "Effects": [
             {
               "Effect": "Special Effects",
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Saw",
@@ -119,7 +119,7 @@
       {
         "Slot": 1,
         "Name": "Wind Master",
-        "Desc": "Significantly boosts Crafting when crafting recipes\nthat mainly require Wind Beam!",
+        "Desc": "Significantly boosts Crafting when crafting recipes that mainly require Wind Beam!",
         "Effects": [
           {
             "Effect": "Special Effects",

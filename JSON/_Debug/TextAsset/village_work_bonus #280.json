@@ -1,0 +1,75 @@
+{
+  "TableVillageWorkBonus": [
+    {
+      "VillageWorkBonusInd": 461665347,
+      "Uniqid": 461665347,
+      "WorkCount": 1,
+      "WorkBonus": 100,
+      "GetItemCount": 1
+    },
+    {
+      "VillageWorkBonusInd": 2190288377,
+      "Uniqid": 2190288377,
+      "WorkCount": 2,
+      "WorkBonus": 220,
+      "GetItemCount": 2
+    },
+    {
+      "VillageWorkBonusInd": 4119467375,
+      "Uniqid": 4119467375,
+      "WorkCount": 3,
+      "WorkBonus": 340,
+      "GetItemCount": 3
+    },
+    {
+      "VillageWorkBonusInd": 1810792652,
+      "Uniqid": 1810792652,
+      "WorkCount": 4,
+      "WorkBonus": 460,
+      "GetItemCount": 4
+    },
+    {
+      "VillageWorkBonusInd": 485077082,
+      "Uniqid": 485077082,
+      "WorkCount": 5,
+      "WorkBonus": 460,
+      "GetItemCount": 5
+    },
+    {
+      "VillageWorkBonusInd": 2246107616,
+      "Uniqid": 2246107616,
+      "WorkCount": 6,
+      "WorkBonus": 460,
+      "GetItemCount": 6
+    },
+    {
+      "VillageWorkBonusInd": 4075278710,
+      "Uniqid": 4075278710,
+      "WorkCount": 7,
+      "WorkBonus": 460,
+      "GetItemCount": 7
+    },
+    {
+      "VillageWorkBonusInd": 1649986791,
+      "Uniqid": 1649986791,
+      "WorkCount": 8,
+      "WorkBonus": 460,
+      "GetItemCount": 8
+    },
+    {
+      "VillageWorkBonusInd": 358612081,
+      "Uniqid": 358612081,
+      "WorkCount": 9,
+      "WorkBonus": 460,
+      "GetItemCount": 9
+    },
+    {
+      "VillageWorkBonusInd": 1972925844,
+      "Uniqid": 1972925844,
+      "WorkCount": 10,
+      "WorkBonus": 460,
+      "GetItemCount": 10
+    }
+  ],
+  "IdRef": {}
+}

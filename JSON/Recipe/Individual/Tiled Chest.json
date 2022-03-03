@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tiled Chest",
+  "MatList": {
+    "Palm Beam": 4,
+    "Blue Stone": 1,
+    "Durable Shell": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3188183559
+}

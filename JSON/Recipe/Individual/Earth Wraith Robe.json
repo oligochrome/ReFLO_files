@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Earth Wraith Robe",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Forest Powder": 2,
+    "Geo Shard": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1878002456
+}

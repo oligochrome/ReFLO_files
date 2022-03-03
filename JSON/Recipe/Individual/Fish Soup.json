@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Fish Soup",
+  "MatList": {
+    "Elderwood Trout": 2,
+    "Radish": 1,
+    "Spring Water": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 303357707
+}

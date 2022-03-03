@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Academy Y Sailor Shoes",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Plain Armor Core (M)": 2,
+    "Giant Beast Leather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2932172418
+}

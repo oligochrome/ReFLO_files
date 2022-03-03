@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Iron Frying Pan",
+  "MatList": {
+    "Iron Ingot": 2,
+    "Big Egg": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3176953799
+}

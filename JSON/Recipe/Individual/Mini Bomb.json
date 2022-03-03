@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Mini Bomb",
+  "MatList": {
+    "Minty Ore": 1,
+    "Green Gel": 1,
+    "Animal Droppings": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 1583012607
+}

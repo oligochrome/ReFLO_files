@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Clear Rod",
+  "MatList": {
+    "Green Oak Beam": 1,
+    "Elder Green Oak Log": 1,
+    "Green Oak Fruit": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2613033307
+}

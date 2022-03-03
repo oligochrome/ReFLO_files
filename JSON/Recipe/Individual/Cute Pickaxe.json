@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Cute Pickaxe",
+  "MatList": {
+    "Orange Hematite": 2,
+    "Heart Stone": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 257284796
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Pine Rod",
+  "MatList": {
+    "Pine Beam": 1,
+    "Straw Thread": 3,
+    "Pine Nuts": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1533576403
+}

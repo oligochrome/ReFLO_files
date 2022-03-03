@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shadowmoon Boots",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Shadow Armor Core (M)": 2,
+    "Golden Rope": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3174111084
+}

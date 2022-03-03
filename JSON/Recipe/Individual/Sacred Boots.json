@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Sacred Boots",
+  "MatList": {
+    "Linen": 2,
+    "Light Armor Core (M)": 2,
+    "Topaz": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2039135211
+}

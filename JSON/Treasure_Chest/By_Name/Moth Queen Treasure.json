@@ -1,6 +1,5 @@
 {
   "ChestName": "Moth Queen Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Spring Water",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 1237833193
 }{
   "ChestName": "Moth Queen Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Dark Honey",

@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Flask",
       "IconName": "icn_eqslot_flask",
@@ -26,7 +27,7 @@
         {
           "Slot": 1,
           "Name": "Medicine Expert",
-          "Desc": "Insignificantly boosts Crafting when crafting any recipes classified as \"medicine\"!",
+          "Desc": "Slightly boosts Crafting when crafting any recipes classified as \"medicine\"!",
           "Effects": [
             {
               "Effect": "Special Effects",
@@ -76,8 +77,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Flask",
@@ -89,7 +89,7 @@
       {
         "Slot": 1,
         "Name": "Medicine Expert",
-        "Desc": "Insignificantly boosts Crafting when crafting any recipes classified as \"medicine\"!",
+        "Desc": "Slightly boosts Crafting when crafting any recipes classified as \"medicine\"!",
         "Effects": [
           {
             "Effect": "Special Effects",

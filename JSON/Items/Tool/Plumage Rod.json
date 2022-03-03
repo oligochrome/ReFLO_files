@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Fishing Rod",
       "IconName": "icn_eqslot_fishingrod",
@@ -26,7 +27,7 @@
           "ChargeLevel": 1,
           "SpCost": 20,
           "Name": "Pray for Blessings",
-          "Desc": "Boosts Rod ATK of self and nearby allies for a short period of time\r Slightly restores own Line gauge.",
+          "Desc": "Boosts Rod ATK of self and nearby allies for a short period of time. Slightly restores own Line gauge.",
           "Attribute": "",
           "AwakenLvDamageMultiplier": {}
         }
@@ -92,8 +93,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Fishing Rod",
@@ -105,7 +105,7 @@
         "ChargeLevel": 1,
         "SpCost": 20,
         "Name": "Pray for Blessings",
-        "Desc": "Boosts Rod ATK of self and nearby allies for a short period of time\r Slightly restores own Line gauge.",
+        "Desc": "Boosts Rod ATK of self and nearby allies for a short period of time. Slightly restores own Line gauge.",
         "Attribute": "",
         "AwakenLvDamageMultiplier": {}
       }

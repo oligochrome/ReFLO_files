@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Bow",
       "IconName": "icn_eqslot_bow",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 40,
           "Name": "Chrystal Arrow",
-          "Desc": "Projects a huge orb of light frontward\r Increases your ATK SPD.",
+          "Desc": "Projects a huge orb of light frontward. Increases your ATK SPD.",
           "Attribute": "Light",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Bow",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 40,
         "Name": "Chrystal Arrow",
-        "Desc": "Projects a huge orb of light frontward\r Increases your ATK SPD.",
+        "Desc": "Projects a huge orb of light frontward. Increases your ATK SPD.",
         "Attribute": "Light",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,
@@ -209,6 +209,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Bow",
       "IconName": "icn_eqslot_bow",
@@ -269,8 +270,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Bow",

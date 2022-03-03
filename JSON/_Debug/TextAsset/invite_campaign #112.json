@@ -1,0 +1,33 @@
+{
+  "TableInviteCampaign": [
+    {
+      "InviteCampaignInd": 4284315458,
+      "Id": 4284315458,
+      "NameTextId": 1890259233,
+      "MsgTextId": 2285781950,
+      "Helpurl": ""
+    },
+    {
+      "InviteCampaignInd": 2177308154,
+      "Id": 2177308154,
+      "NameTextId": 1890259233,
+      "MsgTextId": 2285781950,
+      "Helpurl": ""
+    },
+    {
+      "InviteCampaignInd": 4029964763,
+      "Id": 4029964763,
+      "NameTextId": 4260187921,
+      "MsgTextId": 4260187921,
+      "Helpurl": ""
+    },
+    {
+      "InviteCampaignInd": 3629609227,
+      "Id": 3629609227,
+      "NameTextId": 1977735882,
+      "MsgTextId": 2551843719,
+      "Helpurl": ""
+    }
+  ],
+  "IdRef": {}
+}

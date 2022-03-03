@@ -1,6 +1,5 @@
 {
   "ChestName": "Red Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Red Dragon Jade",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 1628447889
 }{
   "ChestName": "Red Dragon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Fire Enh. Orb (L)",

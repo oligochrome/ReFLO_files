@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Red Pumpkin Head",
+  "MatList": {
+    "King's Wool": 2,
+    "Pumpkin": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 324634365
+}

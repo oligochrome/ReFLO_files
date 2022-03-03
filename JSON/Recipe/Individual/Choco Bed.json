@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Choco Bed",
+  "MatList": {
+    "Green Oak Beam": 5,
+    "Black Cashmere": 1,
+    "Chocolate Essence": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 4176390701
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Emerald Ring",
+  "MatList": {
+    "Emerald": 1,
+    "Novel Green Ore": 1,
+    "Iron Ingot": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1069069867
+}

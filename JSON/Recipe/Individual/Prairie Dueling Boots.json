@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Prairie Dueling Boots",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Giant Beast Leather": 1,
+    "Wonderful String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1541633275
+}

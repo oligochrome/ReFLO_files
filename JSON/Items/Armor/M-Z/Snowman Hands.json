@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -33,8 +34,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Insignificantly increases M.ATK",
-          "Desc": "Insignificantly increases M.ATK",
+          "Name": "Slightly increases M.ATK",
+          "Desc": "Slightly increases M.ATK",
           "Effects": [
             {
               "Effect": "M.ATK",
@@ -61,8 +62,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 2345237352
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -71,8 +71,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Insignificantly increases M.ATK",
-        "Desc": "Insignificantly increases M.ATK",
+        "Name": "Slightly increases M.ATK",
+        "Desc": "Slightly increases M.ATK",
         "Effects": [
           {
             "Effect": "M.ATK",

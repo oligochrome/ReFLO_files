@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Green Pumpkin Head",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Pumpkin": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 1204897120
+}

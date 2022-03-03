@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -39,8 +40,8 @@
         },
         {
           "Slot": 2,
-          "Name": "Insignificantly increases M.DEF",
-          "Desc": "Insignificantly increases M.DEF",
+          "Name": "Slightly increases M.DEF",
+          "Desc": "Slightly increases M.DEF",
           "Effects": [
             {
               "Effect": "M.DEF",
@@ -67,8 +68,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 3905887106
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm704_1019_10default",

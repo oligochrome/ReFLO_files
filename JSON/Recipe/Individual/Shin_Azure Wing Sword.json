@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shin/Azure Wing Sword",
+  "MatList": {
+    "Azure Wing Sword": 1,
+    "Weird Object": 8,
+    "Tourmaline": 30
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 1893682117
+}

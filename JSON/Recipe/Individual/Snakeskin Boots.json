@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Snakeskin Boots",
+  "MatList": {
+    "Snake Scales": 2,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3879826862
+}

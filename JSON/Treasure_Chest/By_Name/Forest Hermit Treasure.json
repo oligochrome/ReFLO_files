@@ -1,6 +1,5 @@
 {
   "ChestName": "Forest Hermit Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Forest Hermit's Jade",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 4284635137
 }{
   "ChestName": "Forest Hermit Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Earth Enh. Orb (L)",

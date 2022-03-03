@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Spook Hood",
+  "MatList": {
+    "Silk": 2,
+    "Spiritual Powder": 1,
+    "Wonderful Ribbon": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 3564518106
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Halloween Cracker",
+  "MatList": {
+    "Grassland Honey": 2,
+    "Pumpkin": 2,
+    "Grassy Plains Barley": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1669075020
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Giant Spook Tree Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Scarab Beetle",
@@ -54,7 +53,6 @@
   "SurpriseboxObjId": 2446167530
 }{
   "ChestName": "Giant Spook Tree Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Scarab Beetle",

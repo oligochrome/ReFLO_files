@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Storm Elixir",
+  "MatList": {
+    "Alcheweed": 2,
+    "Chocolate Essence": 1,
+    "Chocolate Jelly": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "-",
+  "IsHoly": 1,
+  "RecipeId": 870730454
+}

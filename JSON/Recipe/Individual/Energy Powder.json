@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Energy Powder",
+  "MatList": {
+    "Vitalweed": 3,
+    "Magic Powder": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2436427112
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Autumn Pointed Boots",
+  "MatList": {
+    "Woven Straw Fabric": 2,
+    "Beast Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 4256387688
+}

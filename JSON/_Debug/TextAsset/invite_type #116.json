@@ -1,0 +1,17 @@
+{
+  "TableInviteType": [
+    {
+      "InviteTypeInd": 2450852371,
+      "Id": 2450852371
+    },
+    {
+      "InviteTypeInd": 3322880648,
+      "Id": 3322880648
+    },
+    {
+      "InviteTypeInd": 1663834844,
+      "Id": 1663834844
+    }
+  ],
+  "IdRef": {}
+}

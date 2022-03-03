@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Big Bang Boots",
+  "MatList": {
+    "Gold Ingot": 2,
+    "Earth Armor Core (M)": 2,
+    "Giant Claws": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3776947281
+}

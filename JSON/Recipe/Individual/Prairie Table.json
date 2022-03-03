@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Prairie Table",
+  "MatList": {
+    "Earth Beam": 4,
+    "Earthen Leaf": 2,
+    "Great Prairie Leaf": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3274057648
+}

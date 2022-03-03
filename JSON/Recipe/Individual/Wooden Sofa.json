@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Wooden Sofa",
+  "MatList": {
+    "Oak Beam": 3,
+    "Woven Straw Fabric": 2,
+    "Dandelion Puff": 3
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1622650553
+}

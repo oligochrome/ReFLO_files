@@ -1,6 +1,5 @@
 {
   "ChestName": "Red Hood Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Red Coin",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 78305672
 }{
   "ChestName": "Red Hood Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Red Coin",
@@ -36,7 +34,6 @@
   "SurpriseboxObjId": 114320102
 }{
   "ChestName": "Red Hood Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Red Hood's Cloth Scrap",
@@ -66,7 +63,6 @@
   "SurpriseboxObjId": 1395171947
 }{
   "ChestName": "Red Hood Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Justice Brooch",

@@ -1,6 +1,5 @@
 {
   "ChestName": "Greenleaf Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Greenleaf Jade",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 1611331256
 }{
   "ChestName": "Greenleaf Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Earth Enh. Orb (L)",
@@ -36,7 +34,6 @@
   "SurpriseboxObjId": 581360271
 }{
   "ChestName": "Greenleaf Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Greenleaf Jade",
@@ -50,7 +47,6 @@
   "SurpriseboxObjId": 1639910309
 }{
   "ChestName": "Greenleaf Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Earth Enh. Orb (L)",
@@ -72,7 +68,6 @@
   "SurpriseboxObjId": 1101071275
 }{
   "ChestName": "Greenleaf Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Greenleaf Jade",
@@ -86,7 +81,6 @@
   "SurpriseboxObjId": 1667304578
 }{
   "ChestName": "Greenleaf Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Earth Enh. Orb (L)",

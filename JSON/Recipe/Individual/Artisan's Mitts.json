@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Artisan's Mitts",
+  "MatList": {
+    "Wool": 2,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2105575686
+}

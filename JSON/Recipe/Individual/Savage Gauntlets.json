@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Savage Gauntlets",
+  "MatList": {
+    "Beast Hide": 2,
+    "Hard Claws": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 645215766
+}

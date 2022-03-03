@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Dangerous Flask",
+  "MatList": {
+    "Danger Powder": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 736544834
+}

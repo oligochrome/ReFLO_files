@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Delicacy Stew",
+  "MatList": {
+    "Mountainshroom": 2,
+    "King Mutton": 1,
+    "Caterpillo Leaf": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1281374138
+}

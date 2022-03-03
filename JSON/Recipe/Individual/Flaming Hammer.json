@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Flaming Hammer",
+  "MatList": {
+    "Bronze Ingot": 2,
+    "Rage Stone": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 1265896333
+}

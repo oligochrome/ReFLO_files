@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -54,8 +55,8 @@
         },
         {
           "Slot": 2,
-          "Name": "Insignificantly boosts Completion growthbrought by a GREAT",
-          "Desc": "Insignificantly boosts Completion growth\nbrought by a GREAT during mini crafting game",
+          "Name": "Slightly boosts Completion growthbrought by a GREAT",
+          "Desc": "Slightly boosts Completion growth\nbrought by a GREAT during mini crafting game",
           "Effects": [
             {
               "Effect": "-",
@@ -76,8 +77,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 363720395
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -107,8 +107,8 @@
       },
       {
         "Slot": 2,
-        "Name": "Insignificantly boosts Completion growthbrought by a GREAT",
-        "Desc": "Insignificantly boosts Completion growth\nbrought by a GREAT during mini crafting game",
+        "Name": "Slightly boosts Completion growthbrought by a GREAT",
+        "Desc": "Slightly boosts Completion growth\nbrought by a GREAT during mini crafting game",
         "Effects": [
           {
             "Effect": "-",

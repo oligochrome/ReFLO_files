@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Lunar Amulet",
+  "MatList": {
+    "Silvermoon Shard": 1,
+    "Moonlit Dew": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 3103491835
+}

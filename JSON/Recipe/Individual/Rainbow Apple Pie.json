@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Rainbow Apple Pie",
+  "MatList": {
+    "Rainbow Apple": 1,
+    "Castele Apple": 1,
+    "Grassy Plains Barley": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3289859587
+}

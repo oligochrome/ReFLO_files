@@ -1,6 +1,5 @@
 {
   "ChestName": "Alien Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Alien Token",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 364466009
 }{
   "ChestName": "Alien Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Alien Token",
@@ -60,7 +58,6 @@
   "SurpriseboxObjId": 2370967368
 }{
   "ChestName": "Alien Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Alien Token",
@@ -90,7 +87,6 @@
   "SurpriseboxObjId": 4282538153
 }{
   "ChestName": "Alien Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Alien Token",

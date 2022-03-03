@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Iron Pickaxe",
+  "MatList": {
+    "Iron Ingot": 2,
+    "Quality Minty Ore": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1755774037
+}

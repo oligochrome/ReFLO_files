@@ -1,0 +1,213 @@
+{
+  "TableVoiceList": [
+    {
+      "VoiceListInd": 2511668727,
+      "TextId": 2697583525,
+      "VoiceColumnNum": 174200537,
+      "Flag": 0,
+      "Sort": 1,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 213668941,
+      "TextId": 968919583,
+      "VoiceColumnNum": 2483454842,
+      "Flag": 0,
+      "Sort": 2,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 2075878619,
+      "TextId": 1321712265,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 3,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 3856658808,
+      "TextId": 3500355370,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 4,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 2463678958,
+      "TextId": 2812551100,
+      "VoiceColumnNum": 2871910706,
+      "Flag": 0,
+      "Sort": 5,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 198283348,
+      "TextId": 1051545094,
+      "VoiceColumnNum": 1159954462,
+      "Flag": 0,
+      "Sort": 6,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 2094440642,
+      "TextId": 1235910288,
+      "VoiceColumnNum": 2788221432,
+      "Flag": 0,
+      "Sort": 7,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 3966352723,
+      "TextId": 3642057473,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 8,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 2607713733,
+      "TextId": 2920436631,
+      "VoiceColumnNum": 3678868925,
+      "Flag": 0,
+      "Sort": 9,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 4222157856,
+      "TextId": 3470121586,
+      "VoiceColumnNum": 2103780943,
+      "Flag": 0,
+      "Sort": 10,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 2360226998,
+      "TextId": 3117607652,
+      "VoiceColumnNum": 2944839123,
+      "Flag": 0,
+      "Sort": 11,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 363291916,
+      "TextId": 551271262,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 12,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 1654674842,
+      "TextId": 1474071496,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 13,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 4240752697,
+      "TextId": 3384286827,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 14,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 2344874159,
+      "TextId": 3200200445,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 15,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 315269397,
+      "TextId": 666271559,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 16,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 1707970947,
+      "TextId": 1353797585,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 17,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 4117924882,
+      "TextId": 3222164032,
+      "VoiceColumnNum": 274208589,
+      "Flag": 0,
+      "Sort": 18,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 2188754052,
+      "TextId": 3070845654,
+      "VoiceColumnNum": 2944839123,
+      "Flag": 0,
+      "Sort": 19,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 3498334179,
+      "TextId": 3858270641,
+      "VoiceColumnNum": 2212294583,
+      "Flag": 0,
+      "Sort": 20,
+      "IsActive": 0
+    },
+    {
+      "VoiceListInd": 2810406773,
+      "TextId": 2466232615,
+      "VoiceColumnNum": 450215437,
+      "Flag": 0,
+      "Sort": 21,
+      "IsActive": 0
+    },
+    {
+      "VoiceListInd": 1049245391,
+      "TextId": 200730781,
+      "VoiceColumnNum": 1842515611,
+      "Flag": 0,
+      "Sort": 22,
+      "IsActive": 0
+    },
+    {
+      "VoiceListInd": 1233978969,
+      "TextId": 2096224267,
+      "VoiceColumnNum": 326707096,
+      "Flag": 0,
+      "Sort": 23,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 3622409210,
+      "TextId": 3801435560,
+      "VoiceColumnNum": 2367533627,
+      "Flag": 0,
+      "Sort": 24,
+      "IsActive": 1
+    },
+    {
+      "VoiceListInd": 2699993964,
+      "TextId": 2509405502,
+      "VoiceColumnNum": 4196041389,
+      "Flag": 0,
+      "Sort": 25,
+      "IsActive": 0
+    },
+    {
+      "VoiceListInd": 971502294,
+      "TextId": 211496068,
+      "VoiceColumnNum": 274208589,
+      "Flag": 1,
+      "Sort": 26,
+      "IsActive": 1
+    }
+  ],
+  "IdRef": {}
+}

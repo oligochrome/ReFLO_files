@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Bow",
       "IconName": "icn_eqslot_bow",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 36,
           "Name": "Trident Splash",
-          "Desc": "Fires 3 Water arrows after a small leap\r Reduces MOV SPD of enemy hit.",
+          "Desc": "Fires 3 Water arrows after a small leap. Reduces MOV SPD of enemy hit.",
           "Attribute": "Water",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -54,8 +55,8 @@
         },
         {
           "Slot": 2,
-          "Name": "Defeating an enemy insignificantly restores SP",
-          "Desc": "Defeating an enemy insignificantly restores SP",
+          "Name": "Defeating an enemy Slightly restores SP",
+          "Desc": "Defeating an enemy Slightly restores SP",
           "Effects": [
             {
               "Effect": "SP",
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Bow",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 36,
         "Name": "Trident Splash",
-        "Desc": "Fires 3 Water arrows after a small leap\r Reduces MOV SPD of enemy hit.",
+        "Desc": "Fires 3 Water arrows after a small leap. Reduces MOV SPD of enemy hit.",
         "Attribute": "Water",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,
@@ -132,8 +132,8 @@
       },
       {
         "Slot": 2,
-        "Name": "Defeating an enemy insignificantly restores SP",
-        "Desc": "Defeating an enemy insignificantly restores SP",
+        "Name": "Defeating an enemy Slightly restores SP",
+        "Desc": "Defeating an enemy Slightly restores SP",
         "Effects": [
           {
             "Effect": "SP",

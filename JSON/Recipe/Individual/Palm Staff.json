@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Palm Staff",
+  "MatList": {
+    "Palm Beam": 2,
+    "Fire Ore": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1692765596
+}

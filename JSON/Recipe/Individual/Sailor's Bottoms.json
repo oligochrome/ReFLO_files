@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Sailor's Bottoms",
+  "MatList": {
+    "Silk": 2,
+    "Marine Silk": 1,
+    "Wonderful String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1326066584
+}

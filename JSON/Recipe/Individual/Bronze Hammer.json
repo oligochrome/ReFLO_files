@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Bronze Hammer",
+  "MatList": {
+    "Bronze Ingot": 2,
+    "Oak Beam": 1,
+    "Minty Ore": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 456837253
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Ultra Holy Shield",
+  "MatList": {
+    "Holy Shield": 1,
+    "Steel Shell": 6,
+    "Yellow Stone": 30
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 3622827578
+}

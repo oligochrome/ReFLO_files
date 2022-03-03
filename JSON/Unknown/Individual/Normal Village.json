@@ -1,0 +1,199 @@
+{
+  "Name": "Normal Village",
+  "Desc": "Ordinary View",
+  "Rarity": 1,
+  "Category": "-",
+  "Subcategory": "-",
+  "Type": "",
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 1398675703,
+    "FullFilename": "mg_village0101_0000floor",
+    "FullAssetBundleId": 2126191095,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 0,
+      "Sellprice": 0,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    }
+  },
+  "ParamIds": {
+    "ObjId": 4085835752,
+    "Uniqid": 4085835752,
+    "Id": "OBJ_FACILITY_GROUND_FLOOR_00001_00_00",
+    "ResId": 3678286759,
+    "ResIdIcon": 1007313192,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4111153451,
+    "ContentsTypeId": 1453935802,
+    "NameId": 57247939,
+    "DescriptionId": 1953413205,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 3552814786,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  }
+}{
+  "Name": "Normal Village",
+  "Desc": "Ordinary View",
+  "Rarity": 1,
+  "Category": "-",
+  "Subcategory": "-",
+  "Type": "",
+  "Resources": {
+    "IcnFilename": "",
+    "IcnAssetBundleId": 1398675703,
+    "FullFilename": "mg_village0101_0000floor",
+    "FullAssetBundleId": 2126191095,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 0,
+      "Sellprice": 0,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    }
+  },
+  "ParamIds": {
+    "ObjId": 1629922030,
+    "Uniqid": 1629922030,
+    "Id": "OBJ_FACILITY_VILLAGE_FLOOR_00001_00_00",
+    "ResId": 3678286759,
+    "ResIdIcon": 1007313192,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 4111153451,
+    "ContentsTypeId": 1453935802,
+    "NameId": 57247939,
+    "DescriptionId": 1953413205,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 3552814786,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  }
+}

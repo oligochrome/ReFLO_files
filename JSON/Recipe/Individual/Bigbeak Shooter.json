@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Bigbeak Shooter",
+  "MatList": {
+    "Earth Beam": 1,
+    "Rainbow Feather": 1,
+    "Savage Beast Hide": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 4058812491
+}

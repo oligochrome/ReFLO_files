@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Silvermoon Cape",
+  "MatList": {
+    "King's Wool": 2,
+    "Light Armor Core (M)": 2,
+    "Moon Cluster": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2481837479
+}

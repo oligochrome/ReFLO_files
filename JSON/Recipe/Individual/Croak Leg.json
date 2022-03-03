@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Croak Leg",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Water Armor Core (M)": 2,
+    "Marine Thread": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3010622892
+}

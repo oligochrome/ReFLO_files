@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Hermit Staff",
+  "MatList": {
+    "Earth Beam": 1,
+    "Emerald": 1,
+    "Forest Powder": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1360366671
+}

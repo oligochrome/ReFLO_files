@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Samurai Gauntlets",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Shadow Armor Core (M)": 2,
+    "Giant Claws": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 340652228
+}

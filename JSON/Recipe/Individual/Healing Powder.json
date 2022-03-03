@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Healing Powder",
+  "MatList": {
+    "Healweed": 3,
+    "Magic Powder": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3888493019
+}

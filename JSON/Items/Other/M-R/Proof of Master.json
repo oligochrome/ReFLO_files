@@ -1,0 +1,82 @@
+{
+  "Name": "Proof of Master",
+  "Desc": "A special certificate to take the\r Master Promotion Test.",
+  "Rarity": 4,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 20,
+      "Sellprice": 5,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    }
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm801_2023_10default",
+    "IcnAssetBundleId": 749242025,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3115694173,
+    "Uniqid": 3115694173,
+    "Id": "OBJ_ITEM_SPECIAL_00208_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 4220723098,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3471139332,
+    "ContentsTypeId": 111510448,
+    "NameId": 3225171423,
+    "DescriptionId": 2049685390,
+    "CommonParamId": 697758665,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 3471618940,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

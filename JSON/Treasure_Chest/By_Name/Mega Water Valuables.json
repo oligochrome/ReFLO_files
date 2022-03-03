@@ -1,6 +1,5 @@
 {
   "ChestName": "Mega Water Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Water Enh. Orb (L)",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 2244282286
 }{
   "ChestName": "Mega Water Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Water Enh. Orb (XL)",

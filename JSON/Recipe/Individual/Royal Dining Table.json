@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Royal Dining Table",
+  "MatList": {
+    "Green Oak Beam": 3,
+    "King's Wool": 1,
+    "Moon Cluster": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 465104570
+}

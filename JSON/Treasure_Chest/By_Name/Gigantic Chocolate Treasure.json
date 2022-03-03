@@ -1,6 +1,5 @@
 {
   "ChestName": "Gigantic Chocolate Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Chocolate Jelly",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 588175202
 }{
   "ChestName": "Gigantic Chocolate Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Chocolate Jelly",

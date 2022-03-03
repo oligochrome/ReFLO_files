@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shapeshift: Black Dragon Wings",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Black Dragon Scale": 2,
+    "Great Dragon Claws": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2048235819
+}

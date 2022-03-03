@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -33,8 +34,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Insignificantly increases Charged Skill DMG",
-          "Desc": "Insignificantly boosts charged skill damage",
+          "Name": "Slightly increases Charged Skill DMG",
+          "Desc": "Slightly boosts charged skill damage",
           "Effects": [
             {
               "Effect": "Charge DMG",
@@ -69,8 +70,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 363720395
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm702_0036_10default",

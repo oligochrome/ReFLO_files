@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Palm Bow",
+  "MatList": {
+    "Palm Beam": 2,
+    "Silk Thread": 2,
+    "Beast Hide": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3461983200
+}

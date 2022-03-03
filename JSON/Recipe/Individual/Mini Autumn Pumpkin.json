@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Mini Autumn Pumpkin",
+  "MatList": {
+    "Woven Straw Fabric": 2,
+    "Pumpkin": 1,
+    "Straw Thread": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1429595129
+}

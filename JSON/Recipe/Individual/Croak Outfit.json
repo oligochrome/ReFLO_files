@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Croak Outfit",
+  "MatList": {
+    "Dark Straw Fabric": 3,
+    "Water Armor Core (M)": 3,
+    "Aquamarine": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1577151961
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Apple Juice",
+  "MatList": {
+    "Castele Apple": 2,
+    "Spring Water": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3907493371
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tomato Soup",
+  "MatList": {
+    "Tomato": 2,
+    "Bell Pepper": 1,
+    "Spring Water": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2452078091
+}

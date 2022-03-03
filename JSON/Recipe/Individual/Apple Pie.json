@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Apple Pie",
+  "MatList": {
+    "Castele Apple": 2,
+    "Grassy Plains Barley": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 348928052
+}

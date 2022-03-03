@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Thaumaturge Boots",
+  "MatList": {
+    "Wool": 2,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1215148165
+}

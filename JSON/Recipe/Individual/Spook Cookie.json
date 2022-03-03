@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Spook Cookie",
+  "MatList": {
+    "Plateau Honey": 2,
+    "Magic Powder": 2,
+    "Grassy Plains Barley": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 809214309
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Hellfreeze Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Hellfreeze Jade",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 2678427756
 }{
   "ChestName": "Hellfreeze Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Levitania Egg",

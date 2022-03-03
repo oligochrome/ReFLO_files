@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Blizzard Cape",
+  "MatList": {
+    "Marine Silk": 2,
+    "Bluebell": 1,
+    "Frosty Feather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2884127156
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Iron Armor",
+  "MatList": {
+    "Iron Ingot": 3,
+    "Beast Hide": 2,
+    "Bronze Ingot": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3051313573
+}

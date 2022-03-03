@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Detoxifier",
+  "MatList": {
+    "Poison Antidote": 2,
+    "Spiritual Powder": 1,
+    "Oak Fruit": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3938474084
+}

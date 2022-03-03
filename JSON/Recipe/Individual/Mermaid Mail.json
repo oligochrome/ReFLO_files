@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Mermaid Mail",
+  "MatList": {
+    "Fish Scales": 4,
+    "Giant Beast Leather": 1,
+    "Silver Ingot": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 995122758
+}

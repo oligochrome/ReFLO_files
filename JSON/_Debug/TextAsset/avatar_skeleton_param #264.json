@@ -1,0 +1,1848 @@
+{
+  "TableAvatarSkeletonParam": [
+    {
+      "AvatarSkeletonParamInd": 3595763606,
+      "NodeId": 3847506657,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.111,
+        1.111,
+        1.111
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 261415569,
+      "NodeId": 788227007,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 359207618,
+      "NodeId": 3678138600,
+      "Position": [
+        -0.03,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2659820010,
+      "NodeId": 1174158046,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3117692194,
+      "NodeId": 1654763030,
+      "Position": [
+        0.0,
+        -0.09,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 828741742,
+      "NodeId": 4230162022,
+      "Position": [
+        0.01,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 473879719,
+      "NodeId": 1028740489,
+      "Position": [
+        0.0,
+        -0.02,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1733685329,
+      "NodeId": 1414743334,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.97,
+        0.97,
+        0.97
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 947193090,
+      "NodeId": 421168172,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3401136929,
+      "NodeId": 82565387,
+      "Position": [
+        0.03,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2807415297,
+      "NodeId": 2082494773,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2148030153,
+      "NodeId": 1534971389,
+      "Position": [
+        0.0,
+        -0.09,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 134359349,
+      "NodeId": 3309606717,
+      "Position": [
+        -0.01,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 736047924,
+      "NodeId": 179352090,
+      "Position": [
+        0.0,
+        -0.02,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1225098768,
+      "NodeId": 2270651450,
+      "Position": [
+        0.0,
+        0.01,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3254541508,
+      "NodeId": 263110382,
+      "Position": [
+        0.0,
+        0.02,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1355189560,
+      "NodeId": 3847506657,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 907664980,
+      "NodeId": 788227007,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 612436063,
+      "NodeId": 3678138600,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 268871177,
+      "NodeId": 1174158046,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 928723649,
+      "NodeId": 1654763030,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1190873758,
+      "NodeId": 4230162022,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 632547426,
+      "NodeId": 1028740489,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3787555583,
+      "NodeId": 1414743334,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.97,
+        0.97,
+        0.97
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 33044935,
+      "NodeId": 421168172,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 4216398268,
+      "NodeId": 82565387,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 702203362,
+      "NodeId": 2082494773,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 243749162,
+      "NodeId": 1534971389,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2140994501,
+      "NodeId": 3309606717,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 307367921,
+      "NodeId": 179352090,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2028838029,
+      "NodeId": 2270651450,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 4027860569,
+      "NodeId": 263110382,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2610585245,
+      "NodeId": 3847506657,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 560122391,
+      "NodeId": 788227007,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2197160939,
+      "NodeId": 3678138600,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3702302359,
+      "NodeId": 1174158046,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.19,
+        1.19,
+        1.19
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 4226888287,
+      "NodeId": 1654763030,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3713926897,
+      "NodeId": 4230162022,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        -4.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 852032545,
+      "NodeId": 1028740489,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 714953050,
+      "NodeId": 1414743334,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 377695620,
+      "NodeId": 421168172,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1562782216,
+      "NodeId": 82565387,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3849373052,
+      "NodeId": 2082494773,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.19,
+        1.19,
+        1.19
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3257749940,
+      "NodeId": 1534971389,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3828987818,
+      "NodeId": 3309606717,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        4.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 86580146,
+      "NodeId": 179352090,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3734673209,
+      "NodeId": 2270651450,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1449348589,
+      "NodeId": 263110382,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2258595365,
+      "NodeId": 3847506657,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.446,
+        1.446,
+        1.446
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1157867486,
+      "NodeId": 788227007,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1196506469,
+      "NodeId": 3678138600,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3597250446,
+      "NodeId": 1174158046,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.51,
+        1.51,
+        1.51
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 4046732102,
+      "NodeId": 1654763030,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.06,
+        1.06,
+        1.06
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2848386942,
+      "NodeId": 4230162022,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        -15.0
+      ],
+      "Scale": [
+        0.92,
+        0.92,
+        0.92
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1453953512,
+      "NodeId": 1028740489,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 932733410,
+      "NodeId": 1414743334,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1927430221,
+      "NodeId": 421168172,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2558596230,
+      "NodeId": 82565387,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 4021668965,
+      "NodeId": 2082494773,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.51,
+        1.51,
+        1.51
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3370670253,
+      "NodeId": 1534971389,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.06,
+        1.06,
+        1.06
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2426494501,
+      "NodeId": 3309606717,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        15.0
+      ],
+      "Scale": [
+        0.92,
+        0.92,
+        0.92
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1632138875,
+      "NodeId": 179352090,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 457025975,
+      "NodeId": 2270651450,
+      "Position": [
+        0.0,
+        0.02,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.838,
+        0.838,
+        0.838
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2479125347,
+      "NodeId": 263110382,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.98,
+        0.98,
+        0.98
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1304673664,
+      "NodeId": 3847506657,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1383642013,
+      "NodeId": 788227007,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3777378001,
+      "NodeId": 3678138600,
+      "Position": [
+        0.016,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 449031952,
+      "NodeId": 1174158046,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1033780184,
+      "NodeId": 1654763030,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 845390609,
+      "NodeId": 4230162022,
+      "Position": [
+        0.013,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        -5.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1104315819,
+      "NodeId": 1028740489,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 4240749127,
+      "NodeId": 1414743334,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1704547342,
+      "NodeId": 421168172,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1056317234,
+      "NodeId": 82565387,
+      "Position": [
+        -0.016,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 589286651,
+      "NodeId": 2082494773,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 71456819,
+      "NodeId": 1534971389,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 184816202,
+      "NodeId": 3309606717,
+      "Position": [
+        -0.013,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        5.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1983078968,
+      "NodeId": 179352090,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3175784963,
+      "NodeId": 2270651450,
+      "Position": [
+        0.0,
+        -0.01,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 900954327,
+      "NodeId": 263110382,
+      "Position": [
+        0.0,
+        0.031,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3411529518,
+      "NodeId": 3847506657,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.06952,
+        1.06952,
+        1.06952
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1811255128,
+      "NodeId": 788227007,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3503172684,
+      "NodeId": 3678138600,
+      "Position": [
+        0.065,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2488051955,
+      "NodeId": 1174158046,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 3004251195,
+      "NodeId": 1654763030,
+      "Position": [
+        0.0,
+        0.06,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1174237665,
+      "NodeId": 4230162022,
+      "Position": [
+        0.005,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        -11.7
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2019539310,
+      "NodeId": 1028740489,
+      "Position": [
+        0.005,
+        0.03,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2052112617,
+      "NodeId": 1414743334,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1544841419,
+      "NodeId": 421168172,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 253625775,
+      "NodeId": 82565387,
+      "Position": [
+        -0.065,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2911947544,
+      "NodeId": 2082494773,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2328715216,
+      "NodeId": 1534971389,
+      "Position": [
+        0.0,
+        0.06,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2090516666,
+      "NodeId": 3309606717,
+      "Position": [
+        -0.005,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        11.7
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 1337876221,
+      "NodeId": 179352090,
+      "Position": [
+        -0.005,
+        0.03,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2359474334,
+      "NodeId": 2270651450,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.85,
+        0.85,
+        0.85
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 73097802,
+      "NodeId": 263110382,
+      "Position": [
+        0.0,
+        -0.076,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    {
+      "AvatarSkeletonParamInd": 2512604317,
+      "NodeId": 1027062962,
+      "Position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Scale": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "IdRef": {}
+}

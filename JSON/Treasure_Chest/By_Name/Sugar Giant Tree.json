@@ -1,6 +1,5 @@
 {
   "ChestName": "Sugar Giant Tree",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Elder Sugar Log",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 4279899355
 }{
   "ChestName": "Sugar Giant Tree",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Elder Sugar Log",

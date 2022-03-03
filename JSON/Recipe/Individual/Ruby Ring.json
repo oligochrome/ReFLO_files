@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Ruby Ring",
+  "MatList": {
+    "Ruby": 1,
+    "Fire Ore": 1,
+    "Iron Ingot": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 4191666092
+}

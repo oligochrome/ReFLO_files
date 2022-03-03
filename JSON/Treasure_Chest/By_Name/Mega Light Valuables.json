@@ -1,6 +1,5 @@
 {
   "ChestName": "Mega Light Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Light Enh. Orb (L)",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 4136204771
 }{
   "ChestName": "Mega Light Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Light Enh. Orb (XL)",

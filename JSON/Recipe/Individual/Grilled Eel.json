@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Grilled Eel",
+  "MatList": {
+    "Plains Eel": 1,
+    "Oak Fruit": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 870444364
+}

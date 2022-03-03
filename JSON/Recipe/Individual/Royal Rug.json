@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Royal Rug",
+  "MatList": {
+    "King's Wool": 3,
+    "Dark Straw Thread": 2,
+    "Greenbell": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1635306826
+}

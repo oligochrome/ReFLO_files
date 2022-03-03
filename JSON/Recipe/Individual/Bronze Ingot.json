@@ -1,0 +1,24 @@
+{
+  "CreateItem": "Bronze Ingot",
+  "MatList": {
+    "Castele Copper": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2497693777
+}{
+  "CreateItem": "Bronze Ingot",
+  "MatList": {},
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 744730420
+}{
+  "CreateItem": "Bronze Ingot",
+  "MatList": {},
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 1054212314
+}

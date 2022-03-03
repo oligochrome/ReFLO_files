@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Treasure Chest",
+  "MatList": {
+    "Green Oak Beam": 2,
+    "Iron Ingot": 1,
+    "Dandelion Cotton": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2290742275
+}

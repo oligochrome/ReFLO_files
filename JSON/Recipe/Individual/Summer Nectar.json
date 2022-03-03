@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Summer Nectar",
+  "MatList": {
+    "Rainbow Apple": 2,
+    "Port Town Orange": 2,
+    "Southern Papaya": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3101222566
+}

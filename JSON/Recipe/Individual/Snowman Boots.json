@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Snowman Boots",
+  "MatList": {
+    "Silk": 2,
+    "Wool": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 3537514135
+}

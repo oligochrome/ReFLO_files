@@ -1,0 +1,18 @@
+{
+  "CreateItem": "HP Potion",
+  "MatList": {
+    "Healweed": 1,
+    "Spring Water": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 543546287
+}{
+  "CreateItem": "HP Potion",
+  "MatList": {},
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 2564406474
+}

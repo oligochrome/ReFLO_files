@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -61,8 +62,8 @@
         },
         {
           "Slot": 3,
-          "Name": "Insignificantly reduces duration of abnormal status received",
-          "Desc": "Insignificantly reduces duration of abnormal status received",
+          "Name": "Slightly reduces duration of abnormal status received",
+          "Desc": "Slightly reduces duration of abnormal status received",
           "Effects": [
             {
               "Effect": "-",
@@ -83,8 +84,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 1655365213
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -121,8 +121,8 @@
       },
       {
         "Slot": 3,
-        "Name": "Insignificantly reduces duration of abnormal status received",
-        "Desc": "Insignificantly reduces duration of abnormal status received",
+        "Name": "Slightly reduces duration of abnormal status received",
+        "Desc": "Slightly reduces duration of abnormal status received",
         "Effects": [
           {
             "Effect": "-",

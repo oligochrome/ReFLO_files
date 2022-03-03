@@ -1,0 +1,12 @@
+{
+  "CreateItem": "New Star Needle",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Blue Stone": 1,
+    "Aquamarine": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2509201535
+}

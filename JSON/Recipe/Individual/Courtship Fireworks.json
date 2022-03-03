@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Courtship Fireworks",
+  "MatList": {
+    "Mini Bomb": 1,
+    "Pink Gel": 1,
+    "Chocolate Jelly": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 3375920651
+}

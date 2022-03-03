@@ -1,0 +1,50 @@
+{
+  "TableMvpPoint": [
+    {
+      "MvpPointInd": 1329221215,
+      "MvpTypeID": 1329221215,
+      "SortOrder": 7
+    },
+    {
+      "MvpPointInd": 3041389033,
+      "MvpTypeID": 3041389033,
+      "SortOrder": 4
+    },
+    {
+      "MvpPointInd": 3610789144,
+      "MvpTypeID": 3610789144,
+      "SortOrder": 8
+    },
+    {
+      "MvpPointInd": 1026841173,
+      "MvpTypeID": 1026841173,
+      "SortOrder": 3
+    },
+    {
+      "MvpPointInd": 2519268859,
+      "MvpTypeID": 2519268859,
+      "SortOrder": 1
+    },
+    {
+      "MvpPointInd": 1738553947,
+      "MvpTypeID": 1738553947,
+      "SortOrder": 2
+    },
+    {
+      "MvpPointInd": 1266554002,
+      "MvpTypeID": 1266554002,
+      "SortOrder": 0
+    },
+    {
+      "MvpPointInd": 2405513426,
+      "MvpTypeID": 2405513426,
+      "SortOrder": 5
+    },
+    {
+      "MvpPointInd": 643298120,
+      "MvpTypeID": 643298120,
+      "SortOrder": 6
+    }
+  ],
+  "IdRef": {}
+}

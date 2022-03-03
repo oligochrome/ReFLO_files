@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Iridescent Dress",
+  "MatList": {
+    "Linen": 3,
+    "Plain Armor Core (M)": 3,
+    "Energizing Flower": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3379670321
+}

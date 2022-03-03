@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Master Staff",
+  "MatList": {
+    "Green Oak Beam": 2,
+    "Novel Green Ore": 1,
+    "Spiritual Powder": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3370229743
+}

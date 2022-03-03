@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Barley Juice",
+  "MatList": {
+    "Pine Nuts": 1,
+    "Grassy Plains Barley": 1,
+    "Cavedew": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3314068292
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Spook Robe",
+  "MatList": {
+    "Silk": 2,
+    "Spiritual Powder": 1,
+    "Wonderful String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1838014770
+}

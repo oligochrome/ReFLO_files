@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Strawberry Earrings",
+  "MatList": {
+    "Fire Ore": 1,
+    "Fire Armor Core (M)": 2,
+    "Flame Shard": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3049672743
+}

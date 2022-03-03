@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Saw",
       "IconName": "icn_eqslot_saw",
@@ -41,7 +42,7 @@
         {
           "Slot": 1,
           "Name": "Tool Expert",
-          "Desc": "Insignificantly boosts Crafting when crafting any recipes\nclassified as [tool]!",
+          "Desc": "Slightly boosts Crafting when crafting any recipes classified as [tool]!",
           "Effects": [
             {
               "Effect": "Special Effects",
@@ -89,8 +90,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Saw",
@@ -117,7 +117,7 @@
       {
         "Slot": 1,
         "Name": "Tool Expert",
-        "Desc": "Insignificantly boosts Crafting when crafting any recipes\nclassified as [tool]!",
+        "Desc": "Slightly boosts Crafting when crafting any recipes classified as [tool]!",
         "Effects": [
           {
             "Effect": "Special Effects",

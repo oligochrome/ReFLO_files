@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Giant Fried Egg",
+  "MatList": {
+    "Big Egg": 1,
+    "Pine Nuts": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2298453960
+}

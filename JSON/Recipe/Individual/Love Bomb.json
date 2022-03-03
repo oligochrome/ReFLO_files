@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Love Bomb",
+  "MatList": {
+    "Quality Minty Ore": 1,
+    "Pink Gel": 1,
+    "Chocolate Jelly": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 2492820899
+}

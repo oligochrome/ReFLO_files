@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Prairie Dragon's Bed",
+  "MatList": {
+    "Earth Beam": 5,
+    "Great Leaf": 1,
+    "Great Prairie's Tear": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 4073602349
+}

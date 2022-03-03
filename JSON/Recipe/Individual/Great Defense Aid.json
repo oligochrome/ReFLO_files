@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Great Defense Aid",
+  "MatList": {
+    "Alcheweed": 3,
+    "Durable Shell": 3,
+    "Saltless Seawater": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 1895678770
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Whitespirit Candy",
+  "MatList": {
+    "Apple Nectar": 20,
+    "Summer Nectar": 10,
+    "Apple Juice": 80
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Master",
+  "IsHoly": 0,
+  "RecipeId": 997408283
+}

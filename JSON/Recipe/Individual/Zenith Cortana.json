@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Zenith Cortana",
+  "MatList": {
+    "Cortana": 1,
+    "Black Coin": 6,
+    "White Ore": 30
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 1674007877
+}

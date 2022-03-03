@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Pine Bow",
+  "MatList": {
+    "Pine Beam": 2,
+    "Straw Thread": 2,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1087810563
+}

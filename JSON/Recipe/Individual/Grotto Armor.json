@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Grotto Armor",
+  "MatList": {
+    "Black Cashmere": 3,
+    "Black Goat Fleece": 1,
+    "Metal Buttons": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1054954595
+}

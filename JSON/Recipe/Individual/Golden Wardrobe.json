@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Golden Wardrobe",
+  "MatList": {
+    "Golden Pine Beam": 6
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 1699818500
+}

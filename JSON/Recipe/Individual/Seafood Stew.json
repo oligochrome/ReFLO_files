@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Seafood Stew",
+  "MatList": {
+    "Puerto Bream": 2,
+    "Saltless Seawater": 1,
+    "Little Shell": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3060039749
+}

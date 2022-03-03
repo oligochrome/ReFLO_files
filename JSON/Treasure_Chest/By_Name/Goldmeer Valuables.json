@@ -1,6 +1,5 @@
 {
   "ChestName": "Goldmeer Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Plain Armor Core (S)",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 4132137598
 }{
   "ChestName": "Goldmeer Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Plain Armor Core (M)",

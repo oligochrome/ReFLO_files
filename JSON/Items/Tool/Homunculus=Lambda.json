@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Flask",
       "IconName": "icn_eqslot_flask",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 30,
           "Name": "Volor Origin",
-          "Desc": "Explode the homunculus in the front\r Increases damage against target hit.",
+          "Desc": "Explode the homunculus in the front. Increases damage against target hit.",
           "Attribute": "",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -141,8 +142,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Flask",
@@ -153,7 +153,7 @@
         "ChargeLevel": 1,
         "SpCost": 30,
         "Name": "Volor Origin",
-        "Desc": "Explode the homunculus in the front\r Increases damage against target hit.",
+        "Desc": "Explode the homunculus in the front. Increases damage against target hit.",
         "Attribute": "",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

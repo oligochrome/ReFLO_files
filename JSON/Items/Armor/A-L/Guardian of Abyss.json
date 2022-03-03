@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -34,7 +35,7 @@
           "ChargeLevel": 1,
           "SpCost": 20,
           "Name": "Abyss Field",
-          "Desc": "Reduces Shadow RES of nearby enemies\r Increases Shadow ATK of self and nearby allies.",
+          "Desc": "Reduces Shadow RES of nearby enemies\r. Increases Shadow ATK of self and nearby allies.",
           "Attribute": "Shadow",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -98,8 +99,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 1655365213
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -109,7 +109,7 @@
         "ChargeLevel": 1,
         "SpCost": 20,
         "Name": "Abyss Field",
-        "Desc": "Reduces Shadow RES of nearby enemies\r Increases Shadow ATK of self and nearby allies.",
+        "Desc": "Reduces Shadow RES of nearby enemies\r. Increases Shadow ATK of self and nearby allies.",
         "Attribute": "Shadow",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

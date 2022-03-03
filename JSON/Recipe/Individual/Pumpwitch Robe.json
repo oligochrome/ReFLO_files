@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Pumpwitch Robe",
+  "MatList": {
+    "Flare Wool": 3,
+    "Plain Armor Core (M)": 3,
+    "Weird Object": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2646490503
+}

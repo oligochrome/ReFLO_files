@@ -1,6 +1,5 @@
 {
   "ChestName": "Sea Turtle Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Turtle Shell",
@@ -62,7 +61,6 @@
   "SurpriseboxObjId": 3079059541
 }{
   "ChestName": "Sea Turtle Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Turtle Shell",
@@ -124,7 +122,6 @@
   "SurpriseboxObjId": 2399016213
 }{
   "ChestName": "Sea Turtle Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Turtle Shell",
@@ -186,7 +183,6 @@
   "SurpriseboxObjId": 2580967893
 }{
   "ChestName": "Sea Turtle Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gold Key",

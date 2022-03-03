@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Bow",
       "IconName": "icn_eqslot_bow",
@@ -40,8 +41,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Cow Hunter",
-          "Desc": "Boosts damage to Jellings",
+          "Name": "Cattle Hunter",
+          "Desc": "Boosts damage to Cattles",
           "Effects": [
             {
               "Effect": "Special Effects",
@@ -83,8 +84,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Bow",
@@ -110,8 +110,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Cow Hunter",
-        "Desc": "Boosts damage to Jellings",
+        "Name": "Cattle Hunter",
+        "Desc": "Boosts damage to Cattles",
         "Effects": [
           {
             "Effect": "Special Effects",

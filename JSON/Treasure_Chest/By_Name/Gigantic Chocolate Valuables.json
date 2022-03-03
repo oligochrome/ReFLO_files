@@ -1,6 +1,5 @@
 {
   "ChestName": "Gigantic Chocolate Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Chocolate Essence",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 2058141681
 }{
   "ChestName": "Gigantic Chocolate Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Chocolate Essence",

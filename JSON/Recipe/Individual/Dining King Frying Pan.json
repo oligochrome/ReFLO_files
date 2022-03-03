@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Dining King Frying Pan",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Bigbeak Egg": 1,
+    "Topaz": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2051869505
+}

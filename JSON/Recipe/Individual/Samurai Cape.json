@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Samurai Cape",
+  "MatList": {
+    "King's Wool": 2,
+    "Shadow Armor Core (M)": 2,
+    "Savage Beast Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 4060907697
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Silver Armor",
+  "MatList": {
+    "Silver Ingot": 3,
+    "Giant Beast Leather": 2,
+    "Blackiron Ingot": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2144359780
+}

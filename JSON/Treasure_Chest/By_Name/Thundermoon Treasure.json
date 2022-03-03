@@ -1,6 +1,5 @@
 {
   "ChestName": "Thundermoon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Thundermoon Jade",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 1309591993
 }{
   "ChestName": "Thundermoon Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Wind Enh. Orb (L)",

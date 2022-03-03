@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Staff",
       "IconName": "icn_eqslot_cane",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 42,
           "Name": "Omega Catastrophe",
-          "Desc": "Releases waves of Shadow to devour the frontal area\r Increases your Fury DMG and Shadow ATK of nearby allies.",
+          "Desc": "Releases waves of Shadow to devour the frontal area. Increases your Fury DMG and Shadow ATK of nearby allies.",
           "Attribute": "Shadow",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Staff",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 42,
         "Name": "Omega Catastrophe",
-        "Desc": "Releases waves of Shadow to devour the frontal area\r Increases your Fury DMG and Shadow ATK of nearby allies.",
+        "Desc": "Releases waves of Shadow to devour the frontal area. Increases your Fury DMG and Shadow ATK of nearby allies.",
         "Attribute": "Shadow",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,
@@ -209,6 +209,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Staff",
       "IconName": "icn_eqslot_cane",
@@ -218,7 +219,7 @@
           "ChargeLevel": 1,
           "SpCost": 42,
           "Name": "Omega Catastrophe",
-          "Desc": "Releases waves of Shadow to devour the frontal area\r Increases your Fury DMG and Shadow ATK of nearby allies.",
+          "Desc": "Releases waves of Shadow to devour the frontal area. Increases your Fury DMG and Shadow ATK of nearby allies.",
           "Attribute": "Shadow",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -284,8 +285,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Staff",
@@ -296,7 +296,7 @@
         "ChargeLevel": 1,
         "SpCost": 42,
         "Name": "Omega Catastrophe",
-        "Desc": "Releases waves of Shadow to devour the frontal area\r Increases your Fury DMG and Shadow ATK of nearby allies.",
+        "Desc": "Releases waves of Shadow to devour the frontal area. Increases your Fury DMG and Shadow ATK of nearby allies.",
         "Attribute": "Shadow",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

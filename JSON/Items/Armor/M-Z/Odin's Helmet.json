@@ -1,0 +1,97 @@
+{
+  "Name": "Odin's Helmet",
+  "Desc": "A helmet dedicated to the Dark Sultan's General. The stag beetle-like horns are its highlight.",
+  "Rarity": 3,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 10,
+      "Sellprice": 10,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 10,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    }
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0148_10default",
+    "IcnAssetBundleId": 2225535249,
+    "FullFilename": "ae06658_Hat00_typeF",
+    "FullAssetBundleId": 2225535249,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2543928114,
+    "Uniqid": 2543928114,
+    "Id": "OBJ_ITEM_GUARD_01170_00_00",
+    "ResId": 3093018571,
+    "ResIdIcon": 3425824443,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 674297905,
+    "NameId": 2812372357,
+    "DescriptionId": 3294438910,
+    "CommonParamId": 3366118902,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1928285258,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

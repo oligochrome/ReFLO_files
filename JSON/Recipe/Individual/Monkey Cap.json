@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Monkey Cap",
+  "MatList": {
+    "King's Wool": 2,
+    "Rainbow Apple": 2,
+    "Flamebolg Fang": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2204895175
+}

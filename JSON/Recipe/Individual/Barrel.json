@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Barrel",
+  "MatList": {
+    "Pine Beam": 2,
+    "Iron Ingot": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3948527929
+}

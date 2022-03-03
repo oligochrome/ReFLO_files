@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Silver Pickaxe",
+  "MatList": {
+    "Silver Ingot": 2,
+    "Blue Stone": 1,
+    "Aquamarine": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1620243261
+}

@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Bow",
       "IconName": "icn_eqslot_bow",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 35,
           "Name": "Bat Blast",
-          "Desc": "Fires Shadow arrows that trigger explosion\r Increases your critical rate.",
+          "Desc": "Fires Shadow arrows that trigger explosion. Increases your critical rate.",
           "Attribute": "Shadow",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Bow",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 35,
         "Name": "Bat Blast",
-        "Desc": "Fires Shadow arrows that trigger explosion\r Increases your critical rate.",
+        "Desc": "Fires Shadow arrows that trigger explosion. Increases your critical rate.",
         "Attribute": "Shadow",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

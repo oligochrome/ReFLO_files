@@ -1,6 +1,5 @@
 {
   "ChestName": "White Devil Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Holy Socks",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 1201138461
 }{
   "ChestName": "White Devil Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Holy Socks",
@@ -52,7 +50,6 @@
   "SurpriseboxObjId": 3890616295
 }{
   "ChestName": "White Devil Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Holy Bell",

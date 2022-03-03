@@ -1,9 +1,8 @@
 {
   "ChestName": "Boss Bear Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
-      "Name": "Saw",
+      "Name": "Serrated Fang",
       "ItemCount": 1,
       "ProbabilityPercent": 20.0,
       "Weight": 20.0,

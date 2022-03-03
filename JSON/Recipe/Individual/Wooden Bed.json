@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Wooden Bed",
+  "MatList": {
+    "Oak Beam": 5,
+    "Elder Oak Log": 1,
+    "Woven Straw Fabric": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3452620775
+}

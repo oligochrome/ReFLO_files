@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Blackiron Armor",
+  "MatList": {
+    "Blackiron Ingot": 3,
+    "Giant Beast Leather": 2,
+    "Iron Ingot": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3987051973
+}

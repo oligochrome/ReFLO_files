@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tuxedo",
+  "MatList": {
+    "King's Wool": 2,
+    "Fancy Ribbon": 1,
+    "Wonderful Buttons": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2886311923
+}

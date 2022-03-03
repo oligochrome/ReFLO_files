@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Silver Claymore",
+  "MatList": {
+    "Silver Ingot": 3,
+    "White Ore": 1,
+    "Sturdy Fang": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3216167963
+}

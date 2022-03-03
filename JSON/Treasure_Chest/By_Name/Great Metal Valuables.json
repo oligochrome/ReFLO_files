@@ -1,6 +1,5 @@
 {
   "ChestName": "Great Metal Valuables",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "XP Orb (M)",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 797847385
 }{
   "ChestName": "Great Metal Valuables",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "XP Orb (S)",

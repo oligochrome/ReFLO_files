@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Bronze Claymore",
+  "MatList": {
+    "Bronze Ingot": 3,
+    "Animal Fang": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2855847465
+}

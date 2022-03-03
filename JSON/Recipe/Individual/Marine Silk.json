@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Marine Silk",
+  "MatList": {
+    "Marine Thread": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3090068525
+}

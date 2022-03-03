@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Coastal Armor",
+  "MatList": {
+    "Marine Silk": 3,
+    "Goat Fleece": 1,
+    "Seashell Buttons": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2093241118
+}

@@ -1,0 +1,620 @@
+{
+  "TableParamSpecial": [
+    {
+      "ParamSpecialId": 3556103581,
+      "Uniqid": 3556103581,
+      "ContentsId": 2221058523,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1971510825,
+      "Uniqid": 1971510825,
+      "ContentsId": 571843183,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1147847860,
+      "Uniqid": 1147847860,
+      "ContentsId": 335395058,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3793604352,
+      "Uniqid": 3793604352,
+      "ContentsId": 3045765958,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 666562958,
+      "Uniqid": 666562958,
+      "ContentsId": 1882033608,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2177759802,
+      "Uniqid": 2177759802,
+      "ContentsId": 3596256892,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2955272359,
+      "Uniqid": 2955272359,
+      "ContentsId": 3887242465,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 374532883,
+      "Uniqid": 374532883,
+      "ContentsId": 1103468373,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3759840250,
+      "Uniqid": 3759840250,
+      "ContentsId": 3079530428,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1181585486,
+      "Uniqid": 1181585486,
+      "ContentsId": 301657096,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 526374147,
+      "Uniqid": 526374147,
+      "ContentsId": 1221110085,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3106463415,
+      "Uniqid": 3106463415,
+      "ContentsId": 4005536497,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2294334506,
+      "Uniqid": 2294334506,
+      "ContentsId": 3747068012,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3297690078,
+      "Uniqid": 3297690078,
+      "ContentsId": 2467937688,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2506401105
+    },
+    {
+      "ParamSpecialId": 1660537450,
+      "Uniqid": 1660537450,
+      "ContentsId": 896448044,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1663882680
+    },
+    {
+      "ParamSpecialId": 1393676535,
+      "Uniqid": 1393676535,
+      "ContentsId": 75934897,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 3311132172
+    },
+    {
+      "ParamSpecialId": 4117158723,
+      "Uniqid": 4117158723,
+      "ContentsId": 2733745925,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 554291909
+    },
+    {
+      "ParamSpecialId": 818013645,
+      "Uniqid": 818013645,
+      "ContentsId": 1733728651,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2273237361
+    },
+    {
+      "ParamSpecialId": 2528571001,
+      "Uniqid": 2528571001,
+      "ContentsId": 3240202815,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2624166721
+    },
+    {
+      "ParamSpecialId": 2808018148,
+      "Uniqid": 2808018148,
+      "ContentsId": 4039739554,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 975081717
+    },
+    {
+      "ParamSpecialId": 19529552,
+      "Uniqid": 19529552,
+      "ContentsId": 1455325974,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 200706664
+    },
+    {
+      "ParamSpecialId": 4150366137,
+      "Uniqid": 4150366137,
+      "ContentsId": 2700538879,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 3729562684
+    },
+    {
+      "ParamSpecialId": 1360430093,
+      "Uniqid": 1360430093,
+      "ContentsId": 109181003,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2017171336
+    },
+    {
+      "ParamSpecialId": 136626496,
+      "Uniqid": 136626496,
+      "ContentsId": 1605614854,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2910945756
+    },
+    {
+      "ParamSpecialId": 2924727028,
+      "Uniqid": 2924727028,
+      "ContentsId": 4190418610,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1747369810
+    },
+    {
+      "ParamSpecialId": 2679885929,
+      "Uniqid": 2679885929,
+      "ContentsId": 3358370863,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 3461461222
+    },
+    {
+      "ParamSpecialId": 969726941,
+      "Uniqid": 969726941,
+      "ContentsId": 1851500443,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1238600981
+    },
+    {
+      "ParamSpecialId": 4234929491,
+      "Uniqid": 4234929491,
+      "ContentsId": 2885458197,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 4020536993
+    },
+    {
+      "ParamSpecialId": 1511845607,
+      "Uniqid": 1511845607,
+      "ContentsId": 227250849,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 166846098
+    },
+    {
+      "ParamSpecialId": 1811215482,
+      "Uniqid": 1811215482,
+      "ContentsId": 1013155900,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 317103266
+    },
+    {
+      "ParamSpecialId": 3447979982,
+      "Uniqid": 3447979982,
+      "ContentsId": 2585035656,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 3029440278
+    },
+    {
+      "ParamSpecialId": 1003196199,
+      "Uniqid": 1003196199,
+      "ContentsId": 1818030945,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 704886831
+    },
+    {
+      "ParamSpecialId": 2646377619,
+      "Uniqid": 2646377619,
+      "ContentsId": 3391879381,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2356458395
+    },
+    {
+      "ParamSpecialId": 2259404451,
+      "Uniqid": 2259404451,
+      "ContentsId": 3510418149,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 4290358907
+    },
+    {
+      "ParamSpecialId": 551341335,
+      "Uniqid": 551341335,
+      "ContentsId": 2001449297,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1506715087
+    },
+    {
+      "ParamSpecialId": 288675722,
+      "Uniqid": 288675722,
+      "ContentsId": 1185131468,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2944849190
+    },
+    {
+      "ParamSpecialId": 3074677822,
+      "Uniqid": 3074677822,
+      "ContentsId": 3772031096,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 3181160710
+    },
+    {
+      "ParamSpecialId": 1927602864,
+      "Uniqid": 1927602864,
+      "ContentsId": 628334326,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 468427442
+    },
+    {
+      "ParamSpecialId": 3566463236,
+      "Uniqid": 3566463236,
+      "ContentsId": 2198115650,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2239335819
+    },
+    {
+      "ParamSpecialId": 3850105753,
+      "Uniqid": 3850105753,
+      "ContentsId": 3001847775,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 588154431
+    },
+    {
+      "ParamSpecialId": 1124923437,
+      "Uniqid": 1124923437,
+      "ContentsId": 345736299,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 3869882545
+    },
+    {
+      "ParamSpecialId": 3041167556,
+      "Uniqid": 3041167556,
+      "ContentsId": 3805541506,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 3986936411
+    },
+    {
+      "ParamSpecialId": 322143088,
+      "Uniqid": 322143088,
+      "ContentsId": 1151663926,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1272240623
+    },
+    {
+      "ParamSpecialId": 1241630269,
+      "Uniqid": 1241630269,
+      "ContentsId": 496417403,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1088336645
+    },
+    {
+      "ParamSpecialId": 3967208841,
+      "Uniqid": 3967208841,
+      "ContentsId": 3152130511,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1899407768
+    },
+    {
+      "ParamSpecialId": 3718174484,
+      "Uniqid": 3718174484,
+      "ContentsId": 2315889490,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 3611402796
+    },
+    {
+      "ParamSpecialId": 2078923936,
+      "Uniqid": 2078923936,
+      "ContentsId": 746496230,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 124554896
+    },
+    {
+      "ParamSpecialId": 3192840750,
+      "Uniqid": 3192840750,
+      "ContentsId": 3923353192,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 2702935332
+    },
+    {
+      "ParamSpecialId": 4244897051,
+      "Uniqid": 4244897051,
+      "ContentsId": 2861859165,
+      "StardustFlag": 0,
+      "Value": 1000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1534391983,
+      "Uniqid": 1534391983,
+      "ContentsId": 216238825,
+      "StardustFlag": 0,
+      "Value": 3000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1788668978,
+      "Uniqid": 1788668978,
+      "ContentsId": 1024168052,
+      "StardustFlag": 0,
+      "Value": 10000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3438012294,
+      "Uniqid": 3438012294,
+      "ContentsId": 2608634816,
+      "StardustFlag": 0,
+      "Value": 30000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 156031240,
+      "Uniqid": 156031240,
+      "ContentsId": 1591453006,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2939933372,
+      "Uniqid": 2939933372,
+      "ContentsId": 4172066554,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2664679457,
+      "Uniqid": 2664679457,
+      "ContentsId": 3376723047,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 950322069,
+      "Uniqid": 950322069,
+      "ContentsId": 1865662419,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3471618940,
+      "Uniqid": 3471618940,
+      "ContentsId": 2575028026,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1755035848,
+      "Uniqid": 1755035848,
+      "ContentsId": 1057801358,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 833224069,
+      "Uniqid": 833224069,
+      "ContentsId": 1715372483,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2547971633,
+      "Uniqid": 2547971633,
+      "ContentsId": 3226045047,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2788617388,
+      "Uniqid": 2788617388,
+      "ContentsId": 4053897450,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 4319000,
+      "Uniqid": 4319000,
+      "ContentsId": 1473682270,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3320240534,
+      "Uniqid": 3320240534,
+      "ContentsId": 2456921552,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1670500898,
+      "Uniqid": 1670500898,
+      "ContentsId": 872853092,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1383712959,
+      "Uniqid": 1383712959,
+      "ContentsId": 99529977,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 4094608139,
+      "Uniqid": 4094608139,
+      "ContentsId": 2744762189,
+      "StardustFlag": 0,
+      "Value": 100000,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 38188002,
+      "Uniqid": 38188002,
+      "ContentsId": 1439813540,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2754721878,
+      "Uniqid": 2754721878,
+      "ContentsId": 4087792656,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1790335805,
+      "Uniqid": 1790335805,
+      "ContentsId": 3712196699,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3435221129,
+      "Uniqid": 3435221129,
+      "ContentsId": 2067049455,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 4247341588,
+      "Uniqid": 4247341588,
+      "ContentsId": 1255977330,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 2413127420,
+      "Uniqid": 2413127420,
+      "ContentsId": 3981290449,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 527746145,
+      "Uniqid": 527746145,
+      "ContentsId": 1586875562,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 3189277385,
+      "Uniqid": 3189277385,
+      "ContentsId": 281582464,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 409962877,
+      "Uniqid": 409962877,
+      "ContentsId": 3066007604,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 696751072,
+      "Uniqid": 696751072,
+      "ContentsId": 2270661289,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    },
+    {
+      "ParamSpecialId": 1617198411,
+      "Uniqid": 1617198411,
+      "ContentsId": 632590103,
+      "StardustFlag": 0,
+      "Value": 0,
+      "DropObjectId": 1125549068
+    }
+  ]
+}

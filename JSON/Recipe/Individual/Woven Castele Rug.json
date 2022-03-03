@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Woven Castele Rug",
+  "MatList": {
+    "Woven Straw Fabric": 4,
+    "Greenbell": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2766140356
+}

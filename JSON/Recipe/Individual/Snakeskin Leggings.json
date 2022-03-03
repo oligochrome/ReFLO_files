@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Snakeskin Leggings",
+  "MatList": {
+    "Snake Scales": 3,
+    "Beast Hide": 1,
+    "Bronze Ingot": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3689297476
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Port Town Gratin",
+  "MatList": {
+    "Prawn": 3,
+    "Aubergine": 2,
+    "Extra Creamy Milk": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1554766990
+}

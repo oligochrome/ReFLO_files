@@ -1,0 +1,17 @@
+{
+  "CreateItem": "Oak Beam",
+  "MatList": {
+    "Oak Log": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2558729269
+}{
+  "CreateItem": "Oak Beam",
+  "MatList": {},
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 541031248
+}

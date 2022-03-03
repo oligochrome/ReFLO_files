@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Silver Frying Pan",
+  "MatList": {
+    "Silver Ingot": 2,
+    "Blizzard Egg": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 869494820
+}

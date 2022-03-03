@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Snakeskin Helmet",
+  "MatList": {
+    "Snake Scales": 2,
+    "Beast Hide": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2405561427
+}

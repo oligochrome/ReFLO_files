@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Detective Boots",
+  "MatList": {
+    "King's Wool": 2,
+    "Plain Armor Core (M)": 2,
+    "Giant Beast Leather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1814781088
+}

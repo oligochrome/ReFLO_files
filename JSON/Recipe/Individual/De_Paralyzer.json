@@ -1,0 +1,12 @@
+{
+  "CreateItem": "De-Paralyzer",
+  "MatList": {
+    "Paralysis Antidote": 2,
+    "Spiritual Powder": 1,
+    "Pine Nuts": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3676848889
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Big Bang Cape",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Earth Armor Core (M)": 2,
+    "Port Puerto Bloom": 5
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 4033007144
+}

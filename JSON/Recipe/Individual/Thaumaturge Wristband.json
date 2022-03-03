@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Thaumaturge Wristband",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Suspicious Object": 1,
+    "Spiritual Powder": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 172537848
+}

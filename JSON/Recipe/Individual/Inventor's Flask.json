@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Inventor's Flask",
+  "MatList": {
+    "Novel Green Ore": 1,
+    "Green Gel": 1,
+    "Antidote Berries": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 4192251335
+}

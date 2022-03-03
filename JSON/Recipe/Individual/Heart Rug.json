@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Heart Rug",
+  "MatList": {
+    "King's Wool": 3,
+    "Black Cashmere": 2,
+    "Pink Gel": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 2392636738
+}

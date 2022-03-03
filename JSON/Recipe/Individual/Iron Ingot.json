@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Iron Ingot",
+  "MatList": {
+    "Plains Iron": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3249625464
+}

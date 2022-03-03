@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Peach Pudding",
+  "MatList": {
+    "Peach Honey": 1,
+    "Bird's Egg": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 2335575877
+}

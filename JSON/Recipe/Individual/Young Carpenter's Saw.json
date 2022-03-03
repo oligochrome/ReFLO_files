@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Young Carpenter's Saw",
+  "MatList": {
+    "Young Oak Beam": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 2036572706
+}

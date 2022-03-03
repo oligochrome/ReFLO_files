@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Snowman Costume",
+  "MatList": {
+    "Silk": 2,
+    "Dark Straw Fabric": 1,
+    "Beast Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 91401968
+}

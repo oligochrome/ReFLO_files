@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Apple Nectar",
+  "MatList": {
+    "Star Apple": 1,
+    "Cavedew": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3927391246
+}

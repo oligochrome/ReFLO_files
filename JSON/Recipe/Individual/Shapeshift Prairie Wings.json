@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shapeshift Prairie Wings",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Prairie Dragon Scales": 1,
+    "Nectar": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 4184563183
+}

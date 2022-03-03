@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Giant Bomb",
+  "MatList": {
+    "Mini Bomb": 3,
+    "Combustible Powder": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3859510700
+}

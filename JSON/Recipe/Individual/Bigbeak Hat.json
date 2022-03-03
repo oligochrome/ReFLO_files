@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Bigbeak Hat",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Earthen Leaf": 1,
+    "Rainbow Feather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 790891028
+}

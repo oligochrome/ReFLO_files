@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Artisan's Hat",
+  "MatList": {
+    "Wool": 1,
+    "Dandelion Cotton": 1,
+    "Redbell": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2278798945
+}

@@ -1,0 +1,69 @@
+{
+  "TableEventTrigger": [
+    {
+      "EventTriggerInd": 3632743371,
+      "Uniqid": 3632743371,
+      "TimingType": 3040475707,
+      "Priority": 6,
+      "EventId": 177869634,
+      "OpenedCheckflagId": 2243014214,
+      "Cond1FuncId": 262378267,
+      "Cond1ArgObjId": 986327055,
+      "Cond1ArgAchievementId": 2684506812,
+      "Cond1ArgFlagId": 0,
+      "Cond1CondOperator": 171232723,
+      "Cond1RightSide": "0",
+      "PeriodFrom": 1592805600,
+      "PeriodTo": 1593496799
+    },
+    {
+      "EventTriggerInd": 3527559890,
+      "Uniqid": 3527559890,
+      "TimingType": 3040475707,
+      "Priority": 7,
+      "EventId": 6232667,
+      "OpenedCheckflagId": 2406786911,
+      "Cond1FuncId": 3595390946,
+      "Cond1ArgObjId": 986327055,
+      "Cond1ArgAchievementId": 1408660793,
+      "Cond1ArgFlagId": 0,
+      "Cond1CondOperator": 1177742104,
+      "Cond1RightSide": "1",
+      "PeriodFrom": 1594796400,
+      "PeriodTo": 1596175199
+    },
+    {
+      "EventTriggerInd": 3090548225,
+      "Uniqid": 3090548225,
+      "TimingType": 3040475707,
+      "Priority": 0,
+      "EventId": 1521130818,
+      "OpenedCheckflagId": 465855809,
+      "Cond1FuncId": 3595390946,
+      "Cond1ArgObjId": 986327055,
+      "Cond1ArgAchievementId": 3155155145,
+      "Cond1ArgFlagId": 0,
+      "Cond1CondOperator": 1177742104,
+      "Cond1RightSide": "1",
+      "PeriodFrom": 0,
+      "PeriodTo": 0
+    },
+    {
+      "EventTriggerInd": 171232723,
+      "Uniqid": 171232723,
+      "TimingType": 171232723,
+      "Priority": 9999,
+      "EventId": 2852486751,
+      "OpenedCheckflagId": 395352037,
+      "Cond1FuncId": 171232723,
+      "Cond1ArgObjId": 986327055,
+      "Cond1ArgAchievementId": 2684506812,
+      "Cond1ArgFlagId": 0,
+      "Cond1CondOperator": 171232723,
+      "Cond1RightSide": "0",
+      "PeriodFrom": 0,
+      "PeriodTo": 0
+    }
+  ],
+  "IdRef": {}
+}

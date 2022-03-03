@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Moonlit Cape",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Shadow Armor Core (M)": 2,
+    "Star Cluster": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 177160292
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tropic Swimsuit",
+  "MatList": {
+    "Marine Silk": 2,
+    "Silk": 1,
+    "Lucky Flower": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 822631534
+}

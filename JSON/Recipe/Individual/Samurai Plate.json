@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Samurai Plate",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Shadow Armor Core (M)": 2,
+    "Topaz": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2914396972
+}

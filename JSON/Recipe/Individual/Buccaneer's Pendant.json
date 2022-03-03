@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Buccaneer's Pendant",
+  "MatList": {
+    "Weird Object": 1,
+    "Pirate Captain Gem": 1,
+    "Golden Rope": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3710369795
+}

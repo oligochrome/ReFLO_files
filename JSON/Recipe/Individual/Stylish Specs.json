@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Stylish Specs",
+  "MatList": {
+    "Blue Stone": 2,
+    "Blue Gel": 1,
+    "Plains Iron": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 71483845
+}

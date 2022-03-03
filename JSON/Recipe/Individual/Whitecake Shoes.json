@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Whitecake Shoes",
+  "MatList": {
+    "King's Wool": 2,
+    "Plain Armor Core (M)": 2,
+    "Wonderful Ribbon": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1069167940
+}

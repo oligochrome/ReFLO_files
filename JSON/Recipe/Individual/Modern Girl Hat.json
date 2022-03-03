@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Modern Girl Hat",
+  "MatList": {
+    "Linen": 2,
+    "Plain Armor Core (M)": 2,
+    "Wonderful Ribbon": 3
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2075662041
+}

@@ -1,9 +1,8 @@
 {
   "ChestName": "Fury Black Bear Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
-      "Name": "Saw",
+      "Name": "Serrated Fang",
       "ItemCount": 1,
       "ProbabilityPercent": 20.0,
       "Weight": 40.0,

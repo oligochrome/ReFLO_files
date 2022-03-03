@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Rosy Wedding Gown",
+  "MatList": {
+    "Princess Wool": 2,
+    "Angelic Pearl": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 760561412
+}

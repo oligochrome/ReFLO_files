@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Chocolate Pie",
+  "MatList": {
+    "Plateau Honey": 3,
+    "Chocolate Essence": 3,
+    "Grassy Plains Barley": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "-",
+  "IsHoly": 1,
+  "RecipeId": 2934549408
+}

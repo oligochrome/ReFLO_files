@@ -1,0 +1,155 @@
+{
+  "Name": "Frost Gloves",
+  "Desc": "Gloves made of special ice crystals. The snowflakes on their backs are the most attractive parts.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Hand",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 4800,
+      "Sellprice": 1200,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 1500,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Slightly increases chance of applying Frozen",
+          "Desc": "Slightly reduces target's Frozen RES",
+          "Effects": [
+            {
+              "Effect": "Frozen Chance",
+              "Value": 2.0,
+              "AtlasIcon": "gui_buff_snow",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly increases Charged Skill DMG",
+          "Desc": "Slightly boosts charged skill damage",
+          "Effects": [
+            {
+              "Effect": "Charge DMG",
+              "Value": 103.0,
+              "AtlasIcon": "gui_buff_power_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 2,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    }
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Slightly increases chance of applying Frozen",
+        "Desc": "Slightly reduces target's Frozen RES",
+        "Effects": [
+          {
+            "Effect": "Frozen Chance",
+            "Value": 2.0,
+            "AtlasIcon": "gui_buff_snow",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly increases Charged Skill DMG",
+        "Desc": "Slightly boosts charged skill damage",
+        "Effects": [
+          {
+            "Effect": "Charge DMG",
+            "Value": 103.0,
+            "AtlasIcon": "gui_buff_power_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 2,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm605_0162_10default",
+    "IcnAssetBundleId": 3949056144,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 4167461555,
+    "Uniqid": 4167461555,
+    "Id": "OBJ_ITEM_GUARD_13330_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 2750859066,
+    "ResswitchId": 1358748142,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 4251818826,
+    "NameId": 3362147332,
+    "DescriptionId": 2878999679,
+    "CommonParamId": 2808466551,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 489186763,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

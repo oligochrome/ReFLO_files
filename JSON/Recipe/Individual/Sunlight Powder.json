@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Sunlight Powder",
+  "MatList": {
+    "Sun Cluster": 2,
+    "Unfreezer": 1,
+    "Giant Tree Nuts": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 795305706
+}

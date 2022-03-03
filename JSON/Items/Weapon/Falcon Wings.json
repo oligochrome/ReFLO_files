@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Bow",
       "IconName": "icn_eqslot_bow",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 36,
           "Name": "Falcon Barrage",
-          "Desc": "A falcon of gale tears the enemies apart\r Increases your ATK SPD significantly.",
+          "Desc": "A falcon of gale tears the enemies apart.\r Increases your ATK SPD significantly.",
           "Attribute": "Wind",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Bow",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 36,
         "Name": "Falcon Barrage",
-        "Desc": "A falcon of gale tears the enemies apart\r Increases your ATK SPD significantly.",
+        "Desc": "A falcon of gale tears the enemies apart.\r Increases your ATK SPD significantly.",
         "Attribute": "Wind",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

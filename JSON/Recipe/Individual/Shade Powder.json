@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shade Powder",
+  "MatList": {
+    "Sun Cluster": 2,
+    "Detoxifier": 1,
+    "Giant Tree Nuts": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 512719991
+}

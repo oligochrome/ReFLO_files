@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Blackiron Ingot",
+  "MatList": {
+    "Blackiron Ore": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2118130222
+}

@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Wooden Box",
+  "MatList": {
+    "Oak Beam": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3669089188
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Defense Aid",
+  "MatList": {
+    "Alcheweed": 2,
+    "Little Shell": 2,
+    "Cavedew": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 3992068676
+}

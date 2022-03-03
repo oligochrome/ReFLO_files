@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shapeshift: Behemoth's Set",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Monster Crystal": 2,
+    "Abyssal Crystal": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1018267649
+}

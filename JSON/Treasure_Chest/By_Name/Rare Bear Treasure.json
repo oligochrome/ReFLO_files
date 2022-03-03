@@ -1,6 +1,5 @@
 {
   "ChestName": "Rare Bear Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Genesis Relic",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 1058819167
 }{
   "ChestName": "Rare Bear Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Genesis Relic",

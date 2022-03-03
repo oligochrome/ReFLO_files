@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Poison Bomb",
+  "MatList": {
+    "Minty Ore": 1,
+    "Purple Gel": 1,
+    "Poison Essence": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2853568236
+}

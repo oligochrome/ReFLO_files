@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Fluffy Suit",
+  "MatList": {
+    "Wool": 2,
+    "Cashmere": 1,
+    "Wonderful Buttons": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2571467875
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Aurora Cape",
+  "MatList": {
+    "Glitter Wool": 2,
+    "Stardust Diamond": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 1869625465
+}

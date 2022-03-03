@@ -1,6 +1,5 @@
 {
   "ChestName": "Carrotella Treasure",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Royal Hopper",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 4155086372
 }{
   "ChestName": "Carrotella Treasure",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "XP Orb (S)",

@@ -1,6 +1,5 @@
 {
   "ChestName": "Great Oak Tree",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Elder Oak Log",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 2801776260
 }{
   "ChestName": "Great Oak Tree",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Elder Oak Log",

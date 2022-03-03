@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Apple Princess's Fireworks",
+  "MatList": {
+    "Mini Bomb": 1,
+    "Purple Gel": 1,
+    "Green Gel": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 1891872227
+}

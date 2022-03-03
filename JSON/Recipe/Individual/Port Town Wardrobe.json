@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Port Town Wardrobe",
+  "MatList": {
+    "Palm Beam": 6,
+    "Elder Palm Log": 1,
+    "Little Shell": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2163003995
+}

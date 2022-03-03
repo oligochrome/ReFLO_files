@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Silver Ingot",
+  "MatList": {
+    "Port Puerto Silver": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1741050572
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Charm",
+  "MatList": {
+    "Suspicious Object": 1,
+    "String": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 1322615946
+}

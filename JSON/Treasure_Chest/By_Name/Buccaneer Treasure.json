@@ -1,6 +1,5 @@
 {
   "ChestName": "Buccaneer Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Saltless Seawater",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 1474804160
 }{
   "ChestName": "Buccaneer Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Black Coin",

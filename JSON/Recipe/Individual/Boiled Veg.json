@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Boiled Veg",
+  "MatList": {
+    "Carrot": 2,
+    "Broccoli": 2,
+    "Extra Creamy Milk": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 4059532081
+}

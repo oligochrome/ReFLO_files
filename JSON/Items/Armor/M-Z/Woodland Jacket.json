@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -33,8 +34,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Insignificantly enhances Logging",
-          "Desc": "Insignificantly enhances \"Logging\"",
+          "Name": "Slightly enhances Logging",
+          "Desc": "Slightly enhances \"Logging\"",
           "Effects": [
             {
               "Effect": "Logging",
@@ -61,8 +62,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 2345237352
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -71,8 +71,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Insignificantly enhances Logging",
-        "Desc": "Insignificantly enhances \"Logging\"",
+        "Name": "Slightly enhances Logging",
+        "Desc": "Slightly enhances \"Logging\"",
         "Effects": [
           {
             "Effect": "Logging",

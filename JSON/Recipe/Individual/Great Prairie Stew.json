@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Great Prairie Stew",
+  "MatList": {
+    "Top-Class Mushroom": 2,
+    "Bigbeak Egg": 2,
+    "Great Prairie Leaf": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2895917283
+}

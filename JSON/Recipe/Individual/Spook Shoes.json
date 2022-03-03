@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Spook Shoes",
+  "MatList": {
+    "Silk": 2,
+    "Magic Powder": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1333212608
+}

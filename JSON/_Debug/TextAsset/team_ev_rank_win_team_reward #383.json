@@ -1,0 +1,23 @@
+{
+  "TableTeamEvRankWinTeamReward": [
+    {
+      "TeamEvRankWinTeamRewardInd": 2061881922,
+      "Id": 2061881922,
+      "RewardObjId": [
+        1342032052,
+        3918185216,
+        2446152609,
+        986327055,
+        986327055
+      ],
+      "ItemNum": [
+        40,
+        40,
+        20,
+        0,
+        0
+      ]
+    }
+  ],
+  "IdRef": {}
+}

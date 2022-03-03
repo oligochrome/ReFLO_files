@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Aromatic Stew",
+  "MatList": {
+    "King Mutton": 1,
+    "Darky-Milky": 1,
+    "Crimson Carrot": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2311522612
+}

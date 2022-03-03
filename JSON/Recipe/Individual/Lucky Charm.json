@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Lucky Charm",
+  "MatList": {
+    "Dangerous Object": 1,
+    "Leather String": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 3399453296
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Soft Needle",
+  "MatList": {
+    "Dandelion Ore": 2,
+    "Lazy Fur": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 1314813090
+}

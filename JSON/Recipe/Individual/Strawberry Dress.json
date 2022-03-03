@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Strawberry Dress",
+  "MatList": {
+    "Wool": 3,
+    "Fire Armor Core (M)": 3,
+    "Great Prairie's Tear": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 490791350
+}

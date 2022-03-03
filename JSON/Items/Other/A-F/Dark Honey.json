@@ -16,6 +16,15 @@
       "CharaExp": 30,
       "EnchantNeedRich": 0
     },
+    "Effects": [
+      {
+        "Effect": "SP",
+        "Value": 25.0,
+        "AtlasIcon": "gui_buff_heal_sp_001",
+        "Duration": 0.0,
+        "Chance": 100.0
+      }
+    ],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,16 +49,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": [
-      {
-        "Effect": "SP",
-        "Value": 25.0,
-        "AtlasIcon": "gui_buff_heal_sp_001",
-        "Duration": 0.0,
-        "Chance": 100.0
-      }
-    ]
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm033_1001_10default",

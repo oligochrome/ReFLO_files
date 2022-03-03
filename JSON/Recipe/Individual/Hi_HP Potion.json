@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Hi-HP Potion",
+  "MatList": {
+    "Healweed": 2,
+    "Spring Water": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3086666374
+}

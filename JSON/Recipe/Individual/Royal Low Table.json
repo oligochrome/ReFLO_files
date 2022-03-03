@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Royal Low Table",
+  "MatList": {
+    "Green Oak Beam": 2,
+    "King's Wool": 1,
+    "Topaz": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2020137856
+}

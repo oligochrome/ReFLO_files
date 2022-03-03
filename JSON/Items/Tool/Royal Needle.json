@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Needle",
       "IconName": "icn_eqslot_needle",
@@ -41,7 +42,7 @@
         {
           "Slot": 1,
           "Name": "Royal Master",
-          "Desc": "Significantly boosts Crafting when crafting recipes\nthat mainly require King's Wool",
+          "Desc": "Significantly boosts Crafting when crafting recipes that mainly require King's Wool",
           "Effects": [
             {
               "Effect": "Special Effects",
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Needle",
@@ -119,7 +119,7 @@
       {
         "Slot": 1,
         "Name": "Royal Master",
-        "Desc": "Significantly boosts Crafting when crafting recipes\nthat mainly require King's Wool",
+        "Desc": "Significantly boosts Crafting when crafting recipes that mainly require King's Wool",
         "Effects": [
           {
             "Effect": "Special Effects",

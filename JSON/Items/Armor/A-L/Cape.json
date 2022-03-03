@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -33,8 +34,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Insignificantly increases max HP",
-          "Desc": "Insignificantly increases max HP",
+          "Name": "Slightly increases max HP",
+          "Desc": "Slightly increases max HP",
           "Effects": [
             {
               "Effect": "HP",
@@ -67,8 +68,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 1707547204
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -77,8 +77,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Insignificantly increases max HP",
-        "Desc": "Insignificantly increases max HP",
+        "Name": "Slightly increases max HP",
+        "Desc": "Slightly increases max HP",
         "Effects": [
           {
             "Effect": "HP",

@@ -1,0 +1,229 @@
+{
+  "TableBanSetting": [
+    {
+      "BanSettingInd": 2244847610,
+      "BanSettingID": 2244847610,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 3383976870,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 482670144,
+      "BanSettingID": 482670144,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 1354379804,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 1807992534,
+      "BanSettingID": 1807992534,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 666698378,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 4121383797,
+      "BanSettingID": 4121383797,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 3118044969,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 462785498,
+      "BanSettingID": 462785498,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 2442318677,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 2541226004,
+      "BanSettingID": 2541226004,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 3674655816,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 242309550,
+      "BanSettingID": 242309550,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 1108319730,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 2037803320,
+      "BanSettingID": 2037803320,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 889761124,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 2634152308,
+      "BanSettingID": 2634152308,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 386310651,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 801402737,
+      "BanSettingID": 801402737,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 1673177901,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 3066904267,
+      "BanSettingID": 3066904267,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 4206099095,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 3251244637,
+      "BanSettingID": 3251244637,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 2377435649,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 1448946385,
+      "BanSettingID": 1448946385,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 3696915038,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 2987612104,
+      "BanSettingID": 2987612104,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 4268594068,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 723125874,
+      "BanSettingID": 723125874,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 1734656558,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 1545418468,
+      "BanSettingID": 1545418468,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 274985656,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 1264065129,
+      "BanSettingID": 1264065129,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 3244245734,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 4252000296,
+      "BanSettingID": 4252000296,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 618379117,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 179253421,
+      "BanSettingID": 179253421,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 1188164849,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 2477154583,
+      "BanSettingID": 2477154583,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 3755517259,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 3835777409,
+      "BanSettingID": 3835777409,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 2833225181,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 2147797452,
+      "BanSettingID": 2147797452,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 168005955,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 404397891,
+      "BanSettingID": 404397891,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 1415863071,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 2165559033,
+      "BanSettingID": 2165559033,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 3446475429,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 4128570991,
+      "BanSettingID": 4128570991,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 3127523891,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 110148450,
+      "BanSettingID": 110148450,
+      "BanTypeID": 978910115,
+      "ConditionID": 1505194789,
+      "Argument1": 2358764525,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 2151297021,
+      "BanSettingID": 2151297021,
+      "BanTypeID": 978910115,
+      "ConditionID": 3893359099,
+      "Argument1": 4108050209,
+      "Argument2": 4108050209
+    },
+    {
+      "BanSettingInd": 4171836503,
+      "BanSettingID": 4171836503,
+      "BanTypeID": 978910115,
+      "ConditionID": 763612432,
+      "Argument1": 474358705,
+      "Argument2": 4108050209
+    }
+  ],
+  "IdRef": {}
+}

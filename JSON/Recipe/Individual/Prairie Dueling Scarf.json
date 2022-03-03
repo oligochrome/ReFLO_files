@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Prairie Dueling Scarf",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Giant Beast Leather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3580654360
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Rare Bear Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Ursibang Token",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 431181229
 }{
   "ChestName": "Rare Bear Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Dark Ursibang Token",

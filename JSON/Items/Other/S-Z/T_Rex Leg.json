@@ -16,6 +16,29 @@
       "CharaExp": 860,
       "EnchantNeedRich": 0
     },
+    "Effects": [
+      {
+        "Effect": "HP",
+        "Value": 750.0,
+        "AtlasIcon": "gui_buff_heal_hp_001",
+        "Duration": 0.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "ATK",
+        "Value": 107.0,
+        "AtlasIcon": "gui_buff_attack_001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "Crit Dodge",
+        "Value": 4.0,
+        "AtlasIcon": "gui_icon_menu_critical_protect001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      }
+    ],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,30 +63,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": [
-      {
-        "Effect": "HP",
-        "Value": 750.0,
-        "AtlasIcon": "gui_buff_heal_hp_001",
-        "Duration": 0.0,
-        "Chance": 100.0
-      },
-      {
-        "Effect": "ATK",
-        "Value": 107.0,
-        "AtlasIcon": "gui_buff_attack_001",
-        "Duration": 60.0,
-        "Chance": 100.0
-      },
-      {
-        "Effect": "Crit Dodge",
-        "Value": 4.0,
-        "AtlasIcon": "gui_icon_menu_critical_protect001",
-        "Duration": 60.0,
-        "Chance": 100.0
-      }
-    ]
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm201_0010_10default",

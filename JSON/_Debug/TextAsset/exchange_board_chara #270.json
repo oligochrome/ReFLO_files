@@ -1,0 +1,2045 @@
+{
+  "TableExchangeBoardChara": [
+    {
+      "ExchangeBoardCharaInd": 1553218625,
+      "CharaObjId": 493319394,
+      "IdleTextId": [
+        1393942870,
+        3390877932,
+        3172696186
+      ],
+      "IdleActionId": [
+        3470805609,
+        3006542361,
+        1169872795
+      ],
+      "CompleteTextId": [
+        2220756191,
+        492264805,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 1315535999,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 3797274960,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3419903607,
+      "CharaObjId": 2008711112,
+      "IdleTextId": [
+        3114129781,
+        546605263,
+        1469298777
+      ],
+      "IdleActionId": [
+        3006542361,
+        1635005872,
+        1169872795
+      ],
+      "CompleteTextId": [
+        318056872,
+        2348578834,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        2411197392,
+        2968212066
+      ],
+      "ConfirmTextId": 3974399285,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1962865703,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1437795284,
+      "CharaObjId": 1778672274,
+      "IdleTextId": [
+        2426850550,
+        162504012,
+        2124983770
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        1029592805
+      ],
+      "CompleteTextId": [
+        1871065072,
+        4136599114,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3288156835,
+        2411197392,
+        2968212066
+      ],
+      "ConfirmTextId": 2558291130,
+      "ConfirmActionId": 1029592805,
+      "ExchangeTextId": 160297599,
+      "ExchangeActionId": 925798966,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1271264908,
+      "CharaObjId": 603835627,
+      "IdleTextId": [
+        3151688475,
+        584295073,
+        1439994423
+      ],
+      "IdleActionId": [
+        3006542361,
+        3737850535,
+        818246539
+      ],
+      "CompleteTextId": [
+        842048528,
+        2872702378,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3737850535,
+        2411197392,
+        2968212066
+      ],
+      "ConfirmTextId": 1189908032,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1413183903,
+      "ExchangeActionId": 3737850535,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1019397658,
+      "CharaObjId": 2946718748,
+      "IdleTextId": [
+        2052336859,
+        3814554977,
+        2488946167
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        3006542361
+      ],
+      "CompleteTextId": [
+        4020665749,
+        1991191599,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 3712598575,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2309857306,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 50.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2781583264,
+      "CharaObjId": 3065203414,
+      "IdleTextId": [
+        3820374746,
+        2059344736,
+        230173686
+      ],
+      "IdleActionId": [
+        3006542361,
+        4138134584,
+        950397012
+      ],
+      "CompleteTextId": [
+        1382814043,
+        3412410593,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 2866221279,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 879217876,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 50.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1694404044,
+      "CharaObjId": 2331534795,
+      "IdleTextId": [
+        3147799041,
+        580307899,
+        1435630381
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        3006542361
+      ],
+      "CompleteTextId": [
+        3061024626,
+        796579528,
+        4260187921
+      ],
+      "CompleteActionId": [
+        608528292,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 3146658387,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 3497548541,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 50.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 507303059,
+      "CharaObjId": 1643666163,
+      "IdleTextId": [
+        2639515485,
+        73047783,
+        1935519345
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        2411197392
+      ],
+      "CompleteTextId": [
+        3145471645,
+        578111271,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 3648381913,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 3715615506,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2268431657,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        78752092,
+        2646145254,
+        3938437232
+      ],
+      "IdleActionId": [
+        3006542361,
+        2174868654,
+        3737850535
+      ],
+      "CompleteTextId": [
+        112622163,
+        2680105961,
+        4260187921
+      ],
+      "CompleteActionId": [
+        925798966,
+        1029592805,
+        2968212066
+      ],
+      "ConfirmTextId": 2934649129,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1623042012,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1286091413,
+      "CharaObjId": 281297250,
+      "IdleTextId": [
+        184778905,
+        2450182435,
+        3842892213
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        2411197392
+      ],
+      "CompleteTextId": [
+        4069117574,
+        1803591484,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        2411197392,
+        2968212066
+      ],
+      "ConfirmTextId": 1173009727,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2491552521,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1100337680,
+      "CharaObjId": 526393368,
+      "IdleTextId": [
+        1130222007,
+        3662970893,
+        2907943067
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        950397012
+      ],
+      "CompleteTextId": [
+        3856854678,
+        2095824684,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2574575265,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2213098265,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1001325059,
+      "CharaObjId": 3243751032,
+      "IdleTextId": [
+        3398262617,
+        1401163491,
+        612580981
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        950397012
+      ],
+      "CompleteTextId": [
+        790566659,
+        3054913209,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 3729783120,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1226099340,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 4180260213,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        3729928385,
+        1197171067,
+        811356653
+      ],
+      "IdleActionId": [
+        3006542361,
+        3288156835,
+        3737850535
+      ],
+      "CompleteTextId": [
+        1267367687,
+        3531812541,
+        4260187921
+      ],
+      "CompleteActionId": [
+        925798966,
+        3737850535,
+        2968212066
+      ],
+      "ConfirmTextId": 546258249,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 763470472,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2728809401,
+      "CharaObjId": 3463724508,
+      "IdleTextId": [
+        1399798104,
+        3395709154,
+        3177273460
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        3006542361
+      ],
+      "CompleteTextId": [
+        2463464397,
+        198978167,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2849057696,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 4108232258,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3952876187,
+      "CharaObjId": 1745041000,
+      "IdleTextId": [
+        2721256730,
+        993674400,
+        1279095862
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        3006542361
+      ],
+      "CompleteTextId": [
+        1648544757,
+        4216035919,
+        4260187921
+      ],
+      "CompleteActionId": [
+        2411197392,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 837965616,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 71898746,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3584123695,
+      "CharaObjId": 3491923690,
+      "IdleTextId": [
+        2464278168,
+        199800610,
+        2096072628
+      ],
+      "IdleActionId": [
+        3006542361,
+        950397012,
+        2411197392
+      ],
+      "CompleteTextId": [
+        1329832520,
+        3595236338,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 846489551,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 692617159,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1394638334,
+      "CharaObjId": 3491923690,
+      "IdleTextId": [
+        1060959340,
+        2788533718,
+        3509753152
+      ],
+      "IdleActionId": [
+        3006542361,
+        3000079169,
+        1169872795
+      ],
+      "CompleteTextId": [
+        3425327716,
+        1428360158,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2282327256,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2854324203,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1159626430,
+      "CharaObjId": 1835163147,
+      "IdleTextId": [
+        18420318,
+        2551202788,
+        4011291506
+      ],
+      "IdleActionId": [
+        3006542361,
+        950397012,
+        1169872795
+      ],
+      "CompleteTextId": [
+        1748203389,
+        4047120071,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        950397012,
+        2968212066
+      ],
+      "ConfirmTextId": 1088485566,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 238594802,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 188968360,
+      "CharaObjId": 2569894424,
+      "IdleTextId": [
+        1772634266,
+        4037087520,
+        2275811766
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        4138134584
+      ],
+      "CompleteTextId": [
+        1119894878,
+        3687410916,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        950397012,
+        2968212066
+      ],
+      "ConfirmTextId": 3699461957,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 617341137,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 840519208,
+      "CharaObjId": 2796446220,
+      "IdleTextId": [
+        3231174046,
+        1503566884,
+        781823154
+      ],
+      "IdleActionId": [
+        3006542361,
+        950397012,
+        2411197392
+      ],
+      "CompleteTextId": [
+        3047534328,
+        749535042,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        950397012,
+        2968212066
+      ],
+      "ConfirmTextId": 3678778577,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 3551425399,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3019836109,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        4104626668,
+        1840181334,
+        447332544
+      ],
+      "IdleActionId": [
+        3006542361,
+        2174868654,
+        3737850535
+      ],
+      "CompleteTextId": [
+        3970477263,
+        1973550453,
+        4260187921
+      ],
+      "CompleteActionId": [
+        925798966,
+        3623582504,
+        2968212066
+      ],
+      "ConfirmTextId": 1702532269,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2325967168,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1625859407,
+      "CharaObjId": 14248376,
+      "IdleTextId": [
+        3427017195,
+        1431138385,
+        575291591
+      ],
+      "IdleActionId": [
+        3006542361,
+        4138134584,
+        950397012
+      ],
+      "CompleteTextId": [
+        1313964491,
+        3612921969,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        972364292,
+        2968212066
+      ],
+      "ConfirmTextId": 4213629582,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 677010500,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2304196503,
+      "CharaObjId": 3105303468,
+      "IdleTextId": [
+        1267479765,
+        3531957615,
+        2776782329
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        1076470432
+      ],
+      "CompleteTextId": [
+        1649015189,
+        4215318575,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3623582504,
+        2968212066
+      ],
+      "ConfirmTextId": 985675568,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 71443482,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 401577433,
+      "CharaObjId": 1110093099,
+      "IdleTextId": [
+        231407147,
+        2495852433,
+        3821313799
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        2174868654
+      ],
+      "CompleteTextId": [
+        2479315022,
+        181275124,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        950397012,
+        2968212066
+      ],
+      "ConfirmTextId": 1619242721,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 4123821505,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 837507314,
+      "CharaObjId": 3065203414,
+      "IdleTextId": [
+        3598964131,
+        1334477849,
+        948810895
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        4138134584
+      ],
+      "CompleteTextId": [
+        3424741380,
+        1428699582,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3118955263,
+        2968212066
+      ],
+      "ConfirmTextId": 2201742552,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2854925707,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2397488227,
+      "CharaObjId": 1623288715,
+      "IdleTextId": [
+        2485688362,
+        220318096,
+        2049374470
+      ],
+      "IdleActionId": [
+        3006542361,
+        972364292,
+        950397012
+      ],
+      "CompleteTextId": [
+        772617344,
+        3070518586,
+        4260187921
+      ],
+      "CompleteActionId": [
+        608528292,
+        1029592805,
+        2968212066
+      ],
+      "ConfirmTextId": 387808273,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1208412431,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 50.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 593426204,
+      "CharaObjId": 2796446220,
+      "IdleTextId": [
+        2866999416,
+        871080386,
+        1156354388
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        950397012
+      ],
+      "CompleteTextId": [
+        3857308918,
+        2095091020,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2454095521,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2212626809,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 10.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 276976064,
+      "CharaObjId": 2655733377,
+      "IdleTextId": [
+        3172175273,
+        605740051,
+        1394470021
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        2411197392
+      ],
+      "CompleteTextId": [
+        1400779480,
+        3396821858,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 1669698974,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 896921431,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3196702629,
+      "CharaObjId": 3065203414,
+      "IdleTextId": [
+        3475987128,
+        1445333762,
+        555826068
+      ],
+      "IdleActionId": [
+        3006542361,
+        4138134584,
+        950397012
+      ],
+      "CompleteTextId": [
+        403711107,
+        2165929273,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 155683259,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2115762444,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2307588218,
+      "CharaObjId": 1814200147,
+      "IdleTextId": [
+        619834280,
+        3187194386,
+        3405744772
+      ],
+      "IdleActionId": [
+        3006542361,
+        950397012,
+        1169872795
+      ],
+      "CompleteTextId": [
+        4004797974,
+        2008879020,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1076470432,
+        2968212066
+      ],
+      "ConfirmTextId": 337332078,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2294252441,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2889637963,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        3008266083,
+        709308121,
+        1564483151
+      ],
+      "IdleActionId": [
+        3006542361,
+        3288156835,
+        2174868654
+      ],
+      "CompleteTextId": [
+        836276337,
+        2832318923,
+        4260187921
+      ],
+      "CompleteActionId": [
+        925798966,
+        3623582504,
+        2968212066
+      ],
+      "ConfirmTextId": 406512578,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1473465854,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 4270600428,
+      "CharaObjId": 3313391414,
+      "IdleTextId": [
+        3850318952,
+        2088134098,
+        191976772
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        950397012
+      ],
+      "CompleteTextId": [
+        857900947,
+        2854999593,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        950397012,
+        2968212066
+      ],
+      "ConfirmTextId": 2411596545,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1428773404,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 343934766,
+      "CharaObjId": 2008711112,
+      "IdleTextId": [
+        776052245,
+        3075002287,
+        3226468153
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        4138134584
+      ],
+      "CompleteTextId": [
+        2679112160,
+        112808026,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2713794602,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 4189838447,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1848847741,
+      "CharaObjId": 3601549541,
+      "IdleTextId": [
+        1988608174,
+        4019097876,
+        2559156610
+      ],
+      "IdleActionId": [
+        3006542361,
+        1029592805,
+        1169872795
+      ],
+      "CompleteTextId": [
+        340939430,
+        2371552028,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 4247426160,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1918471977,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1289951096,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        2027236067,
+        3789323097,
+        2530954191
+      ],
+      "IdleActionId": [
+        3006542361,
+        3288156835,
+        2174868654
+      ],
+      "CompleteTextId": [
+        291137242,
+        2287155040,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3737850535,
+        2968212066
+      ],
+      "ConfirmTextId": 4115266487,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2001845077,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 422845931,
+      "CharaObjId": 4103490987,
+      "IdleTextId": [
+        3070828398,
+        771772116,
+        1493663298
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        3006542361
+      ],
+      "CompleteTextId": [
+        3385101091,
+        1355668121,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 1720703007,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2949600940,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": -80.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 0.7,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 4099895325,
+      "CharaObjId": 3491923690,
+      "IdleTextId": [
+        3856321429,
+        2094242351,
+        198486713
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        1169872795
+      ],
+      "CompleteTextId": [
+        3207788363,
+        641443569,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 1286742111,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 3644402372,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1580117223,
+      "CharaObjId": 2762553078,
+      "IdleTextId": [
+        1666236268,
+        4200197846,
+        2371804736
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        2411197392
+      ],
+      "CompleteTextId": [
+        757374480,
+        3022901162,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2287329427,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1261388703,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3341286749,
+      "CharaObjId": 2796446220,
+      "IdleTextId": [
+        1525566102,
+        3286702892,
+        3034590138
+      ],
+      "IdleActionId": [
+        3006542361,
+        950397012,
+        1169872795
+      ],
+      "CompleteTextId": [
+        245409802,
+        2544499120,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 3573826916,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1756067205,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3868380034,
+      "CharaObjId": 3065203414,
+      "IdleTextId": [
+        2732482732,
+        1003958550,
+        1288700288
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        2411197392
+      ],
+      "CompleteTextId": [
+        4038215573,
+        1773868591,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 334540028,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2528746010,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2140903992,
+      "CharaObjId": 3893453193,
+      "IdleTextId": [
+        3353455584,
+        1592326746,
+        703580876
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        1169872795
+      ],
+      "CompleteTextId": [
+        2697476507,
+        968976417,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        2174868654,
+        2968212066
+      ],
+      "ConfirmTextId": 1828691596,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 3334726676,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3203521492,
+      "CharaObjId": 3317775489,
+      "IdleTextId": [
+        824611946,
+        2821703120,
+        3744003398
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        1169872795
+      ],
+      "CompleteTextId": [
+        3619852960,
+        1321976602,
+        4260187921
+      ],
+      "CompleteActionId": [
+        2174868654,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 1633956749,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2982760239,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 670599790,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        2440371990,
+        142364332,
+        2138799674
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        2174868654
+      ],
+      "CompleteTextId": [
+        774004385,
+        3073052443,
+        4260187921
+      ],
+      "CompleteActionId": [
+        925798966,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 947346705,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1210680110,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2988036462,
+      "CharaObjId": 1390495263,
+      "IdleTextId": [
+        3181089526,
+        613598028,
+        1402336218
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        1169872795
+      ],
+      "CompleteTextId": [
+        3814030910,
+        2052861828,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2555466212,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2237572017,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 825322986,
+      "CharaObjId": 48119106,
+      "IdleTextId": [
+        2264282809,
+        536831747,
+        1761105813
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        1169872795
+      ],
+      "CompleteTextId": [
+        1158639976,
+        3691389138,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2114543681,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 587508967,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2670820466,
+      "CharaObjId": 2537978001,
+      "IdleTextId": [
+        1876086250,
+        4141587536,
+        2178723014
+      ],
+      "IdleActionId": [
+        3006542361,
+        950397012,
+        1169872795
+      ],
+      "CompleteTextId": [
+        4277583183,
+        1744825589,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 2357347572,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2566742208,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2374292380,
+      "CharaObjId": 2946718748,
+      "IdleTextId": [
+        330557489,
+        2327493003,
+        4257057053
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        2411197392
+      ],
+      "CompleteTextId": [
+        3611167165,
+        1312249863,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 2650746509,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2973094962,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 50.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 1844052529,
+      "CharaObjId": 526393368,
+      "IdleTextId": [
+        2326276276,
+        329349390,
+        1688619416
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        950397012
+      ],
+      "CompleteTextId": [
+        179191320,
+        2477223842,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 11813602,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1822811031,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 960919494,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        3899917993,
+        1904039699,
+        108685189
+      ],
+      "IdleActionId": [
+        3006542361,
+        3737850535,
+        3288156835
+      ],
+      "CompleteTextId": [
+        689192215,
+        2954718381,
+        4260187921
+      ],
+      "CompleteActionId": [
+        925798966,
+        3737850535,
+        2968212066
+      ],
+      "ConfirmTextId": 1674637845,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1327489176,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 737400872,
+      "CharaObjId": 1643666163,
+      "IdleTextId": [
+        2484413298,
+        219968200,
+        2048606814
+      ],
+      "IdleActionId": [
+        3006542361,
+        1076470432,
+        1169872795
+      ],
+      "CompleteTextId": [
+        14453221,
+        2580928607,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 1923979372,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1725387882,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2471477069,
+      "CharaObjId": 603835627,
+      "IdleTextId": [
+        152748548,
+        2417202110,
+        3876889384
+      ],
+      "IdleActionId": [
+        3006542361,
+        3737850535,
+        818246539
+      ],
+      "CompleteTextId": [
+        2931038324,
+        935152078,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        2411197392,
+        2968212066
+      ],
+      "ConfirmTextId": 3411428228,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 3368011259,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 328108982,
+      "CharaObjId": 493319394,
+      "IdleTextId": [
+        1895100994,
+        3925713912,
+        2667221870
+      ],
+      "IdleActionId": [
+        3470805609,
+        3006542361,
+        1169872795
+      ],
+      "CompleteTextId": [
+        776911285,
+        3074942991,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 1418742033,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1212507194,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 825794995,
+      "CharaObjId": 1093949900,
+      "IdleTextId": [
+        2278608727,
+        517578477,
+        1776201339
+      ],
+      "IdleActionId": [
+        3006542361,
+        3006542361,
+        1169872795
+      ],
+      "CompleteTextId": [
+        2278608727,
+        517578477,
+        1776201339
+      ],
+      "CompleteActionId": [
+        3006542361,
+        3006542361,
+        1169872795
+      ],
+      "ConfirmTextId": 3309114514,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1013259261,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": -65.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2740178457,
+      "CharaObjId": 3216929990,
+      "IdleTextId": [
+        2072134626,
+        3800765016,
+        2508989134
+      ],
+      "IdleActionId": [
+        3006542361,
+        1169872795,
+        2411197392
+      ],
+      "CompleteTextId": [
+        1009749296,
+        2770787466,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1169872795,
+        2968212066
+      ],
+      "ConfirmTextId": 2186124360,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1512329407,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3562339983,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        3121388578,
+        587582872,
+        1409481998
+      ],
+      "IdleActionId": [
+        3006542361,
+        2174868654,
+        1029592805
+      ],
+      "CompleteTextId": [
+        3787019445,
+        2024801551,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3737850535,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 434688039,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2276624698,
+      "ExchangeActionId": 925798966,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 2714438678,
+      "CharaObjId": 2655733377,
+      "IdleTextId": [
+        4157073391,
+        1859040853,
+        432637635
+      ],
+      "IdleActionId": [
+        3006542361,
+        2411197392,
+        1169872795
+      ],
+      "CompleteTextId": [
+        1480202441,
+        3241363827,
+        4260187921
+      ],
+      "CompleteActionId": [
+        1169872795,
+        3006542361,
+        2968212066
+      ],
+      "ConfirmTextId": 4235240785,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 1043449158,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 932732091,
+      "CharaObjId": 3369951926,
+      "IdleTextId": [
+        2777955936,
+        1016950746,
+        1268408140
+      ],
+      "IdleActionId": [
+        3737850535,
+        1169872795,
+        2411197392
+      ],
+      "CompleteTextId": [
+        456041582,
+        2183656916,
+        4260187921
+      ],
+      "CompleteActionId": [
+        3006542361,
+        1029592805,
+        2968212066
+      ],
+      "ConfirmTextId": 2166712377,
+      "ConfirmActionId": 3006542361,
+      "ExchangeTextId": 2099608033,
+      "ExchangeActionId": 1169872795,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 20.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 171232723,
+      "CharaObjId": 986327055,
+      "IdleTextId": [
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "IdleActionId": [
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "CompleteTextId": [
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "CompleteActionId": [
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "ConfirmTextId": 4260187921,
+      "ConfirmActionId": 2968212066,
+      "ExchangeTextId": 4260187921,
+      "ExchangeActionId": 2968212066,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 0.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": 0.0
+    },
+    {
+      "ExchangeBoardCharaInd": 3364670747,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        4083137216,
+        3631409411,
+        3244939330
+      ],
+      "IdleActionId": [
+        4029960887,
+        2968212066,
+        2968212066
+      ],
+      "CompleteTextId": [
+        3951485366,
+        4070428919,
+        3652223796
+      ],
+      "CompleteActionId": [
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "ConfirmTextId": 4260187921,
+      "ConfirmActionId": 2968212066,
+      "ExchangeTextId": 2385006213,
+      "ExchangeActionId": 845386599,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 0.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    },
+    {
+      "ExchangeBoardCharaInd": 125842995,
+      "CharaObjId": 782805984,
+      "IdleTextId": [
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "IdleActionId": [
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "CompleteTextId": [
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "CompleteActionId": [
+        2968212066,
+        2968212066,
+        2968212066
+      ],
+      "ConfirmTextId": 4260187921,
+      "ConfirmActionId": 2968212066,
+      "ExchangeTextId": 4260187921,
+      "ExchangeActionId": 2968212066,
+      "CharaOffsetX": 0.0,
+      "CharaOffsetY": 0.0,
+      "CharaRotateY": 0.0,
+      "CharaScale": 1.0,
+      "CommentOffsetX": 0.0,
+      "CommentOffsetY": -25.0
+    }
+  ],
+  "IdRef": {}
+}

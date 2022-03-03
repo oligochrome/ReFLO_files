@@ -16,31 +16,6 @@
       "CharaExp": 240,
       "EnchantNeedRich": 0
     },
-    "Weapon": {
-      "Category": "-",
-      "IconName": "",
-      "CanEquipNPC": 0,
-      "ChargeSkillBattle": [],
-      "ChargeSkillGather": [],
-      "PassiveProperties": [],
-      "ElemBonus": null,
-      "LvupExpTypeId": 0
-    },
-    "Armor": {
-      "CanEquipNPC": 0,
-      "EquipAsShield": 0,
-      "ChargeShield": [],
-      "PassiveProperties": [],
-      "ElemBonus": {
-        "Fire": 0,
-        "Water": 0,
-        "Wind": 0,
-        "Earth": 0,
-        "Light": 0,
-        "Shadow": 0
-      },
-      "LvupExpTypeId": 4199345978
-    },
     "Effects": [
       {
         "Effect": "HP",
@@ -70,7 +45,32 @@
         "Duration": 60.0,
         "Chance": 100.0
       }
-    ]
+    ],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm206_1015_10default",

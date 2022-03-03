@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Savage Necklace",
+  "MatList": {
+    "Hard Claws": 2,
+    "Thick Fang": 1,
+    "Leather String": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3722747443
+}

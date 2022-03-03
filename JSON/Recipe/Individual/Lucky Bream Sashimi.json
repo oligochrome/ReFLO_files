@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Lucky Bream Sashimi",
+  "MatList": {
+    "Lucky Bream": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1184853703
+}

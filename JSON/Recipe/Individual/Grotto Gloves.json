@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Grotto Gloves",
+  "MatList": {
+    "Black Cashmere": 1,
+    "Beast Hide": 1,
+    "Plains Iron": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1441333958
+}

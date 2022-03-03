@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Dancer Dress",
+  "MatList": {
+    "Flare Wool": 3,
+    "Plain Armor Core (M)": 3,
+    "Cherry Lordfish Moss": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 950739995
+}

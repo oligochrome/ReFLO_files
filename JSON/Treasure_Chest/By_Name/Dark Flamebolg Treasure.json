@@ -1,6 +1,5 @@
 {
   "ChestName": "Dark Flamebolg Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Flamebolg Fang",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 2530424942
 }{
   "ChestName": "Dark Flamebolg Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Flamebolg Brooch",
@@ -76,7 +74,6 @@
   "SurpriseboxObjId": 927882194
 }{
   "ChestName": "Dark Flamebolg Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Flamebolg Cape",

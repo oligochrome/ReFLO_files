@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Halloween Cake",
+  "MatList": {
+    "Plateau Honey": 3,
+    "Pumpkin": 3,
+    "Royal Egg": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 904438970
+}

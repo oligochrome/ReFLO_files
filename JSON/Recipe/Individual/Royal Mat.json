@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Royal Mat",
+  "MatList": {
+    "King's Wool": 2,
+    "Dark Straw Thread": 1,
+    "Redbell": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1503521223
+}

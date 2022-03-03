@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Silver Hammer",
+  "MatList": {
+    "Silver Ingot": 2,
+    "Palm Beam": 1,
+    "Quality Minty Ore": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3713384706
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shin/Leviathan's Blue Scales",
+  "MatList": {
+    "Leviathan's Blue Scales": 1,
+    "Abyssal Crystal": 8,
+    "Aquamarine": 30
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 3122752418
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Rush Rug",
+  "MatList": {
+    "Woven Straw Fabric": 2,
+    "Dandelion Cotton": 2,
+    "Greenbell": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3422923796
+}

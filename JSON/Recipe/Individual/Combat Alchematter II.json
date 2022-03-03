@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Combat Alchematter II",
+  "MatList": {
+    "Combat Alchematter I": 5
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 869803015
+}

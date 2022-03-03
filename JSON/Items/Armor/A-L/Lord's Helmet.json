@@ -1,0 +1,97 @@
+{
+  "Name": "Lord's Helmet",
+  "Desc": "The red helmet of a foreign warrior. You can't help but want to start commanding the battle.",
+  "Rarity": 3,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 28000,
+      "Sellprice": 14000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 28000,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 2345237352
+    }
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 2345237352
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0112_10default",
+    "IcnAssetBundleId": 2556182099,
+    "FullFilename": "ae06244_Hat00_typeD",
+    "FullAssetBundleId": 2556182099,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 2338030704,
+    "Uniqid": 2338030704,
+    "Id": "OBJ_ITEM_GUARD_00920_00_00",
+    "ResId": 2762043529,
+    "ResIdIcon": 3502975481,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 674297905,
+    "NameId": 3143344839,
+    "DescriptionId": 3634881212,
+    "CommonParamId": 3562545844,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 1846905608,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

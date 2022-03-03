@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Hammer",
       "IconName": "icn_eqslot_hammer",
@@ -41,7 +42,7 @@
         {
           "Slot": 1,
           "Name": "Blackiron Creator",
-          "Desc": "Boosts Crafting when crafting recipes\nthat mainly require Blackiron Ingots",
+          "Desc": "Boosts Crafting when crafting recipes that mainly require Blackiron Ingots",
           "Effects": [
             {
               "Effect": "Special Effects",
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Hammer",
@@ -119,7 +119,7 @@
       {
         "Slot": 1,
         "Name": "Blackiron Creator",
-        "Desc": "Boosts Crafting when crafting recipes\nthat mainly require Blackiron Ingots",
+        "Desc": "Boosts Crafting when crafting recipes that mainly require Blackiron Ingots",
         "Effects": [
           {
             "Effect": "Special Effects",

@@ -254,7 +254,7 @@
             "ChargeLevel": 0,
             "SpCost": 0,
             "Name": "Finish Work",
-            "Desc": "When completion reaches 50%, enhances Crafting and the chance for Fury Ball to appear",
+            "Desc": "When completion reaches 50%, enhances Crafting and the chance for Fury Ball to appear.",
             "Attribute": "",
             "AwakenLvDamageMultiplier": {},
             "NearComboCount": 0,
@@ -269,7 +269,6 @@
       "First summon script (reserved)",
       "Repeated summon script (reserved)",
       "End script (reserved)",
-      "End script 2 (reserved)",
       "End script 2 (reserved)",
       "End-in-failure script (reserved)",
       "Confirmation script (reserved)"
@@ -336,7 +335,6 @@
       "First summon script (reserved)",
       "Repeated summon script (reserved)",
       "End script (reserved)",
-      "End script 2 (reserved)",
       "End script 2 (reserved)",
       "End-in-failure script (reserved)",
       "Confirmation script (reserved)"

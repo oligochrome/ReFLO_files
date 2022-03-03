@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Spook Scarf",
+  "MatList": {
+    "Silk": 2,
+    "Spiritual Powder": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1577738169
+}

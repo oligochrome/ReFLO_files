@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Hi-Energy Powder",
+  "MatList": {
+    "Vitalweed": 3,
+    "Spiritual Powder": 1,
+    "Pine Nuts": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3238499893
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Royal Curtains",
+  "MatList": {
+    "King's Wool": 2,
+    "Wonderful String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2117588577
+}

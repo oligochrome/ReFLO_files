@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Bronze Needle",
+  "MatList": {
+    "Bronze Ingot": 1,
+    "Straw Thread": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3804720608
+}

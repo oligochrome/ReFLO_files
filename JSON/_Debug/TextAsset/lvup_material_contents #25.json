@@ -1,0 +1,1520 @@
+{
+  "TableLvupMaterialContents": [
+    {
+      "LvupMaterialContentsInd": 2596194251,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 431315941
+    },
+    {
+      "LvupMaterialContentsInd": 1091795006,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 2115102936,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 1571846672
+    },
+    {
+      "LvupMaterialContentsInd": 2489020590,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 863024503,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 3419134125,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 2004134846,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 260168777
+    },
+    {
+      "LvupMaterialContentsInd": 319851279,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 3045369906,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 1251577948,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 2986516492,
+      "LvupMaterialType": 1940605671,
+      "ContentsType": 164164233
+    },
+    {
+      "LvupMaterialContentsInd": 1431141581,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 431315941
+    },
+    {
+      "LvupMaterialContentsInd": 4269656594,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 2788936618,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 1571846672
+    },
+    {
+      "LvupMaterialContentsInd": 724943490,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 3671909369,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 333577183,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 1350304534,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 260168777
+    },
+    {
+      "LvupMaterialContentsInd": 2915283260,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 1546190524,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 2029949453,
+      "LvupMaterialType": 483013651,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 629193758,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 1885313029,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 1571846672
+    },
+    {
+      "LvupMaterialContentsInd": 4039685262,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 607453849,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 3313870960,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 3800843446,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 260168777
+    },
+    {
+      "LvupMaterialContentsInd": 3950799638,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 2730565596,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 1905468240,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 2173448012,
+      "LvupMaterialType": 2658403146,
+      "ContentsType": 164164233
+    },
+    {
+      "LvupMaterialContentsInd": 1725883712,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 784553560
+    },
+    {
+      "LvupMaterialContentsInd": 1915056355,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 4251818826
+    },
+    {
+      "LvupMaterialContentsInd": 88452845,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 674297905
+    },
+    {
+      "LvupMaterialContentsInd": 1213077545,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 2172622904
+    },
+    {
+      "LvupMaterialContentsInd": 3627420795,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1467934674
+    },
+    {
+      "LvupMaterialContentsInd": 3214005984,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 2464448572
+    },
+    {
+      "LvupMaterialContentsInd": 2353186499,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 1169493139,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 3193197648,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 4132038472
+    },
+    {
+      "LvupMaterialContentsInd": 111433422,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 2837513577
+    },
+    {
+      "LvupMaterialContentsInd": 1493880403,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 3941964480,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1706914153
+    },
+    {
+      "LvupMaterialContentsInd": 2510874106,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 1041775335,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1980074495
+    },
+    {
+      "LvupMaterialContentsInd": 1151662269,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 3717563921,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1913705910
+    },
+    {
+      "LvupMaterialContentsInd": 1106224545,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1822094205
+    },
+    {
+      "LvupMaterialContentsInd": 3895718091,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 1917522857,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 4244895744
+    },
+    {
+      "LvupMaterialContentsInd": 2304266051,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 1484777311,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 1709142060
+    },
+    {
+      "LvupMaterialContentsInd": 4275897053,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 3279787438
+    },
+    {
+      "LvupMaterialContentsInd": 1164995310,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 2026962333
+    },
+    {
+      "LvupMaterialContentsInd": 4093106390,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 986077383
+    },
+    {
+      "LvupMaterialContentsInd": 2886112618,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 3686778005
+    },
+    {
+      "LvupMaterialContentsInd": 1366781689,
+      "LvupMaterialType": 1141173080,
+      "ContentsType": 2554785512
+    },
+    {
+      "LvupMaterialContentsInd": 2607814218,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 784553560
+    },
+    {
+      "LvupMaterialContentsInd": 1948450647,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 4251818826
+    },
+    {
+      "LvupMaterialContentsInd": 3028223400,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 674297905
+    },
+    {
+      "LvupMaterialContentsInd": 18960515,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 2172622904
+    },
+    {
+      "LvupMaterialContentsInd": 3727786959,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 1467934674
+    },
+    {
+      "LvupMaterialContentsInd": 246119845,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 2464448572
+    },
+    {
+      "LvupMaterialContentsInd": 1377398849,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 2616113681,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 1140500314,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 4132038472
+    },
+    {
+      "LvupMaterialContentsInd": 3400410836,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 2837513577
+    },
+    {
+      "LvupMaterialContentsInd": 2270263505,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 3975288180,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 1706914153
+    },
+    {
+      "LvupMaterialContentsInd": 1971364375,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 3283536365,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 1980074495
+    },
+    {
+      "LvupMaterialContentsInd": 4120794104,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 295695883,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 1913705910
+    },
+    {
+      "LvupMaterialContentsInd": 4040494820,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 1822094205
+    },
+    {
+      "LvupMaterialContentsInd": 607748305,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 1951177757,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 4244895744
+    },
+    {
+      "LvupMaterialContentsInd": 2318464761,
+      "LvupMaterialType": 2237865679,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 372736641,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 3753920721,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 4083310497,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 4132038472
+    },
+    {
+      "LvupMaterialContentsInd": 2194603950,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 2837513577
+    },
+    {
+      "LvupMaterialContentsInd": 3279915537,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 1042097363,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 1706914153
+    },
+    {
+      "LvupMaterialContentsInd": 1600065915,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 1932407062,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 1980074495
+    },
+    {
+      "LvupMaterialContentsInd": 388631006,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 1509896049,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 1913705910
+    },
+    {
+      "LvupMaterialContentsInd": 308368578,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 1822094205
+    },
+    {
+      "LvupMaterialContentsInd": 1817794987,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 2795744698,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 4244895744
+    },
+    {
+      "LvupMaterialContentsInd": 286268091,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 2439300760,
+      "LvupMaterialType": 1116251406,
+      "ContentsType": 3686778005
+    },
+    {
+      "LvupMaterialContentsInd": 839022446,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 4227185982,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 457007477,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 4132038472
+    },
+    {
+      "LvupMaterialContentsInd": 1696864489,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 2837513577
+    },
+    {
+      "LvupMaterialContentsInd": 3880419326,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 1826055389,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 1706914153
+    },
+    {
+      "LvupMaterialContentsInd": 3725154440,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 2607878082,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 1980074495
+    },
+    {
+      "LvupMaterialContentsInd": 3045601645,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 3189098550,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 1913705910
+    },
+    {
+      "LvupMaterialContentsInd": 2965597297,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 1822094205
+    },
+    {
+      "LvupMaterialContentsInd": 2343812844,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 4100582836,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 4244895744
+    },
+    {
+      "LvupMaterialContentsInd": 562155687,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 3783996225,
+      "LvupMaterialType": 4241713802,
+      "ContentsType": 1709142060
+    },
+    {
+      "LvupMaterialContentsInd": 933713917,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 4266696109,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 1711852882,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 4132038472
+    },
+    {
+      "LvupMaterialContentsInd": 1461096038,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 2837513577
+    },
+    {
+      "LvupMaterialContentsInd": 3807338349,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 2251098353,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 1706914153
+    },
+    {
+      "LvupMaterialContentsInd": 2071910479,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 3863258085,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 1980074495
+    },
+    {
+      "LvupMaterialContentsInd": 2594383081,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 2351390393,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 1913705910
+    },
+    {
+      "LvupMaterialContentsInd": 2682812917,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 1822094205
+    },
+    {
+      "LvupMaterialContentsInd": 3112249443,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 512983448,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 4244895744
+    },
+    {
+      "LvupMaterialContentsInd": 1216526201,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 110990490,
+      "LvupMaterialType": 1517391624,
+      "ContentsType": 3279787438
+    },
+    {
+      "LvupMaterialContentsInd": 2418105457,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 1507235361,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 1165832473,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 4132038472
+    },
+    {
+      "LvupMaterialContentsInd": 4220353169,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 2837513577
+    },
+    {
+      "LvupMaterialContentsInd": 1164530913,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 2703278042,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 1706914153
+    },
+    {
+      "LvupMaterialContentsInd": 2589144491,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 3308347310,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 1980074495
+    },
+    {
+      "LvupMaterialContentsInd": 2505418136,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 549235278,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 1913705910
+    },
+    {
+      "LvupMaterialContentsInd": 2417948804,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 1822094205
+    },
+    {
+      "LvupMaterialContentsInd": 354081940,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 966670003,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 4244895744
+    },
+    {
+      "LvupMaterialContentsInd": 2888564345,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 2367283445,
+      "LvupMaterialType": 3789350715,
+      "ContentsType": 2026962333
+    },
+    {
+      "LvupMaterialContentsInd": 2074649312,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 2992597168,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 2238719624,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 4132038472
+    },
+    {
+      "LvupMaterialContentsInd": 1291208430,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 2837513577
+    },
+    {
+      "LvupMaterialContentsInd": 2933959280,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 1732311972,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 1706914153
+    },
+    {
+      "LvupMaterialContentsInd": 496737134,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 87836735,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 1980074495
+    },
+    {
+      "LvupMaterialContentsInd": 4190661026,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 2546439729,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 1913705910
+    },
+    {
+      "LvupMaterialContentsInd": 4236457150,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 1822094205
+    },
+    {
+      "LvupMaterialContentsInd": 2724323563,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 4294865613,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 4244895744
+    },
+    {
+      "LvupMaterialContentsInd": 734581845,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 3746270789,
+      "LvupMaterialType": 99242496,
+      "ContentsType": 986077383
+    },
+    {
+      "LvupMaterialContentsInd": 4006944923,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 656599755,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 2591443252,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 4132038472
+    },
+    {
+      "LvupMaterialContentsInd": 2417660989,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 2837513577
+    },
+    {
+      "LvupMaterialContentsInd": 1000155147,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 1570760586,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 1706914153
+    },
+    {
+      "LvupMaterialContentsInd": 3746783910,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 2257346591
+    },
+    {
+      "LvupMaterialContentsInd": 440018819,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 1980074495
+    },
+    {
+      "LvupMaterialContentsInd": 2475002307,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 1775349345
+    },
+    {
+      "LvupMaterialContentsInd": 1261126882,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 1913705910
+    },
+    {
+      "LvupMaterialContentsInd": 2530137311,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 1822094205
+    },
+    {
+      "LvupMaterialContentsInd": 2123182648,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 3307302627,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 4244895744
+    },
+    {
+      "LvupMaterialContentsInd": 3968467299,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 180954592,
+      "LvupMaterialType": 2694915900,
+      "ContentsType": 2554785512
+    },
+    {
+      "LvupMaterialContentsInd": 2534834010,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 4203866692,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 834036143
+    },
+    {
+      "LvupMaterialContentsInd": 1113487306,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 2172390654,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 3343149902
+    },
+    {
+      "LvupMaterialContentsInd": 1875499586,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 3115549642,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 1615585787,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 3290089983
+    },
+    {
+      "LvupMaterialContentsInd": 1710004771,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 3250434599
+    },
+    {
+      "LvupMaterialContentsInd": 1082078813,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 1870707806,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 1749625199
+    },
+    {
+      "LvupMaterialContentsInd": 3724310939,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 1561334013
+    },
+    {
+      "LvupMaterialContentsInd": 9449498,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 2124752054,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 1186045432
+    },
+    {
+      "LvupMaterialContentsInd": 306285983,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 710227153
+    },
+    {
+      "LvupMaterialContentsInd": 163482616,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 833237686
+    },
+    {
+      "LvupMaterialContentsInd": 2673375307,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 1126115836
+    },
+    {
+      "LvupMaterialContentsInd": 4146421551,
+      "LvupMaterialType": 465891091,
+      "ContentsType": 1087232629
+    },
+    {
+      "LvupMaterialContentsInd": 2508166798,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 4177003408,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 834036143
+    },
+    {
+      "LvupMaterialContentsInd": 1077386782,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 2231816765,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 3343149902
+    },
+    {
+      "LvupMaterialContentsInd": 1475742342,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 407590220,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 4235909250,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 3290089983
+    },
+    {
+      "LvupMaterialContentsInd": 4192052058,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 3250434599
+    },
+    {
+      "LvupMaterialContentsInd": 1765461756,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 1187333375,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 1749625199
+    },
+    {
+      "LvupMaterialContentsInd": 3854805343,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 1561334013
+    },
+    {
+      "LvupMaterialContentsInd": 2167164734,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 2720540017,
+      "LvupMaterialType": 1917317398,
+      "ContentsType": 1186045432
+    },
+    {
+      "LvupMaterialContentsInd": 3483134462,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 2719743200,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 834036143
+    },
+    {
+      "LvupMaterialContentsInd": 450126190,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 1663482307,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 3343149902
+    },
+    {
+      "LvupMaterialContentsInd": 1556214452,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 1534896643,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 883343098,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 3290089983
+    },
+    {
+      "LvupMaterialContentsInd": 822199586,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 3250434599
+    },
+    {
+      "LvupMaterialContentsInd": 925690772,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 416506263,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 1749625199
+    },
+    {
+      "LvupMaterialContentsInd": 4008989037,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 1561334013
+    },
+    {
+      "LvupMaterialContentsInd": 3514031613,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 1797206099,
+      "LvupMaterialType": 2252061329,
+      "ContentsType": 1126115836
+    },
+    {
+      "LvupMaterialContentsInd": 3695025266,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 2981759340,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 834036143
+    },
+    {
+      "LvupMaterialContentsInd": 158700770,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 2924176347,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 3343149902
+    },
+    {
+      "LvupMaterialContentsInd": 1825708155,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 3785368054,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 1062040113,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 3290089983
+    },
+    {
+      "LvupMaterialContentsInd": 988416489,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 3250434599
+    },
+    {
+      "LvupMaterialContentsInd": 999365472,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 342790499,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 1749625199
+    },
+    {
+      "LvupMaterialContentsInd": 3739728802,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 1561334013
+    },
+    {
+      "LvupMaterialContentsInd": 896447235,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 2409295079,
+      "LvupMaterialType": 514021439,
+      "ContentsType": 710227153
+    },
+    {
+      "LvupMaterialContentsInd": 1534773090,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 922571388,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 834036143
+    },
+    {
+      "LvupMaterialContentsInd": 2385694706,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 3786645834,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 3343149902
+    },
+    {
+      "LvupMaterialContentsInd": 211758981,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 3331383893,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 1697177629,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 3290089983
+    },
+    {
+      "LvupMaterialContentsInd": 1620024261,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 3250434599
+    },
+    {
+      "LvupMaterialContentsInd": 152244753,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 653039634,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 1749625199
+    },
+    {
+      "LvupMaterialContentsInd": 3198848092,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 1561334013
+    },
+    {
+      "LvupMaterialContentsInd": 677307452,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 2386152004,
+      "LvupMaterialType": 89939544,
+      "ContentsType": 833237686
+    },
+    {
+      "LvupMaterialContentsInd": 235359201,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 1669390079,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 834036143
+    },
+    {
+      "LvupMaterialContentsInd": 3679404913,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 2568556029,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 3343149902
+    },
+    {
+      "LvupMaterialContentsInd": 2657921045,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 4012225316
+    },
+    {
+      "LvupMaterialContentsInd": 1811281693,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 2511700190,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 3290089983
+    },
+    {
+      "LvupMaterialContentsInd": 2417163014,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 3250434599
+    },
+    {
+      "LvupMaterialContentsInd": 193862779,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 611423864,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 1749625199
+    },
+    {
+      "LvupMaterialContentsInd": 744033228,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 1561334013
+    },
+    {
+      "LvupMaterialContentsInd": 1555712810,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 4017606108,
+      "LvupMaterialType": 4187539525,
+      "ContentsType": 1087232629
+    },
+    {
+      "LvupMaterialContentsInd": 1417612165,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 3382667750
+    },
+    {
+      "LvupMaterialContentsInd": 17201978,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 3575688122
+    },
+    {
+      "LvupMaterialContentsInd": 3615812807,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 60963911
+    },
+    {
+      "LvupMaterialContentsInd": 2121522417,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 3273867848
+    },
+    {
+      "LvupMaterialContentsInd": 2669968258,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 3506587840
+    },
+    {
+      "LvupMaterialContentsInd": 4075193193,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 529147545
+    },
+    {
+      "LvupMaterialContentsInd": 768789866,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 3233704090
+    },
+    {
+      "LvupMaterialContentsInd": 966087813,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 3987964933
+    },
+    {
+      "LvupMaterialContentsInd": 2846915036,
+      "LvupMaterialType": 413117821,
+      "ContentsType": 1155324972
+    },
+    {
+      "LvupMaterialContentsInd": 774046231,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 3059829398
+    },
+    {
+      "LvupMaterialContentsInd": 1540726842,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 2364896053
+    },
+    {
+      "LvupMaterialContentsInd": 316277434,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 299134533
+    },
+    {
+      "LvupMaterialContentsInd": 2972375109,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 161754055
+    },
+    {
+      "LvupMaterialContentsInd": 4075918764,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 4060084563
+    },
+    {
+      "LvupMaterialContentsInd": 1515906514,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 3805550160
+    },
+    {
+      "LvupMaterialContentsInd": 2333157310,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 3868635808,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 834036143
+    },
+    {
+      "LvupMaterialContentsInd": 1122430446,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 1582903086,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 3949209242,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 2035611857,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 3252292435
+    },
+    {
+      "LvupMaterialContentsInd": 3030670140,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 3081385923
+    },
+    {
+      "LvupMaterialContentsInd": 4148970696,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 3290089983
+    },
+    {
+      "LvupMaterialContentsInd": 1825621986,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 1104225795
+    },
+    {
+      "LvupMaterialContentsInd": 1197381547,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 1146157908
+    },
+    {
+      "LvupMaterialContentsInd": 2380045156,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 2698869381
+    },
+    {
+      "LvupMaterialContentsInd": 3362314614,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 3848878231
+    },
+    {
+      "LvupMaterialContentsInd": 1744185180,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 1257752253
+    },
+    {
+      "LvupMaterialContentsInd": 761479751,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 2515382725
+    },
+    {
+      "LvupMaterialContentsInd": 4281880814,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 2817200419,
+      "LvupMaterialType": 456006221,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 3690216290,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 3059829398
+    },
+    {
+      "LvupMaterialContentsInd": 2883333522,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 2364896053
+    },
+    {
+      "LvupMaterialContentsInd": 3129183743,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 299134533
+    },
+    {
+      "LvupMaterialContentsInd": 2407188712,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 161754055
+    },
+    {
+      "LvupMaterialContentsInd": 1520966377,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 4060084563
+    },
+    {
+      "LvupMaterialContentsInd": 1678439807,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 3805550160
+    },
+    {
+      "LvupMaterialContentsInd": 2065213974,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 1546777777
+    },
+    {
+      "LvupMaterialContentsInd": 379535112,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 834036143
+    },
+    {
+      "LvupMaterialContentsInd": 3002032198,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 2512797409
+    },
+    {
+      "LvupMaterialContentsInd": 2924520070,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 2306472993
+    },
+    {
+      "LvupMaterialContentsInd": 1128114655,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 3899279973
+    },
+    {
+      "LvupMaterialContentsInd": 1191503996,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 3252292435
+    },
+    {
+      "LvupMaterialContentsInd": 486397049,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 3081385923
+    },
+    {
+      "LvupMaterialContentsInd": 3375051311,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 3290089983
+    },
+    {
+      "LvupMaterialContentsInd": 1791896434,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 1104225795
+    },
+    {
+      "LvupMaterialContentsInd": 4010219758,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 1146157908
+    },
+    {
+      "LvupMaterialContentsInd": 2344777716,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 2698869381
+    },
+    {
+      "LvupMaterialContentsInd": 3463853542,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 3848878231
+    },
+    {
+      "LvupMaterialContentsInd": 1642646476,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 1257752253
+    },
+    {
+      "LvupMaterialContentsInd": 322130666,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 2515382725
+    },
+    {
+      "LvupMaterialContentsInd": 3244834883,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 1203151724
+    },
+    {
+      "LvupMaterialContentsInd": 2132161396,
+      "LvupMaterialType": 550796674,
+      "ContentsType": 931343457
+    },
+    {
+      "LvupMaterialContentsInd": 1372077883,
+      "LvupMaterialType": 2722825492,
+      "ContentsType": 1453935802
+    }
+  ],
+  "IdRef": {}
+}

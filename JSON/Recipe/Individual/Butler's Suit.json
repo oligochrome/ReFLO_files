@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Butler's Suit",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Fancy Ribbon": 1,
+    "Metal Buttons": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2721662679
+}

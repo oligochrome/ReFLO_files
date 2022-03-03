@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Cabbage Rolls",
+  "MatList": {
+    "Cabbage": 2,
+    "Beef": 1,
+    "Milk": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2864880262
+}

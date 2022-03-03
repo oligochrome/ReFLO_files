@@ -1,6 +1,5 @@
 {
   "ChestName": "Flame Moth Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Flame Moth Jade",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 598605053
 }{
   "ChestName": "Flame Moth Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Fire Enh. Orb (L)",

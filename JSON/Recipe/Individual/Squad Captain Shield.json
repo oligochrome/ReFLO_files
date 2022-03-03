@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Squad Captain Shield",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Green Oak Beam": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3456003926
+}

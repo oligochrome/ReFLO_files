@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Great Lucky Bream Sushi",
+  "MatList": {
+    "Great Lucky Bream": 1,
+    "Port Rice": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 269212209
+}

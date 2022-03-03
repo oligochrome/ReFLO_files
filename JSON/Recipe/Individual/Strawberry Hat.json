@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Strawberry Hat",
+  "MatList": {
+    "Wool": 2,
+    "Fire Armor Core (M)": 2,
+    "Great Prairie Leaf": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3311036232
+}

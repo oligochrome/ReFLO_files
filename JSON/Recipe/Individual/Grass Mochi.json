@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Grass Mochi",
+  "MatList": {
+    "Plateau Honey": 1,
+    "Port Rice": 2,
+    "Caterpillo Leaf": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 825260632
+}

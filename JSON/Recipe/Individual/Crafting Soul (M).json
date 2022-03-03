@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Crafting Soul (M)",
+  "MatList": {
+    "Crafting Soul (S)": 20
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 578000563
+}

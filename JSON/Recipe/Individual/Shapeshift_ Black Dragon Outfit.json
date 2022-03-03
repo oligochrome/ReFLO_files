@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shapeshift: Black Dragon Outfit",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Black Dragon Scale": 2,
+    "Black Dragon's Horn": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2368310055
+}

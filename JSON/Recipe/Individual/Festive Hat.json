@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Festive Hat",
+  "MatList": {
+    "Wool": 2,
+    "Redbell": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 2798363425
+}

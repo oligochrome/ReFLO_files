@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Grilled Catfish",
+  "MatList": {
+    "Plains Catfish": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 1345443958
+}

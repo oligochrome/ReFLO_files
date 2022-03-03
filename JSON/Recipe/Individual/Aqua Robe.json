@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Aqua Robe",
+  "MatList": {
+    "King's Wool": 3,
+    "Cave Powder": 2,
+    "Aquamarine": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1574663061
+}

@@ -1,0 +1,65 @@
+{
+  "TableQualityRatio": [
+    {
+      "QualityRatioInd": 855433016,
+      "Uniqid": 855433016,
+      "Rank": 0,
+      "LimitLv": 10,
+      "RichUpPer": 0,
+      "NeedTimePer": 0,
+      "NeedComp": 0,
+      "QualityBonus": 0
+    },
+    {
+      "QualityRatioInd": 1174138798,
+      "Uniqid": 1174138798,
+      "Rank": 1,
+      "LimitLv": 12,
+      "RichUpPer": 10,
+      "NeedTimePer": 10,
+      "NeedComp": 0,
+      "QualityBonus": 5
+    },
+    {
+      "QualityRatioInd": 3706895892,
+      "Uniqid": 3706895892,
+      "Rank": 2,
+      "LimitLv": 14,
+      "RichUpPer": 20,
+      "NeedTimePer": 25,
+      "NeedComp": 0,
+      "QualityBonus": 12
+    },
+    {
+      "QualityRatioInd": 2884996738,
+      "Uniqid": 2884996738,
+      "Rank": 3,
+      "LimitLv": 16,
+      "RichUpPer": 30,
+      "NeedTimePer": 50,
+      "NeedComp": 0,
+      "QualityBonus": 0
+    },
+    {
+      "QualityRatioInd": 898702113,
+      "Uniqid": 898702113,
+      "Rank": 4,
+      "LimitLv": 18,
+      "RichUpPer": 40,
+      "NeedTimePer": 100,
+      "NeedComp": 250,
+      "QualityBonus": 0
+    },
+    {
+      "QualityRatioInd": 1117137847,
+      "Uniqid": 1117137847,
+      "Rank": 5,
+      "LimitLv": 20,
+      "RichUpPer": 50,
+      "NeedTimePer": 100,
+      "NeedComp": 300,
+      "QualityBonus": 0
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Platinum Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Platinum Token",
@@ -38,7 +37,6 @@
   "SurpriseboxObjId": 3746824163
 }{
   "ChestName": "Platinum Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Platinum Token",

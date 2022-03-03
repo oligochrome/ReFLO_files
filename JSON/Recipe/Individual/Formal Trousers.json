@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Formal Trousers",
+  "MatList": {
+    "King's Wool": 2,
+    "Beast Hide": 1,
+    "Wonderful String": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2169580919
+}

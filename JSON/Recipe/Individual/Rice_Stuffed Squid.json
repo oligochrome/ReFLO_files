@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Rice-Stuffed Squid",
+  "MatList": {
+    "Squid": 2,
+    "Port Rice": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3178162863
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Rainbow Rubbler Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gear Enh. Orb (S)",
@@ -46,7 +45,6 @@
   "SurpriseboxObjId": 1865244993
 }{
   "ChestName": "Rainbow Rubbler Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Gear Enh. Orb (M)",
@@ -92,7 +90,6 @@
   "SurpriseboxObjId": 4116696330
 }{
   "ChestName": "Rainbow Rubbler Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gear Enh. Orb (M)",

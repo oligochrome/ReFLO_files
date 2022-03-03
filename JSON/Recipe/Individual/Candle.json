@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Candle",
+  "MatList": {
+    "Green Oak Beam": 1,
+    "Blackiron Ingot": 1,
+    "Straw Thread": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2843526724
+}

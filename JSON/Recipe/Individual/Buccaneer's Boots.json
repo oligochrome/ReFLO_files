@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Buccaneer's Boots",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Giant Beast Leather": 1,
+    "Golden Rope": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3428493946
+}

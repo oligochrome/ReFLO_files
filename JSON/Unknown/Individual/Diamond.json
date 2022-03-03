@@ -1,0 +1,199 @@
+{
+  "Name": "Diamond",
+  "Desc": "A beautiful stone consisting of crystalized Power of Wish.\nIt's said to have the power of changing fates.",
+  "Rarity": 1,
+  "Category": "???",
+  "Subcategory": "-",
+  "Type": "",
+  "Resources": {
+    "IcnFilename": "gui_icon_gem",
+    "IcnAssetBundleId": 4286678489,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 0,
+      "Sellprice": 0,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    }
+  },
+  "ParamIds": {
+    "ObjId": 3813764841,
+    "Uniqid": 3813764841,
+    "Id": "OBJ_GAMEVALUE_LIFEGEM",
+    "ResId": 1007313192,
+    "ResIdIcon": 1266049592,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 1011775319,
+    "ContentsTypeId": 1453935802,
+    "NameId": 4142342119,
+    "DescriptionId": 2917728463,
+    "CommonParamId": 2772699533,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  }
+}{
+  "Name": "Diamond",
+  "Desc": "A beautiful stone consisting of crystalized Power of Wish.\nIt's said to have the power of changing fates.",
+  "Rarity": 5,
+  "Category": "???",
+  "Subcategory": "-",
+  "Type": "",
+  "Resources": {
+    "IcnFilename": "gui_icon_gem",
+    "IcnAssetBundleId": 4286678489,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 0,
+      "Sellprice": 0,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    }
+  },
+  "ParamIds": {
+    "ObjId": 3230571857,
+    "Uniqid": 3230571857,
+    "Id": "OBJ_GAMEVALUE_LIFEGEM_FREE",
+    "ResId": 1007313192,
+    "ResIdIcon": 1266049592,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 1011775319,
+    "ContentsTypeId": 1453935802,
+    "NameId": 4142342119,
+    "DescriptionId": 2917728463,
+    "CommonParamId": 3760611036,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  },
+  "CharInfo": {
+    "Attribute": "",
+    "CV": "-",
+    "DefaultCharge": {
+      "ChargeLevel": 1,
+      "SpCost": 0,
+      "Name": "--------",
+      "Desc": "-",
+      "Attribute": "",
+      "AwakenLvDamageMultiplier": {},
+      "NearComboCount": 0,
+      "FarComboCount": 0
+    },
+    "Skillboard": [],
+    "EpisodeText": "-",
+    "OtherText": []
+  }
+}

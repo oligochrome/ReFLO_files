@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Iron Claymore",
+  "MatList": {
+    "Iron Ingot": 3,
+    "Thick Fang": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1720895159
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Formal Dress Shoes",
+  "MatList": {
+    "King's Wool": 2,
+    "Beast Hide": 2,
+    "Wonderful String": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2673644159
+}

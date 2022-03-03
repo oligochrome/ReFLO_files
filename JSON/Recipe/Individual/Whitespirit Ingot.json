@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Whitespirit Ingot",
+  "MatList": {
+    "Silver Ingot": 80,
+    "Blackiron Ingot": 80,
+    "Iron Ingot": 80
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Master",
+  "IsHoly": 0,
+  "RecipeId": 3443216114
+}

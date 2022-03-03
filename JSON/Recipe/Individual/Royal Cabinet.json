@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Royal Cabinet",
+  "MatList": {
+    "Green Oak Beam": 3,
+    "Green Oak Fruit": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 4113558378
+}

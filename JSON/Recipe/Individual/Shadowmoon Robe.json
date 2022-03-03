@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shadowmoon Robe",
+  "MatList": {
+    "Black Cashmere": 3,
+    "Shadow Armor Core (M)": 3,
+    "Moon Cluster": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 364357373
+}

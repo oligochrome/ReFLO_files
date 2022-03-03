@@ -1,6 +1,5 @@
 {
   "ChestName": "Hermit Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Spiritual Powder",
@@ -70,7 +69,6 @@
   "SurpriseboxObjId": 1892092856
 }{
   "ChestName": "Hermit Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Spiritual Powder",
@@ -140,7 +138,6 @@
   "SurpriseboxObjId": 1237296888
 }{
   "ChestName": "Hermit Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Mysterious Object",
@@ -202,7 +199,6 @@
   "SurpriseboxObjId": 177015582
 }{
   "ChestName": "Hermit Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Giant Fang",

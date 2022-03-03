@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Marine Necklace",
+  "MatList": {
+    "Stunning Coral": 1,
+    "Durable Shell": 2,
+    "String": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 1189186530
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Beastly Necklace",
+  "MatList": {
+    "Giant Claws": 2,
+    "Serrated Fang": 1,
+    "Leather String": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 22310856
+}

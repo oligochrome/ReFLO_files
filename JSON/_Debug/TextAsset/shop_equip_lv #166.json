@@ -1,0 +1,605 @@
+{
+  "TableShopEquipLv": [
+    {
+      "ShopEquipLvInd": 3823001073,
+      "Uniqid": 3823001073,
+      "Level": 1,
+      "LevelBonus": 100
+    },
+    {
+      "ShopEquipLvInd": 2060913739,
+      "Uniqid": 2060913739,
+      "Level": 2,
+      "LevelBonus": 120
+    },
+    {
+      "ShopEquipLvInd": 231750877,
+      "Uniqid": 231750877,
+      "Level": 3,
+      "LevelBonus": 150
+    },
+    {
+      "ShopEquipLvInd": 2478090622,
+      "Uniqid": 2478090622,
+      "Level": 4,
+      "LevelBonus": 180
+    },
+    {
+      "ShopEquipLvInd": 3836975592,
+      "Uniqid": 3836975592,
+      "Level": 5,
+      "LevelBonus": 210
+    },
+    {
+      "ShopEquipLvInd": 2109392978,
+      "Uniqid": 2109392978,
+      "Level": 6,
+      "LevelBonus": 240
+    },
+    {
+      "ShopEquipLvInd": 180222148,
+      "Uniqid": 180222148,
+      "Level": 7,
+      "LevelBonus": 270
+    },
+    {
+      "ShopEquipLvInd": 2583881045,
+      "Uniqid": 2583881045,
+      "Level": 8,
+      "LevelBonus": 300
+    },
+    {
+      "ShopEquipLvInd": 3976582595,
+      "Uniqid": 3976582595,
+      "Level": 9,
+      "LevelBonus": 340
+    },
+    {
+      "ShopEquipLvInd": 2378325030,
+      "Uniqid": 2378325030,
+      "Level": 10,
+      "LevelBonus": 380
+    },
+    {
+      "ShopEquipLvInd": 4207242416,
+      "Uniqid": 4207242416,
+      "Level": 11,
+      "LevelBonus": 420
+    },
+    {
+      "ShopEquipLvInd": 1674329354,
+      "Uniqid": 1674329354,
+      "Level": 12,
+      "LevelBonus": 460
+    },
+    {
+      "ShopEquipLvInd": 348851612,
+      "Uniqid": 348851612,
+      "Level": 13,
+      "LevelBonus": 500
+    },
+    {
+      "ShopEquipLvInd": 2326763583,
+      "Uniqid": 2326763583,
+      "Level": 14,
+      "LevelBonus": 550
+    },
+    {
+      "ShopEquipLvInd": 4255688873,
+      "Uniqid": 4255688873,
+      "Level": 15,
+      "LevelBonus": 600
+    },
+    {
+      "ShopEquipLvInd": 1688336659,
+      "Uniqid": 1688336659,
+      "Level": 16,
+      "LevelBonus": 650
+    },
+    {
+      "ShopEquipLvInd": 329697669,
+      "Uniqid": 329697669,
+      "Level": 17,
+      "LevelBonus": 700
+    },
+    {
+      "ShopEquipLvInd": 2199507988,
+      "Uniqid": 2199507988,
+      "Level": 18,
+      "LevelBonus": 750
+    },
+    {
+      "ShopEquipLvInd": 4095665282,
+      "Uniqid": 4095665282,
+      "Level": 19,
+      "LevelBonus": 800
+    },
+    {
+      "ShopEquipLvInd": 2800685029,
+      "Uniqid": 2800685029,
+      "Level": 20,
+      "LevelBonus": 850
+    },
+    {
+      "ShopEquipLvInd": 3521658739,
+      "Uniqid": 3521658739,
+      "Level": 21,
+      "LevelBonus": 900
+    },
+    {
+      "ShopEquipLvInd": 1222733513,
+      "Uniqid": 1222733513,
+      "Level": 22,
+      "LevelBonus": 950
+    },
+    {
+      "ShopEquipLvInd": 1072062047,
+      "Uniqid": 1072062047,
+      "Level": 23,
+      "LevelBonus": 1000
+    },
+    {
+      "ShopEquipLvInd": 2709703676,
+      "Uniqid": 2709703676,
+      "Level": 24,
+      "LevelBonus": 1050
+    },
+    {
+      "ShopEquipLvInd": 3599104874,
+      "Uniqid": 3599104874,
+      "Level": 25,
+      "LevelBonus": 1100
+    },
+    {
+      "ShopEquipLvInd": 1334618832,
+      "Uniqid": 1334618832,
+      "Level": 26,
+      "LevelBonus": 1150
+    },
+    {
+      "ShopEquipLvInd": 948673094,
+      "Uniqid": 948673094,
+      "Level": 27,
+      "LevelBonus": 1200
+    },
+    {
+      "ShopEquipLvInd": 2822014935,
+      "Uniqid": 2822014935,
+      "Level": 28,
+      "LevelBonus": 1250
+    },
+    {
+      "ShopEquipLvInd": 3744708417,
+      "Uniqid": 3744708417,
+      "Level": 29,
+      "LevelBonus": 1300
+    },
+    {
+      "ShopEquipLvInd": 3220455076,
+      "Uniqid": 3220455076,
+      "Level": 30,
+      "LevelBonus": 1350
+    },
+    {
+      "ShopEquipLvInd": 3371372082,
+      "Uniqid": 3371372082,
+      "Level": 31,
+      "LevelBonus": 1400
+    },
+    {
+      "ShopEquipLvInd": 1375362952,
+      "Uniqid": 1375362952,
+      "Level": 32,
+      "LevelBonus": 1450
+    },
+    {
+      "ShopEquipLvInd": 654143262,
+      "Uniqid": 654143262,
+      "Level": 33,
+      "LevelBonus": 1500
+    },
+    {
+      "ShopEquipLvInd": 3097098941,
+      "Uniqid": 3097098941,
+      "Level": 34,
+      "LevelBonus": 1550
+    },
+    {
+      "ShopEquipLvInd": 3483290155,
+      "Uniqid": 3483290155,
+      "Level": 35,
+      "LevelBonus": 1600
+    },
+    {
+      "ShopEquipLvInd": 1452776337,
+      "Uniqid": 1452776337,
+      "Level": 36,
+      "LevelBonus": 1650
+    },
+    {
+      "ShopEquipLvInd": 563129095,
+      "Uniqid": 563129095,
+      "Level": 37,
+      "LevelBonus": 1700
+    },
+    {
+      "ShopEquipLvInd": 2972694166,
+      "Uniqid": 2972694166,
+      "Level": 38,
+      "LevelBonus": 1750
+    },
+    {
+      "ShopEquipLvInd": 3324544512,
+      "Uniqid": 3324544512,
+      "Level": 39,
+      "LevelBonus": 1800
+    },
+    {
+      "ShopEquipLvInd": 4038436963,
+      "Uniqid": 4038436963,
+      "Level": 40,
+      "LevelBonus": 1850
+    },
+    {
+      "ShopEquipLvInd": 2276628725,
+      "Uniqid": 2276628725,
+      "Level": 41,
+      "LevelBonus": 1900
+    },
+    {
+      "ShopEquipLvInd": 515623247,
+      "Uniqid": 515623247,
+      "Level": 42,
+      "LevelBonus": 1950
+    },
+    {
+      "ShopEquipLvInd": 1773992409,
+      "Uniqid": 1773992409,
+      "Level": 43,
+      "LevelBonus": 2000
+    },
+    {
+      "ShopEquipLvInd": 4158155898,
+      "Uniqid": 4158155898,
+      "Level": 44,
+      "LevelBonus": 2050
+    },
+    {
+      "ShopEquipLvInd": 2162121964,
+      "Uniqid": 2162121964,
+      "Level": 45,
+      "LevelBonus": 2100
+    },
+    {
+      "ShopEquipLvInd": 433458518,
+      "Uniqid": 433458518,
+      "Level": 46,
+      "LevelBonus": 2150
+    },
+    {
+      "ShopEquipLvInd": 1859206592,
+      "Uniqid": 1859206592,
+      "Level": 47,
+      "LevelBonus": 2200
+    },
+    {
+      "ShopEquipLvInd": 4268630097,
+      "Uniqid": 4268630097,
+      "Level": 48,
+      "LevelBonus": 2250
+    },
+    {
+      "ShopEquipLvInd": 2305364167,
+      "Uniqid": 2305364167,
+      "Level": 49,
+      "LevelBonus": 2300
+    },
+    {
+      "ShopEquipLvInd": 3920533794,
+      "Uniqid": 3920533794,
+      "Level": 50,
+      "LevelBonus": 2350
+    },
+    {
+      "ShopEquipLvInd": 2661919156,
+      "Uniqid": 2661919156,
+      "Level": 51,
+      "LevelBonus": 2400
+    },
+    {
+      "ShopEquipLvInd": 127989774,
+      "Uniqid": 127989774,
+      "Level": 52,
+      "LevelBonus": 2450
+    },
+    {
+      "ShopEquipLvInd": 1890044056,
+      "Uniqid": 1890044056,
+      "Level": 53,
+      "LevelBonus": 2500
+    },
+    {
+      "ShopEquipLvInd": 4005780795,
+      "Uniqid": 4005780795,
+      "Level": 54,
+      "LevelBonus": 2550
+    },
+    {
+      "ShopEquipLvInd": 2579787181,
+      "Uniqid": 2579787181,
+      "Level": 55,
+      "LevelBonus": 2600
+    },
+    {
+      "ShopEquipLvInd": 13450263,
+      "Uniqid": 13450263,
+      "Level": 56,
+      "LevelBonus": 2650
+    },
+    {
+      "ShopEquipLvInd": 2009730177,
+      "Uniqid": 2009730177,
+      "Level": 57,
+      "LevelBonus": 2700
+    },
+    {
+      "ShopEquipLvInd": 3883208976,
+      "Uniqid": 3883208976,
+      "Level": 58,
+      "LevelBonus": 2750
+    },
+    {
+      "ShopEquipLvInd": 2423398790,
+      "Uniqid": 2423398790,
+      "Level": 59,
+      "LevelBonus": 2800
+    },
+    {
+      "ShopEquipLvInd": 3263417057,
+      "Uniqid": 3263417057,
+      "Level": 60,
+      "LevelBonus": 2850
+    },
+    {
+      "ShopEquipLvInd": 3045390967,
+      "Uniqid": 3045390967,
+      "Level": 61,
+      "LevelBonus": 2900
+    },
+    {
+      "ShopEquipLvInd": 747482061,
+      "Uniqid": 747482061,
+      "Level": 62,
+      "LevelBonus": 2950
+    },
+    {
+      "ShopEquipLvInd": 1535810395,
+      "Uniqid": 1535810395,
+      "Level": 63,
+      "LevelBonus": 3000
+    },
+    {
+      "ShopEquipLvInd": 3320712952,
+      "Uniqid": 3320712952,
+      "Level": 64,
+      "LevelBonus": 3050
+    },
+    {
+      "ShopEquipLvInd": 3001630318,
+      "Uniqid": 3001630318,
+      "Level": 65,
+      "LevelBonus": 3100
+    },
+    {
+      "ShopEquipLvInd": 736128980,
+      "Uniqid": 736128980,
+      "Level": 66,
+      "LevelBonus": 3150
+    },
+    {
+      "ShopEquipLvInd": 1558667074,
+      "Uniqid": 1558667074,
+      "Level": 67,
+      "LevelBonus": 3200
+    },
+    {
+      "ShopEquipLvInd": 3428336339,
+      "Uniqid": 3428336339,
+      "Level": 68,
+      "LevelBonus": 3250
+    },
+    {
+      "ShopEquipLvInd": 3143594565,
+      "Uniqid": 3143594565,
+      "Level": 69,
+      "LevelBonus": 3300
+    },
+    {
+      "ShopEquipLvInd": 3684236192,
+      "Uniqid": 3684236192,
+      "Level": 70,
+      "LevelBonus": 3350
+    },
+    {
+      "ShopEquipLvInd": 2896153398,
+      "Uniqid": 2896153398,
+      "Level": 71,
+      "LevelBonus": 3400
+    },
+    {
+      "ShopEquipLvInd": 899062412,
+      "Uniqid": 899062412,
+      "Level": 72,
+      "LevelBonus": 3450
+    },
+    {
+      "ShopEquipLvInd": 1116842522,
+      "Uniqid": 1116842522,
+      "Level": 73,
+      "LevelBonus": 3500
+    },
+    {
+      "ShopEquipLvInd": 3707060153,
+      "Uniqid": 3707060153,
+      "Level": 74,
+      "LevelBonus": 3550
+    },
+    {
+      "ShopEquipLvInd": 2884767535,
+      "Uniqid": 2884767535,
+      "Level": 75,
+      "LevelBonus": 3600
+    },
+    {
+      "ShopEquipLvInd": 855334549,
+      "Uniqid": 855334549,
+      "Level": 76,
+      "LevelBonus": 3650
+    },
+    {
+      "ShopEquipLvInd": 1174171139,
+      "Uniqid": 1174171139,
+      "Level": 77,
+      "LevelBonus": 3700
+    },
+    {
+      "ShopEquipLvInd": 3577967506,
+      "Uniqid": 3577967506,
+      "Level": 78,
+      "LevelBonus": 3750
+    },
+    {
+      "ShopEquipLvInd": 2722382596,
+      "Uniqid": 2722382596,
+      "Level": 79,
+      "LevelBonus": 3800
+    },
+    {
+      "ShopEquipLvInd": 1543563119,
+      "Uniqid": 1543563119,
+      "Level": 80,
+      "LevelBonus": 3850
+    },
+    {
+      "ShopEquipLvInd": 721934329,
+      "Uniqid": 721934329,
+      "Level": 81,
+      "LevelBonus": 3900
+    },
+    {
+      "ShopEquipLvInd": 2987296323,
+      "Uniqid": 2987296323,
+      "Level": 82,
+      "LevelBonus": 3950
+    },
+    {
+      "ShopEquipLvInd": 3305748181,
+      "Uniqid": 3305748181,
+      "Level": 83,
+      "LevelBonus": 4000
+    },
+    {
+      "ShopEquipLvInd": 1533879158,
+      "Uniqid": 1533879158,
+      "Level": 84,
+      "LevelBonus": 4050
+    },
+    {
+      "ShopEquipLvInd": 745149408,
+      "Uniqid": 745149408,
+      "Level": 85,
+      "LevelBonus": 4100
+    },
+    {
+      "ShopEquipLvInd": 3043181146,
+      "Uniqid": 3043181146,
+      "Level": 86,
+      "LevelBonus": 4150
+    },
+    {
+      "ShopEquipLvInd": 3261362892,
+      "Uniqid": 3261362892,
+      "Level": 87,
+      "LevelBonus": 4200
+    },
+    {
+      "ShopEquipLvInd": 1390112605,
+      "Uniqid": 1390112605,
+      "Level": 88,
+      "LevelBonus": 4250
+    },
+    {
+      "ShopEquipLvInd": 635199435,
+      "Uniqid": 635199435,
+      "Level": 89,
+      "LevelBonus": 4300
+    },
+    {
+      "ShopEquipLvInd": 1159452206,
+      "Uniqid": 1159452206,
+      "Level": 90,
+      "LevelBonus": 4350
+    },
+    {
+      "ShopEquipLvInd": 840754872,
+      "Uniqid": 840754872,
+      "Level": 91,
+      "LevelBonus": 4400
+    },
+    {
+      "ShopEquipLvInd": 2870327042,
+      "Uniqid": 2870327042,
+      "Level": 92,
+      "LevelBonus": 4450
+    },
+    {
+      "ShopEquipLvInd": 3692201876,
+      "Uniqid": 3692201876,
+      "Level": 93,
+      "LevelBonus": 4500
+    },
+    {
+      "ShopEquipLvInd": 1115034167,
+      "Uniqid": 1115034167,
+      "Level": 94,
+      "LevelBonus": 4550
+    },
+    {
+      "ShopEquipLvInd": 896606881,
+      "Uniqid": 896606881,
+      "Level": 95,
+      "LevelBonus": 4600
+    },
+    {
+      "ShopEquipLvInd": 2893574939,
+      "Uniqid": 2893574939,
+      "Level": 96,
+      "LevelBonus": 4650
+    },
+    {
+      "ShopEquipLvInd": 3682550669,
+      "Uniqid": 3682550669,
+      "Level": 97,
+      "LevelBonus": 4700
+    },
+    {
+      "ShopEquipLvInd": 1270898204,
+      "Uniqid": 1270898204,
+      "Level": 98,
+      "LevelBonus": 4750
+    },
+    {
+      "ShopEquipLvInd": 1019702922,
+      "Uniqid": 1019702922,
+      "Level": 99,
+      "LevelBonus": 4800
+    },
+    {
+      "ShopEquipLvInd": 643537024,
+      "Uniqid": 643537024,
+      "Level": 100,
+      "LevelBonus": 4850
+    }
+  ],
+  "IdRef": {}
+}

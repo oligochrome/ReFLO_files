@@ -1,6 +1,5 @@
 {
   "ChestName": "Mega Fire Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Fire Enh. Orb (L)",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 2083186112
 }{
   "ChestName": "Mega Fire Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Fire Enh. Orb (XL)",

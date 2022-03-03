@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Cookie Wardrobe",
+  "MatList": {
+    "Green Oak Beam": 6,
+    "Elder Green Oak Log": 1,
+    "Chocolate Jelly": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 2707720461
+}

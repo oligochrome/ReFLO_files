@@ -1,6 +1,5 @@
 {
   "ChestName": "Prairie Dragon Stash",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Great Prairie's Tear",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 2687431650
 }{
   "ChestName": "Prairie Dragon Stash",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Shapeshift Prairie Set",
@@ -52,7 +50,6 @@
   "SurpriseboxObjId": 1044719349
 }{
   "ChestName": "Prairie Dragon Stash",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Shapeshift Prairie Hat",
@@ -98,7 +95,6 @@
   "SurpriseboxObjId": 2308564195
 }{
   "ChestName": "Prairie Dragon Stash",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Prairie Dragon Scales",

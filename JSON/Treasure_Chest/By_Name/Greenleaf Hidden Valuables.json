@@ -1,6 +1,5 @@
 {
   "ChestName": "Greenleaf Hidden Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Greenleaf Amulet",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 2090127306
 }{
   "ChestName": "Greenleaf Hidden Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Greenleaf Amulet",
@@ -44,7 +42,6 @@
   "SurpriseboxObjId": 4256279277
 }{
   "ChestName": "Greenleaf Hidden Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Greenleaf Amulet",

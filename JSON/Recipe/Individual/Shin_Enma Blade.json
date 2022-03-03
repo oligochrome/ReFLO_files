@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shin/Enma Blade",
+  "MatList": {
+    "Enma Blade": 1,
+    "Rough Fang": 8,
+    "Ruby": 30
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 1570391534
+}

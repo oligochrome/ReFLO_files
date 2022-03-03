@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Lightlord Boots",
+  "MatList": {
+    "Linen": 2,
+    "Light Armor Core (M)": 2,
+    "Golden Rope": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1648355243
+}

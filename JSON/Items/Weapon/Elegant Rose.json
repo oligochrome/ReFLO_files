@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Bow",
       "IconName": "icn_eqslot_bow",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 36,
           "Name": "Calling Lava",
-          "Desc": "After firing a fire arrow,\r Increases your ATK SPD and Fury DMG.",
+          "Desc": "After firing a fire arrow,\r increases your ATK SPD and Fury DMG.",
           "Attribute": "Fire",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -98,8 +99,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Bow",
@@ -110,7 +110,7 @@
         "ChargeLevel": 1,
         "SpCost": 36,
         "Name": "Calling Lava",
-        "Desc": "After firing a fire arrow,\r Increases your ATK SPD and Fury DMG.",
+        "Desc": "After firing a fire arrow,\r increases your ATK SPD and Fury DMG.",
         "Attribute": "Fire",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

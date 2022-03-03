@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Yippee-Ki-Yay Boots",
+  "MatList": {
+    "Flare Wool": 2,
+    "Plain Armor Core (M)": 2,
+    "Leather String": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1889105279
+}

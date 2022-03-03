@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Mysterious Bottom",
+  "MatList": {
+    "Black Cashmere": 2,
+    "King's Wool": 1,
+    "Cute Ribbon": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 2158774250
+}

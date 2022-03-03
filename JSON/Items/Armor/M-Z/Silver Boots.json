@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -33,8 +34,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Insignificantly increases DEF",
-          "Desc": "Insignificantly increases DEF",
+          "Name": "Slightly increases DEF",
+          "Desc": "Slightly increases DEF",
           "Effects": [
             {
               "Effect": "DEF",
@@ -47,8 +48,8 @@
         },
         {
           "Slot": 2,
-          "Name": "Insignificantly increases Constitution",
-          "Desc": "Insignificantly increases your\nIntimidation RES when attacked",
+          "Name": "Slightly increases Constitution",
+          "Desc": "Slightly increases your\nIntimidation RES when attacked",
           "Effects": [
             {
               "Effect": "DEF Break",
@@ -75,8 +76,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 2345237352
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -85,8 +85,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Insignificantly increases DEF",
-        "Desc": "Insignificantly increases DEF",
+        "Name": "Slightly increases DEF",
+        "Desc": "Slightly increases DEF",
         "Effects": [
           {
             "Effect": "DEF",
@@ -99,8 +99,8 @@
       },
       {
         "Slot": 2,
-        "Name": "Insignificantly increases Constitution",
-        "Desc": "Insignificantly increases your\nIntimidation RES when attacked",
+        "Name": "Slightly increases Constitution",
+        "Desc": "Slightly increases your\nIntimidation RES when attacked",
         "Effects": [
           {
             "Effect": "DEF Break",

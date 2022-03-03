@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Retro Boy's Hat",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Plain Armor Core (M)": 2,
+    "Giant Beast Leather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3536399665
+}

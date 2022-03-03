@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Love Cookie",
+  "MatList": {
+    "Grassland Honey": 2,
+    "Chocolate Essence": 2,
+    "Grassy Plains Barley": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "-",
+  "IsHoly": 1,
+  "RecipeId": 1702034976
+}

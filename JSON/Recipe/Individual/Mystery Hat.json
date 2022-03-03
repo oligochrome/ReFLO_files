@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Mystery Hat",
+  "MatList": {
+    "Black Cashmere": 2,
+    "King's Wool": 1,
+    "Fancy Ribbon": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 3855624901
+}

@@ -1,0 +1,29 @@
+{
+  "TableResswitchScript": [
+    {
+      "ResswitchScriptInd": 2517371801,
+      "ResIds": [
+        1373647481,
+        1007313192,
+        1007313192
+      ]
+    },
+    {
+      "ResswitchScriptInd": 3334576682,
+      "ResIds": [
+        64495070,
+        1007313192,
+        1007313192
+      ]
+    },
+    {
+      "ResswitchScriptInd": 1007313192,
+      "ResIds": [
+        1007313192,
+        1007313192,
+        1007313192
+      ]
+    }
+  ],
+  "IdRef": {}
+}

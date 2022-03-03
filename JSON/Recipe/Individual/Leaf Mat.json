@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Leaf Mat",
+  "MatList": {
+    "Woven Straw Fabric": 2,
+    "Healweed": 1,
+    "Vitalweed": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1785898912
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Fried Blizzard Egg",
+  "MatList": {
+    "Blizzard Egg": 1,
+    "Palm Nuts": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2598757352
+}

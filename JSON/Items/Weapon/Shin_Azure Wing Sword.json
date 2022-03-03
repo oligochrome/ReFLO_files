@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Sword",
       "IconName": "icn_eqslot_weapon",
@@ -54,8 +55,8 @@
         },
         {
           "Slot": 2,
-          "Name": "Insignificantly increases Fury growth of the second half of basic attack combo",
-          "Desc": "Insignificantly increases Fury growth brought by\nthe 4th and following moves of basic attack combo",
+          "Name": "Slightly increases Fury growth of the second half of basic attack combo",
+          "Desc": "Slightly increases Fury growth brought by\nthe 4th and following moves of basic attack combo",
           "Effects": [
             {
               "Effect": "Fury Growth",
@@ -98,8 +99,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Sword",
@@ -139,8 +139,8 @@
       },
       {
         "Slot": 2,
-        "Name": "Insignificantly increases Fury growth of the second half of basic attack combo",
-        "Desc": "Insignificantly increases Fury growth brought by\nthe 4th and following moves of basic attack combo",
+        "Name": "Slightly increases Fury growth of the second half of basic attack combo",
+        "Desc": "Slightly increases Fury growth brought by\nthe 4th and following moves of basic attack combo",
         "Effects": [
           {
             "Effect": "Fury Growth",

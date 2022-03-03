@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Choco Muffin Chair",
+  "MatList": {
+    "Pine Beam": 2,
+    "Black Cashmere": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1172607360
+}

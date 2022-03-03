@@ -1,6 +1,5 @@
 {
   "ChestName": "Titan Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Titan Token",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 1228755826
 }{
   "ChestName": "Titan Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Titan Token",
@@ -52,7 +50,6 @@
   "SurpriseboxObjId": 3575872959
 }{
   "ChestName": "Titan Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Titan Token",

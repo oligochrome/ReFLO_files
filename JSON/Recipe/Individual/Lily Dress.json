@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Lily Dress",
+  "MatList": {
+    "Flare Wool": 3,
+    "Plain Armor Core (M)": 3,
+    "Forest Lordfish Moss": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1519008032
+}

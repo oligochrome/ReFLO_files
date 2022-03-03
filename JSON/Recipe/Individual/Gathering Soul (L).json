@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Gathering Soul (L)",
+  "MatList": {
+    "Gathering Soul (M)": 20
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2083964711
+}

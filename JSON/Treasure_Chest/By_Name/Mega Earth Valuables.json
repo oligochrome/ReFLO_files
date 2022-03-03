@@ -1,6 +1,5 @@
 {
   "ChestName": "Mega Earth Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Earth Enh. Orb (L)",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 234186121
 }{
   "ChestName": "Mega Earth Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Earth Enh. Orb (XL)",

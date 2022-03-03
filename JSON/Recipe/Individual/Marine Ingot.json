@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Marine Ingot",
+  "MatList": {
+    "Marine Ore": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2475259615
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Iridescent Rings",
+  "MatList": {
+    "Blue Stone": 1,
+    "Plain Armor Core (M)": 2,
+    "Spiritual Powder": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3520950589
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Bronze Shield",
+  "MatList": {
+    "Bronze Ingot": 2,
+    "Oak Beam": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 4107597755
+}

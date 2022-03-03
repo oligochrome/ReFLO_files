@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Port Town Chair",
+  "MatList": {
+    "Palm Beam": 2,
+    "Silk": 1,
+    "Port Puerto Bloom": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2702827548
+}

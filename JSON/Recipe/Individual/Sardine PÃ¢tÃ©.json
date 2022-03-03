@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Sardine PÃ¢tÃ©",
+  "MatList": {
+    "Sardine": 2,
+    "Palm Nuts": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3737051029
+}

@@ -1,0 +1,33 @@
+{
+  "TableRewardListMissionType": [
+    {
+      "RewardListMissionTypeInd": 1800026307,
+      "Uniqid": 1800026307
+    },
+    {
+      "RewardListMissionTypeInd": 2065531004,
+      "Uniqid": 2065531004
+    },
+    {
+      "RewardListMissionTypeInd": 738178728,
+      "Uniqid": 738178728
+    },
+    {
+      "RewardListMissionTypeInd": 3185980854,
+      "Uniqid": 3185980854
+    },
+    {
+      "RewardListMissionTypeInd": 3714912359,
+      "Uniqid": 3714912359
+    },
+    {
+      "RewardListMissionTypeInd": 3031488784,
+      "Uniqid": 3031488784
+    },
+    {
+      "RewardListMissionTypeInd": 3187413621,
+      "Uniqid": 3187413621
+    }
+  ],
+  "IdRef": {}
+}

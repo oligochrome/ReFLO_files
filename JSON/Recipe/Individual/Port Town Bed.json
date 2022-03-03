@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Port Town Bed",
+  "MatList": {
+    "Palm Beam": 5,
+    "Elder Palm Log": 1,
+    "Marine Silk": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1515577038
+}

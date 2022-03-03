@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Axe of Gratitude",
+  "MatList": {
+    "Gorgeous Earth Log": 2,
+    "Flaming Ingot": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 571303992
+}

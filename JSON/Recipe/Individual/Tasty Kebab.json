@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Tasty Kebab",
+  "MatList": {
+    "Chicken": 2,
+    "Oak Fruit": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2522796529
+}

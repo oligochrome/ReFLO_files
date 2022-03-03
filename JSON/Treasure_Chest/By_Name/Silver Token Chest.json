@@ -1,6 +1,5 @@
 {
   "ChestName": "Silver Token Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Silver Token",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 4190786796
 }{
   "ChestName": "Silver Token Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Silver Token",
@@ -60,7 +58,6 @@
   "SurpriseboxObjId": 1887872399
 }{
   "ChestName": "Silver Token Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Silver Token",

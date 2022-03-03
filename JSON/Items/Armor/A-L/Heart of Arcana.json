@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -34,7 +35,7 @@
           "ChargeLevel": 1,
           "SpCost": 25,
           "Name": "Gaia Wave",
-          "Desc": "Reduces M.DMG taken by nearby allies\r Increases Fury DMG dealt.",
+          "Desc": "Reduces M.DMG taken by nearby allies.\r Increases Fury DMG dealt.",
           "Attribute": "Earth",
           "AwakenLvDamageMultiplier": {}
         }
@@ -78,8 +79,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 1655365213
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -89,7 +89,7 @@
         "ChargeLevel": 1,
         "SpCost": 25,
         "Name": "Gaia Wave",
-        "Desc": "Reduces M.DMG taken by nearby allies\r Increases Fury DMG dealt.",
+        "Desc": "Reduces M.DMG taken by nearby allies.\r Increases Fury DMG dealt.",
         "Attribute": "Earth",
         "AwakenLvDamageMultiplier": {}
       }

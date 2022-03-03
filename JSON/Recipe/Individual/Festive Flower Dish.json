@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Festive Flower Dish",
+  "MatList": {
+    "Great Lucky Bream": 2,
+    "Prawn": 3,
+    "Royal Egg": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2365864775
+}

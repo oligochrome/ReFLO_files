@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -59,8 +60,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 1707547204
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm703_1005_10default",
@@ -116,6 +116,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -159,8 +160,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4241378302
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm703_1006_10default",
@@ -216,6 +216,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -259,8 +260,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 2345237352
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm703_1007_10default",
@@ -316,6 +316,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -359,8 +360,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 363720395
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm703_1008_10default",
@@ -416,6 +416,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -459,8 +460,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 1655365213
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm703_1009_10default",

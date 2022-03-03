@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Unfreezer",
+  "MatList": {
+    "Frozen Remedy": 2,
+    "Spiritual Powder": 1,
+    "Palm Nuts": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3103291331
+}

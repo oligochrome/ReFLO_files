@@ -448,7 +448,6 @@
   }
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Moss",
@@ -470,7 +469,6 @@
   "SurpriseboxObjId": 2826050373
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Moss",
@@ -492,7 +490,6 @@
   "SurpriseboxObjId": 3730981922
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Moss",
@@ -514,7 +511,6 @@
   "SurpriseboxObjId": 2676302889
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Fruit",
@@ -536,7 +532,6 @@
   "SurpriseboxObjId": 4177694372
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Fruit",
@@ -558,7 +553,6 @@
   "SurpriseboxObjId": 2400375235
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Fruit",
@@ -580,7 +574,6 @@
   "SurpriseboxObjId": 3472208328
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Shard",
@@ -602,7 +595,6 @@
   "SurpriseboxObjId": 971793497
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Shard",
@@ -624,7 +616,6 @@
   "SurpriseboxObjId": 1341930302
 }{
   "ChestName": "Cornucopia Treasure Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Whitespirit Shard",

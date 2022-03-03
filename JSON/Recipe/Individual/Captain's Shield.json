@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Captain's Shield",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Green Oak Beam": 1,
+    "Prairie Dragon Scales": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1889466689
+}

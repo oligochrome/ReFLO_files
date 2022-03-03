@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Onihime Gauntlets",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Plain Armor Core (M)": 2,
+    "Fancy Ribbon": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 364542653
+}

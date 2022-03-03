@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Senior Axe",
+  "MatList": {
+    "Green Oak Beam": 1,
+    "Blackiron Ingot": 1,
+    "Grumpy Feather": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3153689496
+}

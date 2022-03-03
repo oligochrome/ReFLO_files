@@ -1,0 +1,65 @@
+{
+  "TableField": [
+    {
+      "FieldInd": 3818680903,
+      "AlignmentNo": 0,
+      "TextId": 4132707607,
+      "IconName": ""
+    },
+    {
+      "FieldInd": 2493203153,
+      "AlignmentNo": 1,
+      "TextId": 1344476835,
+      "IconName": "gui_icon_grp_kur"
+    },
+    {
+      "FieldInd": 227677035,
+      "AlignmentNo": 2,
+      "TextId": 1640696894,
+      "IconName": "gui_icon_grp_port"
+    },
+    {
+      "FieldInd": 2056594429,
+      "AlignmentNo": 3,
+      "TextId": 3350988682,
+      "IconName": "gui_icon_grp_darth"
+    },
+    {
+      "FieldInd": 3841046110,
+      "AlignmentNo": 4,
+      "TextId": 35338500,
+      "IconName": "gui_icon_grp_kom"
+    },
+    {
+      "FieldInd": 2482407112,
+      "AlignmentNo": 5,
+      "TextId": 2758554288,
+      "IconName": "gui_icon_grp_other"
+    },
+    {
+      "FieldInd": 184538994,
+      "AlignmentNo": 6,
+      "TextId": 2508466221,
+      "IconName": "gui_icon_grp_god"
+    },
+    {
+      "FieldInd": 2113464292,
+      "AlignmentNo": 0,
+      "TextId": 871572377,
+      "IconName": ""
+    },
+    {
+      "FieldInd": 3980917365,
+      "AlignmentNo": 0,
+      "TextId": 3317388144,
+      "IconName": ""
+    },
+    {
+      "FieldInd": 2785172302,
+      "AlignmentNo": 0,
+      "TextId": 4260187921,
+      "IconName": ""
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Wooden Chest",
+  "MatList": {
+    "Oak Beam": 4,
+    "Fine Feather": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 697877294
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Festive Gloves",
+  "MatList": {
+    "Wool": 2,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 675058363
+}

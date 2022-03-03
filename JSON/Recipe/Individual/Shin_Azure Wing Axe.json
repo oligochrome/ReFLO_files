@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shin/Azure Wing Axe",
+  "MatList": {
+    "Azure Wing Axe": 1,
+    "Serrated Fang": 8,
+    "Tourmaline": 30
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 1818167644
+}

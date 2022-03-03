@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Oni Garment",
+  "MatList": {
+    "Linen": 3,
+    "Plain Armor Core (M)": 3,
+    "Savage Beast Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3151162156
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Mermaid's Teardrop",
+  "MatList": {
+    "Singing Shell": 1,
+    "Silver Pearl": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 2816886232
+}

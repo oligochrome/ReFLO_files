@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Wooden Cabinet",
+  "MatList": {
+    "Oak Beam": 3,
+    "Pine Nuts": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1398333662
+}

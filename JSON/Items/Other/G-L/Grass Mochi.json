@@ -16,6 +16,22 @@
       "CharaExp": 100,
       "EnchantNeedRich": 0
     },
+    "Effects": [
+      {
+        "Effect": "HP",
+        "Value": 330.0,
+        "AtlasIcon": "gui_buff_heal_hp_001",
+        "Duration": 0.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "Earth RES",
+        "Value": 5.0,
+        "AtlasIcon": "gui_icon_attribute_protect_earth001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      }
+    ],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,23 +56,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": [
-      {
-        "Effect": "HP",
-        "Value": 330.0,
-        "AtlasIcon": "gui_buff_heal_hp_001",
-        "Duration": 0.0,
-        "Chance": 100.0
-      },
-      {
-        "Effect": "Earth RES",
-        "Value": 5.0,
-        "AtlasIcon": "gui_icon_attribute_protect_earth001",
-        "Duration": 60.0,
-        "Chance": 100.0
-      }
-    ]
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm206_1000_10default",

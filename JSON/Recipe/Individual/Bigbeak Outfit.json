@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Bigbeak Outfit",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Earthen Leaf": 2,
+    "Rainbow Feather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3817736842
+}

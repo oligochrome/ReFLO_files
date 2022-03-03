@@ -1,6 +1,5 @@
 {
   "ChestName": "Serpent Hidden Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Sack of Silver",
@@ -11,7 +10,7 @@
       "DropRareTag": ""
     },
     {
-      "Name": "Snakeskin Helm",
+      "Name": "Snakeskin Helmet",
       "ItemCount": 1,
       "ProbabilityPercent": 12.0,
       "Weight": 12.0,

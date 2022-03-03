@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Swordfish Head",
+  "MatList": {
+    "Swordfish": 1,
+    "Palm Nuts": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2060353755
+}

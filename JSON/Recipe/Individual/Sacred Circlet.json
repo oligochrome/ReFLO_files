@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Sacred Circlet",
+  "MatList": {
+    "Linen": 2,
+    "Light Armor Core (M)": 2,
+    "Moon Cluster": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2499388318
+}

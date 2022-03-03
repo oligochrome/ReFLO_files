@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Wooden Chair",
+  "MatList": {
+    "Oak Beam": 2,
+    "Woven Straw Fabric": 1,
+    "Greenbell": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 1690230418
+}

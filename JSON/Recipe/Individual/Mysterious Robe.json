@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Mysterious Robe",
+  "MatList": {
+    "Black Cashmere": 2,
+    "King's Wool": 1,
+    "Wooden Buttons": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 4170037413
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Candy Mat",
+  "MatList": {
+    "King's Wool": 2,
+    "Cashmere": 1,
+    "Lucky Flower": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 553098237
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tropical Sarong",
+  "MatList": {
+    "Marine Silk": 2,
+    "Silk": 1,
+    "Cute Ribbon": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1670198798
+}

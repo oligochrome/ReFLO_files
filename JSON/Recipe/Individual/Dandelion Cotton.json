@@ -1,0 +1,17 @@
+{
+  "CreateItem": "Dandelion Cotton",
+  "MatList": {
+    "Dandelion Puff": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 649894676
+}{
+  "CreateItem": "Dandelion Cotton",
+  "MatList": {},
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 2650864753
+}

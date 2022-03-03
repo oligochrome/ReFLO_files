@@ -1,6 +1,5 @@
 {
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "XP Orb (M)",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 3582339088
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Weapon Soul (S)",
@@ -44,7 +42,6 @@
   "SurpriseboxObjId": 2792032704
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Gathering Soul (S)",
@@ -66,7 +63,6 @@
   "SurpriseboxObjId": 3641834204
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Crafting Soul (S)",
@@ -88,7 +84,6 @@
   "SurpriseboxObjId": 3393290461
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "XP Orb (S)",
@@ -110,7 +105,6 @@
   "SurpriseboxObjId": 1881823722
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "XP Orb (S)",
@@ -132,7 +126,6 @@
   "SurpriseboxObjId": 2537029501
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "XP Orb (S)",
@@ -154,7 +147,6 @@
   "SurpriseboxObjId": 1700795013
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Weapon Soul (S)",
@@ -176,7 +168,6 @@
   "SurpriseboxObjId": 1035755357
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Gathering Soul (S)",
@@ -198,7 +189,6 @@
   "SurpriseboxObjId": 1120316481
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Crafting Soul (S)",
@@ -220,7 +210,6 @@
   "SurpriseboxObjId": 1368839744
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Weapon Soul (M)",
@@ -242,7 +231,6 @@
   "SurpriseboxObjId": 1483263881
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Gathering Soul (M)",
@@ -264,7 +252,6 @@
   "SurpriseboxObjId": 1409828127
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Crafting Soul (M)",
@@ -286,7 +273,6 @@
   "SurpriseboxObjId": 1196965662
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Weapon Soul (L)",
@@ -308,7 +294,6 @@
   "SurpriseboxObjId": 1260005529
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Gathering Soul (L)",
@@ -330,7 +315,6 @@
   "SurpriseboxObjId": 2411231645
 }{
   "ChestName": "Holy Treasure Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Crafting Soul (L)",

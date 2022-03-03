@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shin/Black Dragon Claymore",
+  "MatList": {
+    "Black Dragon Claymore": 1,
+    "Pirate Captain Gem": 4,
+    "Black Ore": 50
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 1032622721
+}

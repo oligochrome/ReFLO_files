@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Whitespirit Pill",
+  "MatList": {
+    "Resistance Aid": 20,
+    "Paralyzing Bomb": 20,
+    "Mini Bomb": 20
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Master",
+  "IsHoly": 0,
+  "RecipeId": 543456299
+}

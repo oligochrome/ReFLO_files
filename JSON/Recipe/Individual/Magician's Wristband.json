@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Magician's Wristband",
+  "MatList": {
+    "Dandelion Cotton": 2,
+    "Magic Powder": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3336746854
+}

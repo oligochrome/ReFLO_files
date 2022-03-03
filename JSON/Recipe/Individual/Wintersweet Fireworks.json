@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Wintersweet Fireworks",
+  "MatList": {
+    "Mini Bomb": 1,
+    "Purple Gel": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 2216442509
+}

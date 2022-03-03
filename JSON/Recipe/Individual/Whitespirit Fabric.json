@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Whitespirit Fabric",
+  "MatList": {
+    "Dark Straw Fabric": 40,
+    "King's Wool": 40,
+    "Black Cashmere": 40
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Master",
+  "IsHoly": 0,
+  "RecipeId": 2634298799
+}

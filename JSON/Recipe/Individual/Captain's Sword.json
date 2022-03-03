@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Captain's Sword",
+  "MatList": {
+    "Blackiron Ingot": 3,
+    "Giant Beast Leather": 1,
+    "Great Prairie's Tear": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2228154031
+}

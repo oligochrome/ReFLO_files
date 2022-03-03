@@ -1,6 +1,5 @@
 {
   "ChestName": "Ominous Stash",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Relic Replica",
@@ -62,7 +61,6 @@
   "SurpriseboxObjId": 2212006202
 }{
   "ChestName": "Ominous Stash",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Pouch of Dosh",

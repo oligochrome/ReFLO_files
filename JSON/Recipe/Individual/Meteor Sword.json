@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Meteor Sword",
+  "MatList": {
+    "Meteor Ingot": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 3131180077
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Savage Armor",
+  "MatList": {
+    "Beast Hide": 3,
+    "Metal Buttons": 1,
+    "Sturdy Fang": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 4248786881
+}

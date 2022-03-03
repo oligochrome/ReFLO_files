@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Zenith Stardust Staff",
+  "MatList": {
+    "Astral Staff": 1,
+    "Weird Object": 6,
+    "Purple Stone": 30
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 842376824
+}

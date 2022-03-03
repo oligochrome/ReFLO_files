@@ -1,7 +1,7 @@
 {
   "Name": "Player name 1",
   "Title": "-",
-  "Desc": "Your avatar in this world. A special character who can take up any Life class.",
+  "Desc": "Your avatar in this world. A special character who can take up any Life.",
   "Rarity": 1,
   "CharInfo": {
     "Attribute": "",
@@ -19,8 +19,6 @@
     "Skillboard": [],
     "EpisodeText": "-",
     "OtherText": [
-      "",
-      "",
       ""
     ]
   },

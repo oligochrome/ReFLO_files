@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Royal Palace Cake",
+  "MatList": {
+    "Gemberry": 1,
+    "Cream Egg": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 3291902178
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tiled Dining Table",
+  "MatList": {
+    "Palm Beam": 3,
+    "Silk": 1,
+    "Stunning Coral": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3184518414
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shin/Hazevore Claymore",
+  "MatList": {
+    "Hazevore Claymore": 1,
+    "Wild Ox Horn": 8,
+    "Ruby": 30
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 3831602694
+}

@@ -1,6 +1,5 @@
 {
   "ChestName": "Red Hood Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Red Hood Token",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 3791455003
 }{
   "ChestName": "Red Hood Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Red Hood Token",
@@ -44,7 +42,6 @@
   "SurpriseboxObjId": 3353055381
 }{
   "ChestName": "Red Hood Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Red Hood Token",
@@ -66,7 +63,6 @@
   "SurpriseboxObjId": 3011882599
 }{
   "ChestName": "Red Hood Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Red Hood Token",

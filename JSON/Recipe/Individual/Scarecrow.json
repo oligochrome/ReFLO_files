@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Scarecrow",
+  "MatList": {
+    "Pine Beam": 3,
+    "Dandelion Cotton": 2,
+    "Wooden Buttons": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 4158582043
+}

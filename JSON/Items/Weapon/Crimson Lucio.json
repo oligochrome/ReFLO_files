@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Greatsword",
       "IconName": "icn_eqslot_lsword",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 33,
           "Name": "Lotus Flame",
-          "Desc": "Summons fire of hell to burn the enemy up\r More powerful when HP is low!.",
+          "Desc": "Summons fire of hell to burn the enemy up. More powerful when HP is low!.",
           "Attribute": "Fire",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -112,8 +113,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Greatsword",
@@ -124,7 +124,7 @@
         "ChargeLevel": 1,
         "SpCost": 33,
         "Name": "Lotus Flame",
-        "Desc": "Summons fire of hell to burn the enemy up\r More powerful when HP is low!.",
+        "Desc": "Summons fire of hell to burn the enemy up. More powerful when HP is low!.",
         "Attribute": "Fire",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

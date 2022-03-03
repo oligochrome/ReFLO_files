@@ -353,6 +353,22 @@
       "CharaTextId": 4260187921
     },
     {
+      "MapWorldmapFieldinfoId": 975738006,
+      "MapId": 1116790078,
+      "ObjId": 2671061864,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 1,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 20,
+      "BossTextId": 4260187921,
+      "BossPlateId": 1007313192,
+      "DisTextId": 4260187921,
+      "CharaIconId": 1007313192,
+      "CharaTextId": 4260187921
+    },
+    {
       "MapWorldmapFieldinfoId": 1671177717,
       "MapId": 1116790078,
       "ObjId": 4159665336,
@@ -1953,6 +1969,22 @@
       "CharaTextId": 4260187921
     },
     {
+      "MapWorldmapFieldinfoId": 952528460,
+      "MapId": 3288641424,
+      "ObjId": 2671061864,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 1,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 60,
+      "BossTextId": 4260187921,
+      "BossPlateId": 1007313192,
+      "DisTextId": 4260187921,
+      "CharaIconId": 1007313192,
+      "CharaTextId": 4260187921
+    },
+    {
       "MapWorldmapFieldinfoId": 2982744206,
       "MapId": 3288641424,
       "ObjId": 1250901308,
@@ -2497,6 +2529,22 @@
       "CharaTextId": 4260187921
     },
     {
+      "MapWorldmapFieldinfoId": 2302823095,
+      "MapId": 1561198122,
+      "ObjId": 4285256270,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 2,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 50,
+      "BossTextId": 1955214225,
+      "BossPlateId": 1602372954,
+      "DisTextId": 1260722981,
+      "CharaIconId": 2613395706,
+      "CharaTextId": 894864255
+    },
+    {
       "MapWorldmapFieldinfoId": 4131099367,
       "MapId": 1561198122,
       "ObjId": 3674856161,
@@ -2527,6 +2575,22 @@
       "DisTextId": 4260187921,
       "CharaIconId": 1007313192,
       "CharaTextId": 4260187921
+    },
+    {
+      "MapWorldmapFieldinfoId": 2496491779,
+      "MapId": 1561198122,
+      "ObjId": 437730778,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 3,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 65,
+      "BossTextId": 3984810539,
+      "BossPlateId": 3137252046,
+      "DisTextId": 3526118047,
+      "CharaIconId": 4243216224,
+      "CharaTextId": 1112652777
     },
     {
       "MapWorldmapFieldinfoId": 572896849,
@@ -2625,6 +2689,22 @@
       "CharaTextId": 4260187921
     },
     {
+      "MapWorldmapFieldinfoId": 923963606,
+      "MapId": 1561198122,
+      "ObjId": 364076192,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 1,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 75,
+      "BossTextId": 3941508658,
+      "BossPlateId": 3042626484,
+      "DisTextId": 3577843334,
+      "CharaIconId": 1069852641,
+      "CharaTextId": 1273493442
+    },
+    {
       "MapWorldmapFieldinfoId": 31457317,
       "MapId": 1561198122,
       "ObjId": 3015989012,
@@ -2703,6 +2783,22 @@
       "DisTextId": 4260187921,
       "CharaIconId": 1007313192,
       "CharaTextId": 4260187921
+    },
+    {
+      "MapWorldmapFieldinfoId": 1141505551,
+      "MapId": 1561198122,
+      "ObjId": 309468034,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 4,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 50,
+      "BossTextId": 2649331364,
+      "BossPlateId": 2996538518,
+      "DisTextId": 2722545168,
+      "CharaIconId": 557148012,
+      "CharaTextId": 420879525
     },
     {
       "MapWorldmapFieldinfoId": 825304656,
@@ -2849,6 +2945,22 @@
       "CharaTextId": 4260187921
     },
     {
+      "MapWorldmapFieldinfoId": 1839322824,
+      "MapId": 1561198122,
+      "ObjId": 1054704663,
+      "AttributeObjId": 211053812,
+      "ShowIndex": 7,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 60,
+      "BossTextId": 1944582024,
+      "BossPlateId": 4024500244,
+      "DisTextId": 1279844156,
+      "CharaIconId": 2870242079,
+      "CharaTextId": 1021364052
+    },
+    {
       "MapWorldmapFieldinfoId": 1817005700,
       "MapId": 1561198122,
       "ObjId": 1133365749,
@@ -2977,6 +3089,22 @@
       "CharaTextId": 4260187921
     },
     {
+      "MapWorldmapFieldinfoId": 2509914822,
+      "MapId": 1561198122,
+      "ObjId": 1821142727,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 6,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 60,
+      "BossTextId": 81839902,
+      "BossPlateId": 2415460903,
+      "DisTextId": 995094442,
+      "CharaIconId": 1362120069,
+      "CharaTextId": 2891963077
+    },
+    {
       "MapWorldmapFieldinfoId": 2158847041,
       "MapId": 1561198122,
       "ObjId": 853022483,
@@ -3007,6 +3135,22 @@
       "DisTextId": 4260187921,
       "CharaIconId": 1007313192,
       "CharaTextId": 4260187921
+    },
+    {
+      "MapWorldmapFieldinfoId": 2134966655,
+      "MapId": 1561198122,
+      "ObjId": 554502336,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 5,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 60,
+      "BossTextId": 2592363197,
+      "BossPlateId": 3262669856,
+      "DisTextId": 2771089929,
+      "CharaIconId": 2656205330,
+      "CharaTextId": 3680037459
     },
     {
       "MapWorldmapFieldinfoId": 1161885226,
@@ -3210,6 +3354,22 @@
       "FieldEventId": 507720263,
       "OverlayTermsId": 2392436735,
       "Level": 0,
+      "BossTextId": 4260187921,
+      "BossPlateId": 1007313192,
+      "DisTextId": 4260187921,
+      "CharaIconId": 1007313192,
+      "CharaTextId": 4260187921
+    },
+    {
+      "MapWorldmapFieldinfoId": 962840570,
+      "MapId": 257457205,
+      "ObjId": 2671061864,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 1,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 40,
       "BossTextId": 4260187921,
       "BossPlateId": 1007313192,
       "DisTextId": 4260187921,
@@ -4250,6 +4410,22 @@
       "FieldEventId": 507720263,
       "OverlayTermsId": 2975070528,
       "Level": 0,
+      "BossTextId": 4260187921,
+      "BossPlateId": 1007313192,
+      "DisTextId": 4260187921,
+      "CharaIconId": 1007313192,
+      "CharaTextId": 4260187921
+    },
+    {
+      "MapWorldmapFieldinfoId": 1045481620,
+      "MapId": 1603661190,
+      "ObjId": 2671061864,
+      "AttributeObjId": 986327055,
+      "ShowIndex": 1,
+      "FieldBossFlag": 1,
+      "FieldEventId": 475101321,
+      "OverlayTermsId": 2914514986,
+      "Level": 80,
       "BossTextId": 4260187921,
       "BossPlateId": 1007313192,
       "DisTextId": 4260187921,

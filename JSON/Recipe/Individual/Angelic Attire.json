@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Angelic Attire",
+  "MatList": {
+    "Marine Silk": 3,
+    "Light Armor Core (M)": 3,
+    "Silk": 5
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2680931230
+}

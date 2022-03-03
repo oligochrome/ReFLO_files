@@ -1,6 +1,5 @@
 {
   "ChestName": "Scythe Ghost Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Fire Ore",
@@ -94,7 +93,6 @@
   "SurpriseboxObjId": 1393234460
 }{
   "ChestName": "Scythe Ghost Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Fire Ore",

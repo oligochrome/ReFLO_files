@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Unadon",
+  "MatList": {
+    "Plains Eel": 1,
+    "Port Rice": 1,
+    "Pine Nuts": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2675146372
+}

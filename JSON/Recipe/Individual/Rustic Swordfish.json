@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Rustic Swordfish",
+  "MatList": {
+    "Swordfish": 1,
+    "Grassy Plains Barley": 3,
+    "Carrot": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1682896899
+}

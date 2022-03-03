@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Pine Staff",
+  "MatList": {
+    "Pine Beam": 2,
+    "Yellow Stone": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3932850815
+}

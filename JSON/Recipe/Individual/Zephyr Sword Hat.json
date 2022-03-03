@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Zephyr Sword Hat",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "King's Wool": 1,
+    "Wind Shard": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 308078316
+}

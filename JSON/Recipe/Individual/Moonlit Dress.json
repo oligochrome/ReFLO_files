@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Moonlit Dress",
+  "MatList": {
+    "Black Cashmere": 3,
+    "Shadow Armor Core (M)": 3,
+    "Giant Beast Leather": 3
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1577550841
+}

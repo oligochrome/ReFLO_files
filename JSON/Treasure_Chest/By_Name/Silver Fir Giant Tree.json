@@ -1,6 +1,5 @@
 {
   "ChestName": "Silver Fir Giant Tree",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Spring Water",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 4067136797
 }{
   "ChestName": "Silver Fir Giant Tree",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Elder Fir Log",

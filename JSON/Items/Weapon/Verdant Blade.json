@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Sword",
       "IconName": "icn_eqslot_weapon",
@@ -24,7 +25,7 @@
         {
           "ChargeLevel": 1,
           "SpCost": 31,
-          "Name": "Blast/Air",
+          "Name": "BlastÂ·Air",
           "Desc": "Shakes the sword to fire blades of kamaitachi which inflict Wind damage.",
           "Attribute": "Wind",
           "AwakenLvDamageMultiplier": {
@@ -40,8 +41,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Defeating an enemy insignificantly restores SP",
-          "Desc": "Defeating an enemy insignificantly restores SP",
+          "Name": "Defeating an enemy slightly restores SP",
+          "Desc": "Defeating an enemy slightly restores SP",
           "Effects": [
             {
               "Effect": "SP",
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Sword",
@@ -102,7 +102,7 @@
       {
         "ChargeLevel": 1,
         "SpCost": 31,
-        "Name": "Blast/Air",
+        "Name": "BlastÂ·Air",
         "Desc": "Shakes the sword to fire blades of kamaitachi which inflict Wind damage.",
         "Attribute": "Wind",
         "AwakenLvDamageMultiplier": {
@@ -118,8 +118,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Defeating an enemy insignificantly restores SP",
-        "Desc": "Defeating an enemy insignificantly restores SP",
+        "Name": "Defeating an enemy slightly restores SP",
+        "Desc": "Defeating an enemy slightly restores SP",
         "Effects": [
           {
             "Effect": "SP",

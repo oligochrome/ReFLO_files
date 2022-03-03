@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Snowpeak Burger",
+  "MatList": {
+    "King Beef": 1,
+    "Giant Mountainshroom": 1,
+    "Queen Egg": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 1284924721
+}

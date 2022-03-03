@@ -1,6 +1,5 @@
 {
   "ChestName": "Caterpillo King Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Dark Straw Thread",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 3971912705
 }{
   "ChestName": "Caterpillo King Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Caterpillo Leaf",

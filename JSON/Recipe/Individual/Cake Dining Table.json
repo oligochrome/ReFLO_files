@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Cake Dining Table",
+  "MatList": {
+    "Palm Beam": 3,
+    "Silk": 1,
+    "Pink Gel": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 3172664265
+}

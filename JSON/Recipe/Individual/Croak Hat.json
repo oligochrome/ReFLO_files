@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Croak Hat",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Water Armor Core (M)": 2,
+    "Frog Powder": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1333528480
+}

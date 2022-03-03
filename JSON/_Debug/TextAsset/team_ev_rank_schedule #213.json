@@ -1,0 +1,65 @@
+{
+  "TableTeamEvRankSchedule": [
+    {
+      "TeamEvRankScheduleInd": 3193121326,
+      "SeasonId": 3193121326,
+      "NeedPoint": 1000,
+      "FeverTiming": [
+        10,
+        14,
+        17,
+        19,
+        23
+      ]
+    },
+    {
+      "TeamEvRankScheduleInd": 660241300,
+      "SeasonId": 660241300,
+      "NeedPoint": 1000,
+      "FeverTiming": [
+        10,
+        14,
+        17,
+        19,
+        23
+      ]
+    },
+    {
+      "TeamEvRankScheduleInd": 1348291330,
+      "SeasonId": 1348291330,
+      "NeedPoint": 1000,
+      "FeverTiming": [
+        10,
+        14,
+        17,
+        19,
+        23
+      ]
+    },
+    {
+      "TeamEvRankScheduleInd": 1306511777,
+      "SeasonId": 1306511777,
+      "NeedPoint": 1000,
+      "FeverTiming": [
+        10,
+        14,
+        16,
+        19,
+        23
+      ]
+    },
+    {
+      "TeamEvRankScheduleInd": 2067255582,
+      "SeasonId": 2067255582,
+      "NeedPoint": 1000,
+      "FeverTiming": [
+        10,
+        14,
+        17,
+        19,
+        23
+      ]
+    }
+  ],
+  "IdRef": {}
+}

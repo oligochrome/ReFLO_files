@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Pumpwitch Hat",
+  "MatList": {
+    "Flare Wool": 2,
+    "Plain Armor Core (M)": 2,
+    "Pumpkin": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 608560751
+}

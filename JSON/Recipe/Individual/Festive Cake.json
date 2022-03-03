@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Festive Cake",
+  "MatList": {
+    "Plateau Honey": 3,
+    "Snow Berries": 2,
+    "Grassy Plains Barley": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 889184431
+}

@@ -1,0 +1,83 @@
+{
+  "TableShopDisplay": [
+    {
+      "ShopDisplayInd": 1993620304,
+      "Uniqid": 1993620304,
+      "CategoryTextID": 0,
+      "SortNum": 500
+    },
+    {
+      "ShopDisplayInd": 4056800950,
+      "Uniqid": 4056800950,
+      "CategoryTextID": 0,
+      "SortNum": 100
+    },
+    {
+      "ShopDisplayInd": 2173734113,
+      "Uniqid": 2173734113,
+      "CategoryTextID": 0,
+      "SortNum": 0
+    },
+    {
+      "ShopDisplayInd": 2918639973,
+      "Uniqid": 2918639973,
+      "CategoryTextID": 0,
+      "SortNum": 800
+    },
+    {
+      "ShopDisplayInd": 510897022,
+      "Uniqid": 510897022,
+      "CategoryTextID": 0,
+      "SortNum": 0
+    },
+    {
+      "ShopDisplayInd": 891569996,
+      "Uniqid": 891569996,
+      "CategoryTextID": 0,
+      "SortNum": 0
+    },
+    {
+      "ShopDisplayInd": 4167460658,
+      "Uniqid": 4167460658,
+      "CategoryTextID": 0,
+      "SortNum": 0
+    },
+    {
+      "ShopDisplayInd": 233790804,
+      "Uniqid": 233790804,
+      "CategoryTextID": 0,
+      "SortNum": 0
+    },
+    {
+      "ShopDisplayInd": 1991374331,
+      "Uniqid": 1991374331,
+      "CategoryTextID": 0,
+      "SortNum": 0
+    },
+    {
+      "ShopDisplayInd": 2684980122,
+      "Uniqid": 2684980122,
+      "CategoryTextID": 0,
+      "SortNum": 0
+    },
+    {
+      "ShopDisplayInd": 871735228,
+      "Uniqid": 871735228,
+      "CategoryTextID": 0,
+      "SortNum": 0
+    },
+    {
+      "ShopDisplayInd": 1492923683,
+      "Uniqid": 1492923683,
+      "CategoryTextID": 0,
+      "SortNum": 700
+    },
+    {
+      "ShopDisplayInd": 3776969613,
+      "Uniqid": 3776969613,
+      "CategoryTextID": 0,
+      "SortNum": 900
+    }
+  ],
+  "IdRef": {}
+}

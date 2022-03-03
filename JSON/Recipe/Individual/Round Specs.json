@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Round Specs",
+  "MatList": {
+    "Yellow Stone": 2,
+    "Castele Copper": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3235696179
+}

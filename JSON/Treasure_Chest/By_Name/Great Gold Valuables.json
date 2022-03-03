@@ -1,6 +1,5 @@
 {
   "ChestName": "Great Gold Valuables",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Sack of Dosh",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 2907786849
 }{
   "ChestName": "Great Gold Valuables",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Sack of Dosh",

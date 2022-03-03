@@ -1,0 +1,41 @@
+{
+  "TableDialogButton": [
+    {
+      "DialogButtonInd": 390781578,
+      "CenterTextId": 4260187921,
+      "LeftTextId": 263340135,
+      "RightTextId": 2848279507
+    },
+    {
+      "DialogButtonInd": 1495746922,
+      "CenterTextId": 4227687540,
+      "LeftTextId": 4260187921,
+      "RightTextId": 4260187921
+    },
+    {
+      "DialogButtonInd": 82482760,
+      "CenterTextId": 4260187921,
+      "LeftTextId": 1046108922,
+      "RightTextId": 4227687540
+    },
+    {
+      "DialogButtonInd": 682364857,
+      "CenterTextId": 4227687540,
+      "LeftTextId": 1818391901,
+      "RightTextId": 3390406377
+    },
+    {
+      "DialogButtonInd": 3406133083,
+      "CenterTextId": 4260187921,
+      "LeftTextId": 3356633619,
+      "RightTextId": 3390406377
+    },
+    {
+      "DialogButtonInd": 3618401768,
+      "CenterTextId": 4260187921,
+      "LeftTextId": 1818391901,
+      "RightTextId": 3390406377
+    }
+  ],
+  "IdRef": {}
+}

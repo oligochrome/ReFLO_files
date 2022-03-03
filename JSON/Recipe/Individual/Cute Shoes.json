@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Cute Shoes",
+  "MatList": {
+    "Cashmere": 1,
+    "Beast Hide": 1,
+    "Wonderful Ribbon": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1299914376
+}

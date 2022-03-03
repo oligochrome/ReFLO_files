@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Simple Carpet",
+  "MatList": {
+    "Dandelion Cotton": 6
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 1902503312
+}

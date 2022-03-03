@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Tourmaline Ring",
+  "MatList": {
+    "Tourmaline": 1,
+    "White Ore": 1,
+    "Iron Ingot": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1951499877
+}

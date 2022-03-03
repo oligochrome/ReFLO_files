@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -33,8 +34,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Insignificantly increases Shadow RES",
-          "Desc": "Insignificantly reduces Shadow damage received",
+          "Name": "Slightly increases Shadow RES",
+          "Desc": "Slightly reduces Shadow damage received",
           "Effects": [
             {
               "Effect": "Shadow RES",
@@ -47,8 +48,8 @@
         },
         {
           "Slot": 2,
-          "Name": "Insignificantly increases M.DEF",
-          "Desc": "Insignificantly increases M.DEF",
+          "Name": "Slightly increases M.DEF",
+          "Desc": "Slightly increases M.DEF",
           "Effects": [
             {
               "Effect": "M.DEF",
@@ -69,8 +70,7 @@
         "Shadow": 2
       },
       "LvupExpTypeId": 363720395
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -79,8 +79,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Insignificantly increases Shadow RES",
-        "Desc": "Insignificantly reduces Shadow damage received",
+        "Name": "Slightly increases Shadow RES",
+        "Desc": "Slightly reduces Shadow damage received",
         "Effects": [
           {
             "Effect": "Shadow RES",
@@ -93,8 +93,8 @@
       },
       {
         "Slot": 2,
-        "Name": "Insignificantly increases M.DEF",
-        "Desc": "Insignificantly increases M.DEF",
+        "Name": "Slightly increases M.DEF",
+        "Desc": "Slightly increases M.DEF",
         "Effects": [
           {
             "Effect": "M.DEF",

@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Staff",
       "IconName": "icn_eqslot_cane",
@@ -54,8 +55,8 @@
         },
         {
           "Slot": 2,
-          "Name": "Insignificantly reduces Charge Time",
-          "Desc": "Insignificantly reduces Charge Time",
+          "Name": "Slightly reduces Charge Time",
+          "Desc": "Slightly reduces Charge Time",
           "Effects": [
             {
               "Effect": "Charge Time",
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Staff",
@@ -132,8 +132,8 @@
       },
       {
         "Slot": 2,
-        "Name": "Insignificantly reduces Charge Time",
-        "Desc": "Insignificantly reduces Charge Time",
+        "Name": "Slightly reduces Charge Time",
+        "Desc": "Slightly reduces Charge Time",
         "Effects": [
           {
             "Effect": "Charge Time",

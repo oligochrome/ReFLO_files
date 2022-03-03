@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Bream Sashimi",
+  "MatList": {
+    "Puerto Bream": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 954959782
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Veggie Plot Rug",
+  "MatList": {
+    "Woven Straw Fabric": 3,
+    "Dandelion Cotton": 3,
+    "Potato": 3
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 195413600
+}

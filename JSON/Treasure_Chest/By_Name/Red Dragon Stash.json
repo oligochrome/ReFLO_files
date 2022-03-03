@@ -1,6 +1,5 @@
 {
   "ChestName": "Red Dragon Stash",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Napdragon's Teardrop",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 1808919420
 }{
   "ChestName": "Red Dragon Stash",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Paladin's Sword",

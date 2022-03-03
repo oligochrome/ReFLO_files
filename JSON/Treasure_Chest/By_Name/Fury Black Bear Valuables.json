@@ -1,6 +1,5 @@
 {
   "ChestName": "Fury Black Bear Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Master's Star",
@@ -11,7 +10,7 @@
       "DropRareTag": "Rare"
     },
     {
-      "Name": "Saw",
+      "Name": "Serrated Fang",
       "ItemCount": 1,
       "ProbabilityPercent": 15.0,
       "Weight": 15.0,

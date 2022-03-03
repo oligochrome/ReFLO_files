@@ -1,6 +1,5 @@
 {
   "ChestName": "Plains Bear Treasure",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Rainbow Trout",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 2719789912
 }{
   "ChestName": "Plains Bear Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Rainbow Trout",

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Whitebell Dress",
+  "MatList": {
+    "Dandelion Cotton": 3,
+    "Earth Armor Core (M)": 3,
+    "Nectar": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2170465013
+}

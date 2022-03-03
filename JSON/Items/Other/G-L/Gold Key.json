@@ -1,6 +1,6 @@
 {
   "Name": "Gold Key",
-  "Desc": "A mysterious platinum key essential for the Key Quest Challenges.",
+  "Desc": "A mysterious gold key essential for the Key Quest Challenges.",
   "Rarity": 4,
   "Category": "",
   "Subcategory": "",
@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,8 +41,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "icn_goditm_01001_00_00",

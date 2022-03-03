@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Prairie Chair",
+  "MatList": {
+    "Earth Beam": 2,
+    "Elder Earth Log": 1,
+    "Great Prairie Leaf": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1421424281
+}

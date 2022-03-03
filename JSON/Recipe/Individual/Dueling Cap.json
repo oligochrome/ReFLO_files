@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Dueling Cap",
+  "MatList": {
+    "Cashmere": 1,
+    "Black Cashmere": 1,
+    "Fine Feather": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1039487513
+}

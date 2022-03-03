@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Napdragon Fireworks",
+  "MatList": {
+    "Mini Bomb": 2,
+    "Yellow Gel": 2,
+    "Napdragon's Teardrop": 10
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 954876935
+}

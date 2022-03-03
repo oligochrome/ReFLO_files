@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Whitebell Beanie",
+  "MatList": {
+    "Dandelion Cotton": 2,
+    "Earth Armor Core (M)": 2,
+    "Earthen Leaf": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3587598696
+}

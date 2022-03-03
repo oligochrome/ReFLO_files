@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Needle",
       "IconName": "icn_eqslot_needle",
@@ -25,8 +26,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Dazzle Wool Expert",
-          "Desc": "Insignificantly boosts Crafting when crafting recipes\nthat mainly require Dazzle Wool!",
+          "Name": "Flare Wool Expert",
+          "Desc": "Slightly boosts Crafting when crafting recipes that mainly require Flare Wool!",
           "Effects": [
             {
               "Effect": "Special Effects",
@@ -90,8 +91,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Needle",
@@ -102,8 +102,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Dazzle Wool Expert",
-        "Desc": "Insignificantly boosts Crafting when crafting recipes\nthat mainly require Dazzle Wool!",
+        "Name": "Flare Wool Expert",
+        "Desc": "Slightly boosts Crafting when crafting recipes that mainly require Flare Wool!",
         "Effects": [
           {
             "Effect": "Special Effects",

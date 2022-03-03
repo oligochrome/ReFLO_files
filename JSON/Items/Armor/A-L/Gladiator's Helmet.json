@@ -1,0 +1,169 @@
+{
+  "Name": "Gladiator's Helmet",
+  "Desc": "The costume of sword fighters from long ago. Full of the charm of the ancient culture of Al Maajik.",
+  "Rarity": 4,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 6300,
+      "Sellprice": 1575,
+      "BagLimit": 1,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 1575,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "Fighting Instinct of Warrior",
+          "Desc": "Slightly increases ATK.\nSlightly increases basic attack damage.",
+          "Effects": [
+            {
+              "Effect": "ATK",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_attack_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "Basic ATK DMG",
+              "Value": 101.0,
+              "AtlasIcon": "gui_buff_power_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly reduces P.DMG received",
+          "Desc": "Slightly reduces P.DMG received",
+          "Effects": [
+            {
+              "Effect": "P.DMG Taken",
+              "Value": 98.0,
+              "AtlasIcon": "gui_buff_guard_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 363720395
+    }
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "Fighting Instinct of Warrior",
+        "Desc": "Slightly increases ATK.\nSlightly increases basic attack damage.",
+        "Effects": [
+          {
+            "Effect": "ATK",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_attack_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "Basic ATK DMG",
+            "Value": 101.0,
+            "AtlasIcon": "gui_buff_power_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly reduces P.DMG received",
+        "Desc": "Slightly reduces P.DMG received",
+        "Effects": [
+          {
+            "Effect": "P.DMG Taken",
+            "Value": 98.0,
+            "AtlasIcon": "gui_buff_guard_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 363720395
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0070_10default",
+    "IcnAssetBundleId": 1011731002,
+    "FullFilename": "ae01109_Hat01_typeD",
+    "FullAssetBundleId": 1011731002,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 793407513,
+    "Uniqid": 793407513,
+    "Id": "OBJ_ITEM_GUARD_00500_00_00",
+    "ResId": 11568352,
+    "ResIdIcon": 1960500624,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 674297905,
+    "NameId": 524965550,
+    "DescriptionId": 2092308181,
+    "CommonParamId": 1883887325,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3389292385,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

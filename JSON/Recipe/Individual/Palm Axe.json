@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Palm Axe",
+  "MatList": {
+    "Palm Beam": 1,
+    "Silver Ingot": 2
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1151455906
+}

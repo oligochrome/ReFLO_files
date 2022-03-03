@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Azure Jacket",
+  "MatList": {
+    "Azure Wool": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 3121250442
+}

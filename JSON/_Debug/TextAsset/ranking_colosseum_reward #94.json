@@ -1,0 +1,41 @@
+{
+  "TableRankingColosseumReward": [
+    {
+      "RankingColosseumRewardInd": 1634584294,
+      "UniqId": 1634584294,
+      "RewardId": 1634584294,
+      "SeasonId": 2155829694,
+      "TierId": 1859369000,
+      "ItemId": 3948032693,
+      "Count": 5
+    },
+    {
+      "RankingColosseumRewardInd": 4167341916,
+      "UniqId": 4167341916,
+      "RewardId": 4167341916,
+      "SeasonId": 2155829694,
+      "TierId": 1859369000,
+      "ItemId": 3948032693,
+      "Count": 3
+    },
+    {
+      "RankingColosseumRewardInd": 2405672906,
+      "UniqId": 2405672906,
+      "RewardId": 2405672906,
+      "SeasonId": 2155829694,
+      "TierId": 1859369000,
+      "ItemId": 3948032693,
+      "Count": 2
+    },
+    {
+      "RankingColosseumRewardInd": 285684329,
+      "UniqId": 285684329,
+      "RewardId": 285684329,
+      "SeasonId": 2155829694,
+      "TierId": 1859369000,
+      "ItemId": 3948032693,
+      "Count": 1
+    }
+  ],
+  "IdRef": {}
+}

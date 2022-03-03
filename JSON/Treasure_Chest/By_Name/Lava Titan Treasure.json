@@ -1,6 +1,5 @@
 {
   "ChestName": "Lava Titan Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Lava Titan Jade",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 1876943507
 }{
   "ChestName": "Lava Titan Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Lava Titan Jade",
@@ -28,7 +26,6 @@
   "SurpriseboxObjId": 1852448654
 }{
   "ChestName": "Lava Titan Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Fire Enh. Orb (L)",

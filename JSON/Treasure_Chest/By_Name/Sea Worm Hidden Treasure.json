@@ -1,6 +1,5 @@
 {
   "ChestName": "Sea Worm Hidden Treasure",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Silver Boots",
@@ -35,7 +34,7 @@
       "DropRareTag": ""
     },
     {
-      "Name": "Silver Helm",
+      "Name": "Silver Helmet",
       "ItemCount": 1,
       "ProbabilityPercent": 12.0,
       "Weight": 12.0,

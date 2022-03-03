@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Apple Chocolate",
+  "MatList": {
+    "Castele Apple": 1,
+    "Chocolate Essence": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "-",
+  "IsHoly": 1,
+  "RecipeId": 4168949590
+}

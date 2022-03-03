@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Paralysis Antidote",
+  "MatList": {
+    "Cureweed": 1,
+    "Antipara Berries": 1,
+    "Spring Water": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 1334350294
+}

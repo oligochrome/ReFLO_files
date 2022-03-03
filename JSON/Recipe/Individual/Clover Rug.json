@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Clover Rug",
+  "MatList": {
+    "Woven Straw Fabric": 3,
+    "Healweed": 1,
+    "Greenbell": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 2621101897
+}

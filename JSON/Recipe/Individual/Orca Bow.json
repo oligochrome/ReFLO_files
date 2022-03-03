@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Orca Bow",
+  "MatList": {
+    "Water Beam": 2,
+    "Frosty Feather": 1,
+    "Glittering Coral": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3688085970
+}

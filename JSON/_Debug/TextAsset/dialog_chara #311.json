@@ -1,0 +1,1107 @@
+{
+  "TableDialogChara": [
+    {
+      "DialogCharaInd": 1468721974,
+      "DialogCharaId": 1468721974,
+      "TitleText": 2843546427,
+      "MessageText": 1038484950,
+      "CharaText": 1073811477,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        234731238,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1029169180,
+      "DialogCharaId": 1029169180,
+      "TitleText": 2843546427,
+      "MessageText": 2077593660,
+      "CharaText": 438993850,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1730198988,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2602625960,
+      "DialogCharaId": 2602625960,
+      "TitleText": 2843546427,
+      "MessageText": 3765492819,
+      "CharaText": 3684981882,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3243751032,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3833066160,
+      "DialogCharaId": 3833066160,
+      "TitleText": 2843546427,
+      "MessageText": 1554334985,
+      "CharaText": 1757289675,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3187715936,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3208831751,
+      "DialogCharaId": 3208831751,
+      "TitleText": 2843546427,
+      "MessageText": 1829241363,
+      "CharaText": 2876762469,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3845504727,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1960834608,
+      "DialogCharaId": 1960834608,
+      "TitleText": 2843546427,
+      "MessageText": 3289113614,
+      "CharaText": 339715977,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        782805984,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3917868544,
+      "DialogCharaId": 3917868544,
+      "TitleText": 2843546427,
+      "MessageText": 1430486217,
+      "CharaText": 952891335,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3019027408,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2115698473,
+      "DialogCharaId": 2115698473,
+      "TitleText": 2843546427,
+      "MessageText": 3111707222,
+      "CharaText": 1621577222,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        611164921,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3631084701,
+      "DialogCharaId": 3631084701,
+      "TitleText": 2843546427,
+      "MessageText": 584953401,
+      "CharaText": 2703856070,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2182785357,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3396831421,
+      "DialogCharaId": 3396831421,
+      "TitleText": 2843546427,
+      "MessageText": 2880489580,
+      "CharaText": 526656607,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2415973741,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 408809723,
+      "DialogCharaId": 408809723,
+      "TitleText": 2843546427,
+      "MessageText": 1415350621,
+      "CharaText": 4233061766,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1110093099,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2039124283,
+      "DialogCharaId": 2039124283,
+      "TitleText": 2843546427,
+      "MessageText": 3404957875,
+      "CharaText": 937109633,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        603835627,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 290508523,
+      "DialogCharaId": 290508523,
+      "TitleText": 2843546427,
+      "MessageText": 4250057047,
+      "CharaText": 1322335338,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1260884795,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3844074232,
+      "DialogCharaId": 3844074232,
+      "TitleText": 2843546427,
+      "MessageText": 4266951208,
+      "CharaText": 4261957608,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3211310888,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1130946892,
+      "DialogCharaId": 1130946892,
+      "TitleText": 2843546427,
+      "MessageText": 1710345799,
+      "CharaText": 1065783336,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        421510300,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3586055884,
+      "DialogCharaId": 3586055884,
+      "TitleText": 2247164285,
+      "MessageText": 251166083,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2412348188,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 847395123,
+      "DialogCharaId": 847395123,
+      "TitleText": 2843546427,
+      "MessageText": 1874998766,
+      "CharaText": 215162534,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1760912611,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2363233589,
+      "DialogCharaId": 2363233589,
+      "TitleText": 2843546427,
+      "MessageText": 369250372,
+      "CharaText": 269357231,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3601549541,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3710651803,
+      "DialogCharaId": 3710651803,
+      "TitleText": 2843546427,
+      "MessageText": 1524371718,
+      "CharaText": 2808024206,
+      "HintText": 2002358821,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2270908491,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 38102903,
+      "DialogCharaId": 38102903,
+      "TitleText": 2247164285,
+      "MessageText": 1721749879,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1479686823,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1800428372,
+      "DialogCharaId": 1800428372,
+      "TitleText": 2247164285,
+      "MessageText": 3758859225,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        824641156,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1522024905,
+      "DialogCharaId": 1522024905,
+      "TitleText": 2247164285,
+      "MessageText": 1868626341,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        13573145,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2484409773,
+      "DialogCharaId": 2484409773,
+      "TitleText": 2247164285,
+      "MessageText": 1127275656,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3462547581,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 412960436,
+      "DialogCharaId": 412960436,
+      "TitleText": 2247164285,
+      "MessageText": 3925117707,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1122638692,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1252354323,
+      "DialogCharaId": 1252354323,
+      "TitleText": 2247164285,
+      "MessageText": 638206199,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        282211523,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3856620727,
+      "DialogCharaId": 3856620727,
+      "TitleText": 2247164285,
+      "MessageText": 3981874002,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3215458663,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 544760377,
+      "DialogCharaId": 544760377,
+      "TitleText": 2247164285,
+      "MessageText": 2915238610,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2047819753,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1023364635,
+      "DialogCharaId": 1023364635,
+      "TitleText": 2247164285,
+      "MessageText": 160380883,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1720193995,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2875219762,
+      "DialogCharaId": 2875219762,
+      "TitleText": 2247164285,
+      "MessageText": 1145542360,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        4044817122,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1741316012,
+      "DialogCharaId": 1741316012,
+      "TitleText": 2247164285,
+      "MessageText": 2604161542,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1035797116,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 68840086,
+      "DialogCharaId": 68840086,
+      "TitleText": 2247164285,
+      "MessageText": 2400929149,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1584215878,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1036418915,
+      "DialogCharaId": 1036418915,
+      "TitleText": 2247164285,
+      "MessageText": 2694722137,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1739662003,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 86203374,
+      "DialogCharaId": 86203374,
+      "TitleText": 2247164285,
+      "MessageText": 3606117133,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1599342142,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3900467511,
+      "DialogCharaId": 3900467511,
+      "TitleText": 2247164285,
+      "MessageText": 1348766115,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2987078887,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1191599251,
+      "DialogCharaId": 1191599251,
+      "TitleText": 2247164285,
+      "MessageText": 2288783149,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        493945155,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3007936640,
+      "DialogCharaId": 3007936640,
+      "TitleText": 2247164285,
+      "MessageText": 581458094,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3913164112,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2042394111,
+      "DialogCharaId": 2042394111,
+      "TitleText": 2247164285,
+      "MessageText": 2755406336,
+      "CharaText": 4260187921,
+      "HintText": 2148462916,
+      "Jingle": 559966979,
+      "ModelObj": [
+        600516655,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3339673712,
+      "DialogCharaId": 3339673712,
+      "TitleText": 2886221350,
+      "MessageText": 3981284355,
+      "CharaText": 3020784835,
+      "HintText": 35888354,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2411306189,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.9,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 998116471,
+      "DialogCharaId": 998116471,
+      "TitleText": 2649364208,
+      "MessageText": 1642835373,
+      "CharaText": 2247076885,
+      "HintText": 2391123276,
+      "Jingle": 559966979,
+      "ModelObj": [
+        701405049,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3421785560,
+      "DialogCharaId": 3421785560,
+      "TitleText": 946548434,
+      "MessageText": 3932611722,
+      "CharaText": 544117815,
+      "HintText": 84470891,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3966347767,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2724208280,
+      "DialogCharaId": 2724208280,
+      "TitleText": 1034164217,
+      "MessageText": 621337677,
+      "CharaText": 631352604,
+      "HintText": 3395736748,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1243521603,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3789787722,
+      "DialogCharaId": 3789787722,
+      "TitleText": 1438566083,
+      "MessageText": 3798605471,
+      "CharaText": 1304132646,
+      "HintText": 218371710,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2079766750,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1659030901,
+      "DialogCharaId": 1659030901,
+      "TitleText": 1092544797,
+      "MessageText": 1125748611,
+      "CharaText": 1494963192,
+      "HintText": 2893514594,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3716264810,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2726954438,
+      "DialogCharaId": 2726954438,
+      "TitleText": 3131750110,
+      "MessageText": 587868636,
+      "CharaText": 2729380923,
+      "HintText": 3429114173,
+      "Jingle": 559966979,
+      "ModelObj": [
+        734643075,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 479817522,
+      "DialogCharaId": 479817522,
+      "TitleText": 1301797085,
+      "MessageText": 2083747656,
+      "CharaText": 1435656760,
+      "HintText": 2472378281,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2378090551,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 4146101387,
+      "DialogCharaId": 4146101387,
+      "TitleText": 1690168390,
+      "MessageText": 2412672049,
+      "CharaText": 2092455587,
+      "HintText": 1621130448,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2527693319,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 3116457985,
+      "DialogCharaId": 3116457985,
+      "TitleText": 3153326914,
+      "MessageText": 2705240989,
+      "CharaText": 2750826919,
+      "HintText": 1313913724,
+      "Jingle": 559966979,
+      "ModelObj": [
+        819888563,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1441987724,
+      "DialogCharaId": 1441987724,
+      "TitleText": 511376979,
+      "MessageText": 579258810,
+      "CharaText": 109003958,
+      "HintText": 3454583131,
+      "Jingle": 559966979,
+      "ModelObj": [
+        20355886,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2311224372,
+      "DialogCharaId": 2311224372,
+      "TitleText": 2089440673,
+      "MessageText": 254862566,
+      "CharaText": 1687154500,
+      "HintText": 3764317191,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2806091930,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1846815245,
+      "DialogCharaId": 1846815245,
+      "TitleText": 4260187921,
+      "MessageText": 4260187921,
+      "CharaText": 1601867080,
+      "HintText": 4260187921,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1967840829,
+        763373295,
+        3525693968
+      ],
+      "ModelScale": [
+        1.0,
+        0.3,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 799515910,
+      "DialogCharaId": 799515910,
+      "TitleText": 1191229767,
+      "MessageText": 3959212742,
+      "CharaText": 1594164130,
+      "HintText": 76726823,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1663684071,
+        3344536233,
+        50244647
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 718533293,
+      "DialogCharaId": 718533293,
+      "TitleText": 1551810193,
+      "MessageText": 2489214867,
+      "CharaText": 4260187921,
+      "HintText": 2066771826,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2109693362,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 407669695,
+      "DialogCharaId": 407669695,
+      "TitleText": 1625231410,
+      "MessageText": 907285943,
+      "CharaText": 2027596503,
+      "HintText": 3648658774,
+      "Jingle": 559966979,
+      "ModelObj": [
+        1355187072,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 866137681,
+      "DialogCharaId": 866137681,
+      "TitleText": 1578275680,
+      "MessageText": 2514525264,
+      "CharaText": 1175923077,
+      "HintText": 2056164529,
+      "Jingle": 559966979,
+      "ModelObj": [
+        865164388,
+        3297879456,
+        478709364
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 939743984,
+      "DialogCharaId": 939743984,
+      "TitleText": 434147476,
+      "MessageText": 3576436670,
+      "CharaText": 31795825,
+      "HintText": 977411935,
+      "Jingle": 559966979,
+      "ModelObj": [
+        2123878589,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2753851917,
+      "DialogCharaId": 2753851917,
+      "TitleText": 77465465,
+      "MessageText": 481009326,
+      "CharaText": 479968668,
+      "HintText": 4089812559,
+      "Jingle": 559966979,
+      "ModelObj": [
+        3297879456,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 2013116133,
+      "DialogCharaId": 2013116133,
+      "TitleText": 1403395411,
+      "MessageText": 1275367898,
+      "CharaText": 1269016502,
+      "HintText": 2741672251,
+      "Jingle": 559966979,
+      "ModelObj": [
+        763373295,
+        478709364,
+        986327055
+      ],
+      "ModelScale": [
+        0.5,
+        0.3,
+        1.0
+      ]
+    },
+    {
+      "DialogCharaInd": 1212170810,
+      "DialogCharaId": 1212170810,
+      "TitleText": 3734703740,
+      "MessageText": 2031766469,
+      "CharaText": 3332289689,
+      "HintText": 2524201764,
+      "Jingle": 559966979,
+      "ModelObj": [
+        865164388,
+        986327055,
+        986327055
+      ],
+      "ModelScale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Halloween Candy",
+  "MatList": {
+    "Grassland Honey": 1,
+    "Pumpkin": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 1,
+  "RecipeId": 4269011258
+}

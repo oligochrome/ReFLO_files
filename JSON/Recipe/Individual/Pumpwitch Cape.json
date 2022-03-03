@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Pumpwitch Cape",
+  "MatList": {
+    "Flare Wool": 2,
+    "Plain Armor Core (M)": 2,
+    "Demonic Powder": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1892492786
+}

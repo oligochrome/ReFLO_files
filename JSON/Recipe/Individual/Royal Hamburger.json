@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Royal Hamburger",
+  "MatList": {
+    "Top-Class Beef": 2,
+    "Tomato": 1,
+    "Truffle": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3081495478
+}

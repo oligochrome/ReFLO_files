@@ -1,0 +1,111 @@
+{
+  "Name": "Rainbow Apple Pie",
+  "Desc": "An apple pie with a rainbow glow.\r It's said that every bite will taste a bit different.\r Restores all party members' HP and SP and adds various buffs.",
+  "Rarity": 3,
+  "Category": "",
+  "Subcategory": "",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 460,
+      "Sellprice": 115,
+      "BagLimit": 3,
+      "NonExchangeable": 1
+    },
+    "Enchancment": {
+      "EquipExp": 0,
+      "CharaExp": 230,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [
+      {
+        "Effect": "HP",
+        "Value": 260.0,
+        "AtlasIcon": "gui_buff_heal_hp_001",
+        "Duration": 0.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "SP",
+        "Value": 25.0,
+        "AtlasIcon": "gui_buff_heal_sp_001",
+        "Duration": 0.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "Critical Rate",
+        "Value": 3.0,
+        "AtlasIcon": "gui_icon_menu_critical001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      },
+      {
+        "Effect": "Crit Dodge",
+        "Value": 2.0,
+        "AtlasIcon": "gui_icon_menu_critical_protect001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      }
+    ],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 0,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 4199345978
+    }
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm206_1010_10default",
+    "IcnAssetBundleId": 469567682,
+    "FullFilename": "",
+    "FullAssetBundleId": 1398675703,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 3112795658,
+    "Uniqid": 3112795658,
+    "Id": "OBJ_ITEM_NORMAL_10389_00_00",
+    "ResId": 1007313192,
+    "ResIdIcon": 766956835,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 2804698770,
+    "ContentsTypeId": 3273867848,
+    "NameId": 3971766275,
+    "DescriptionId": 721947895,
+    "CommonParamId": 635403013,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3875797836,
+    "NormalParamId": 3887253771,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

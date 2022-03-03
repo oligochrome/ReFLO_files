@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Sashimi Set",
+  "MatList": {
+    "Prawn": 2,
+    "Squid": 2,
+    "Puerto Bream": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1866765033
+}

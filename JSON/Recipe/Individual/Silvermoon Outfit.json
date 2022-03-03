@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Silvermoon Outfit",
+  "MatList": {
+    "King's Wool": 3,
+    "Light Armor Core (M)": 3,
+    "Weird Object": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 2124336594
+}

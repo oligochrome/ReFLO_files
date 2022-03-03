@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "Greatsword",
       "IconName": "icn_eqslot_lsword",
@@ -25,7 +26,7 @@
           "ChargeLevel": 1,
           "SpCost": 32,
           "Name": "Zero/Remnant",
-          "Desc": "Deals damage to enemies in a line\r Increases M.ATK of nearby allies and boosts their Shadow power.",
+          "Desc": "Deals damage to enemies in a line.\r Increases M.ATK of nearby allies and boosts their Shadow power.",
           "Attribute": "Shadow",
           "AwakenLvDamageMultiplier": {
             "1": 1.0,
@@ -91,8 +92,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Weapon": {
     "Category": "Greatsword",
@@ -103,7 +103,7 @@
         "ChargeLevel": 1,
         "SpCost": 32,
         "Name": "Zero/Remnant",
-        "Desc": "Deals damage to enemies in a line\r Increases M.ATK of nearby allies and boosts their Shadow power.",
+        "Desc": "Deals damage to enemies in a line.\r Increases M.ATK of nearby allies and boosts their Shadow power.",
         "Attribute": "Shadow",
         "AwakenLvDamageMultiplier": {
           "1": 1.0,

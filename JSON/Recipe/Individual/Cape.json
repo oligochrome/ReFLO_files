@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Cape",
+  "MatList": {
+    "Dandelion Cotton": 2,
+    "Cute Ribbon": 1,
+    "Wooden Buttons": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 923464729
+}

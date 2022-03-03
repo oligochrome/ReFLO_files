@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Genius Flask",
+  "MatList": {
+    "Black Ore": 1,
+    "Blue Gel": 1,
+    "Wakeup Berries": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 4030192799
+}

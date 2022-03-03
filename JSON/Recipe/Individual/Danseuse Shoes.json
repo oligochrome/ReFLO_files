@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Danseuse Shoes",
+  "MatList": {
+    "Marine Silk": 2,
+    "Wind Armor Core (M)": 2,
+    "Demonic Powder": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1729707168
+}

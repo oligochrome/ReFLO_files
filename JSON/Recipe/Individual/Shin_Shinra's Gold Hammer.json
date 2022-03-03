@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shin/Shinra's Gold Hammer",
+  "MatList": {
+    "Shinra's Gold Hammer": 1,
+    "Steel Shell": 8,
+    "Emerald": 30
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 230210154
+}

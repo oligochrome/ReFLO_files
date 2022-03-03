@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Elegant Dress",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Wonderful Ribbon": 1,
+    "Wooden Buttons": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1117022398
+}

@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Boiled Egg",
+  "MatList": {
+    "Bird's Egg": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3403323573
+}

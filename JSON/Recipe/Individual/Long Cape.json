@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Long Cape",
+  "MatList": {
+    "Dandelion Cotton": 3,
+    "Fancy Ribbon": 1,
+    "Metal Buttons": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 4221629575
+}

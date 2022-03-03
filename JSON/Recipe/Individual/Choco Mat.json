@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Choco Mat",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Fancy Ribbon": 1,
+    "Chocolate Essence": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 4076705945
+}

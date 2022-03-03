@@ -1,6 +1,5 @@
 {
   "ChestName": "Rare Clown Ghost Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Crescent Amulet",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 4075154101
 }{
   "ChestName": "Rare Clown Ghost Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Genesis Relic",
@@ -44,7 +42,6 @@
   "SurpriseboxObjId": 4258280458
 }{
   "ChestName": "Rare Clown Ghost Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Genesis Relic",
@@ -66,7 +63,6 @@
   "SurpriseboxObjId": 2781781282
 }{
   "ChestName": "Rare Clown Ghost Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Crescent Amulet",
@@ -88,7 +84,6 @@
   "SurpriseboxObjId": 3416082421
 }{
   "ChestName": "Rare Clown Ghost Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Crescent Amulet",
@@ -110,7 +105,6 @@
   "SurpriseboxObjId": 2923723189
 }{
   "ChestName": "Rare Clown Ghost Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Crescent Amulet",

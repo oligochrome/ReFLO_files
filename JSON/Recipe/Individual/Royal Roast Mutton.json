@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Royal Roast Mutton",
+  "MatList": {
+    "King Mutton": 1,
+    "Green Oak Fruit": 2
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 649936016
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Blackiron Leg Guards",
+  "MatList": {
+    "Blackiron Ingot": 2,
+    "Giant Beast Leather": 1,
+    "Iron Ingot": 2
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 554669403
+}

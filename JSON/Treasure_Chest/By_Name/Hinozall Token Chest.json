@@ -1,6 +1,5 @@
 {
   "ChestName": "Hinozall Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Primeval Hinozall Token",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 1247100043
 }{
   "ChestName": "Hinozall Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Origin Hinozall Token",
@@ -60,7 +58,6 @@
   "SurpriseboxObjId": 699155157
 }{
   "ChestName": "Hinozall Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Warrior Hinozall Token",

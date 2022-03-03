@@ -16,6 +16,15 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [
+      {
+        "Effect": "Critical Rate",
+        "Value": 30.0,
+        "AtlasIcon": "gui_icon_menu_critical001",
+        "Duration": 60.0,
+        "Chance": 100.0
+      }
+    ],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,16 +49,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": [
-      {
-        "Effect": "Critical Rate",
-        "Value": 30.0,
-        "AtlasIcon": "gui_icon_menu_critical001",
-        "Duration": 60.0,
-        "Chance": 100.0
-      }
-    ]
+    }
   },
   "Resources": {
     "IcnFilename": "icn_itm101_0036_10default",

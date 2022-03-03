@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Oak Rod",
+  "MatList": {
+    "Oak Beam": 1,
+    "Straw Thread": 3,
+    "Oak Fruit": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2546107469
+}

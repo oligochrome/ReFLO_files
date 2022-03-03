@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Monster Curtains",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Wonderful String": 1,
+    "Silk Thread": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 3248054096
+}

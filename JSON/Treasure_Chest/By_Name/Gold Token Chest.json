@@ -1,6 +1,5 @@
 {
   "ChestName": "Gold Token Chest",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Gold Token",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 3264835342
 }{
   "ChestName": "Gold Token Chest",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Gold Token",
@@ -60,7 +58,6 @@
   "SurpriseboxObjId": 1272290925
 }{
   "ChestName": "Gold Token Chest",
-  "ChestRarity": 3,
   "Drops": [
     {
       "Name": "Gold Token",

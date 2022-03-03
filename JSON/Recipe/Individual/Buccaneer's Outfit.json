@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Buccaneer's Outfit",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Pirate Captain Gem": 1,
+    "Pirate Captain Button": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 1973514642
+}

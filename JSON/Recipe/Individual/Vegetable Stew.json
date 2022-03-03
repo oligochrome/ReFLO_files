@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Vegetable Stew",
+  "MatList": {
+    "Carrot": 2,
+    "Potato": 1,
+    "Onion": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 609066341
+}

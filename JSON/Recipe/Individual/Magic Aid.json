@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Magic Aid",
+  "MatList": {
+    "Alcheweed": 2,
+    "Suspicious Object": 1,
+    "Cavedew": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 3541953045
+}

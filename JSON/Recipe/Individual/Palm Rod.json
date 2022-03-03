@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Palm Rod",
+  "MatList": {
+    "Palm Beam": 1,
+    "Silk Thread": 3,
+    "Palm Nuts": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 3588719408
+}

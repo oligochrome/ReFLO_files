@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Wind Aid",
+  "MatList": {
+    "Alcheweed": 2,
+    "Wind Shard": 1,
+    "Saltless Seawater": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 1484930496
+}

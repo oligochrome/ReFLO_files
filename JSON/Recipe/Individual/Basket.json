@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Basket",
+  "MatList": {
+    "Pine Beam": 1,
+    "Dandelion Cotton": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3110203038
+}

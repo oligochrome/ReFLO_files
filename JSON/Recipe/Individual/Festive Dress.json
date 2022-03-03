@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Festive Dress",
+  "MatList": {
+    "Wool": 2,
+    "Redbell": 2,
+    "Leather String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 3058331969
+}

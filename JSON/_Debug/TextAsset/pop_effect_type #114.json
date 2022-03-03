@@ -1,0 +1,29 @@
+{
+  "TablePopEffectType": [
+    {
+      "PopEffectTypeInd": 142329106,
+      "UniqId": 142329106,
+      "PopEffId": 4173892008,
+      "DieEffId": 3374355253
+    },
+    {
+      "PopEffectTypeInd": 1697178881,
+      "UniqId": 1697178881,
+      "PopEffId": 2738326234,
+      "DieEffId": 2738326234
+    },
+    {
+      "PopEffectTypeInd": 1585803464,
+      "UniqId": 1585803464,
+      "PopEffId": 1392877018,
+      "DieEffId": 1659733831
+    },
+    {
+      "PopEffectTypeInd": 4254406822,
+      "UniqId": 4254406822,
+      "PopEffId": 4173892008,
+      "DieEffId": 762486780
+    }
+  ],
+  "IdRef": {}
+}

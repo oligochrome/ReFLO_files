@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -76,8 +77,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 363720395
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,

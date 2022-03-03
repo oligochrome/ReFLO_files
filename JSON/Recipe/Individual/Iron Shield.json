@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Iron Shield",
+  "MatList": {
+    "Iron Ingot": 2,
+    "Pine Beam": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 947844901
+}

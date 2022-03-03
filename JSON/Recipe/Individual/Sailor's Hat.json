@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Sailor's Hat",
+  "MatList": {
+    "Silk": 2,
+    "Marine Silk": 1,
+    "Wonderful Ribbon": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2711084245
+}

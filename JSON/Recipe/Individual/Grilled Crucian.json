@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Grilled Crucian",
+  "MatList": {
+    "Castele Crucian": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 4097935160
+}

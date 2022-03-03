@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Yo-kai Wardrobe",
+  "MatList": {
+    "Pine Beam": 5,
+    "Elder Pine Log": 1,
+    "Spiritual Powder": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1553382950
+}

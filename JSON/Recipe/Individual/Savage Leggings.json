@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Savage Leggings",
+  "MatList": {
+    "Beast Hide": 2,
+    "Wonderful String": 1,
+    "Sturdy Fang": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Adept",
+  "IsHoly": 0,
+  "RecipeId": 2278092810
+}

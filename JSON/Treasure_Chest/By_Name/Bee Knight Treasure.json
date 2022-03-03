@@ -1,6 +1,5 @@
 {
   "ChestName": "Bee Knight Treasure",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Plateau Honey",
@@ -22,7 +21,6 @@
   "SurpriseboxObjId": 1345126336
 }{
   "ChestName": "Bee Knight Treasure",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Plateau Honey",

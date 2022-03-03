@@ -1,6 +1,5 @@
 {
   "ChestName": "Monster Gold Chest Y",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "YSP Watch",
@@ -14,7 +13,6 @@
   "SurpriseboxObjId": 912951161
 }{
   "ChestName": "Monster Gold Chest Y",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "YSP Watch Zero",

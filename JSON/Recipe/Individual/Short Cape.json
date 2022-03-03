@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Short Cape",
+  "MatList": {
+    "Cashmere": 2,
+    "Wonderful Ribbon": 1,
+    "Wonderful Buttons": 2
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 3995788981
+}

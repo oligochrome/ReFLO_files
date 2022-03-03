@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Highland Loafers",
+  "MatList": {
+    "Woven Straw Fabric": 1,
+    "Animal Hide": 1,
+    "String": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2329313357
+}

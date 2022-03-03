@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Shell Gauntlets",
+  "MatList": {
+    "Durable Shell": 2,
+    "Little Shell": 1,
+    "Glittering Coral": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 4119866787
+}

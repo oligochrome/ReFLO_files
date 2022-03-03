@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -40,89 +41,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
-  },
-  "Resources": {
-    "IcnFilename": "gui_icon_menu_gift001_single",
-    "IcnAssetBundleId": 273243372,
-    "FullFilename": "",
-    "FullAssetBundleId": 1398675703,
-    "AtlasResID": 1007313192,
-    "SpriteName": ""
-  },
-  "ParamIds": {
-    "ObjId": 2346061945,
-    "Uniqid": 2346061945,
-    "Id": "OBJ_GODITEM_LOC_00003_00_01",
-    "ResId": 1007313192,
-    "ResIdIcon": 2361288011,
-    "ResswitchId": 2713337695,
-    "ResswitchIdHQ": 2713337695,
-    "ResActionId": 1007313192,
-    "ObjTypeId": 1246892041,
-    "ContentsTypeId": 1453935802,
-    "NameId": 1366446695,
-    "DescriptionId": 3363505117,
-    "CommonParamId": 4167526040,
-    "CharaParamId": 3819597731,
-    "FacillityParamId": 856462509,
-    "PickParamId": 2496751196,
-    "FurnitureParamId": 1721008223,
-    "GroundParamId": 1099520669,
-    "ObjGroupId": 36203498,
-    "WeaponParamId": 2915301859,
-    "GuardParamId": 3875797836,
-    "NormalParamId": 6165372,
-    "ImportantParamId": 3170525707,
-    "SpecialParamId": 527746145,
-    "SurpriseboxParamId": 589680994,
-    "GodItemParamId": 1240445783
-  }
-}{
-  "Name": "Ally Enh. Set",
-  "Desc": "Ally Enh. Set",
-  "Rarity": 3,
-  "Category": "",
-  "Subcategory": "",
-  "ItemInfo": {
-    "Basic": {
-      "Buyprice": 0,
-      "Sellprice": 0,
-      "BagLimit": 1,
-      "NonExchangeable": 0
-    },
-    "Enchancment": {
-      "EquipExp": 0,
-      "CharaExp": 0,
-      "EnchantNeedRich": 0
-    },
-    "Weapon": {
-      "Category": "-",
-      "IconName": "",
-      "CanEquipNPC": 0,
-      "ChargeSkillBattle": [],
-      "ChargeSkillGather": [],
-      "PassiveProperties": [],
-      "ElemBonus": null,
-      "LvupExpTypeId": 0
-    },
-    "Armor": {
-      "CanEquipNPC": 0,
-      "EquipAsShield": 0,
-      "ChargeShield": [],
-      "PassiveProperties": [],
-      "ElemBonus": {
-        "Fire": 0,
-        "Water": 0,
-        "Wind": 0,
-        "Earth": 0,
-        "Light": 0,
-        "Shadow": 0
-      },
-      "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",
@@ -178,6 +97,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -202,8 +122,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",
@@ -259,6 +178,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -283,8 +203,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",
@@ -340,6 +259,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -364,8 +284,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",
@@ -421,6 +340,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -445,170 +365,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
-  },
-  "Resources": {
-    "IcnFilename": "gui_icon_menu_gift001_single",
-    "IcnAssetBundleId": 273243372,
-    "FullFilename": "",
-    "FullAssetBundleId": 1398675703,
-    "AtlasResID": 1007313192,
-    "SpriteName": ""
-  },
-  "ParamIds": {
-    "ObjId": 3802650039,
-    "Uniqid": 3802650039,
-    "Id": "OBJ_GODITEM_LOC_00003_00_14",
-    "ResId": 1007313192,
-    "ResIdIcon": 2361288011,
-    "ResswitchId": 2713337695,
-    "ResswitchIdHQ": 2713337695,
-    "ResActionId": 1007313192,
-    "ObjTypeId": 1246892041,
-    "ContentsTypeId": 1453935802,
-    "NameId": 1366446695,
-    "DescriptionId": 3363505117,
-    "CommonParamId": 4167526040,
-    "CharaParamId": 3819597731,
-    "FacillityParamId": 856462509,
-    "PickParamId": 2496751196,
-    "FurnitureParamId": 1721008223,
-    "GroundParamId": 1099520669,
-    "ObjGroupId": 36203498,
-    "WeaponParamId": 2915301859,
-    "GuardParamId": 3875797836,
-    "NormalParamId": 6165372,
-    "ImportantParamId": 3170525707,
-    "SpecialParamId": 527746145,
-    "SurpriseboxParamId": 589680994,
-    "GodItemParamId": 1240445783
-  }
-}{
-  "Name": "Ally Enh. Set",
-  "Desc": "Ally Enh. Set",
-  "Rarity": 3,
-  "Category": "",
-  "Subcategory": "",
-  "ItemInfo": {
-    "Basic": {
-      "Buyprice": 0,
-      "Sellprice": 0,
-      "BagLimit": 1,
-      "NonExchangeable": 0
-    },
-    "Enchancment": {
-      "EquipExp": 0,
-      "CharaExp": 0,
-      "EnchantNeedRich": 0
-    },
-    "Weapon": {
-      "Category": "-",
-      "IconName": "",
-      "CanEquipNPC": 0,
-      "ChargeSkillBattle": [],
-      "ChargeSkillGather": [],
-      "PassiveProperties": [],
-      "ElemBonus": null,
-      "LvupExpTypeId": 0
-    },
-    "Armor": {
-      "CanEquipNPC": 0,
-      "EquipAsShield": 0,
-      "ChargeShield": [],
-      "PassiveProperties": [],
-      "ElemBonus": {
-        "Fire": 0,
-        "Water": 0,
-        "Wind": 0,
-        "Earth": 0,
-        "Light": 0,
-        "Shadow": 0
-      },
-      "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
-  },
-  "Resources": {
-    "IcnFilename": "gui_icon_menu_gift001_single",
-    "IcnAssetBundleId": 273243372,
-    "FullFilename": "",
-    "FullAssetBundleId": 1398675703,
-    "AtlasResID": 1007313192,
-    "SpriteName": ""
-  },
-  "ParamIds": {
-    "ObjId": 212448411,
-    "Uniqid": 212448411,
-    "Id": "OBJ_GODITEM_LOC_00003_00_16",
-    "ResId": 1007313192,
-    "ResIdIcon": 2361288011,
-    "ResswitchId": 2713337695,
-    "ResswitchIdHQ": 2713337695,
-    "ResActionId": 1007313192,
-    "ObjTypeId": 1246892041,
-    "ContentsTypeId": 1453935802,
-    "NameId": 1366446695,
-    "DescriptionId": 3363505117,
-    "CommonParamId": 4167526040,
-    "CharaParamId": 3819597731,
-    "FacillityParamId": 856462509,
-    "PickParamId": 2496751196,
-    "FurnitureParamId": 1721008223,
-    "GroundParamId": 1099520669,
-    "ObjGroupId": 36203498,
-    "WeaponParamId": 2915301859,
-    "GuardParamId": 3875797836,
-    "NormalParamId": 6165372,
-    "ImportantParamId": 3170525707,
-    "SpecialParamId": 527746145,
-    "SurpriseboxParamId": 589680994,
-    "GodItemParamId": 1240445783
-  }
-}{
-  "Name": "Ally Enh. Set",
-  "Desc": "Ally Enh. Set",
-  "Rarity": 3,
-  "Category": "",
-  "Subcategory": "",
-  "ItemInfo": {
-    "Basic": {
-      "Buyprice": 0,
-      "Sellprice": 0,
-      "BagLimit": 1,
-      "NonExchangeable": 0
-    },
-    "Enchancment": {
-      "EquipExp": 0,
-      "CharaExp": 0,
-      "EnchantNeedRich": 0
-    },
-    "Weapon": {
-      "Category": "-",
-      "IconName": "",
-      "CanEquipNPC": 0,
-      "ChargeSkillBattle": [],
-      "ChargeSkillGather": [],
-      "PassiveProperties": [],
-      "ElemBonus": null,
-      "LvupExpTypeId": 0
-    },
-    "Armor": {
-      "CanEquipNPC": 0,
-      "EquipAsShield": 0,
-      "ChargeShield": [],
-      "PassiveProperties": [],
-      "ElemBonus": {
-        "Fire": 0,
-        "Water": 0,
-        "Wind": 0,
-        "Earth": 0,
-        "Light": 0,
-        "Shadow": 0
-      },
-      "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",
@@ -664,6 +421,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -688,8 +446,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",
@@ -745,6 +502,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -769,8 +527,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",
@@ -826,6 +583,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -850,8 +608,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",
@@ -907,6 +664,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -931,8 +689,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 4199345978
-    },
-    "Effects": []
+    }
   },
   "Resources": {
     "IcnFilename": "gui_icon_menu_gift001_single",

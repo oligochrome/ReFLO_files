@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -33,8 +34,8 @@
       "PassiveProperties": [
         {
           "Slot": 1,
-          "Name": "Insignificantly increases MOV SPD",
-          "Desc": "Insignificantly increases MOV SPD",
+          "Name": "Slightly increases MOV SPD",
+          "Desc": "Slightly increases MOV SPD",
           "Effects": [
             {
               "Effect": "MOV SPD",
@@ -47,8 +48,8 @@
         },
         {
           "Slot": 2,
-          "Name": "Insignificantly increases ATK",
-          "Desc": "Insignificantly increases ATK",
+          "Name": "Slightly increases ATK",
+          "Desc": "Slightly increases ATK",
           "Effects": [
             {
               "Effect": "ATK",
@@ -69,8 +70,7 @@
         "Shadow": 0
       },
       "LvupExpTypeId": 363720395
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,
@@ -79,8 +79,8 @@
     "PassiveProperties": [
       {
         "Slot": 1,
-        "Name": "Insignificantly increases MOV SPD",
-        "Desc": "Insignificantly increases MOV SPD",
+        "Name": "Slightly increases MOV SPD",
+        "Desc": "Slightly increases MOV SPD",
         "Effects": [
           {
             "Effect": "MOV SPD",
@@ -93,8 +93,8 @@
       },
       {
         "Slot": 2,
-        "Name": "Insignificantly increases ATK",
-        "Desc": "Insignificantly increases ATK",
+        "Name": "Slightly increases ATK",
+        "Desc": "Slightly increases ATK",
         "Effects": [
           {
             "Effect": "ATK",

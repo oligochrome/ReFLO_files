@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Bronze Boots",
+  "MatList": {
+    "Bronze Ingot": 2,
+    "Wool": 1
+  },
+  "LifeLimit": "Forge",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 2897413003
+}

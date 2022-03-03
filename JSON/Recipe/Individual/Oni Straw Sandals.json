@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Oni Straw Sandals",
+  "MatList": {
+    "Linen": 2,
+    "Plain Armor Core (M)": 2,
+    "Steel Shell": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 324295357
+}

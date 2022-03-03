@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Earth Wraith Shoes",
+  "MatList": {
+    "Dark Straw Fabric": 2,
+    "Forest Powder": 1,
+    "Giant Fang": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2740587398
+}

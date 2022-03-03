@@ -1,6 +1,5 @@
 {
   "ChestName": "Elizabeth Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Elizabeth Token",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 2514523411
 }{
   "ChestName": "Elizabeth Token Chest",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Elizabeth Token",

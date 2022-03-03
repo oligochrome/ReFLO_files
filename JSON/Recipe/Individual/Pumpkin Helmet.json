@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Pumpkin Helmet",
+  "MatList": {
+    "Black Cashmere": 2,
+    "Pumpkin": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 1,
+  "RecipeId": 2559597994
+}

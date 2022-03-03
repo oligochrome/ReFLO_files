@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Winter Stew",
+  "MatList": {
+    "Chicken": 1,
+    "Milk": 2,
+    "Carrot": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 540340895
+}

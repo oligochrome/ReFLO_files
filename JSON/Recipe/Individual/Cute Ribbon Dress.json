@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Cute Ribbon Dress",
+  "MatList": {
+    "Cashmere": 2,
+    "Wonderful Ribbon": 1,
+    "Metal Buttons": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1683378000
+}

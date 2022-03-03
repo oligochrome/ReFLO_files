@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Sea Necklace",
+  "MatList": {
+    "Glittering Coral": 1,
+    "Rainbow Shell": 2,
+    "String": 1
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Expert",
+  "IsHoly": 0,
+  "RecipeId": 2320206716
+}

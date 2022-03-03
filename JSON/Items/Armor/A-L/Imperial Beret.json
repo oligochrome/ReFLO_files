@@ -1,6 +1,6 @@
 {
   "Name": "Imperial Beret",
-  "Desc": "A helm equipped by the elite guards of the magnificent palace. Wearing it makes you feel in high spirits.",
+  "Desc": "A helmet equipped by the elite guards of the magnificent palace. Wearing it makes you feel in high spirits.",
   "Rarity": 5,
   "Category": "Armor",
   "Subcategory": "Head",
@@ -16,6 +16,7 @@
       "CharaExp": 0,
       "EnchantNeedRich": 0
     },
+    "Effects": [],
     "Weapon": {
       "Category": "-",
       "IconName": "",
@@ -69,8 +70,7 @@
         "Shadow": 2
       },
       "LvupExpTypeId": 1655365213
-    },
-    "Effects": []
+    }
   },
   "Armor": {
     "CanEquipNPC": 1,

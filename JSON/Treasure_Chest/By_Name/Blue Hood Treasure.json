@@ -1,6 +1,5 @@
 {
   "ChestName": "Blue Hood Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Garnet Apple",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 261911127
 }{
   "ChestName": "Blue Hood Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Apple Princess's Necklace",
@@ -68,7 +66,6 @@
   "SurpriseboxObjId": 1614817265
 }{
   "ChestName": "Blue Hood Treasure",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Apple Princess's Necklace",

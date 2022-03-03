@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Lily Wristband",
+  "MatList": {
+    "Flare Wool": 2,
+    "Plain Armor Core (M)": 2,
+    "Great Prairie Leaf": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Expert",
+  "IsHoly": 1,
+  "RecipeId": 3815891656
+}

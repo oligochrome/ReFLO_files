@@ -1,0 +1,10 @@
+{
+  "CreateItem": "Gathering Alchematter V",
+  "MatList": {
+    "Gathering Alchematter IV": 2
+  },
+  "LifeLimit": "Alchemy",
+  "ItemRank": "Legend",
+  "IsHoly": 1,
+  "RecipeId": 8469041
+}

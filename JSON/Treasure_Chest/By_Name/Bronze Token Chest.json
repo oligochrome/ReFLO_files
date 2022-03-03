@@ -1,6 +1,5 @@
 {
   "ChestName": "Bronze Token Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Bronze Token",
@@ -30,7 +29,6 @@
   "SurpriseboxObjId": 4010065330
 }{
   "ChestName": "Bronze Token Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Bronze Token",
@@ -60,7 +58,6 @@
   "SurpriseboxObjId": 1716014289
 }{
   "ChestName": "Bronze Token Chest",
-  "ChestRarity": 2,
   "Drops": [
     {
       "Name": "Bronze Token",

@@ -1,0 +1,14 @@
+{
+  "ChestName": "King Sweet Fish",
+  "Drops": [
+    {
+      "Name": "Royal Catfish",
+      "ItemCount": 1,
+      "ProbabilityPercent": 100.0,
+      "Weight": 100.0,
+      "Priority": 1,
+      "DropRareTag": ""
+    }
+  ],
+  "SurpriseboxObjId": 1451296372
+}

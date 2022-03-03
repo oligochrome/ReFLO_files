@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Patched Hole",
+  "MatList": {
+    "Pine Beam": 1,
+    "Oak Beam": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Apprentice",
+  "IsHoly": 0,
+  "RecipeId": 1011087404
+}

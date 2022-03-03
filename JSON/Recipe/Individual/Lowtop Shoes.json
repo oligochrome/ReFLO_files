@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Lowtop Shoes",
+  "MatList": {
+    "Dandelion Cotton": 1,
+    "Animal Hide": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 3619462171
+}

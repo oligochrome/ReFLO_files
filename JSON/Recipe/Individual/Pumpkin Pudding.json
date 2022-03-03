@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Pumpkin Pudding",
+  "MatList": {
+    "Plateau Honey": 1,
+    "Pumpkin": 2,
+    "Extra Creamy Milk": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 1442188197
+}

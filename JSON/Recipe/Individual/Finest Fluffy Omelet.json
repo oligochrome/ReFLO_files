@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Finest Fluffy Omelet",
+  "MatList": {
+    "Bird's Egg": 1,
+    "Milk": 1,
+    "Vine-Ripened Tomato": 1
+  },
+  "LifeLimit": "Cooking",
+  "ItemRank": "Novice",
+  "IsHoly": 0,
+  "RecipeId": 2748294294
+}

@@ -1,0 +1,12 @@
+{
+  "CreateItem": "Autumn Robe",
+  "MatList": {
+    "Woven Straw Fabric": 2,
+    "Beast Hide": 1,
+    "Wooden Buttons": 1
+  },
+  "LifeLimit": "Tailoring",
+  "ItemRank": "Adept",
+  "IsHoly": 1,
+  "RecipeId": 3972937745
+}

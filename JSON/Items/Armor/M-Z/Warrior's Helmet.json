@@ -1,0 +1,169 @@
+{
+  "Name": "Warrior's Helmet",
+  "Desc": "A crown tailor-made for royal knights. The deluxe decor in the front shows the pride of a knight.",
+  "Rarity": 5,
+  "Category": "Armor",
+  "Subcategory": "Head",
+  "ItemInfo": {
+    "Basic": {
+      "Buyprice": 16000,
+      "Sellprice": 4000,
+      "BagLimit": 1,
+      "NonExchangeable": 0
+    },
+    "Enchancment": {
+      "EquipExp": 2750,
+      "CharaExp": 0,
+      "EnchantNeedRich": 0
+    },
+    "Effects": [],
+    "Weapon": {
+      "Category": "-",
+      "IconName": "",
+      "CanEquipNPC": 0,
+      "ChargeSkillBattle": [],
+      "ChargeSkillGather": [],
+      "PassiveProperties": [],
+      "ElemBonus": null,
+      "LvupExpTypeId": 0
+    },
+    "Armor": {
+      "CanEquipNPC": 1,
+      "EquipAsShield": 0,
+      "ChargeShield": [],
+      "PassiveProperties": [
+        {
+          "Slot": 1,
+          "Name": "The White Crusader â\u0085 ",
+          "Desc": "Slightly increases max HP. Slightly increases DEF",
+          "Effects": [
+            {
+              "Effect": "HP",
+              "Value": 10.0,
+              "AtlasIcon": "gui_buff_heal_hp_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            },
+            {
+              "Effect": "DEF",
+              "Value": 4.0,
+              "AtlasIcon": "gui_buff_guard_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        },
+        {
+          "Slot": 2,
+          "Name": "Slightly enhances Block",
+          "Desc": "Slightly reduces damage received when guarding",
+          "Effects": [
+            {
+              "Effect": "Block Effect",
+              "Value": 2.0,
+              "AtlasIcon": "gui_buff_guard_001",
+              "Duration": 0.0,
+              "Chance": 100.0
+            }
+          ]
+        }
+      ],
+      "ElemBonus": {
+        "Fire": 0,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Light": 0,
+        "Shadow": 0
+      },
+      "LvupExpTypeId": 1655365213
+    }
+  },
+  "Armor": {
+    "CanEquipNPC": 1,
+    "EquipAsShield": 0,
+    "ChargeShield": [],
+    "PassiveProperties": [
+      {
+        "Slot": 1,
+        "Name": "The White Crusader â\u0085 ",
+        "Desc": "Slightly increases max HP. Slightly increases DEF",
+        "Effects": [
+          {
+            "Effect": "HP",
+            "Value": 10.0,
+            "AtlasIcon": "gui_buff_heal_hp_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          },
+          {
+            "Effect": "DEF",
+            "Value": 4.0,
+            "AtlasIcon": "gui_buff_guard_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      },
+      {
+        "Slot": 2,
+        "Name": "Slightly enhances Block",
+        "Desc": "Slightly reduces damage received when guarding",
+        "Effects": [
+          {
+            "Effect": "Block Effect",
+            "Value": 2.0,
+            "AtlasIcon": "gui_buff_guard_001",
+            "Duration": 0.0,
+            "Chance": 100.0
+          }
+        ]
+      }
+    ],
+    "ElemBonus": {
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Earth": 0,
+      "Light": 0,
+      "Shadow": 0
+    },
+    "LvupExpTypeId": 1655365213
+  },
+  "Resources": {
+    "IcnFilename": "icn_itm601_0312_10default",
+    "IcnAssetBundleId": 1082397860,
+    "FullFilename": "ae09010_Hat00_typeE",
+    "FullAssetBundleId": 1082397860,
+    "AtlasResID": 1007313192,
+    "SpriteName": ""
+  },
+  "ParamIds": {
+    "ObjId": 1401138823,
+    "Uniqid": 1401138823,
+    "Id": "OBJ_ITEM_GUARD_17450_00_00",
+    "ResId": 2088327806,
+    "ResIdIcon": 135463694,
+    "ResswitchId": 2713337695,
+    "ResswitchIdHQ": 2713337695,
+    "ResActionId": 1007313192,
+    "ObjTypeId": 3588665660,
+    "ContentsTypeId": 674297905,
+    "NameId": 1669564464,
+    "DescriptionId": 8374347,
+    "CommonParamId": 209717315,
+    "CharaParamId": 3819597731,
+    "FacillityParamId": 856462509,
+    "PickParamId": 2496751196,
+    "FurnitureParamId": 1721008223,
+    "GroundParamId": 1099520669,
+    "ObjGroupId": 36203498,
+    "WeaponParamId": 2915301859,
+    "GuardParamId": 3066929663,
+    "NormalParamId": 6165372,
+    "ImportantParamId": 3170525707,
+    "SpecialParamId": 527746145,
+    "SurpriseboxParamId": 589680994,
+    "GodItemParamId": 2401570819
+  }
+}

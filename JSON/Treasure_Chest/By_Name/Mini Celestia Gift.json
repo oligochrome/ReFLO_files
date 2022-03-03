@@ -1,6 +1,5 @@
 {
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Divine Summon Coin",
@@ -70,7 +69,6 @@
   "SurpriseboxObjId": 266596327
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Mega Divine Summon Coin",
@@ -148,7 +146,6 @@
   "SurpriseboxObjId": 600555590
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Combat Alchematter I",
@@ -234,7 +231,6 @@
   "SurpriseboxObjId": 1451749197
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Crafting Alchematter IV",
@@ -312,7 +308,6 @@
   "SurpriseboxObjId": 2768670194
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gathering Alchematter I",
@@ -390,7 +385,6 @@
   "SurpriseboxObjId": 648172264
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Bluefeather Hat",
@@ -636,7 +630,6 @@
   "SurpriseboxObjId": 1526306967
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Book of Great Stars Voucher",
@@ -906,7 +899,6 @@
   "SurpriseboxObjId": 2813971755
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Ring Token",
@@ -1176,7 +1168,6 @@
   "SurpriseboxObjId": 3198714802
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Ring Token Oct.",
@@ -1446,7 +1437,6 @@
   "SurpriseboxObjId": 968022691
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Life Cure",
@@ -1708,7 +1698,6 @@
   "SurpriseboxObjId": 250790932
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Combat Alchematter IV",
@@ -1970,7 +1959,6 @@
   "SurpriseboxObjId": 197310182
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gathering Alchematter IV",
@@ -2232,7 +2220,6 @@
   "SurpriseboxObjId": 4018485573
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Combat Alchematter IV",
@@ -2494,7 +2481,6 @@
   "SurpriseboxObjId": 2013940360
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gathering Alchematter IV",
@@ -2756,7 +2742,6 @@
   "SurpriseboxObjId": 1544623238
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Crafting Alchematter IV",
@@ -3018,7 +3003,6 @@
   "SurpriseboxObjId": 894979266
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Crafting Alchematter IV",
@@ -3280,7 +3264,6 @@
   "SurpriseboxObjId": 3896539712
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Combat Alchematter IV",
@@ -3542,7 +3525,6 @@
   "SurpriseboxObjId": 2009545356
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gathering Alchematter IV",
@@ -3804,7 +3786,6 @@
   "SurpriseboxObjId": 755494863
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gathering Alchematter IV",
@@ -3882,7 +3863,6 @@
   "SurpriseboxObjId": 1625425971
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Crafting Alchematter I",
@@ -3989,7 +3969,7 @@
       "DropRareTag": "Rare"
     },
     {
-      "Name": "Warrior's Helm",
+      "Name": "Warrior's Helmet",
       "ItemCount": 1,
       "ProbabilityPercent": 0.5,
       "Weight": 50.0,
@@ -4024,7 +4004,6 @@
   "SurpriseboxObjId": 2647483890
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "High Allagan Circlet",
@@ -4350,7 +4329,6 @@
   "SurpriseboxObjId": 1750872504
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "High Allagan Circlet",
@@ -4676,7 +4654,6 @@
   "SurpriseboxObjId": 323138395
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "High Allagan Circlet",
@@ -5002,7 +4979,6 @@
   "SurpriseboxObjId": 2358784197
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Gathering Alchematter IV",
@@ -5264,7 +5240,6 @@
   "SurpriseboxObjId": 3269248688
 }{
   "ChestName": "Mini Celestia Gift",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Divine Summon Coin",

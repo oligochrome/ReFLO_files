@@ -1,6 +1,5 @@
 {
   "ChestName": "Iron Turtle Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Steel Shell",
@@ -46,7 +45,6 @@
   "SurpriseboxObjId": 644045852
 }{
   "ChestName": "Iron Turtle Valuables",
-  "ChestRarity": 4,
   "Drops": [
     {
       "Name": "Master's Star",

@@ -1,0 +1,11 @@
+{
+  "CreateItem": "Oak Staff",
+  "MatList": {
+    "Oak Beam": 2,
+    "Blue Stone": 1
+  },
+  "LifeLimit": "Carpentry",
+  "ItemRank": "Fledgling",
+  "IsHoly": 0,
+  "RecipeId": 650152673
+}
