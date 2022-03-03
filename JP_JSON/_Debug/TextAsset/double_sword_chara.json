@@ -1,0 +1,25 @@
+{
+  "TableDoubleSwordChara": [
+    {
+      "DoubleSwordCharaInd": 881418239,
+      "Uniqid": 881418239,
+      "CharaObjId": 4008472386
+    },
+    {
+      "DoubleSwordCharaInd": 3723164362,
+      "Uniqid": 3723164362,
+      "CharaObjId": 126863991
+    },
+    {
+      "DoubleSwordCharaInd": 1037609977,
+      "Uniqid": 1037609977,
+      "CharaObjId": 3887962948
+    },
+    {
+      "DoubleSwordCharaInd": 706220682,
+      "Uniqid": 706220682,
+      "CharaObjId": 4034732599
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,23 @@
+{
+  "TableBazaarSortMenuButtonSell": [
+    {
+      "BazaarSortMenuButtonSellInd": 1221687846,
+      "Uniqid": 1221687846,
+      "Typeid1": 1147280604,
+      "DisplayOrder": 3
+    },
+    {
+      "BazaarSortMenuButtonSellInd": 2942645885,
+      "Uniqid": 2942645885,
+      "Typeid1": 3434792572,
+      "DisplayOrder": 2
+    },
+    {
+      "BazaarSortMenuButtonSellInd": 3634664205,
+      "Uniqid": 3634664205,
+      "Typeid1": 2948627563,
+      "DisplayOrder": 1
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,3373 @@
+{
+  "TableNetwork": [
+    {
+      "NetworkInd": 1423925518,
+      "Url": "/achievement/clearStar",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3446929564,
+      "Url": "/achievement/earnGodBonus",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 732650162,
+      "Url": "/achievement/getAchievement",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 312539406,
+      "Url": "/achievement/getAchievementMissionList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 511895228,
+      "Url": "/achievement/getAchievementCounter",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2226700904,
+      "Url": "/achievement/getDailyHappy",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1819345705,
+      "Url": "/achievement/getGodBonusList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4163525697,
+      "Url": "/achievement/getNicknameIdList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1274879908,
+      "Url": "/achievement/getAchievementList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1590146336,
+      "Url": "/achievement/licenseRankUp",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3579305277,
+      "Url": "/achievement/reportAchievement",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2197446631,
+      "Url": "/achievement/reportAchievementBulk",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2903140293,
+      "Url": "/achievement/reportExpertMission",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1200233537,
+      "Url": "/achievement/reportGodMission",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2064103968,
+      "Url": "/achievement/reportHappy",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2581138828,
+      "Url": "/achievement/reportStar",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4123696220,
+      "Url": "/achievement/setNickname",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4238290289,
+      "Url": "/activity/getAccumulateRewardList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 492656003,
+      "Url": "/activity/getActivityList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3630864668,
+      "Url": "/activity/receiveAccumulateReward",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1978825346,
+      "Url": "/adventure/accounting",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1513376367,
+      "Url": "/adventure/accountingChallengeContent",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1510625032,
+      "Url": "/adventure/accountingColosseum",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1102800440,
+      "Url": "/adventure/accountingKingBeast",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 639417715,
+      "Url": "/adventure/accountingSubjugation",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3433109238,
+      "Url": "/adventure/accountingSurprise",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4009771263,
+      "Url": "/adventure/godmission/accountingSurprise",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3173625958,
+      "Url": "/adventure/accountingTower",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2879055408,
+      "Url": "/adventure/godmission/changeEnemyMap",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1424815240,
+      "Url": "/adventure/changeAdvMap",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1971698080,
+      "Url": "/adventure/godmission/changeAdvMap",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3241002048,
+      "Url": "/adventure/godmission/endEnemyMap",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 325900015,
+      "Url": "/adventure/enterMap",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 998680812,
+      "Url": "/adventure/godmission/enterMap",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2725858575,
+      "Url": "/adventure/getMvpRankings",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2990959201,
+      "Url": "/adventure/godmission/changeAdvMapBossQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3352873269,
+      "Url": "/adventure/godmission/endBossQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2647278871,
+      "Url": "/adventure/godmission/endStoryQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2956345747,
+      "Url": "/adventure/godmission/startBossQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 455784723,
+      "Url": "/adventure/useGodWing",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4122402571,
+      "Url": "/adventure/lockRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1407502874,
+      "Url": "/adventure/poolcode",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2398169662,
+      "Url": "/adventure/resurrection",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1462146243,
+      "Url": "/adventure/save",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3347970615,
+      "Url": "/adventure/saveClear",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3646669762,
+      "Url": "/adventure/godmission/save",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2395235255,
+      "Url": "/adventure/saveGet",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 531736112,
+      "Url": "/adventure/saveIs",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2722511295,
+      "Url": "/adventure/sendLikePlayer",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3487690495,
+      "Url": "/adventure/setMvpValues",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3289283874,
+      "Url": "/adventure/godmission/startEnemyMap",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2472677066,
+      "Url": "/adventure/startStarQuestAdventure",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1592143505,
+      "Url": "/advquest/finishAdvQuestTheater",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1336197523,
+      "Url": "/adventure/getCategorizeAdddropList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3316821664,
+      "Url": "/advquest/getAdvQuestList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3924198263,
+      "Url": "/advquest/lockRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3438319057,
+      "Url": "/advquest/retire",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3143637131,
+      "Url": "/advquest/startColosseum",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3518768842,
+      "Url": "/advquest/startAdvMulti",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1079931399,
+      "Url": "/advquest/startFiledAdvMulti",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4194760085,
+      "Url": "/advquest/startAdvQuestSingle",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1244119727,
+      "Url": "/advquest/startTowerQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4094782580,
+      "Url": "/godantenna/getHistory",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1466185807,
+      "Url": "/godantenna/setting",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4032466757,
+      "Url": "/boost/buy",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2410561813,
+      "Url": "/boost/getPurchaseList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4021398435,
+      "Url": "/campaigncode/check",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 559948431,
+      "Url": "/challenge/finishChallengeContentCraft",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2424248135,
+      "Url": "/challenge/getChallengeContentFloorRankingData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2693686260,
+      "Url": "/challenge/getChallengeContentInfoData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2882506032,
+      "Url": "/challenge/resetChallengeContentFloor",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 477918793,
+      "Url": "/challenge/startChallengeContentCraft",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2872558810,
+      "Url": "/challenge/startChallengeContentQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 280202790,
+      "Url": "/character/awakeningChara",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 673716710,
+      "Url": "/character/changeCharacterEquipment",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3856312495,
+      "Url": "/character/enhanceChara",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1383884372,
+      "Url": "/character/getLifeStone",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2171100798,
+      "Url": "/character/lvupSkill",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 195870743,
+      "Url": "/character/openSkill",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2558265191,
+      "Url": "/character/overlimitChara",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2190628259,
+      "Url": "/character/rareUpChara",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2556397414,
+      "Url": "/player/setSkillMedal",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3626816788,
+      "Url": "/character/talkStep",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1014034793,
+      "Url": "/character/useLifeStone",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1805581383,
+      "Url": "/character/useExpBall",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 412006763,
+      "Url": "/character/changeCharaSkinType",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4162741901,
+      "Url": "/character/evolveChara",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2763497549,
+      "Url": "/collection/getCollection",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3015101721,
+      "Url": "/collection/getCollectionFishInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 403228506,
+      "Url": "/collection/getCollectionMonsterInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 353339057,
+      "Url": "/collection/getCollectionPickInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2406338099,
+      "Url": "/collection/getCollectionRecipeInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1262832309,
+      "Url": "/rankingcolosseum/ranking",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2410293379,
+      "Url": "/rankingcolosseum/accounting",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 674247223,
+      "Url": "/rankingcolosseum/targetSearch",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1452698731,
+      "Url": "/rankingcolosseum/start",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1689280098,
+      "Url": "/rankingcolosseum/top",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2927836388,
+      "Url": "/activity/getAccumulatePaymentRewardList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1813291763,
+      "Url": "/debug/enterAdvMap",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3123249784,
+      "Url": "/debug/clearExchangeBoard",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2757702643,
+      "Url": "/debug/debugHappy",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 749993077,
+      "Url": "/debug/viewPlaceFacility",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2021301156,
+      "Url": "/debug/viewStorageFacility",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3867463317,
+      "Url": "/debug/viewPlayerFacility",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4174352970,
+      "Url": "/debug/viewPlayerFurniture",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 474892256,
+      "Url": "/debug/viewPlayerItemGod",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3432606066,
+      "Url": "/debug/viewPlayerGuard",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4123979137,
+      "Url": "/debug/viewPlayerItem",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2917489132,
+      "Url": "/debug/viewPlayerTool",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2129105631,
+      "Url": "/debug/viewPlayerWeapon",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1831227613,
+      "Url": "/debug/deletePlayer",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2688132689,
+      "Url": "/debug/getMaster",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 315550991,
+      "Url": "/debug/GWCommonSyncItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 795296917,
+      "Url": "/debug/setLifeAltar",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3167097713,
+      "Url": "/debug/reportStar",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4080508475,
+      "Url": "/debug/reset",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2585252397,
+      "Url": "/debug/setCharacter",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2931683790,
+      "Url": "/debug/setFlagIdList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2973654722,
+      "Url": "/debug/setItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2494505710,
+      "Url": "/debug/setLifeParameter",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1942248205,
+      "Url": "/debug/setPlayerGodMission",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3111603785,
+      "Url": "/debug/viewPlayerStar",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1636542905,
+      "Url": "/start/deletePlayerData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2103315184,
+      "Url": "/eventcode/list",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2877548427,
+      "Url": "/event/checkAndGetCompleteRewardList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3993274922,
+      "Url": "/facility/completeGodRecipe",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1839021373,
+      "Url": "/event/getEventGachaInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3837615037,
+      "Url": "/event/getEventList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2315799195,
+      "Url": "/event/eventQuestList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1637401098,
+      "Url": "/event/eventTop",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 148891415,
+      "Url": "/facility/getGodRecipeList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1608380817,
+      "Url": "/event/eventRewardTotalPoint",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3806128088,
+      "Url": "/start/getEventTipsInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1499033740,
+      "Url": "/exchangeBoard/canReportExchangeBoard",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1093537122,
+      "Url": "/exchangeBoard/getExchangeBoardMissionList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3284451711,
+      "Url": "/exchangeBoard/reportExchangeBoard",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1506480023,
+      "Url": "/exchangeBoard/reportExchangeBoardBulk",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 735880244,
+      "Url": "/facility/cancelAutoSynthetic",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3987222824,
+      "Url": "/facility/cancelPick",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2371314706,
+      "Url": "/facility/cancelTraining",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3544118460,
+      "Url": "/facility/cancelVillageWork",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 233711703,
+      "Url": "/facility/changeFurnitureLayout",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 965120542,
+      "Url": "/facility/changeFacilityDesign",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 651668050,
+      "Url": "/facility/completeAutoSynthetic",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1263583754,
+      "Url": "/facility/completeDrilling",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 748613652,
+      "Url": "/facility/completeManualSynthetic",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 191107924,
+      "Url": "/facility/completePick",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1976496520,
+      "Url": "/facility/completeRankupSynthetic",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3109107383,
+      "Url": "/facility/completeTraining",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1835266528,
+      "Url": "/facility/completeVillageWork",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 78070588,
+      "Url": "/facility/checkEnchant",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2072792287,
+      "Url": "/facility/completeEnchant",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1931537177,
+      "Url": "/facility/executeEnchant",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3681935038,
+      "Url": "/facility/selectEnchant",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2364444595,
+      "Url": "/facility/completeQualityupSynthetic",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2811044318,
+      "Url": "/facility/executeStrengthItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3448765405,
+      "Url": "/facility/selectStrengthItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3390050246,
+      "Url": "/facility/discardFacility",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1022568483,
+      "Url": "/facility/residentMyHouse",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4145209952,
+      "Url": "/facility/executeHappyEvent",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3704234313,
+      "Url": "/facility/getBiorhythm",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2317418126,
+      "Url": "/facility/immediateAutoSynthetic",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3239683358,
+      "Url": "/facility/immediateTraining",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2577499916,
+      "Url": "/facility/immediateVillageWork",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3499071337,
+      "Url": "/facility/pickProductionItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 468635383,
+      "Url": "/facility/startAutoSynthetic",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2529341328,
+      "Url": "/facility/startPick",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4208573444,
+      "Url": "/facility/startTraining",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2289355321,
+      "Url": "/facility/startVillageWork",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3151883613,
+      "Url": "/adventure/getMapData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3955294435,
+      "Url": "/activity/getFirstPaymentRewardInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 74457035,
+      "Url": "/flag/getFlagListAll",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2483499429,
+      "Url": "/flag/setFlagList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2744406133,
+      "Url": "/debug/setFlagList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 124762117,
+      "Url": "/gacha/executeGacha",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3879922972,
+      "Url": "/gacha/getGachaProbabilityList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4173860568,
+      "Url": "/gacha/getGachaList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3220931883,
+      "Url": "/player/getAvatarName",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 568810015,
+      "Url": "/campaign/getCampaignList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 129665768,
+      "Url": "/event/endedEventQuestList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1361344634,
+      "Url": "/multiplay/getFriendForInvitee",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 640359066,
+      "Url": "/present/getPresentList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2569735928,
+      "Url": "/present/presentHistoryList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 77224309,
+      "Url": "/godBoard/getGodBoardMissionList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 376442450,
+      "Url": "/godBoard/reportGodBoard",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2540515091,
+      "Url": "/goditem/useBoostBook",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 230687284,
+      "Url": "/adventure/godmission/finishTheater",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 638674340,
+      "Url": "/happy/happyTaxCollect",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2511559320,
+      "Url": "/multiplay/invitee",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1199779544,
+      "Url": "/invite/getInviteInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3632263010,
+      "Url": "/invite/inputInviteCode",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4214904700,
+      "Url": "/item/awakeningEquip",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 145787949,
+      "Url": "/facility/changeAuraActiveItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3183188093,
+      "Url": "/facility/changeSkinTypeItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3647314987,
+      "Url": "/facility/executeEvolveItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2488185808,
+      "Url": "/facility/selectEvolveItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1945493053,
+      "Url": "/item/overlimitEquip",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2928181860,
+      "Url": "/item/rareUpEquip",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2802423525,
+      "Url": "/item/storageExpand",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 367206481,
+      "Url": "/item/useHiden",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3107427333,
+      "Url": "/facility/changeFacilityColor",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 828376620,
+      "Url": "/bag/changeFurnitureColor",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1152855376,
+      "Url": "/bag/changeGuardColor",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3510099869,
+      "Url": "/start/deleteGdkey",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1512250241,
+      "Url": "/debug/deleteGdkey",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 228676211,
+      "Url": "/start/getPlayerInfoFromGdkey",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 597911420,
+      "Url": "/debug/getPlayerInfoFromGdkey",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4267403286,
+      "Url": "/start/loginWithGdkey",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3461505784,
+      "Url": "/debug/loginWithGdkey",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2503814071,
+      "Url": "/player/makeCharacterWithPlayerId",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2672801485,
+      "Url": "/start/makePlayerIdWithGdkey",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 369110771,
+      "Url": "/debug/makePlayerIdWithGdkey",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1074418935,
+      "Url": "/license/getMasterLifeCount",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2646314575,
+      "Url": "/license/masterDemote",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3908239532,
+      "Url": "/license/masterOpen",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2119160805,
+      "Url": "/license/getLifeAltar",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3600302528,
+      "Url": "/license/reportLifeAltar",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 446806237,
+      "Url": "/loginbonus/getLoginBonus",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1988530469,
+      "Url": "/messageroom/addMessageRoomPlayers",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2227157199,
+      "Url": "/messageroom/createRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1244304630,
+      "Url": "/messageroom/getRecentUnreadMessage",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4200472389,
+      "Url": "/messageroom/getRoomPlayers",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1599897826,
+      "Url": "/messageroom/getWebSocketServerUrl",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4215959096,
+      "Url": "/messageroom/leaveMessageRoomPlayers",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3390426064,
+      "Url": "/messageroom/removeMessageRoomMessages",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1587969685,
+      "Url": "/messageroom/renameMessageRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2635644679,
+      "Url": "/messageroom/getMessageRoomInfoList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2430514264,
+      "Url": "/messageroom/updateHideFlg",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4261842486,
+      "Url": "/messageroom/updateNoticeFlg",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4231739395,
+      "Url": "/multiplay/changeRoomState",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2201229953,
+      "Url": "/multiplay/changeRoomSetting",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 898558445,
+      "Url": "/multiplay/createRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 196215976,
+      "Url": "/multiplay/entryRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1568495950,
+      "Url": "/multiplay/getEnterRoomInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2342349524,
+      "Url": "/multiplay/getFriendRoomList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1665777672,
+      "Url": "/multiplay/getInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2313015417,
+      "Url": "/multiplay/getInviteRoomList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 996549915,
+      "Url": "/multiplay/getRandomRoomInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3699803408,
+      "Url": "/multiplay/getRecommendRoomList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3991977982,
+      "Url": "/multiplay/getRoomInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1655797425,
+      "Url": "/multiplay/getRoomList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 761522544,
+      "Url": "/multiplay/lockBossRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2592499705,
+      "Url": "/multiplay/startAdvQuestMulti",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4107837476,
+      "Url": "/advquest/validateAdvQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1346282924,
+      "Url": "",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3507157761,
+      "Url": "/notice/getNoticeList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 916900661,
+      "Url": "/npc/setGodRankTalkStep",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3607470381,
+      "Url": "/inquiry/inquiryClientPost",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4199913830,
+      "Url": "/serialcode/checkCode",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3812962253,
+      "Url": "/serialcode/useCode",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 55629903,
+      "Url": "/party/changeActiveParty",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 465467302,
+      "Url": "/party/changeMember",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1799732096,
+      "Url": "/party/changeBuddy",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3556360675,
+      "Url": "/player/changeAutoMessage",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3790107466,
+      "Url": "/player/changeAvatarData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1230741733,
+      "Url": "/player/changeAvatarEquipment",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1440136919,
+      "Url": "/player/changeAvatarLife",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 305724975,
+      "Url": "/player/changeAvatarName",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 711048405,
+      "Url": "/player/changeCustomMessage",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2219089698,
+      "Url": "/player/changeEmote",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3394477076,
+      "Url": "/player/changeGodTeam",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2072898698,
+      "Url": "/player/changeProfileComment",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3445971154,
+      "Url": "/player/changeVillageName",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 141389990,
+      "Url": "/player/downloadAvatarIcon",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1871793373,
+      "Url": "/player/getAvatarData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 534970948,
+      "Url": "/player/getAvatarLifeEquipment",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2930109646,
+      "Url": "/player/getAvatarParts",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2241853941,
+      "Url": "/player/getLifegemCnt",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 581807291,
+      "Url": "/player/getMyPlayerData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 79330421,
+      "Url": "/player/getPlayerCharacter",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2334664095,
+      "Url": "/player/getPlayerCustomMessage",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1683311922,
+      "Url": "/player/getPlayerData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1337100429,
+      "Url": "/player/getPlayerDataForAct",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1011218786,
+      "Url": "/player/getPlayerItemListBinary",
+      "RequestType": "JSON",
+      "ResponseType": "BINARY",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1199944964,
+      "Url": "/player/getPlayerItemListBinarySecure",
+      "RequestType": "JSON",
+      "ResponseType": "BINARY",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4061619737,
+      "Url": "/player/getPlayerMyHouse",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1305962470,
+      "Url": "/player/getPlayerNoticeList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2325663452,
+      "Url": "/player/getPlayerTiling",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 217948031,
+      "Url": "/player/getPlayerTitle",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2161838785,
+      "Url": "/player/getPlayerVillage",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1552713732,
+      "Url": "/player/makeCharacter",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 331810127,
+      "Url": "/player/mvp",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1651730729,
+      "Url": "/player/recoveryGodPower",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1944267784,
+      "Url": "/player/setPlayerTitle",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1393393342,
+      "Url": "/player/uploadAvatarIcon",
+      "RequestType": "POST",
+      "ResponseType": "JSON",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1606776900,
+      "Url": "/premiumpass/buyPremiumPass",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3639502285,
+      "Url": "/premiumpass/getPremiumPassList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1169192059,
+      "Url": "/payment/cancelPurchase",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2167013308,
+      "Url": "/payment/compPurchase",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2194907274,
+      "Url": "/debug/testL5idCompPurchase",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3446840729,
+      "Url": "/payment/confirmPurchase",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3183619587,
+      "Url": "/payment/executePurchase",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2016165523,
+      "Url": "/payment/updateRemovePaymentLogStatus",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2228296103,
+      "Url": "/payment/getProductItemList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1390631263,
+      "Url": "/payment/getProductItemListV2",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 626139578,
+      "Url": "/payment/getSaleProductItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3891498959,
+      "Url": "/payment/registBirth",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2840714324,
+      "Url": "/teamEventRanking/changeRegion",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 497746087,
+      "Url": "/teamEventRanking/getBoostInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2107601909,
+      "Url": "/teamEventRanking/getOpenStatus",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1523061553,
+      "Url": "/teamEventRanking/getRanking",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3462876011,
+      "Url": "/teamEventRanking/getPoint",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 976323385,
+      "Url": "/teamEventRanking/getTeam",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1027105560,
+      "Url": "/teamEventRanking/getSchedule",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2738668684,
+      "Url": "/teamEventRanking/playResult",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2206415126,
+      "Url": "/teamEventRanking/receiveReward",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2501818276,
+      "Url": "/teamEventRanking/top",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3579231012,
+      "Url": "/teamEventRanking/useBoostItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3910030195,
+      "Url": "/activity/receiveAccumulatePaymentReward",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2790376714,
+      "Url": "/present/receiptPresent",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4277128601,
+      "Url": "/serialcode/check",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2967987151,
+      "Url": "/sharedtreasure/lottery",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1318494113,
+      "Url": "/sharedtreasure/openTreasure",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4279595420,
+      "Url": "/share/award",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4151876626,
+      "Url": "/shop/buyItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1610247628,
+      "Url": "/bag/removeItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 307996250,
+      "Url": "/shop/sellItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1689468766,
+      "Url": "/shop/getPurchaseList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2708159526,
+      "Url": "/shop/buyItemGod",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 784039571,
+      "Url": "/shop/buyItemGodPack",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1405487277,
+      "Url": "/shop/getItemGodList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 105318899,
+      "Url": "/shop/buyHappyItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 43894680,
+      "Url": "/shop/getShopItemList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3530394289,
+      "Url": "/shop/upgradeMerchant",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1170314396,
+      "Url": "/smile/getRecieveSmileList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1839602003,
+      "Url": "/smile/getSendSmileList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 411387133,
+      "Url": "/smile/getSmileInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1823209548,
+      "Url": "/social/getGodNoteFriendInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3428762178,
+      "Url": "/social/getSocialLogList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1297561828,
+      "Url": "/social/greeting",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1976750574,
+      "Url": "/social/sendGodPresent",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2734013757,
+      "Url": "/social/smile",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3986300478,
+      "Url": "/stardust/buyStardustItem",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 518912113,
+      "Url": "/stardust/changeStardustPoint",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1079566483,
+      "Url": "/stardust/getStardustItemList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3769395131,
+      "Url": "/stardust/getPointDeadline",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3678547268,
+      "Url": "/start/start",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 595419767,
+      "Url": "/start/login",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2036795354,
+      "Url": "/friend/reqFriend",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1138074101,
+      "Url": "/friend/approvalReqFriend",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1348499136,
+      "Url": "/friend/blockPlayer",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3176545052,
+      "Url": "/friend/cancelReqFriend",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3385339796,
+      "Url": "/friend/removeFriend",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3504046364,
+      "Url": "/friend/getFollowerList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3576611459,
+      "Url": "/friend/getFollowList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1649042826,
+      "Url": "/friend/followPlayer",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1905519934,
+      "Url": "/friend/getFriendList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2285355493,
+      "Url": "/friend/getOnlyFriendList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2761040885,
+      "Url": "/friend/refusalReqFriend",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1576952553,
+      "Url": "/friend/searchFriend",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2183075780,
+      "Url": "/friend/blockRemove",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1710612210,
+      "Url": "/friend/unfollowPlayer",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2604399824,
+      "Url": "/synergyBoard/getSynergyBoard",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4284629602,
+      "Url": "/synergyBoard/setSynergyBoard",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 104960765,
+      "Url": "/tradeCard/cancel",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3749820276,
+      "Url": "/tradeCard/create",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2119247900,
+      "Url": "/tradeCard/detail",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 177839755,
+      "Url": "/tradeCard/list",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 692770847,
+      "Url": "/tradeCard/receive",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2945349040,
+      "Url": "/tradeCard/reply",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3604608312,
+      "Url": "/tutorial/buyMyHouse",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 914599165,
+      "Url": "/tutorial/changeAvatarEquipment",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3240762631,
+      "Url": "/tutorial/changeAvatarLife",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3080489214,
+      "Url": "/tutorial/determineGacha",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3538504510,
+      "Url": "/tutorial/executeGacha",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1739359659,
+      "Url": "/tutorial/gachaChara",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4292159523,
+      "Url": "/tutorial/gachaWeapon",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1478790969,
+      "Url": "/tutorial/getGachaInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 246803989,
+      "Url": "/tutorial/guildHouseRebuilding",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 395194106,
+      "Url": "/tutorial/skipStar",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1657877803,
+      "Url": "/tutorial/startQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4035920565,
+      "Url": "/payment/updateL5idStatus",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4072537050,
+      "Url": "/advquest/validateColosseum",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3880271362,
+      "Url": "/advquest/validateTowerQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 299981679,
+      "Url": "/villagemultiplay/changeRoomSetting",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 743686569,
+      "Url": "/villagemultiplay/createRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1081320597,
+      "Url": "/villagemultiplay/getRecallMultiQuestData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 685697410,
+      "Url": "/villagemultiplay/getAdvRoomInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3483900064,
+      "Url": "/villagemultiplay/getEnterRoomInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3434967274,
+      "Url": "/villagemultiplay/getFriendRoomList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4052895481,
+      "Url": "/villagemultiplay/getGodPowerRecoverInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2683175007,
+      "Url": "/villagemultiplay/getMultiQuestData",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3103964032,
+      "Url": "/villagemultiplay/getRecommendVillageList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1280345304,
+      "Url": "/villagemultiplay/getRoomInfo",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3272691095,
+      "Url": "/villagemultiplay/getRoomList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2521349441,
+      "Url": "/villagemultiplay/getRoomListAsGuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3788798355,
+      "Url": "/villagemultiplay/openRecallMultiQuest",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 499115742,
+      "Url": "/villagemultiplay/recoverGodPower",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3705678767,
+      "Url": "/villagemultiplay/getTargetPlayerRoom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2015795082,
+      "Url": "/village/changeFacilityLayout",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1198912776,
+      "Url": "/village/buyFacility",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2876764603,
+      "Url": "/village/buyFacilityDirectStore",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 846137359,
+      "Url": "/village/buyFacilitySpecial",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3236586795,
+      "Url": "/village/cancelFacilityUpgrade",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3802963320,
+      "Url": "/village/residentVillage",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3518271991,
+      "Url": "/village/enterVillage",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2594417332,
+      "Url": "/village/getGuildHouseVisitorList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 817261755,
+      "Url": "/village/getStarGardenVisitorList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 4012398909,
+      "Url": "/village/getVisitorList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2980016002,
+      "Url": "/village/immediateFacilityUpgrade",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 278632856,
+      "Url": "/village/refreshHappy",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1368578376,
+      "Url": "/village/removalFacility",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3127603395,
+      "Url": "/village/tiling",
+      "RequestType": "POST",
+      "ResponseType": "JSON",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2460222545,
+      "Url": "/village/completeFacilityUpgrade",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1116960487,
+      "Url": "/village/startFacilityUpgrade",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1982685609,
+      "Url": "/visit/getItemFromTreasure",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3633845914,
+      "Url": "/visit/getTreasure",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2325749128,
+      "Url": "/visit/getVisitedRandom",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 932591315,
+      "Url": "/visit/getVisitedTiling",
+      "RequestType": "GET",
+      "ResponseType": "BINARY",
+      "IsCrypt": 0,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1615129068,
+      "Url": "/visit/getVisitedVillage",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 70524220,
+      "Url": "/warehouse/delivery",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1025373473,
+      "Url": "/warehouse/getWarehouseList",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2129570636,
+      "Url": "/warehouse/store",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2255860720,
+      "Url": "/welcomebox/lottery",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 2302113437,
+      "Url": "/welcomebox/open",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 700164926,
+      "Url": "/wishBoard/acceptDispatch",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 597340681,
+      "Url": "/wishBoard/cancelDispatch",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 84808671,
+      "Url": "/wishBoard/completeDelivery",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3030227349,
+      "Url": "/wishBoard/completeDispatch",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 3721825765,
+      "Url": "/wishBoard/godpwrResolvedDelivery",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    },
+    {
+      "NetworkInd": 1816463279,
+      "Url": "/wishBoard/godpwrResolvedDispatch",
+      "RequestType": "JSON",
+      "ResponseType": "JSON",
+      "IsCrypt": 1,
+      "IsZip": 0
+    }
+  ],
+  "IdRef": {}
+}

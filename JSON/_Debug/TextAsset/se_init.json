@@ -1,0 +1,47 @@
+{
+  "TableSe": [
+    {
+      "SeInd": 2543361781,
+      "Uqid": 2543361781,
+      "Setypeid": 3495411190,
+      "CriName": "ME_SYSTEM_GAME_START"
+    },
+    {
+      "SeInd": 236625821,
+      "Uqid": 236625821,
+      "Setypeid": 3495411190,
+      "CriName": "SE_CANCEL"
+    },
+    {
+      "SeInd": 1702198784,
+      "Uqid": 1702198784,
+      "Setypeid": 3495411190,
+      "CriName": "SE_DECISION01"
+    },
+    {
+      "SeInd": 4235997114,
+      "Uqid": 4235997114,
+      "Setypeid": 3495411190,
+      "CriName": "SE_DECISION02"
+    },
+    {
+      "SeInd": 580963235,
+      "Uqid": 580963235,
+      "Setypeid": 3495411190,
+      "CriName": "SE_TAB"
+    },
+    {
+      "SeInd": 3982650606,
+      "Uqid": 3982650606,
+      "Setypeid": 3495411190,
+      "CriName": "SE_WINDOW_GENERAL_CLOSE"
+    },
+    {
+      "SeInd": 327606044,
+      "Uqid": 327606044,
+      "Setypeid": 3495411190,
+      "CriName": "SE_WINDOW_GENERAL_OPEN"
+    }
+  ],
+  "IdRef": {}
+}

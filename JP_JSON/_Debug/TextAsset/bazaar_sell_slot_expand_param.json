@@ -1,0 +1,53 @@
+{
+  "TableBazaarSellSlotExpandParam": [
+    {
+      "BazaarSellSlotExpandParamInd": 622606557,
+      "ExpandParamId": 622606557,
+      "CostGemType": 2,
+      "UseGemNum": 0,
+      "MaxSlotNum": 5,
+      "SortNo": 0
+    },
+    {
+      "BazaarSellSlotExpandParamInd": 1377503307,
+      "ExpandParamId": 1377503307,
+      "CostGemType": 2,
+      "UseGemNum": 40,
+      "MaxSlotNum": 6,
+      "SortNo": 1
+    },
+    {
+      "BazaarSellSlotExpandParamInd": 3406977521,
+      "ExpandParamId": 3406977521,
+      "CostGemType": 2,
+      "UseGemNum": 40,
+      "MaxSlotNum": 7,
+      "SortNo": 2
+    },
+    {
+      "BazaarSellSlotExpandParamInd": 3155519847,
+      "ExpandParamId": 3155519847,
+      "CostGemType": 2,
+      "UseGemNum": 40,
+      "MaxSlotNum": 8,
+      "SortNo": 3
+    },
+    {
+      "BazaarSellSlotExpandParamInd": 577895620,
+      "ExpandParamId": 577895620,
+      "CostGemType": 2,
+      "UseGemNum": 40,
+      "MaxSlotNum": 9,
+      "SortNo": 4
+    },
+    {
+      "BazaarSellSlotExpandParamInd": 1433848914,
+      "ExpandParamId": 1433848914,
+      "CostGemType": 2,
+      "UseGemNum": 40,
+      "MaxSlotNum": 10,
+      "SortNo": 5
+    }
+  ],
+  "IdRef": {}
+}

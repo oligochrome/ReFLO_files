@@ -1,0 +1,11 @@
+{
+  "TableBazaarObjFeeRate": [
+    {
+      "BazaarObjFeeRateInd": 986327055,
+      "ObjId": 986327055,
+      "BuyFeeRate": 15,
+      "SellFeeRate": 15
+    }
+  ],
+  "IdRef": {}
+}

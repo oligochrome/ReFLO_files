@@ -1,0 +1,1535 @@
+{
+  "TableDialogHelp": [
+    {
+      "DialogHelpInd": 3058296501,
+      "Uniqid": 3058296501,
+      "CategoryId": 723706245,
+      "TitleText": 1076985683,
+      "DialogId": 605320167,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 792770319,
+      "Uniqid": 792770319,
+      "CategoryId": 3041293350,
+      "TitleText": 3644337897,
+      "DialogId": 3682365864,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1481082777,
+      "Uniqid": 1481082777,
+      "CategoryId": 1161748562,
+      "TitleText": 2923372159,
+      "DialogId": 924975482,
+      "SortNum": 10,
+      "UseVillageHelp": 0
+    },
+    {
+      "DialogHelpInd": 3324187194,
+      "Uniqid": 3324187194,
+      "CategoryId": 723706245,
+      "TitleText": 811305948,
+      "DialogId": 1112984516,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2971935404,
+      "Uniqid": 2971935404,
+      "CategoryId": 723706245,
+      "TitleText": 1197259594,
+      "DialogId": 3680475774,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 674067222,
+      "Uniqid": 674067222,
+      "CategoryId": 1161748562,
+      "TitleText": 3730172656,
+      "DialogId": 1076179436,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1596605312,
+      "Uniqid": 1596605312,
+      "CategoryId": 3259057328,
+      "TitleText": 2840779366,
+      "DialogId": 3149122668,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3482672657,
+      "Uniqid": 3482672657,
+      "CategoryId": 1161748562,
+      "TitleText": 971884535,
+      "DialogId": 959228640,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3096604295,
+      "Uniqid": 3096604295,
+      "CategoryId": 3259057328,
+      "TitleText": 1324021601,
+      "DialogId": 2104790015,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3629508450,
+      "Uniqid": 3629508450,
+      "CategoryId": 3694637544,
+      "TitleText": 774733444,
+      "DialogId": 1056288628,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2941442036,
+      "Uniqid": 2941442036,
+      "CategoryId": 3694637544,
+      "TitleText": 1495944722,
+      "DialogId": 714100771,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 911967822,
+      "Uniqid": 911967822,
+      "CategoryId": 1161748562,
+      "TitleText": 3223527336,
+      "DialogId": 3398767080,
+      "SortNum": 50,
+      "UseVillageHelp": 0
+    },
+    {
+      "DialogHelpInd": 1096595160,
+      "Uniqid": 1096595160,
+      "CategoryId": 1531450634,
+      "TitleText": 3072601918,
+      "DialogId": 2669749142,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2822706157,
+      "Uniqid": 2822706157,
+      "CategoryId": 1161748562,
+      "TitleText": 1581746699,
+      "DialogId": 685100127,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 825639511,
+      "Uniqid": 825639511,
+      "CategoryId": 3308028073,
+      "TitleText": 3343834033,
+      "DialogId": 2767455614,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1177645761,
+      "Uniqid": 1177645761,
+      "CategoryId": 3308028073,
+      "TitleText": 2957634343,
+      "DialogId": 3555931624,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3599658832,
+      "Uniqid": 3599658832,
+      "CategoryId": 3259057328,
+      "TitleText": 553055926,
+      "DialogId": 474256143,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2710134726,
+      "Uniqid": 2710134726,
+      "CategoryId": 3694637544,
+      "TitleText": 1475462688,
+      "DialogId": 2528366334,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4084774049,
+      "Uniqid": 4084774049,
+      "CategoryId": 3259057328,
+      "TitleText": 83897671,
+      "DialogId": 2194720928,
+      "SortNum": 32,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2222949431,
+      "Uniqid": 2222949431,
+      "CategoryId": 1531450634,
+      "TitleText": 1913069009,
+      "DialogId": 4178469732,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 494327181,
+      "Uniqid": 494327181,
+      "CategoryId": 3259057328,
+      "TitleText": 3943582827,
+      "DialogId": 3370785131,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1785849115,
+      "Uniqid": 1785849115,
+      "CategoryId": 3259057328,
+      "TitleText": 2617867517,
+      "DialogId": 2777219631,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4095045816,
+      "Uniqid": 4095045816,
+      "CategoryId": 3308028073,
+      "TitleText": 40757598,
+      "DialogId": 3401053094,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2199011374,
+      "Uniqid": 2199011374,
+      "CategoryId": 3694637544,
+      "TitleText": 1969936840,
+      "DialogId": 860533774,
+      "SortNum": 73,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 437981588,
+      "Uniqid": 437981588,
+      "CategoryId": 723706245,
+      "TitleText": 3965945970,
+      "DialogId": 3918323354,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1830560002,
+      "Uniqid": 1830560002,
+      "CategoryId": 3308028073,
+      "TitleText": 2607069412,
+      "DialogId": 3031909128,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4255333523,
+      "Uniqid": 4255333523,
+      "CategoryId": 3308028073,
+      "TitleText": 198944117,
+      "DialogId": 3981788078,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2326006789,
+      "Uniqid": 2326006789,
+      "CategoryId": 3694637544,
+      "TitleText": 2094831075,
+      "DialogId": 2943423589,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3932390880,
+      "Uniqid": 3932390880,
+      "CategoryId": 723706245,
+      "TitleText": 471538694,
+      "DialogId": 3831216062,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2640622966,
+      "Uniqid": 2640622966,
+      "CategoryId": 723706245,
+      "TitleText": 1797008528,
+      "DialogId": 3906752759,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 74310860,
+      "Uniqid": 74310860,
+      "CategoryId": 723706245,
+      "TitleText": 4061494570,
+      "DialogId": 1668472692,
+      "SortNum": 70,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1936381018,
+      "Uniqid": 1936381018,
+      "CategoryId": 3694637544,
+      "TitleText": 2232569276,
+      "DialogId": 479696751,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3977134585,
+      "Uniqid": 3977134585,
+      "CategoryId": 723706245,
+      "TitleText": 460773407,
+      "DialogId": 3138785479,
+      "SortNum": 80,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2584310127,
+      "Uniqid": 2584310127,
+      "CategoryId": 3694637544,
+      "TitleText": 1819404425,
+      "DialogId": 700865210,
+      "SortNum": 65,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1946619971,
+      "Uniqid": 1946619971,
+      "CategoryId": 1161748562,
+      "TitleText": 2189396389,
+      "DialogId": 3587709388,
+      "SortNum": 90,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3837267410,
+      "Uniqid": 3837267410,
+      "CategoryId": 3041293350,
+      "TitleText": 314610740,
+      "DialogId": 523483853,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2478783812,
+      "Uniqid": 2478783812,
+      "CategoryId": 723706245,
+      "TitleText": 1707582626,
+      "DialogId": 1444725352,
+      "SortNum": 90,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2770473767,
+      "Uniqid": 2770473767,
+      "CategoryId": 3169859597,
+      "TitleText": 1398442689,
+      "DialogId": 1573832893,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3525649329,
+      "Uniqid": 3525649329,
+      "CategoryId": 2872082814,
+      "TitleText": 610122327,
+      "DialogId": 1438634398,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1261203979,
+      "Uniqid": 1261203979,
+      "CategoryId": 3421964443,
+      "TitleText": 3176459245,
+      "DialogId": 1160621926,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1009468061,
+      "Uniqid": 1009468061,
+      "CategoryId": 723706245,
+      "TitleText": 3394493307,
+      "DialogId": 762546114,
+      "SortNum": 100,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2723141438,
+      "Uniqid": 2723141438,
+      "CategoryId": 723706245,
+      "TitleText": 1412910808,
+      "DialogId": 2755489265,
+      "SortNum": 110,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3578324904,
+      "Uniqid": 3578324904,
+      "CategoryId": 3169859597,
+      "TitleText": 590380622,
+      "DialogId": 1225662650,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1279374866,
+      "Uniqid": 1279374866,
+      "CategoryId": 2872082814,
+      "TitleText": 3124310004,
+      "DialogId": 3626475809,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 994477700,
+      "Uniqid": 994477700,
+      "CategoryId": 3421964443,
+      "TitleText": 3443400546,
+      "DialogId": 708275308,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2885262101,
+      "Uniqid": 2885262101,
+      "CategoryId": 3308028073,
+      "TitleText": 1568735987,
+      "DialogId": 1871775822,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3707677571,
+      "Uniqid": 3707677571,
+      "CategoryId": 3041293350,
+      "TitleText": 713437797,
+      "DialogId": 224085461,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3157860966,
+      "Uniqid": 3157860966,
+      "CategoryId": 1531450634,
+      "TitleText": 1245821824,
+      "DialogId": 1017732586,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3409842928,
+      "Uniqid": 3409842928,
+      "CategoryId": 1531450634,
+      "TitleText": 1028033302,
+      "DialogId": 3740772339,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1379353418,
+      "Uniqid": 1379353418,
+      "CategoryId": 1545982227,
+      "TitleText": 2756696748,
+      "DialogId": 1652479021,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 623932380,
+      "Uniqid": 623932380,
+      "CategoryId": 723706245,
+      "TitleText": 3544771130,
+      "DialogId": 42215001,
+      "SortNum": 120,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3142903423,
+      "Uniqid": 3142903423,
+      "CategoryId": 1545982227,
+      "TitleText": 1294761881,
+      "DialogId": 3065769139,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1431996243,
+      "Uniqid": 1431996243,
+      "CategoryId": 1545982227,
+      "TitleText": 2736922293,
+      "DialogId": 1038889154,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 576567237,
+      "Uniqid": 576567237,
+      "CategoryId": 3041293350,
+      "TitleText": 3559206435,
+      "DialogId": 3030984634,
+      "SortNum": 15,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3001199188,
+      "Uniqid": 3001199188,
+      "CategoryId": 1545982227,
+      "TitleText": 1150956466,
+      "DialogId": 274879345,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3320158914,
+      "Uniqid": 3320158914,
+      "CategoryId": 1545982227,
+      "TitleText": 865927972,
+      "DialogId": 1679984568,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2534699429,
+      "Uniqid": 2534699429,
+      "CategoryId": 842649796,
+      "TitleText": 1634527299,
+      "DialogId": 2774451916,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3759358259,
+      "Uniqid": 3759358259,
+      "CategoryId": 842649796,
+      "TitleText": 376166613,
+      "DialogId": 1860540091,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2031751305,
+      "Uniqid": 2031751305,
+      "CategoryId": 842649796,
+      "TitleText": 2405599599,
+      "DialogId": 3487342305,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 236789791,
+      "Uniqid": 236789791,
+      "CategoryId": 3169859597,
+      "TitleText": 4167416313,
+      "DialogId": 2453095461,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2423895484,
+      "Uniqid": 2423895484,
+      "CategoryId": 3169859597,
+      "TitleText": 1711352922,
+      "DialogId": 2264378402,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3883828522,
+      "Uniqid": 3883828522,
+      "CategoryId": 3169859597,
+      "TitleText": 285613260,
+      "DialogId": 696219092,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2121782416,
+      "Uniqid": 2121782416,
+      "CategoryId": 3169859597,
+      "TitleText": 2282704246,
+      "DialogId": 2563590696,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 158393350,
+      "Uniqid": 158393350,
+      "CategoryId": 3169859597,
+      "TitleText": 4278746592,
+      "DialogId": 2051316502,
+      "SortNum": 70,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2580543895,
+      "Uniqid": 2580543895,
+      "CategoryId": 3169859597,
+      "TitleText": 1874288753,
+      "DialogId": 3923448906,
+      "SortNum": 80,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4006136065,
+      "Uniqid": 4006136065,
+      "CategoryId": 3169859597,
+      "TitleText": 414208231,
+      "DialogId": 3034776943,
+      "SortNum": 90,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2383364324,
+      "Uniqid": 2383364324,
+      "CategoryId": 3169859597,
+      "TitleText": 2021120258,
+      "DialogId": 610893828,
+      "SortNum": 100,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4178079858,
+      "Uniqid": 4178079858,
+      "CategoryId": 3169859597,
+      "TitleText": 259058068,
+      "DialogId": 2244363181,
+      "SortNum": 110,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1610686920,
+      "Uniqid": 1610686920,
+      "CategoryId": 3169859597,
+      "TitleText": 2524559406,
+      "DialogId": 210428845,
+      "SortNum": 120,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 386273630,
+      "Uniqid": 386273630,
+      "CategoryId": 3169859597,
+      "TitleText": 3783166136,
+      "DialogId": 2705485580,
+      "SortNum": 130,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2304935165,
+      "Uniqid": 2304935165,
+      "CategoryId": 3169859597,
+      "TitleText": 2132417819,
+      "DialogId": 920515373,
+      "SortNum": 140,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4268078187,
+      "Uniqid": 4268078187,
+      "CategoryId": 3169859597,
+      "TitleText": 136129933,
+      "DialogId": 3550675638,
+      "SortNum": 150,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1735189969,
+      "Uniqid": 1735189969,
+      "CategoryId": 3169859597,
+      "TitleText": 2434038839,
+      "DialogId": 220000426,
+      "SortNum": 160,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 275502407,
+      "Uniqid": 275502407,
+      "CategoryId": 842649796,
+      "TitleText": 3860024481,
+      "DialogId": 3729779394,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2161428694,
+      "Uniqid": 2161428694,
+      "CategoryId": 842649796,
+      "TitleText": 1991004464,
+      "DialogId": 2935353916,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4157864000,
+      "Uniqid": 4157864000,
+      "CategoryId": 842649796,
+      "TitleText": 28008870,
+      "DialogId": 2846460029,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 160914475,
+      "Uniqid": 160914475,
+      "CategoryId": 842649796,
+      "TitleText": 4293903821,
+      "DialogId": 367925525,
+      "SortNum": 70,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2123394237,
+      "Uniqid": 2123394237,
+      "CategoryId": 842649796,
+      "TitleText": 2296968539,
+      "DialogId": 3317622653,
+      "SortNum": 80,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3885579527,
+      "Uniqid": 3885579527,
+      "CategoryId": 3694637544,
+      "TitleText": 300000481,
+      "DialogId": 2369622678,
+      "SortNum": 72,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2426277265,
+      "Uniqid": 2426277265,
+      "CategoryId": 2891793767,
+      "TitleText": 1726387319,
+      "DialogId": 1367301213,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 251303986,
+      "Uniqid": 251303986,
+      "CategoryId": 3421964443,
+      "TitleText": 4169269716,
+      "DialogId": 2904940423,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2046666916,
+      "Uniqid": 2046666916,
+      "CategoryId": 3421964443,
+      "TitleText": 2407870786,
+      "DialogId": 2700049374,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3774150942,
+      "Uniqid": 3774150942,
+      "CategoryId": 3421964443,
+      "TitleText": 378298616,
+      "DialogId": 260001570,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2549336456,
+      "Uniqid": 2549336456,
+      "CategoryId": 3421964443,
+      "TitleText": 1636520046,
+      "DialogId": 344308406,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 122475545,
+      "Uniqid": 122475545,
+      "CategoryId": 3421964443,
+      "TitleText": 4046736895,
+      "DialogId": 2824927332,
+      "SortNum": 70,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1884021903,
+      "Uniqid": 1884021903,
+      "CategoryId": 3421964443,
+      "TitleText": 2251521385,
+      "DialogId": 395775415,
+      "SortNum": 80,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 277638506,
+      "Uniqid": 277638506,
+      "CategoryId": 3421964443,
+      "TitleText": 3874813068,
+      "DialogId": 2835418870,
+      "SortNum": 90,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1737186812,
+      "Uniqid": 1737186812,
+      "CategoryId": 3421964443,
+      "TitleText": 2448671770,
+      "DialogId": 1529225638,
+      "SortNum": 100,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4269935686,
+      "Uniqid": 4269935686,
+      "CategoryId": 2891793767,
+      "TitleText": 150640032,
+      "DialogId": 3433587940,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2307210448,
+      "Uniqid": 2307210448,
+      "CategoryId": 2891793767,
+      "TitleText": 2147329334,
+      "DialogId": 1338529322,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 400664947,
+      "Uniqid": 400664947,
+      "CategoryId": 3680138737,
+      "TitleText": 3784913045,
+      "DialogId": 2670109082,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1625725413,
+      "Uniqid": 1625725413,
+      "CategoryId": 3680138737,
+      "TitleText": 2526937091,
+      "DialogId": 3246615099,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4193241183,
+      "Uniqid": 4193241183,
+      "CategoryId": 3680138737,
+      "TitleText": 261575097,
+      "DialogId": 4129308439,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2397632713,
+      "Uniqid": 2397632713,
+      "CategoryId": 2872082814,
+      "TitleText": 2022727983,
+      "DialogId": 3061475189,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1766905294,
+      "Uniqid": 1766905294,
+      "CategoryId": 2872082814,
+      "TitleText": 2670218280,
+      "DialogId": 2298297152,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3230448660,
+      "Uniqid": 3230448660,
+      "CategoryId": 2872082814,
+      "TitleText": 921970162,
+      "DialogId": 2884473666,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3079376002,
+      "Uniqid": 3079376002,
+      "CategoryId": 2872082814,
+      "TitleText": 1106449764,
+      "DialogId": 1478033964,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 780328248,
+      "Uniqid": 780328248,
+      "CategoryId": 2872082814,
+      "TitleText": 3640280286,
+      "DialogId": 1033957125,
+      "SortNum": 70,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1501949358,
+      "Uniqid": 1501949358,
+      "CategoryId": 2872082814,
+      "TitleText": 2952623176,
+      "DialogId": 3377354277,
+      "SortNum": 80,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3353442317,
+      "Uniqid": 3353442317,
+      "CategoryId": 2872082814,
+      "TitleText": 832168427,
+      "DialogId": 2154057974,
+      "SortNum": 90,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2967881883,
+      "Uniqid": 2967881883,
+      "CategoryId": 2872082814,
+      "TitleText": 1184813437,
+      "DialogId": 142728579,
+      "SortNum": 100,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 703535393,
+      "Uniqid": 703535393,
+      "CategoryId": 2872082814,
+      "TitleText": 3751248071,
+      "DialogId": 39047422,
+      "SortNum": 110,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1592273335,
+      "Uniqid": 1592273335,
+      "CategoryId": 2872082814,
+      "TitleText": 2828054609,
+      "DialogId": 238547142,
+      "SortNum": 120,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3461821478,
+      "Uniqid": 3461821478,
+      "CategoryId": 2872082814,
+      "TitleText": 942648768,
+      "DialogId": 3397529981,
+      "SortNum": 130,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3109029040,
+      "Uniqid": 3109029040,
+      "CategoryId": 3694637544,
+      "TitleText": 1328061782,
+      "DialogId": 3306249403,
+      "SortNum": 55,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3650587989,
+      "Uniqid": 3650587989,
+      "CategoryId": 723706245,
+      "TitleText": 804197555,
+      "DialogId": 4170588447,
+      "SortNum": 35,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2928721347,
+      "Uniqid": 2928721347,
+      "CategoryId": 3259057328,
+      "TitleText": 1491608613,
+      "DialogId": 1870232650,
+      "SortNum": 34,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 932834425,
+      "Uniqid": 932834425,
+      "CategoryId": 1545982227,
+      "TitleText": 3252778399,
+      "DialogId": 2392093522,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2851961306,
+      "Uniqid": 2851961306,
+      "CategoryId": 842649796,
+      "TitleText": 1602609212,
+      "DialogId": 1241950073,
+      "SortNum": 35,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 821307488,
+      "Uniqid": 821307488,
+      "CategoryId": 842649796,
+      "TitleText": 3331109254,
+      "DialogId": 451512560,
+      "SortNum": 36,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1207113974,
+      "Uniqid": 1207113974,
+      "CategoryId": 3680138737,
+      "TitleText": 2978709776,
+      "DialogId": 3190771284,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3612083559,
+      "Uniqid": 3612083559,
+      "CategoryId": 3680138737,
+      "TitleText": 557096065,
+      "DialogId": 2142046644,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2689283569,
+      "Uniqid": 2689283569,
+      "CategoryId": 1531450634,
+      "TitleText": 1446226967,
+      "DialogId": 1464412259,
+      "SortNum": 0,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4072332950,
+      "Uniqid": 4072332950,
+      "CategoryId": 3259057328,
+      "TitleText": 79841136,
+      "DialogId": 2452474494,
+      "SortNum": 60,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2243816960,
+      "Uniqid": 2243816960,
+      "CategoryId": 723706245,
+      "TitleText": 1942321126,
+      "DialogId": 2921302546,
+      "SortNum": 160,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 481607610,
+      "Uniqid": 481607610,
+      "CategoryId": 842649796,
+      "TitleText": 3939247708,
+      "DialogId": 3287536781,
+      "SortNum": 90,
+      "UseVillageHelp": 0
+    },
+    {
+      "DialogHelpInd": 4124514959,
+      "Uniqid": 4124514959,
+      "CategoryId": 723706245,
+      "TitleText": 61834089,
+      "DialogId": 1266421790,
+      "SortNum": 130,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2194680345,
+      "Uniqid": 2194680345,
+      "CategoryId": 723706245,
+      "TitleText": 1957213183,
+      "DialogId": 3767664510,
+      "SortNum": 140,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 467237795,
+      "Uniqid": 467237795,
+      "CategoryId": 1161748562,
+      "TitleText": 3986809413,
+      "DialogId": 3035659912,
+      "SortNum": 30,
+      "UseVillageHelp": 0
+    },
+    {
+      "DialogHelpInd": 1826507573,
+      "Uniqid": 1826507573,
+      "CategoryId": 723706245,
+      "TitleText": 2594624211,
+      "DialogId": 3477766864,
+      "SortNum": 150,
+      "UseVillageHelp": 0
+    },
+    {
+      "DialogHelpInd": 4234237604,
+      "Uniqid": 4234237604,
+      "CategoryId": 3169859597,
+      "TitleText": 169463618,
+      "DialogId": 3301415175,
+      "SortNum": 21,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2338743858,
+      "Uniqid": 2338743858,
+      "CategoryId": 3169859597,
+      "TitleText": 2099183572,
+      "DialogId": 188618143,
+      "SortNum": 41,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3953258455,
+      "Uniqid": 3953258455,
+      "CategoryId": 3169859597,
+      "TitleText": 500790833,
+      "DialogId": 2845850041,
+      "SortNum": 101,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2628181825,
+      "Uniqid": 2628181825,
+      "CategoryId": 3169859597,
+      "TitleText": 1792951975,
+      "DialogId": 2161461527,
+      "SortNum": 161,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 95391483,
+      "Uniqid": 95391483,
+      "CategoryId": 3421964443,
+      "TitleText": 4090959645,
+      "DialogId": 875335229,
+      "SortNum": 41,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1923661421,
+      "Uniqid": 1923661421,
+      "CategoryId": 3421964443,
+      "TitleText": 2228234123,
+      "DialogId": 2524323480,
+      "SortNum": 61,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3972803534,
+      "Uniqid": 3972803534,
+      "CategoryId": 3421964443,
+      "TitleText": 448049704,
+      "DialogId": 805855052,
+      "SortNum": 101,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1975876212,
+      "Uniqid": 1975876212,
+      "CategoryId": 1846784913,
+      "TitleText": 2210259858,
+      "DialogId": 1959995367,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3850004453,
+      "Uniqid": 3850004453,
+      "CategoryId": 1846784913,
+      "TitleText": 318963203,
+      "DialogId": 3429087493,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2457687923,
+      "Uniqid": 2457687923,
+      "CategoryId": 1846784913,
+      "TitleText": 1678102165,
+      "DialogId": 3548951884,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2766174480,
+      "Uniqid": 2766174480,
+      "CategoryId": 3694637544,
+      "TitleText": 1385750774,
+      "DialogId": 1654016168,
+      "SortNum": 75,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3555150214,
+      "Uniqid": 3555150214,
+      "CategoryId": 420774663,
+      "TitleText": 631230560,
+      "DialogId": 3606515962,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1257117756,
+      "Uniqid": 1257117756,
+      "CategoryId": 420774663,
+      "TitleText": 3163980250,
+      "DialogId": 2081048962,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1038690474,
+      "Uniqid": 1038690474,
+      "CategoryId": 842649796,
+      "TitleText": 3415322956,
+      "DialogId": 61576752,
+      "SortNum": 100,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2743975177,
+      "Uniqid": 2743975177,
+      "CategoryId": 842649796,
+      "TitleText": 1442129135,
+      "DialogId": 3778867290,
+      "SortNum": 110,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1300487205,
+      "Uniqid": 1300487205,
+      "CategoryId": 1112745035,
+      "TitleText": 3153806787,
+      "DialogId": 2516728650,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 981789875,
+      "Uniqid": 981789875,
+      "CategoryId": 1112745035,
+      "TitleText": 3439097173,
+      "DialogId": 613351123,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2856055074,
+      "Uniqid": 2856055074,
+      "CategoryId": 1531450634,
+      "TitleText": 1547921604,
+      "DialogId": 2309755606,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2530614162,
+      "Uniqid": 2530614162,
+      "CategoryId": 2149438141,
+      "TitleText": 1622049396,
+      "DialogId": 229412290,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3788581636,
+      "Uniqid": 3788581636,
+      "CategoryId": 2149438141,
+      "TitleText": 396997346,
+      "DialogId": 627768178,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2027453118,
+      "Uniqid": 2027453118,
+      "CategoryId": 1531450634,
+      "TitleText": 2392908632,
+      "DialogId": 1675731133,
+      "SortNum": 100,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2445008779,
+      "Uniqid": 2445008779,
+      "CategoryId": 3694637544,
+      "TitleText": 1740850797,
+      "DialogId": 409880025,
+      "SortNum": 70,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3871141661,
+      "Uniqid": 3871141661,
+      "CategoryId": 3694637544,
+      "TitleText": 281310971,
+      "DialogId": 2358429085,
+      "SortNum": 50,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2142617255,
+      "Uniqid": 2142617255,
+      "CategoryId": 171232723,
+      "TitleText": 2311923521,
+      "DialogId": 700101003,
+      "SortNum": 0,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 145919537,
+      "Uniqid": 145919537,
+      "CategoryId": 3694637544,
+      "TitleText": 4274657239,
+      "DialogId": 3023759055,
+      "SortNum": 77,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2551026592,
+      "Uniqid": 2551026592,
+      "CategoryId": 3694637544,
+      "TitleText": 1853164102,
+      "DialogId": 966865932,
+      "SortNum": 80,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4010451766,
+      "Uniqid": 4010451766,
+      "CategoryId": 3259057328,
+      "TitleText": 426916560,
+      "DialogId": 687798719,
+      "SortNum": 39,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2412587731,
+      "Uniqid": 2412587731,
+      "CategoryId": 3694637544,
+      "TitleText": 2041951029,
+      "DialogId": 2664060783,
+      "SortNum": 71,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4173994565,
+      "Uniqid": 4173994565,
+      "CategoryId": 3694637544,
+      "TitleText": 246580131,
+      "DialogId": 318589039,
+      "SortNum": 78,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1640188927,
+      "Uniqid": 1640188927,
+      "CategoryId": 4034340402,
+      "TitleText": 2545668633,
+      "DialogId": 2381765258,
+      "SortNum": 70,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 381975401,
+      "Uniqid": 381975401,
+      "CategoryId": 4034340402,
+      "TitleText": 3770475151,
+      "DialogId": 1921100380,
+      "SortNum": 72,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2292248266,
+      "Uniqid": 2292248266,
+      "CategoryId": 3694637544,
+      "TitleText": 2128115500,
+      "DialogId": 4037927886,
+      "SortNum": 76,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4289191516,
+      "Uniqid": 4289191516,
+      "CategoryId": 723706245,
+      "TitleText": 165627834,
+      "DialogId": 2607889484,
+      "SortNum": 65,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1722716134,
+      "Uniqid": 1722716134,
+      "CategoryId": 4034340402,
+      "TitleText": 2429949440,
+      "DialogId": 1279029734,
+      "SortNum": 71,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 296337264,
+      "Uniqid": 296337264,
+      "CategoryId": 3259057328,
+      "TitleText": 3889243798,
+      "DialogId": 824107656,
+      "SortNum": 37,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2165744353,
+      "Uniqid": 2165744353,
+      "CategoryId": 3694637544,
+      "TitleText": 2003712775,
+      "DialogId": 1044812662,
+      "SortNum": 5,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 4128346743,
+      "Uniqid": 4128346743,
+      "CategoryId": 3694637544,
+      "TitleText": 6884241,
+      "DialogId": 2301427511,
+      "SortNum": 6,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 139802140,
+      "Uniqid": 139802140,
+      "CategoryId": 3694637544,
+      "TitleText": 4264407034,
+      "DialogId": 320572846,
+      "SortNum": 7,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2136082058,
+      "Uniqid": 2136082058,
+      "CategoryId": 3694637544,
+      "TitleText": 2301271916,
+      "DialogId": 3610134802,
+      "SortNum": 8,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3864745776,
+      "Uniqid": 3864745776,
+      "CategoryId": 1769895816,
+      "TitleText": 270782166,
+      "DialogId": 1340189616,
+      "SortNum": 10,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2438752166,
+      "Uniqid": 2438752166,
+      "CategoryId": 1769895816,
+      "TitleText": 1730477632,
+      "DialogId": 220289468,
+      "SortNum": 20,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 255390213,
+      "Uniqid": 255390213,
+      "CategoryId": 1769895816,
+      "TitleText": 4181748707,
+      "DialogId": 4282952843,
+      "SortNum": 30,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2017444499,
+      "Uniqid": 2017444499,
+      "CategoryId": 1769895816,
+      "TitleText": 2387041141,
+      "DialogId": 88031483,
+      "SortNum": 40,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3778450217,
+      "Uniqid": 3778450217,
+      "CategoryId": 1769895816,
+      "TitleText": 390990543,
+      "DialogId": 1496208255,
+      "SortNum": 0,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2519835583,
+      "Uniqid": 2519835583,
+      "CategoryId": 3694637544,
+      "TitleText": 1615411801,
+      "DialogId": 1279776187,
+      "SortNum": 9,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 1121576668,
+      "Uniqid": 1121576668,
+      "CategoryId": 171232723,
+      "TitleText": 4260187921,
+      "DialogId": 4252453588,
+      "SortNum": 0,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 3687888742,
+      "Uniqid": 3687888742,
+      "CategoryId": 171232723,
+      "TitleText": 4260187921,
+      "DialogId": 4252453588,
+      "SortNum": 0,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 2899806192,
+      "Uniqid": 2899806192,
+      "CategoryId": 3198420206,
+      "TitleText": 4260187921,
+      "DialogId": 4252453588,
+      "SortNum": 0,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 850596435,
+      "Uniqid": 850596435,
+      "CategoryId": 2692648550,
+      "TitleText": 4260187921,
+      "DialogId": 4252453588,
+      "SortNum": 0,
+      "UseVillageHelp": 1
+    },
+    {
+      "DialogHelpInd": 171232723,
+      "Uniqid": 171232723,
+      "CategoryId": 171232723,
+      "TitleText": 4260187921,
+      "DialogId": 4252453588,
+      "SortNum": 0,
+      "UseVillageHelp": 1
+    }
+  ],
+  "IdRef": {}
+}

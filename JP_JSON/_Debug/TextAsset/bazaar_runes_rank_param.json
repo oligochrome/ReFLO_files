@@ -1,0 +1,35 @@
+{
+  "TableBazaarRunesRankParam": [
+    {
+      "BazaarRunesRankParamInd": 144037323,
+      "RankId": 144037323,
+      "RankPoint": 0,
+      "SortNo": 0
+    },
+    {
+      "BazaarRunesRankParamInd": 2442953841,
+      "RankId": 2442953841,
+      "RankPoint": 50,
+      "SortNo": 1
+    },
+    {
+      "BazaarRunesRankParamInd": 3868964071,
+      "RankId": 3868964071,
+      "RankPoint": 120,
+      "SortNo": 2
+    },
+    {
+      "BazaarRunesRankParamInd": 2029986116,
+      "RankId": 2029986116,
+      "RankPoint": 180,
+      "SortNo": 3
+    },
+    {
+      "BazaarRunesRankParamInd": 267915730,
+      "RankId": 267915730,
+      "RankPoint": 220,
+      "SortNo": 4
+    }
+  ],
+  "IdRef": {}
+}

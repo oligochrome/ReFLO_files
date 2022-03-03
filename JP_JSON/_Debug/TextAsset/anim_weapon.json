@@ -1,0 +1,983 @@
+{
+  "TableAnimWeapon": [
+    {
+      "AnimWeaponInd": 1917037815,
+      "Uqid": 1917037815,
+      "Idname": "ANIM_AVATAR_60845_AT1",
+      "Filename": "Battle_Attack001_Claw"
+    },
+    {
+      "AnimWeaponInd": 3947560269,
+      "Uqid": 3947560269,
+      "Idname": "ANIM_AVATAR_60845_AT2",
+      "Filename": "Battle_Attack002_Claw"
+    },
+    {
+      "AnimWeaponInd": 2622344667,
+      "Uqid": 2622344667,
+      "Idname": "ANIM_AVATAR_60845_AT3",
+      "Filename": "Battle_Attack003_Claw"
+    },
+    {
+      "AnimWeaponInd": 36264056,
+      "Uqid": 36264056,
+      "Idname": "ANIM_AVATAR_60845_AT4",
+      "Filename": "Battle_Attack004_Claw"
+    },
+    {
+      "AnimWeaponInd": 1965975790,
+      "Uqid": 1965975790,
+      "Idname": "ANIM_AVATAR_60845_AT5",
+      "Filename": "Battle_Attack005_Claw"
+    },
+    {
+      "AnimWeaponInd": 3961993556,
+      "Uqid": 3961993556,
+      "Idname": "ANIM_AVATAR_60845_AT6",
+      "Filename": "Battle_Attack006_Claw"
+    },
+    {
+      "AnimWeaponInd": 1721375273,
+      "Uqid": 1721375273,
+      "Idname": "ANIM_AVATAR_60845_BtIDLE",
+      "Filename": "Claw_Battle_To_Idle"
+    },
+    {
+      "AnimWeaponInd": 1146090884,
+      "Uqid": 1146090884,
+      "Idname": "ANIM_AVATAR_60845_C1",
+      "Filename": "Claw_ChargeA"
+    },
+    {
+      "AnimWeaponInd": 3712394302,
+      "Uqid": 3712394302,
+      "Idname": "ANIM_AVATAR_60845_C2",
+      "Filename": "Claw_ChargeB"
+    },
+    {
+      "AnimWeaponInd": 69447895,
+      "Uqid": 69447895,
+      "Idname": "ANIM_AVATAR_60845_CHARGEM",
+      "Filename": "Battle_ChargeMove_Claw"
+    },
+    {
+      "AnimWeaponInd": 1382263798,
+      "Uqid": 1382263798,
+      "Idname": "ANIM_AVATAR_60845_CHARGEMB",
+      "Filename": "Battle_ChargeMoveBack_Claw"
+    },
+    {
+      "AnimWeaponInd": 4264332724,
+      "Uqid": 4264332724,
+      "Idname": "ANIM_AVATAR_60845_CHARGES",
+      "Filename": "Battle_ChargeStance_Claw"
+    },
+    {
+      "AnimWeaponInd": 3009364661,
+      "Uqid": 3009364661,
+      "Idname": "ANIM_AVATAR_60845_DAMAGE",
+      "Filename": "Battle_Damage_Claw"
+    },
+    {
+      "AnimWeaponInd": 3021796005,
+      "Uqid": 3021796005,
+      "Idname": "ANIM_AVATAR_60845_IDLE",
+      "Filename": "Battle_Idle_Claw"
+    },
+    {
+      "AnimWeaponInd": 312205617,
+      "Uqid": 312205617,
+      "Idname": "ANIM_AVATAR_60845_IDLEtB",
+      "Filename": "Claw_Idle_To_Battle"
+    },
+    {
+      "AnimWeaponInd": 1998807726,
+      "Uqid": 1998807726,
+      "Idname": "ANIM_AVATAR_60845_ITEM",
+      "Filename": "Claw_ItemUse"
+    },
+    {
+      "AnimWeaponInd": 2265346248,
+      "Uqid": 2265346248,
+      "Idname": "ANIM_AVATAR_60845_MOVE",
+      "Filename": "Battle_Move_Claw"
+    },
+    {
+      "AnimWeaponInd": 3756557251,
+      "Uqid": 3756557251,
+      "Idname": "ANIM_AVATAR_60845_MOVEB",
+      "Filename": "Battle_MoveBack_Claw"
+    },
+    {
+      "AnimWeaponInd": 4162222850,
+      "Uqid": 4162222850,
+      "Idname": "ANIM_AVATAR_AT1",
+      "Filename": "Battle_Attack001_Sickle"
+    },
+    {
+      "AnimWeaponInd": 1629432504,
+      "Uqid": 1629432504,
+      "Idname": "ANIM_AVATAR_AT2",
+      "Filename": "Battle_Attack002_Sickle"
+    },
+    {
+      "AnimWeaponInd": 4286299931,
+      "Uqid": 4286299931,
+      "Idname": "ANIM_AVATAR_AT5",
+      "Filename": "Battle_Attack005_Sickle"
+    },
+    {
+      "AnimWeaponInd": 1718808225,
+      "Uqid": 1718808225,
+      "Idname": "ANIM_AVATAR_AT6",
+      "Filename": "Battle_Attack006_Sickle"
+    },
+    {
+      "AnimWeaponInd": 1951526047,
+      "Uqid": 1951526047,
+      "Idname": "ANIM_AVATAR_C1",
+      "Filename": "Sickle_ChargeA"
+    },
+    {
+      "AnimWeaponInd": 4160534232,
+      "Uqid": 4160534232,
+      "Idname": "ANIM_AVATAR_CHARGEM",
+      "Filename": "Battle_ChargeMove_Sickle"
+    },
+    {
+      "AnimWeaponInd": 3257887073,
+      "Uqid": 3257887073,
+      "Idname": "ANIM_AVATAR_CHARGEMB",
+      "Filename": "Battle_ChargeMoveBack_Sickle"
+    },
+    {
+      "AnimWeaponInd": 234064827,
+      "Uqid": 234064827,
+      "Idname": "ANIM_AVATAR_CHARGES",
+      "Filename": "Battle_ChargeStance_Sickle"
+    },
+    {
+      "AnimWeaponInd": 3583486459,
+      "Uqid": 3583486459,
+      "Idname": "ANIM_AVATAR_DRAW",
+      "Filename": "Battle_Draw_Sickle"
+    },
+    {
+      "AnimWeaponInd": 2034344417,
+      "Uqid": 2034344417,
+      "Idname": "ANIM_AVATAR_IDLE",
+      "Filename": "Battle_Idle_Sickle"
+    },
+    {
+      "AnimWeaponInd": 3615719556,
+      "Uqid": 3615719556,
+      "Idname": "ANIM_AVATAR_ITEMUSE",
+      "Filename": "Sickle_ItemUse"
+    },
+    {
+      "AnimWeaponInd": 1247486860,
+      "Uqid": 1247486860,
+      "Idname": "ANIM_AVATAR_MOVE",
+      "Filename": "Battle_Move_Sickle"
+    },
+    {
+      "AnimWeaponInd": 161083816,
+      "Uqid": 161083816,
+      "Idname": "ANIM_AVATAR_MOVEBACK",
+      "Filename": "Battle_MoveBack_Sickle"
+    },
+    {
+      "AnimWeaponInd": 3873237704,
+      "Uqid": 3873237704,
+      "Idname": "ANIM_AVATAR_STEP",
+      "Filename": "Battle_Step_Sickle"
+    },
+    {
+      "AnimWeaponInd": 1820848211,
+      "Uqid": 1820848211,
+      "Idname": "ANIM_AVATAR_T",
+      "Filename": "Sickle_Tension"
+    },
+    {
+      "AnimWeaponInd": 574761181,
+      "Uqid": 574761181,
+      "Idname": "ANIM_WEAPON_00090_AC_00",
+      "Filename": "weapon_00090_Attack_Special_E"
+    },
+    {
+      "AnimWeaponInd": 2578715562,
+      "Uqid": 2578715562,
+      "Idname": "ANIM_WEAPON_00090_C1_00",
+      "Filename": "weapon_00090_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 2332146756,
+      "Uqid": 2332146756,
+      "Idname": "ANIM_WEAPON_00090_C2_00",
+      "Filename": "weapon_00090_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 946007103,
+      "Uqid": 946007103,
+      "Idname": "ANIM_WEAPON_00090_SC_00",
+      "Filename": "weapon_00090_Attack_Special_D"
+    },
+    {
+      "AnimWeaponInd": 1265915960,
+      "Uqid": 1265915960,
+      "Idname": "ANIM_WEAPON_00090_T1_00",
+      "Filename": "weapon_00090_Attack_Special_C"
+    },
+    {
+      "AnimWeaponInd": 2991778586,
+      "Uqid": 2991778586,
+      "Idname": "ANIM_WEAPON_10310_C1_00",
+      "Filename": "weapon_10310_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 2699511028,
+      "Uqid": 2699511028,
+      "Idname": "ANIM_WEAPON_10310_C2_00",
+      "Filename": "weapon_10310_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 3647818630,
+      "Uqid": 3647818630,
+      "Idname": "ANIM_WEAPON_10310_CA_00",
+      "Filename": "weapon_10310_battle_Step_Forward"
+    },
+    {
+      "AnimWeaponInd": 1459273633,
+      "Uqid": 1459273633,
+      "Idname": "ANIM_WEAPON_10310_NA_01",
+      "Filename": "weapon_10310_Attack001"
+    },
+    {
+      "AnimWeaponInd": 3488869915,
+      "Uqid": 3488869915,
+      "Idname": "ANIM_WEAPON_10310_NA_02",
+      "Filename": "weapon_10310_Attack002"
+    },
+    {
+      "AnimWeaponInd": 3103055501,
+      "Uqid": 3103055501,
+      "Idname": "ANIM_WEAPON_10310_NA_03",
+      "Filename": "weapon_10310_Attack003"
+    },
+    {
+      "AnimWeaponInd": 646990638,
+      "Uqid": 646990638,
+      "Idname": "ANIM_WEAPON_10310_NA_04",
+      "Filename": "weapon_10310_Attack004"
+    },
+    {
+      "AnimWeaponInd": 1368882104,
+      "Uqid": 1368882104,
+      "Idname": "ANIM_WEAPON_10310_NA_05",
+      "Filename": "weapon_10310_Attack005"
+    },
+    {
+      "AnimWeaponInd": 3365808642,
+      "Uqid": 3365808642,
+      "Idname": "ANIM_WEAPON_10310_NA_06",
+      "Filename": "weapon_10310_Attack006"
+    },
+    {
+      "AnimWeaponInd": 327423119,
+      "Uqid": 327423119,
+      "Idname": "ANIM_WEAPON_10310_SC_00",
+      "Filename": "weapon_10310_Attack_Special_D"
+    },
+    {
+      "AnimWeaponInd": 1620222088,
+      "Uqid": 1620222088,
+      "Idname": "ANIM_WEAPON_10310_T1_00",
+      "Filename": "weapon_10310_Attack_Special_C"
+    },
+    {
+      "AnimWeaponInd": 4232753724,
+      "Uqid": 4232753724,
+      "Idname": "ANIM_WEAPON_11510_T1_00",
+      "Filename": "weapon_11510_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 2684747341,
+      "Uqid": 2684747341,
+      "Idname": "ANIM_WEAPON_11520_C1_00",
+      "Filename": "weapon_11520_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 2997899683,
+      "Uqid": 2997899683,
+      "Idname": "ANIM_WEAPON_11520_C2_00",
+      "Filename": "weapon_11520_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 1152232182,
+      "Uqid": 1152232182,
+      "Idname": "ANIM_WEAPON_11520_NA_01",
+      "Filename": "weapon_11520_Attack001"
+    },
+    {
+      "AnimWeaponInd": 3718576972,
+      "Uqid": 3718576972,
+      "Idname": "ANIM_WEAPON_11520_NA_02",
+      "Filename": "weapon_11520_Attack002"
+    },
+    {
+      "AnimWeaponInd": 2862861274,
+      "Uqid": 2862861274,
+      "Idname": "ANIM_WEAPON_11520_NA_03",
+      "Filename": "weapon_11520_Attack003"
+    },
+    {
+      "AnimWeaponInd": 885481081,
+      "Uqid": 885481081,
+      "Idname": "ANIM_WEAPON_11520_NA_04",
+      "Filename": "weapon_11520_Attack004"
+    },
+    {
+      "AnimWeaponInd": 1136684783,
+      "Uqid": 1136684783,
+      "Idname": "ANIM_WEAPON_11520_NA_05",
+      "Filename": "weapon_11520_Attack005"
+    },
+    {
+      "AnimWeaponInd": 3670622037,
+      "Uqid": 3670622037,
+      "Idname": "ANIM_WEAPON_11520_NA_06",
+      "Filename": "weapon_11520_Attack006"
+    },
+    {
+      "AnimWeaponInd": 1925559775,
+      "Uqid": 1925559775,
+      "Idname": "ANIM_WEAPON_11520_T1_00",
+      "Filename": "weapon_11520_Attack_Special_C"
+    },
+    {
+      "AnimWeaponInd": 303080108,
+      "Uqid": 303080108,
+      "Idname": "ANIM_WEAPON_13180_NA_06",
+      "Filename": "weapon_13180_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 158714859,
+      "Uqid": 158714859,
+      "Idname": "ANIM_WEAPON_14120_C2_00",
+      "Filename": "weapon_14120_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 3372232599,
+      "Uqid": 3372232599,
+      "Idname": "ANIM_WEAPON_14120_T1_00",
+      "Filename": "weapon_14120_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 2550699819,
+      "Uqid": 2550699819,
+      "Idname": "ANIM_WEAPON_18010_C1_00",
+      "Filename": "weapon_18010_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 2327656645,
+      "Uqid": 2327656645,
+      "Idname": "ANIM_WEAPON_18010_C2_00",
+      "Filename": "weapon_18010_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 2090910608,
+      "Uqid": 2090910608,
+      "Idname": "ANIM_WEAPON_18010_NA_01",
+      "Filename": "weapon_18010_Attack001"
+    },
+    {
+      "AnimWeaponInd": 3853095466,
+      "Uqid": 3853095466,
+      "Idname": "ANIM_WEAPON_18010_NA_02",
+      "Filename": "weapon_18010_Attack002"
+    },
+    {
+      "AnimWeaponInd": 2460918460,
+      "Uqid": 2460918460,
+      "Idname": "ANIM_WEAPON_18010_NA_03",
+      "Filename": "weapon_18010_Attack003"
+    },
+    {
+      "AnimWeaponInd": 214578975,
+      "Uqid": 214578975,
+      "Idname": "ANIM_WEAPON_18010_NA_04",
+      "Filename": "weapon_18010_Attack004"
+    },
+    {
+      "AnimWeaponInd": 2077034377,
+      "Uqid": 2077034377,
+      "Idname": "ANIM_WEAPON_18010_NA_05",
+      "Filename": "weapon_18010_Attack005"
+    },
+    {
+      "AnimWeaponInd": 3804517939,
+      "Uqid": 3804517939,
+      "Idname": "ANIM_WEAPON_18010_NA_06",
+      "Filename": "weapon_18010_Attack006"
+    },
+    {
+      "AnimWeaponInd": 1254677689,
+      "Uqid": 1254677689,
+      "Idname": "ANIM_WEAPON_18010_T1_00",
+      "Filename": "weapon_18010_Attack_Special_C"
+    },
+    {
+      "AnimWeaponInd": 1049710081,
+      "Uqid": 1049710081,
+      "Idname": "ANIM_WEAPON_60019_01",
+      "Filename": "weapon_60019_Attack001"
+    },
+    {
+      "AnimWeaponInd": 2811764667,
+      "Uqid": 2811764667,
+      "Idname": "ANIM_WEAPON_60019_02",
+      "Filename": "weapon_60019_Attack002"
+    },
+    {
+      "AnimWeaponInd": 3500093229,
+      "Uqid": 3500093229,
+      "Idname": "ANIM_WEAPON_60019_03",
+      "Filename": "weapon_60019_Attack003"
+    },
+    {
+      "AnimWeaponInd": 1325120142,
+      "Uqid": 1325120142,
+      "Idname": "ANIM_WEAPON_60019_04",
+      "Filename": "weapon_60019_Attack004"
+    },
+    {
+      "AnimWeaponInd": 972851736,
+      "Uqid": 972851736,
+      "Idname": "ANIM_WEAPON_60019_05",
+      "Filename": "weapon_60019_Attack005"
+    },
+    {
+      "AnimWeaponInd": 2700467106,
+      "Uqid": 2700467106,
+      "Idname": "ANIM_WEAPON_60019_06",
+      "Filename": "weapon_60019_Attack006"
+    },
+    {
+      "AnimWeaponInd": 3680760397,
+      "Uqid": 3680760397,
+      "Idname": "ANIM_WEAPON_60019_AV",
+      "Filename": "weapon_60019_Avoid"
+    },
+    {
+      "AnimWeaponInd": 976887787,
+      "Uqid": 976887787,
+      "Idname": "ANIM_WEAPON_60019_BSF",
+      "Filename": "weapon_60019_Battle_Step_Forward"
+    },
+    {
+      "AnimWeaponInd": 1047378586,
+      "Uqid": 1047378586,
+      "Idname": "ANIM_WEAPON_60019_BTOI",
+      "Filename": "weapon_60019_Battle_To_Idle"
+    },
+    {
+      "AnimWeaponInd": 981689396,
+      "Uqid": 981689396,
+      "Idname": "ANIM_WEAPON_60019_C1",
+      "Filename": "weapon_60019_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 2743743886,
+      "Uqid": 2743743886,
+      "Idname": "ANIM_WEAPON_60019_C2",
+      "Filename": "weapon_60019_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 1664112931,
+      "Uqid": 1664112931,
+      "Idname": "ANIM_WEAPON_60019_CM",
+      "Filename": "weapon_60019_ChargeMove"
+    },
+    {
+      "AnimWeaponInd": 3906244122,
+      "Uqid": 3906244122,
+      "Idname": "ANIM_WEAPON_60019_CMB",
+      "Filename": "weapon_60019_ChargeMoveBack"
+    },
+    {
+      "AnimWeaponInd": 2571068480,
+      "Uqid": 2571068480,
+      "Idname": "ANIM_WEAPON_60019_CS",
+      "Filename": "weapon_60019_Attack_Special_D"
+    },
+    {
+      "AnimWeaponInd": 3620831491,
+      "Uqid": 3620831491,
+      "Idname": "ANIM_WEAPON_60019_IDLE",
+      "Filename": "weapon_60019_Idle_Battle"
+    },
+    {
+      "AnimWeaponInd": 1466370485,
+      "Uqid": 1466370485,
+      "Idname": "ANIM_WEAPON_60019_INA",
+      "Filename": "weapon_60019_Idle_Normal_Action"
+    },
+    {
+      "AnimWeaponInd": 2126439443,
+      "Uqid": 2126439443,
+      "Idname": "ANIM_WEAPON_60019_ITOB",
+      "Filename": "weapon_60019_Idle_To_Battle"
+    },
+    {
+      "AnimWeaponInd": 3838509934,
+      "Uqid": 3838509934,
+      "Idname": "ANIM_WEAPON_60019_MOVE",
+      "Filename": "weapon_60019_Move_Fast_Battle"
+    },
+    {
+      "AnimWeaponInd": 1057022114,
+      "Uqid": 1057022114,
+      "Idname": "ANIM_WEAPON_60019_T1",
+      "Filename": "weapon_60019_Attack_Special_C"
+    },
+    {
+      "AnimWeaponInd": 2592349550,
+      "Uqid": 2592349550,
+      "Idname": "ANIM_WEAPON_60352_01",
+      "Filename": "weapon_60352_Attack001"
+    },
+    {
+      "AnimWeaponInd": 59591892,
+      "Uqid": 59591892,
+      "Idname": "ANIM_WEAPON_60352_02",
+      "Filename": "weapon_60352_Attack002"
+    },
+    {
+      "AnimWeaponInd": 1955232834,
+      "Uqid": 1955232834,
+      "Idname": "ANIM_WEAPON_60352_03",
+      "Filename": "weapon_60352_Attack003"
+    },
+    {
+      "AnimWeaponInd": 3941525985,
+      "Uqid": 3941525985,
+      "Idname": "ANIM_WEAPON_60352_04",
+      "Filename": "weapon_60352_Attack004"
+    },
+    {
+      "AnimWeaponInd": 2649348471,
+      "Uqid": 2649348471,
+      "Idname": "ANIM_WEAPON_60352_05",
+      "Filename": "weapon_60352_Attack005"
+    },
+    {
+      "AnimWeaponInd": 81823949,
+      "Uqid": 81823949,
+      "Idname": "ANIM_WEAPON_60352_06",
+      "Filename": "weapon_60352_Attack006"
+    },
+    {
+      "AnimWeaponInd": 946732327,
+      "Uqid": 946732327,
+      "Idname": "ANIM_WEAPON_60352_BTI",
+      "Filename": "weapon_60352_Battle_To_Idle"
+    },
+    {
+      "AnimWeaponInd": 2660644699,
+      "Uqid": 2660644699,
+      "Idname": "ANIM_WEAPON_60352_C1",
+      "Filename": "weapon_60352_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 127887073,
+      "Uqid": 127887073,
+      "Idname": "ANIM_WEAPON_60352_C2",
+      "Filename": "weapon_60352_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 3341093452,
+      "Uqid": 3341093452,
+      "Idname": "ANIM_WEAPON_60352_CM",
+      "Filename": "weapon_60352_ChargeMove"
+    },
+    {
+      "AnimWeaponInd": 897443712,
+      "Uqid": 897443712,
+      "Idname": "ANIM_WEAPON_60352_CMB",
+      "Filename": "weapon_60352_ChargeMoveBack"
+    },
+    {
+      "AnimWeaponInd": 1026176815,
+      "Uqid": 1026176815,
+      "Idname": "ANIM_WEAPON_60352_CS",
+      "Filename": "weapon_60352_Attack_Special_D"
+    },
+    {
+      "AnimWeaponInd": 1142315618,
+      "Uqid": 1142315618,
+      "Idname": "ANIM_WEAPON_60352_ID",
+      "Filename": "weapon_60352_Idle_Battle"
+    },
+    {
+      "AnimWeaponInd": 2328780847,
+      "Uqid": 2328780847,
+      "Idname": "ANIM_WEAPON_60352_INA",
+      "Filename": "weapon_60352_Idle_Normal_Action"
+    },
+    {
+      "AnimWeaponInd": 2750073678,
+      "Uqid": 2750073678,
+      "Idname": "ANIM_WEAPON_60352_ITB",
+      "Filename": "weapon_60352_Idle_To_Battle"
+    },
+    {
+      "AnimWeaponInd": 3095123525,
+      "Uqid": 3095123525,
+      "Idname": "ANIM_WEAPON_60352_MBB",
+      "Filename": "weapon_60352_Move_Back_Battle"
+    },
+    {
+      "AnimWeaponInd": 3692499777,
+      "Uqid": 3692499777,
+      "Idname": "ANIM_WEAPON_60352_MFB",
+      "Filename": "weapon_60352_Move_Fast_Battle"
+    },
+    {
+      "AnimWeaponInd": 2115702231,
+      "Uqid": 2115702231,
+      "Idname": "ANIM_WEAPON_60352_T",
+      "Filename": "weapon_60352_Attack_Special_C"
+    },
+    {
+      "AnimWeaponInd": 3848718437,
+      "Uqid": 3848718437,
+      "Idname": "ANIM_WEAPON_60602_BSF",
+      "Filename": "weapon_60602_Battle_Step_Forward"
+    },
+    {
+      "AnimWeaponInd": 112929176,
+      "Uqid": 112929176,
+      "Idname": "ANIM_WEAPON_60602_C1",
+      "Filename": "weapon_60602_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 2679273506,
+      "Uqid": 2679273506,
+      "Idname": "ANIM_WEAPON_60602_C2",
+      "Filename": "weapon_60602_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 1296114296,
+      "Uqid": 1296114296,
+      "Idname": "ANIM_WEAPON_60602_C2_2",
+      "Filename": "weapon_60602_Attack_Special_B_Ver2"
+    },
+    {
+      "AnimWeaponInd": 2166715029,
+      "Uqid": 2166715029,
+      "Idname": "ANIM_WEAPON_60602_T",
+      "Filename": "weapon_60602_Attack_Special_C"
+    },
+    {
+      "AnimWeaponInd": 3595620484,
+      "Uqid": 3595620484,
+      "Idname": "ANIM_WEAPON_60644_C1",
+      "Filename": "weapon_60644_ChargeA"
+    },
+    {
+      "AnimWeaponInd": 1331265854,
+      "Uqid": 1331265854,
+      "Idname": "ANIM_WEAPON_60644_C2",
+      "Filename": "weapon_60644_ChargeB"
+    },
+    {
+      "AnimWeaponInd": 3067988608,
+      "Uqid": 3067988608,
+      "Idname": "ANIM_WEAPON_60644_CmB",
+      "Filename": "weapon_60644_ChargeMoveBack"
+    },
+    {
+      "AnimWeaponInd": 2981105305,
+      "Uqid": 2981105305,
+      "Idname": "ANIM_WEAPON_60644_CmF",
+      "Filename": "weapon_60644_ChargeMoveForward"
+    },
+    {
+      "AnimWeaponInd": 1317204024,
+      "Uqid": 1317204024,
+      "Idname": "ANIM_WEAPON_60644_Cs",
+      "Filename": "weapon_60644_ChargeStance"
+    },
+    {
+      "AnimWeaponInd": 1312297723,
+      "Uqid": 1312297723,
+      "Idname": "ANIM_WEAPON_60644_NA1",
+      "Filename": "weapon_60644_Attack001"
+    },
+    {
+      "AnimWeaponInd": 3610329921,
+      "Uqid": 3610329921,
+      "Idname": "ANIM_WEAPON_60644_NA2",
+      "Filename": "weapon_60644_Attack002"
+    },
+    {
+      "AnimWeaponInd": 2687923159,
+      "Uqid": 2687923159,
+      "Idname": "ANIM_WEAPON_60644_NA3",
+      "Filename": "weapon_60644_Attack003"
+    },
+    {
+      "AnimWeaponInd": 1045620340,
+      "Uqid": 1045620340,
+      "Idname": "ANIM_WEAPON_60644_NA4",
+      "Filename": "weapon_60644_Attack004"
+    },
+    {
+      "AnimWeaponInd": 1230362338,
+      "Uqid": 1230362338,
+      "Idname": "ANIM_WEAPON_60644_NA5",
+      "Filename": "weapon_60644_Attack005"
+    },
+    {
+      "AnimWeaponInd": 3495724888,
+      "Uqid": 3495724888,
+      "Idname": "ANIM_WEAPON_60644_NA6",
+      "Filename": "weapon_60644_Attack006"
+    },
+    {
+      "AnimWeaponInd": 3553842194,
+      "Uqid": 3553842194,
+      "Idname": "ANIM_WEAPON_60644_T1",
+      "Filename": "weapon_60644_Tension"
+    },
+    {
+      "AnimWeaponInd": 3183206203,
+      "Uqid": 3183206203,
+      "Idname": "ANIM_WEAPON_60686_01",
+      "Filename": "weapon_60686_Attack001"
+    },
+    {
+      "AnimWeaponInd": 615681665,
+      "Uqid": 615681665,
+      "Idname": "ANIM_WEAPON_60686_02",
+      "Filename": "weapon_60686_Attack002"
+    },
+    {
+      "AnimWeaponInd": 1404419607,
+      "Uqid": 1404419607,
+      "Idname": "ANIM_WEAPON_60686_03",
+      "Filename": "weapon_60686_Attack003"
+    },
+    {
+      "AnimWeaponInd": 3453037492,
+      "Uqid": 3453037492,
+      "Idname": "ANIM_WEAPON_60686_04",
+      "Filename": "weapon_60686_Attack004"
+    },
+    {
+      "AnimWeaponInd": 3134593826,
+      "Uqid": 3134593826,
+      "Idname": "ANIM_WEAPON_60686_05",
+      "Filename": "weapon_60686_Attack005"
+    },
+    {
+      "AnimWeaponInd": 601836184,
+      "Uqid": 601836184,
+      "Idname": "ANIM_WEAPON_60686_06",
+      "Filename": "weapon_60686_Attack006"
+    },
+    {
+      "AnimWeaponInd": 1481204599,
+      "Uqid": 1481204599,
+      "Idname": "ANIM_WEAPON_60686_AV",
+      "Filename": "weapon_60686_Counter"
+    },
+    {
+      "AnimWeaponInd": 4239781064,
+      "Uqid": 4239781064,
+      "Idname": "ANIM_WEAPON_60686_BSF",
+      "Filename": "weapon_60686_Counter"
+    },
+    {
+      "AnimWeaponInd": 2630632475,
+      "Uqid": 2630632475,
+      "Idname": "ANIM_WEAPON_60686_BTOI",
+      "Filename": "weapon_60686_Battle_To_Idle"
+    },
+    {
+      "AnimWeaponInd": 3114923278,
+      "Uqid": 3114923278,
+      "Idname": "ANIM_WEAPON_60686_C1",
+      "Filename": "weapon_60686_ChargeA"
+    },
+    {
+      "AnimWeaponInd": 547398836,
+      "Uqid": 547398836,
+      "Idname": "ANIM_WEAPON_60686_C2",
+      "Filename": "weapon_60686_ChargeB"
+    },
+    {
+      "AnimWeaponInd": 3759851545,
+      "Uqid": 3759851545,
+      "Idname": "ANIM_WEAPON_60686_CM",
+      "Filename": "weapon_60686_ChargeMoveForward"
+    },
+    {
+      "AnimWeaponInd": 777747769,
+      "Uqid": 777747769,
+      "Idname": "ANIM_WEAPON_60686_CMB",
+      "Filename": "weapon_60686_ChargeMoveBack"
+    },
+    {
+      "AnimWeaponInd": 437646714,
+      "Uqid": 437646714,
+      "Idname": "ANIM_WEAPON_60686_CS",
+      "Filename": "weapon_60686_ChargeStance"
+    },
+    {
+      "AnimWeaponInd": 1970306946,
+      "Uqid": 1970306946,
+      "Idname": "ANIM_WEAPON_60686_IDLE",
+      "Filename": "weapon_60686_Idle_Battle"
+    },
+    {
+      "AnimWeaponInd": 2447964822,
+      "Uqid": 2447964822,
+      "Idname": "ANIM_WEAPON_60686_INA",
+      "Filename": "weapon_60686_Idle_Normal_Action"
+    },
+    {
+      "AnimWeaponInd": 3693025938,
+      "Uqid": 3693025938,
+      "Idname": "ANIM_WEAPON_60686_ITOB",
+      "Filename": "weapon_60686_Idle_To_Battle"
+    },
+    {
+      "AnimWeaponInd": 670259814,
+      "Uqid": 670259814,
+      "Idname": "ANIM_WEAPON_60686_M",
+      "Filename": "weapon_60686_Move_Fast_Battle"
+    },
+    {
+      "AnimWeaponInd": 3578321102,
+      "Uqid": 3578321102,
+      "Idname": "ANIM_WEAPON_60686_Mb",
+      "Filename": "weapon_60686_Move_Back_Battle"
+    },
+    {
+      "AnimWeaponInd": 3156898200,
+      "Uqid": 3156898200,
+      "Idname": "ANIM_WEAPON_60686_T1",
+      "Filename": "weapon_60686_Tension"
+    },
+    {
+      "AnimWeaponInd": 1132810921,
+      "Uqid": 1132810921,
+      "Idname": "ANIM_WEAPON_60688_BSF",
+      "Filename": "weapon_60688_Battle_Step_Forward"
+    },
+    {
+      "AnimWeaponInd": 1500938813,
+      "Uqid": 1500938813,
+      "Idname": "ANIM_WEAPON_60688_C1",
+      "Filename": "weapon_60688_Attack_Special_A"
+    },
+    {
+      "AnimWeaponInd": 3229602695,
+      "Uqid": 3229602695,
+      "Idname": "ANIM_WEAPON_60688_C2",
+      "Filename": "weapon_60688_Attack_Special_B"
+    },
+    {
+      "AnimWeaponInd": 4228530049,
+      "Uqid": 4228530049,
+      "Idname": "ANIM_WEAPON_60688_NA1",
+      "Filename": "weapon_60688_Attack001"
+    },
+    {
+      "AnimWeaponInd": 1694723643,
+      "Uqid": 1694723643,
+      "Idname": "ANIM_WEAPON_60688_NA2",
+      "Filename": "weapon_60688_Attack002"
+    },
+    {
+      "AnimWeaponInd": 302276269,
+      "Uqid": 302276269,
+      "Idname": "ANIM_WEAPON_60688_NA3",
+      "Filename": "weapon_60688_Attack003"
+    },
+    {
+      "AnimWeaponInd": 2355153678,
+      "Uqid": 2355153678,
+      "Idname": "ANIM_WEAPON_60688_NA4",
+      "Filename": "weapon_60688_Attack004"
+    },
+    {
+      "AnimWeaponInd": 4217895832,
+      "Uqid": 4217895832,
+      "Idname": "ANIM_WEAPON_60688_NA5",
+      "Filename": "weapon_60688_Attack005"
+    },
+    {
+      "AnimWeaponInd": 1651419682,
+      "Uqid": 1651419682,
+      "Idname": "ANIM_WEAPON_60688_NA6",
+      "Filename": "weapon_60688_Attack006"
+    },
+    {
+      "AnimWeaponInd": 1559561899,
+      "Uqid": 1559561899,
+      "Idname": "ANIM_WEAPON_60688_T1",
+      "Filename": "weapon_60688_Attack_Special_C"
+    },
+    {
+      "AnimWeaponInd": 3057265376,
+      "Uqid": 3057265376,
+      "Idname": "ANIM_WEAPON_60748_AV",
+      "Filename": "weapon_60748_Counter"
+    },
+    {
+      "AnimWeaponInd": 767554638,
+      "Uqid": 767554638,
+      "Idname": "ANIM_WEAPON_60748_NA1",
+      "Filename": "weapon_60748_Attack001"
+    },
+    {
+      "AnimWeaponInd": 3031868916,
+      "Uqid": 3031868916,
+      "Idname": "ANIM_WEAPON_60748_NA2",
+      "Filename": "weapon_60748_Attack002"
+    },
+    {
+      "AnimWeaponInd": 3283195234,
+      "Uqid": 3283195234,
+      "Idname": "ANIM_WEAPON_60748_NA3",
+      "Filename": "weapon_60748_Attack003"
+    },
+    {
+      "AnimWeaponInd": 1574240449,
+      "Uqid": 1574240449,
+      "Idname": "ANIM_WEAPON_60748_NA4",
+      "Filename": "weapon_60748_Attack004"
+    },
+    {
+      "AnimWeaponInd": 718418007,
+      "Uqid": 718418007,
+      "Idname": "ANIM_WEAPON_60748_NA5",
+      "Filename": "weapon_60748_Attack005"
+    },
+    {
+      "AnimWeaponInd": 3017499117,
+      "Uqid": 3017499117,
+      "Idname": "ANIM_WEAPON_60748_NA6",
+      "Filename": "weapon_60748_Attack006"
+    },
+    {
+      "AnimWeaponInd": 4031682335,
+      "Uqid": 4031682335,
+      "Idname": "ANIM_WEAPON_NONE",
+      "Filename": "none"
+    }
+  ],
+  "IdRef": {}
+}

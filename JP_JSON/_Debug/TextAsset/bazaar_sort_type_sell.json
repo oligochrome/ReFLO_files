@@ -1,0 +1,25 @@
+{
+  "TableBazaarSortTypeSell": [
+    {
+      "BazaarSortTypeSellInd": 1147280604,
+      "Uniqid": 1147280604,
+      "Textid": 3736279282
+    },
+    {
+      "BazaarSortTypeSellInd": 3434792572,
+      "Uniqid": 3434792572,
+      "Textid": 817723870
+    },
+    {
+      "BazaarSortTypeSellInd": 168456838,
+      "Uniqid": 168456838,
+      "Textid": 4260187921
+    },
+    {
+      "BazaarSortTypeSellInd": 2948627563,
+      "Uniqid": 2948627563,
+      "Textid": 1203390792
+    }
+  ],
+  "IdRef": {}
+}

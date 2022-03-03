@@ -1,0 +1,19 @@
+{
+  "TableDerivedLifeAbility": [
+    {
+      "DerivedLifeAbilityInd": 1580485554,
+      "LifeId": 1580485554,
+      "GpId": 2012066974,
+      "GpRate": 1,
+      "DamageRateMax": 350.0
+    },
+    {
+      "DerivedLifeAbilityInd": 1893294502,
+      "LifeId": 1893294502,
+      "GpId": 3554115986,
+      "GpRate": 100,
+      "DamageRateMax": 100.0
+    }
+  ],
+  "IdRef": {}
+}

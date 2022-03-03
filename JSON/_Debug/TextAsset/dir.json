@@ -1,0 +1,1141 @@
+{
+  "TableDir": [
+    {
+      "DirInd": 4014921359,
+      "DirPath": "Texture/UI/Star/"
+    },
+    {
+      "DirInd": 3263364514,
+      "DirPath": "Action/"
+    },
+    {
+      "DirInd": 2423192117,
+      "DirPath": "AI/"
+    },
+    {
+      "DirInd": 4141235353,
+      "DirPath": "Animation/Avatar/"
+    },
+    {
+      "DirInd": 3686637747,
+      "DirPath": "Animation/Camera/"
+    },
+    {
+      "DirInd": 157390269,
+      "DirPath": "Animation/Item/"
+    },
+    {
+      "DirInd": 3940447613,
+      "DirPath": "Animation/NpcGeneric/"
+    },
+    {
+      "DirInd": 2762645475,
+      "DirPath": "Animation/NpcHumanoid/"
+    },
+    {
+      "DirInd": 34370489,
+      "DirPath": "Animation/Vehicle/"
+    },
+    {
+      "DirInd": 2308106576,
+      "DirPath": "Animation/Weapon/"
+    },
+    {
+      "DirInd": 2841594630,
+      "DirPath": "avatar/"
+    },
+    {
+      "DirInd": 1802031788,
+      "DirPath": "avatar/body/"
+    },
+    {
+      "DirInd": 217813921,
+      "DirPath": "avatar/bottom/"
+    },
+    {
+      "DirInd": 2077890115,
+      "DirPath": "avatar/brow/"
+    },
+    {
+      "DirInd": 3823440857,
+      "DirPath": "avatar/cape/"
+    },
+    {
+      "DirInd": 695570573,
+      "DirPath": "avatar/dress/"
+    },
+    {
+      "DirInd": 1676781173,
+      "DirPath": "avatar/ear/"
+    },
+    {
+      "DirInd": 1647950827,
+      "DirPath": "avatar/eye/"
+    },
+    {
+      "DirInd": 3050611321,
+      "DirPath": "avatar/face/"
+    },
+    {
+      "DirInd": 2386005457,
+      "DirPath": "avatar/feet/"
+    },
+    {
+      "DirInd": 3173198448,
+      "DirPath": "avatar/glasses/"
+    },
+    {
+      "DirInd": 741849095,
+      "DirPath": "avatar/hair/"
+    },
+    {
+      "DirInd": 2544016273,
+      "DirPath": "avatar/hand/"
+    },
+    {
+      "DirInd": 2185924627,
+      "DirPath": "avatar/hat/"
+    },
+    {
+      "DirInd": 1595179493,
+      "DirPath": "avatar/mouth/"
+    },
+    {
+      "DirInd": 809285069,
+      "DirPath": "avatar/nose/"
+    },
+    {
+      "DirInd": 411691090,
+      "DirPath": "avatar/other/"
+    },
+    {
+      "DirInd": 1892938194,
+      "DirPath": "chara/"
+    },
+    {
+      "DirInd": 1522813304,
+      "DirPath": "common/"
+    },
+    {
+      "DirInd": 155756763,
+      "DirPath": "effect/"
+    },
+    {
+      "DirInd": 2783983635,
+      "DirPath": "facility/"
+    },
+    {
+      "DirInd": 629825507,
+      "DirPath": "item/"
+    },
+    {
+      "DirInd": 3079051770,
+      "DirPath": "map/"
+    },
+    {
+      "DirInd": 3435820817,
+      "DirPath": "mapobj/"
+    },
+    {
+      "DirInd": 863586624,
+      "DirPath": "map/advroom/"
+    },
+    {
+      "DirInd": 2073327713,
+      "DirPath": "map/village/"
+    },
+    {
+      "DirInd": 1442572522,
+      "DirPath": "missile/"
+    },
+    {
+      "DirInd": 1564300905,
+      "DirPath": "monster/"
+    },
+    {
+      "DirInd": 2740745574,
+      "DirPath": "pick/"
+    },
+    {
+      "DirInd": 2745810451,
+      "DirPath": "script/"
+    },
+    {
+      "DirInd": 242331733,
+      "DirPath": "table/"
+    },
+    {
+      "DirInd": 3807249649,
+      "DirPath": "test/"
+    },
+    {
+      "DirInd": 3094323555,
+      "DirPath": "ui/"
+    },
+    {
+      "DirInd": 1682537228,
+      "DirPath": "ui/atlas/"
+    },
+    {
+      "DirInd": 1659073563,
+      "DirPath": "vehicle/"
+    },
+    {
+      "DirInd": 3592134351,
+      "DirPath": "weapon/"
+    },
+    {
+      "DirInd": 753951783,
+      "DirPath": "test/user/tkimura/"
+    },
+    {
+      "DirInd": 2662712799,
+      "DirPath": "Json/"
+    },
+    {
+      "DirInd": 1507995194,
+      "DirPath": "LuaScript/"
+    },
+    {
+      "DirInd": 414713076,
+      "DirPath": "Material/Avatar/"
+    },
+    {
+      "DirInd": 3415785510,
+      "DirPath": "Material/Avatar/body/"
+    },
+    {
+      "DirInd": 1043215064,
+      "DirPath": "Material/Avatar/bottom/"
+    },
+    {
+      "DirInd": 3676964041,
+      "DirPath": "Material/Avatar/brow/"
+    },
+    {
+      "DirInd": 1125450067,
+      "DirPath": "Material/Avatar/cape/"
+    },
+    {
+      "DirInd": 616041121,
+      "DirPath": "Material/Avatar/dress/"
+    },
+    {
+      "DirInd": 354726131,
+      "DirPath": "Material/Avatar/face/"
+    },
+    {
+      "DirInd": 784834395,
+      "DirPath": "Material/Avatar/feet/"
+    },
+    {
+      "DirInd": 2361895565,
+      "DirPath": "Material/Avatar/hair/"
+    },
+    {
+      "DirInd": 928155931,
+      "DirPath": "Material/Avatar/hand/"
+    },
+    {
+      "DirInd": 2025480947,
+      "DirPath": "Material/Avatar/hat/"
+    },
+    {
+      "DirInd": 3039193053,
+      "DirPath": "Material/NpcGeneric/"
+    },
+    {
+      "DirInd": 1914946585,
+      "DirPath": "Material/NpcHumanoid/"
+    },
+    {
+      "DirInd": 836829284,
+      "DirPath": "Material/Vehicle/"
+    },
+    {
+      "DirInd": 833234530,
+      "DirPath": "Missile/"
+    },
+    {
+      "DirInd": 908007965,
+      "DirPath": "Movie/"
+    },
+    {
+      "DirInd": 2317541461,
+      "DirPath": ""
+    },
+    {
+      "DirInd": 2640535943,
+      "DirPath": "Prefab/Adventure/"
+    },
+    {
+      "DirInd": 2396262210,
+      "DirPath": "Prefab/Avatar/"
+    },
+    {
+      "DirInd": 3855131979,
+      "DirPath": "Prefab/Avatar/body/"
+    },
+    {
+      "DirInd": 3550846133,
+      "DirPath": "Prefab/Avatar/bottom/"
+    },
+    {
+      "DirInd": 1833264190,
+      "DirPath": "Prefab/Avatar/cape/"
+    },
+    {
+      "DirInd": 395659041,
+      "DirPath": "Prefab/Avatar/dress/"
+    },
+    {
+      "DirInd": 2104080616,
+      "DirPath": "Prefab/Avatar/ear/"
+    },
+    {
+      "DirInd": 997512606,
+      "DirPath": "Prefab/Avatar/face/"
+    },
+    {
+      "DirInd": 9959990,
+      "DirPath": "Prefab/Avatar/feet/"
+    },
+    {
+      "DirInd": 2804326402,
+      "DirPath": "Prefab/Avatar/glasses/"
+    },
+    {
+      "DirInd": 2727858144,
+      "DirPath": "Prefab/Avatar/hair/"
+    },
+    {
+      "DirInd": 419622006,
+      "DirPath": "Prefab/Avatar/hand/"
+    },
+    {
+      "DirInd": 2631044750,
+      "DirPath": "Prefab/Avatar/hat/"
+    },
+    {
+      "DirInd": 3197944362,
+      "DirPath": "Prefab/Avatar/nose/"
+    },
+    {
+      "DirInd": 644431870,
+      "DirPath": "Prefab/Avatar/other/"
+    },
+    {
+      "DirInd": 2747241320,
+      "DirPath": "Prefab/Camera/"
+    },
+    {
+      "DirInd": 2102332732,
+      "DirPath": "Prefab/Common/"
+    },
+    {
+      "DirInd": 502830789,
+      "DirPath": "Prefab/Debug/"
+    },
+    {
+      "DirInd": 784592031,
+      "DirPath": "Prefab/Effect/"
+    },
+    {
+      "DirInd": 2415078467,
+      "DirPath": "Prefab/FaceMask/"
+    },
+    {
+      "DirInd": 1079250960,
+      "DirPath": "Prefab/MapObj/Facility/"
+    },
+    {
+      "DirInd": 3735617335,
+      "DirPath": "Prefab/MapObj/Facility/Common/"
+    },
+    {
+      "DirInd": 715691066,
+      "DirPath": "Prefab/Field/"
+    },
+    {
+      "DirInd": 3271022684,
+      "DirPath": "Prefab/Gacha/"
+    },
+    {
+      "DirInd": 2212693686,
+      "DirPath": "Prefab/Gacha/effects/"
+    },
+    {
+      "DirInd": 101870116,
+      "DirPath": "Prefab/Gacha/Sequences/"
+    },
+    {
+      "DirInd": 4082093690,
+      "DirPath": "Prefab/Item/"
+    },
+    {
+      "DirInd": 1791151228,
+      "DirPath": "Prefab/MapObj/Pick/"
+    },
+    {
+      "DirInd": 2763319386,
+      "DirPath": "Prefab/Map/"
+    },
+    {
+      "DirInd": 3946918741,
+      "DirPath": "Prefab/MapObj/"
+    },
+    {
+      "DirInd": 3185131175,
+      "DirPath": "Prefab/Map/Advroom/"
+    },
+    {
+      "DirInd": 3580899675,
+      "DirPath": "Prefab/Map/Area/"
+    },
+    {
+      "DirInd": 1605913400,
+      "DirPath": "Prefab/Map/MainMenu/"
+    },
+    {
+      "DirInd": 4052131467,
+      "DirPath": "Prefab/Map/Myroom"
+    },
+    {
+      "DirInd": 1187002043,
+      "DirPath": "Prefab/Map/Stage/"
+    },
+    {
+      "DirInd": 3879509154,
+      "DirPath": "Prefab/Map/Area/"
+    },
+    {
+      "DirInd": 4113829766,
+      "DirPath": "Prefab/Map/Village/"
+    },
+    {
+      "DirInd": 3201021073,
+      "DirPath": "Prefab/Map/World/"
+    },
+    {
+      "DirInd": 611182119,
+      "DirPath": "Prefab/Missile/"
+    },
+    {
+      "DirInd": 749426852,
+      "DirPath": "Prefab/Monster/"
+    },
+    {
+      "DirInd": 2331689488,
+      "DirPath": "Prefab/MyGarden/"
+    },
+    {
+      "DirInd": 1364102048,
+      "DirPath": "Prefab/NpcGeneric/"
+    },
+    {
+      "DirInd": 1551081844,
+      "DirPath": "Prefab/NpcHumanoid/"
+    },
+    {
+      "DirInd": 1973019903,
+      "DirPath": "Prefab/MapObj/Pick/"
+    },
+    {
+      "DirInd": 3990224704,
+      "DirPath": "Prefab/Shadow/"
+    },
+    {
+      "DirInd": 1311252228,
+      "DirPath": "Prefab/Theater/"
+    },
+    {
+      "DirInd": 3867563899,
+      "DirPath": "Prefab/UI/"
+    },
+    {
+      "DirInd": 2179814159,
+      "DirPath": "Prefab/UI/Atlas/"
+    },
+    {
+      "DirInd": 2678972346,
+      "DirPath": "Prefab/UI/AvatarMake/"
+    },
+    {
+      "DirInd": 1117951440,
+      "DirPath": "Prefab/UI/Collection/"
+    },
+    {
+      "DirInd": 2370496411,
+      "DirPath": "Prefab/UI/Colosseum/"
+    },
+    {
+      "DirInd": 3731994396,
+      "DirPath": "Prefab/UI/Common/"
+    },
+    {
+      "DirInd": 3321979121,
+      "DirPath": "Prefab/UI/Common/CommonMenu/"
+    },
+    {
+      "DirInd": 2133235234,
+      "DirPath": "Prefab/UI/Common/ItemWindow/"
+    },
+    {
+      "DirInd": 1210906696,
+      "DirPath": "Prefab/UI/Common/CommonMenu/MerchantUpgrade/"
+    },
+    {
+      "DirInd": 3662970898,
+      "DirPath": "Prefab/UI/Common/PullupMenuWindow/"
+    },
+    {
+      "DirInd": 1630425128,
+      "DirPath": "Prefab/UI/Common/CommonMenu/ShopAdventure/"
+    },
+    {
+      "DirInd": 2540859684,
+      "DirPath": "Prefab/UI/Common/CommonMenu/SingleQuest/"
+    },
+    {
+      "DirInd": 822098885,
+      "DirPath": "Prefab/UI/Common/VillageMenu/"
+    },
+    {
+      "DirInd": 2885162983,
+      "DirPath": "Prefab/UI/DebugMenu/"
+    },
+    {
+      "DirInd": 2130452271,
+      "DirPath": "Prefab/UI/Dialog/"
+    },
+    {
+      "DirInd": 4000298375,
+      "DirPath": "Prefab/UI/DummyScreen/"
+    },
+    {
+      "DirInd": 214081458,
+      "DirPath": "Prefab/UI/Dungeon/"
+    },
+    {
+      "DirInd": 3360264103,
+      "DirPath": "Prefab/UI/EventMenu/"
+    },
+    {
+      "DirInd": 292258713,
+      "DirPath": "Prefab/UI/ExpertMission/"
+    },
+    {
+      "DirInd": 2775678635,
+      "DirPath": "Prefab/UI/ExpBallMenu/"
+    },
+    {
+      "DirInd": 2819801176,
+      "DirPath": "Prefab/UI/Field/"
+    },
+    {
+      "DirInd": 1078823998,
+      "DirPath": "Prefab/UI/Gacha/"
+    },
+    {
+      "DirInd": 220919557,
+      "DirPath": "Prefab/UI/GodTrial/"
+    },
+    {
+      "DirInd": 2259155115,
+      "DirPath": "Prefab/UI/GuildMenu/"
+    },
+    {
+      "DirInd": 4236236698,
+      "DirPath": "Prefab/UI/Invite/"
+    },
+    {
+      "DirInd": 1378911018,
+      "DirPath": "Prefab/UI/InAppPurchase/"
+    },
+    {
+      "DirInd": 3930966945,
+      "DirPath": "Prefab/UI/L5ID/"
+    },
+    {
+      "DirInd": 2435907390,
+      "DirPath": "Prefab/UI/ListViewIcon/"
+    },
+    {
+      "DirInd": 3122689222,
+      "DirPath": "Prefab/UI/LoginBonus/"
+    },
+    {
+      "DirInd": 3968765158,
+      "DirPath": "Prefab/UI/Common/MainFrame/"
+    },
+    {
+      "DirInd": 3095922383,
+      "DirPath": "Prefab/UI/MainMenu/"
+    },
+    {
+      "DirInd": 1799416917,
+      "DirPath": "Prefab/UI/AreaMap/"
+    },
+    {
+      "DirInd": 1506650443,
+      "DirPath": "Prefab/UI/WorldMap/"
+    },
+    {
+      "DirInd": 818656168,
+      "DirPath": "Prefab/UI/MyGarden/ChatMenu/"
+    },
+    {
+      "DirInd": 3580301994,
+      "DirPath": "Prefab/UI/MyGarden/ClaimAchievementReward/"
+    },
+    {
+      "DirInd": 1004886173,
+      "DirPath": "Prefab/UI/MyGarden/Common/"
+    },
+    {
+      "DirInd": 945785045,
+      "DirPath": "Prefab/UI/MyGarden/ExchangeBoard/"
+    },
+    {
+      "DirInd": 2296601298,
+      "DirPath": "Prefab/UI/MyGarden/FriendMenu/"
+    },
+    {
+      "DirInd": 1583835666,
+      "DirPath": "Prefab/UI/MyGarden/ItemMenu/"
+    },
+    {
+      "DirInd": 631356905,
+      "DirPath": "Prefab/UI/MyGarden/LifeAltar/"
+    },
+    {
+      "DirInd": 2629523757,
+      "DirPath": "Prefab/UI/MyGarden/MiniWish/"
+    },
+    {
+      "DirInd": 1648905840,
+      "DirPath": "Prefab/UI/MyGarden/Placement/"
+    },
+    {
+      "DirInd": 3433843371,
+      "DirPath": "Prefab/UI/MyGarden/Trade/"
+    },
+    {
+      "DirInd": 2489853741,
+      "DirPath": "Prefab/UI/MyGarden/VillageMulti/"
+    },
+    {
+      "DirInd": 816816519,
+      "DirPath": "Prefab/UI/MyGarden/WishBoard/"
+    },
+    {
+      "DirInd": 2143456593,
+      "DirPath": "Prefab/UI/MyGarden/WorkingMenu/"
+    },
+    {
+      "DirInd": 804182694,
+      "DirPath": "Prefab/UI/MultiPlayerMatching/"
+    },
+    {
+      "DirInd": 885661470,
+      "DirPath": "Prefab/UI/MyGarden/"
+    },
+    {
+      "DirInd": 4067142135,
+      "DirPath": "Prefab/UI/MyGarden/GuideArrow/"
+    },
+    {
+      "DirInd": 1726960734,
+      "DirPath": "Prefab/UI/MyGarden/InspectorWindow/"
+    },
+    {
+      "DirInd": 2285084340,
+      "DirPath": "Prefab/UI/NewAdventure/"
+    },
+    {
+      "DirInd": 4043893454,
+      "DirPath": "Prefab/UI/NewAdventure/Minimap/"
+    },
+    {
+      "DirInd": 1606345834,
+      "DirPath": "Prefab/UI/NewAdventure/QuestEntrance/"
+    },
+    {
+      "DirInd": 2422391262,
+      "DirPath": "Prefab/UI/NewAdventure/Radarmap/"
+    },
+    {
+      "DirInd": 406897543,
+      "DirPath": "Prefab/UI/Common/CommonMenu/NoteBook/"
+    },
+    {
+      "DirInd": 1629210621,
+      "DirPath": "Prefab/UI/Common/CommonMenu/Option/"
+    },
+    {
+      "DirInd": 555676440,
+      "DirPath": "Prefab/UI/OptionMenu/"
+    },
+    {
+      "DirInd": 462928844,
+      "DirPath": "Prefab/UI/Plaza/"
+    },
+    {
+      "DirInd": 4193182040,
+      "DirPath": "Prefab/UI/Popup/"
+    },
+    {
+      "DirInd": 3011557874,
+      "DirPath": "Prefab/UI/RankingEvent/"
+    },
+    {
+      "DirInd": 2327927279,
+      "DirPath": "Prefab/UI/RankingEvent/Ranking/"
+    },
+    {
+      "DirInd": 924805885,
+      "DirPath": "Prefab/UI/RankingEvent/Reward/"
+    },
+    {
+      "DirInd": 687277662,
+      "DirPath": "Prefab/UI/Result/"
+    },
+    {
+      "DirInd": 4056681451,
+      "DirPath": "Prefab/UI/RewardList/"
+    },
+    {
+      "DirInd": 2328318147,
+      "DirPath": "Prefab/UI/SelectPopup/"
+    },
+    {
+      "DirInd": 3970070307,
+      "DirPath": "Prefab/UI/Smile/"
+    },
+    {
+      "DirInd": 832247401,
+      "DirPath": "Prefab/UI/Stage/"
+    },
+    {
+      "DirInd": 2796100104,
+      "DirPath": "Prefab/UI/Stamp/"
+    },
+    {
+      "DirInd": 2542323770,
+      "DirPath": "Prefab/UI/SubMenu/"
+    },
+    {
+      "DirInd": 926521553,
+      "DirPath": "Prefab/UI/SubMenu/ArmorGacha/"
+    },
+    {
+      "DirInd": 210553071,
+      "DirPath": "Prefab/UI/SubMenu/Friend/"
+    },
+    {
+      "DirInd": 1182863275,
+      "DirPath": "Prefab/UI/SubMenu/HappyPoint/"
+    },
+    {
+      "DirInd": 2274024692,
+      "DirPath": "Prefab/UI/SubMenu/Message/"
+    },
+    {
+      "DirInd": 292495692,
+      "DirPath": "Prefab/UI/SubMenu/Notice/"
+    },
+    {
+      "DirInd": 3431678620,
+      "DirPath": "Prefab/UI/SubMenu/Present/"
+    },
+    {
+      "DirInd": 3598272214,
+      "DirPath": "Prefab/UI/SubMenu/RelationLog/"
+    },
+    {
+      "DirInd": 2240181070,
+      "DirPath": "Prefab/UI/SynergyBoard/"
+    },
+    {
+      "DirInd": 3637640555,
+      "DirPath": "Prefab/UI/Title/"
+    },
+    {
+      "DirInd": 676767301,
+      "DirPath": "Prefab/UI/Tutorial/"
+    },
+    {
+      "DirInd": 3044561359,
+      "DirPath": "Prefab/UI/MyGarden/Tutorial/"
+    },
+    {
+      "DirInd": 2748817585,
+      "DirPath": "Prefab/UI/VirtualPad/"
+    },
+    {
+      "DirInd": 326466262,
+      "DirPath": "Prefab/Vehicle/"
+    },
+    {
+      "DirInd": 2060510600,
+      "DirPath": "Prefab/Weapon/Flask/"
+    },
+    {
+      "DirInd": 1114097559,
+      "DirPath": "Prefab/Weapon/Bow/"
+    },
+    {
+      "DirInd": 970909335,
+      "DirPath": "Prefab/Weapon/bracelet/"
+    },
+    {
+      "DirInd": 2037099643,
+      "DirPath": "Prefab/Weapon/Saw/"
+    },
+    {
+      "DirInd": 1736632713,
+      "DirPath": "Prefab/Weapon/Pan/"
+    },
+    {
+      "DirInd": 348051561,
+      "DirPath": "Prefab/Weapon/Dagger/"
+    },
+    {
+      "DirInd": 4172701483,
+      "DirPath": "Prefab/Weapon/Event/"
+    },
+    {
+      "DirInd": 1466059507,
+      "DirPath": "Prefab/Weapon/Rod/"
+    },
+    {
+      "DirInd": 83577289,
+      "DirPath": "Prefab/Weapon/Axe/"
+    },
+    {
+      "DirInd": 2104753742,
+      "DirPath": "Prefab/Weapon/Pickel/"
+    },
+    {
+      "DirInd": 2806341048,
+      "DirPath": "Prefab/Weapon/Sword/"
+    },
+    {
+      "DirInd": 2775377498,
+      "DirPath": "Prefab/Weapon/Needle/"
+    },
+    {
+      "DirInd": 3241158014,
+      "DirPath": "Prefab/Weapon/Shield/"
+    },
+    {
+      "DirInd": 1027125863,
+      "DirPath": "Prefab/Weapon/Hammer/"
+    },
+    {
+      "DirInd": 2172036638,
+      "DirPath": "Prefab/Weapon/Staff/"
+    },
+    {
+      "DirInd": 2540783142,
+      "DirPath": "Prefab/Weapon/Blade/"
+    },
+    {
+      "DirInd": 3553569782,
+      "DirPath": "Sound/"
+    },
+    {
+      "DirInd": 2465838499,
+      "DirPath": "Sound/Event/"
+    },
+    {
+      "DirInd": 1319954239,
+      "DirPath": "Sound/Voice/"
+    },
+    {
+      "DirInd": 1803777056,
+      "DirPath": "AdvStage/Room/"
+    },
+    {
+      "DirInd": 2780349824,
+      "DirPath": "AdvStage/Stage/"
+    },
+    {
+      "DirInd": 3714606900,
+      "DirPath": "Table/"
+    },
+    {
+      "DirInd": 723366209,
+      "DirPath": "Table/avatar/"
+    },
+    {
+      "DirInd": 1524539844,
+      "DirPath": "Table/eventtalk/"
+    },
+    {
+      "DirInd": 23321476,
+      "DirPath": "Table/garden/"
+    },
+    {
+      "DirInd": 3820428608,
+      "DirPath": "Table/newAdventure/"
+    },
+    {
+      "DirInd": 768450198,
+      "DirPath": "Test/"
+    },
+    {
+      "DirInd": 3273410630,
+      "DirPath": "Test/kato/"
+    },
+    {
+      "DirInd": 1081785820,
+      "DirPath": "Test/User/tkimura/"
+    },
+    {
+      "DirInd": 2673103719,
+      "DirPath": "Texture/"
+    },
+    {
+      "DirInd": 4077372129,
+      "DirPath": "Texture/Avatar/"
+    },
+    {
+      "DirInd": 1127676420,
+      "DirPath": "Texture/Avatar/body/"
+    },
+    {
+      "DirInd": 1401175787,
+      "DirPath": "Texture/Avatar/brow/"
+    },
+    {
+      "DirInd": 1063358541,
+      "DirPath": "Texture/Avatar/ear/"
+    },
+    {
+      "DirInd": 1051299283,
+      "DirPath": "Texture/Avatar/eye/"
+    },
+    {
+      "DirInd": 2643102417,
+      "DirPath": "Texture/Avatar/face/"
+    },
+    {
+      "DirInd": 294149378,
+      "DirPath": "Texture/Avatar/gender/"
+    },
+    {
+      "DirInd": 74027183,
+      "DirPath": "Texture/Avatar/hair/"
+    },
+    {
+      "DirInd": 2268197911,
+      "DirPath": "Texture/Avatar/mouth/"
+    },
+    {
+      "DirInd": 409116005,
+      "DirPath": "Texture/Avatar/nose/"
+    },
+    {
+      "DirInd": 3232538016,
+      "DirPath": "Texture/Avatar/others/"
+    },
+    {
+      "DirInd": 4262457531,
+      "DirPath": "Texture/Avatar/voice/"
+    },
+    {
+      "DirInd": 644764096,
+      "DirPath": "Texture/Background/"
+    },
+    {
+      "DirInd": 1736175317,
+      "DirPath": "Texture/UI/ChangeGem/"
+    },
+    {
+      "DirInd": 379898579,
+      "DirPath": "Texture/UI/Gacha/"
+    },
+    {
+      "DirInd": 1460608090,
+      "DirPath": "Texture/Icon_chara/"
+    },
+    {
+      "DirInd": 368574637,
+      "DirPath": "Texture/Icon_collectionBG/"
+    },
+    {
+      "DirInd": 778264914,
+      "DirPath": "Texture/Icon_facility/"
+    },
+    {
+      "DirInd": 3710737225,
+      "DirPath": "Texture/Icon_godtrial/"
+    },
+    {
+      "DirInd": 2990839390,
+      "DirPath": "Texture/Icon_group/"
+    },
+    {
+      "DirInd": 4213603730,
+      "DirPath": "Texture/Icon_item/"
+    },
+    {
+      "DirInd": 2688167191,
+      "DirPath": "Texture/Icon_map/"
+    },
+    {
+      "DirInd": 1893530931,
+      "DirPath": "Texture/Icon_monster/"
+    },
+    {
+      "DirInd": 2112902935,
+      "DirPath": "Texture/Icon_pick/"
+    },
+    {
+      "DirInd": 2130715740,
+      "DirPath": "Texture/Icon_ride/"
+    },
+    {
+      "DirInd": 1614006194,
+      "DirPath": "Texture/UI/Quest/"
+    },
+    {
+      "DirInd": 515720249,
+      "DirPath": "Texture/Img_chara/"
+    },
+    {
+      "DirInd": 1045922333,
+      "DirPath": "Texture/Mainframe_baloon/"
+    },
+    {
+      "DirInd": 323396357,
+      "DirPath": "Texture/NpcGeneric/"
+    },
+    {
+      "DirInd": 4203609659,
+      "DirPath": "Texture/NpcHumanoid/"
+    },
+    {
+      "DirInd": 4030749925,
+      "DirPath": "Texture/Stamp/"
+    },
+    {
+      "DirInd": 25837211,
+      "DirPath": "Texture/Theater/"
+    },
+    {
+      "DirInd": 328754923,
+      "DirPath": "Texture/UI/AvatarMake/"
+    },
+    {
+      "DirInd": 4004558467,
+      "DirPath": "Texture/UI/Banner/"
+    },
+    {
+      "DirInd": 535016524,
+      "DirPath": "Texture/UI/Biginner/"
+    },
+    {
+      "DirInd": 602046561,
+      "DirPath": "Texture/UI/BuildMenu/"
+    },
+    {
+      "DirInd": 1841706368,
+      "DirPath": "Texture/UI/CharacterMenu/"
+    },
+    {
+      "DirInd": 2928535971,
+      "DirPath": "Texture/UI/ColosseumRank/"
+    },
+    {
+      "DirInd": 1690402357,
+      "DirPath": "Texture/UI/Common/"
+    },
+    {
+      "DirInd": 1089374479,
+      "DirPath": "Texture/UI/Godbonus/"
+    },
+    {
+      "DirInd": 2941894231,
+      "DirPath": "Texture/UI/GodItemPack/"
+    },
+    {
+      "DirInd": 2630741906,
+      "DirPath": "Texture/UI/Growth/"
+    },
+    {
+      "DirInd": 2608995218,
+      "DirPath": "Texture/UI/Altar/"
+    },
+    {
+      "DirInd": 1551142366,
+      "DirPath": "Texture/UI/MiddleMenu/"
+    },
+    {
+      "DirInd": 621151810,
+      "DirPath": "Texture/UI/Minimap/"
+    },
+    {
+      "DirInd": 2569958844,
+      "DirPath": "Texture/UI/NewAdventure/"
+    },
+    {
+      "DirInd": 2920189199,
+      "DirPath": "Texture/UI/NewAdventure/Minimap/etc/"
+    },
+    {
+      "DirInd": 128127492,
+      "DirPath": "Texture/UI/NewAdventure/Minimap/image/"
+    },
+    {
+      "DirInd": 3394353300,
+      "DirPath": "Texture/UI/NewAdventure/Radarmap/etc/"
+    },
+    {
+      "DirInd": 3282428329,
+      "DirPath": "Texture/UI/NewAdventure/Radarmap/image/"
+    },
+    {
+      "DirInd": 2789598742,
+      "DirPath": "Texture/UI/ObjectInformation/"
+    },
+    {
+      "DirInd": 2357986960,
+      "DirPath": "Texture/UI/Present/"
+    },
+    {
+      "DirInd": 4052259159,
+      "DirPath": "Texture/UI/Ranking/"
+    },
+    {
+      "DirInd": 3374913441,
+      "DirPath": "Texture/UI/Test/"
+    },
+    {
+      "DirInd": 2773184779,
+      "DirPath": "Texture/UI/TestMyGardenAvatar/"
+    },
+    {
+      "DirInd": 3539125273,
+      "DirPath": "Texture/UI/TestChara/"
+    },
+    {
+      "DirInd": 3090076063,
+      "DirPath": "Texture/UI/Title/"
+    },
+    {
+      "DirInd": 2393438474,
+      "DirPath": "Texture/UI/Tutorial/"
+    },
+    {
+      "DirInd": 873093236,
+      "DirPath": "Texture/UI/WorldMap/Res/"
+    },
+    {
+      "DirInd": 797782625,
+      "DirPath": "Texture/Waiting/"
+    }
+  ],
+  "IdRef": {}
+}

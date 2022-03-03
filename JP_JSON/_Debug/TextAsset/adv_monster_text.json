@@ -1,0 +1,229 @@
+{
+  "TableAdvMonsterText": [
+    {
+      "AdvMonsterTextId": 960635100,
+      "MonsterObjId": 960635100,
+      "TextIdOnAIActive": 900661596,
+      "TextIdOnDead": 2882245887,
+      "TextIdsOnActionEvnet": [
+        2896580838,
+        3684786288,
+        1170601427,
+        851625285,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "TalkerOnAIActiveObjId": 986327055,
+      "TalkerOnDeadObjId": 986327055,
+      "TalkerOnActionObjId": [
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055
+      ]
+    },
+    {
+      "AdvMonsterTextId": 1313149002,
+      "MonsterObjId": 1313149002,
+      "TextIdOnAIActive": 900661596,
+      "TextIdOnDead": 2882245887,
+      "TextIdsOnActionEvnet": [
+        2896580838,
+        3684786288,
+        1170601427,
+        851625285,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "TalkerOnAIActiveObjId": 986327055,
+      "TalkerOnDeadObjId": 986327055,
+      "TalkerOnActionObjId": [
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055
+      ]
+    },
+    {
+      "AdvMonsterTextId": 3612099056,
+      "MonsterObjId": 3612099056,
+      "TextIdOnAIActive": 900661596,
+      "TextIdOnDead": 2882245887,
+      "TextIdsOnActionEvnet": [
+        2896580838,
+        3684786288,
+        1170601427,
+        851625285,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "TalkerOnAIActiveObjId": 986327055,
+      "TalkerOnDeadObjId": 986327055,
+      "TalkerOnActionObjId": [
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055
+      ]
+    },
+    {
+      "AdvMonsterTextId": 2689298790,
+      "MonsterObjId": 2689298790,
+      "TextIdOnAIActive": 900661596,
+      "TextIdOnDead": 2882245887,
+      "TextIdsOnActionEvnet": [
+        2896580838,
+        3684786288,
+        1170601427,
+        851625285,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "TalkerOnAIActiveObjId": 986327055,
+      "TalkerOnDeadObjId": 986327055,
+      "TalkerOnActionObjId": [
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055
+      ]
+    },
+    {
+      "AdvMonsterTextId": 2447597020,
+      "MonsterObjId": 2447597020,
+      "TextIdOnAIActive": 1240455421,
+      "TextIdOnDead": 2831274649,
+      "TextIdsOnActionEvnet": [
+        2741568927,
+        1278980990,
+        2903882010,
+        1111953403,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "TalkerOnAIActiveObjId": 986327055,
+      "TalkerOnDeadObjId": 986327055,
+      "TalkerOnActionObjId": [
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055
+      ]
+    },
+    {
+      "AdvMonsterTextId": 4053117670,
+      "MonsterObjId": 4053117670,
+      "TextIdOnAIActive": 2883780801,
+      "TextIdOnDead": 3683251278,
+      "TextIdsOnActionEvnet": [
+        2883780801,
+        854217083,
+        1173185005,
+        3683251278,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "TalkerOnAIActiveObjId": 986327055,
+      "TalkerOnDeadObjId": 986327055,
+      "TalkerOnActionObjId": [
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055
+      ]
+    },
+    {
+      "AdvMonsterTextId": 1742266158,
+      "MonsterObjId": 1742266158,
+      "TextIdOnAIActive": 3732973704,
+      "TextIdOnDead": 814664100,
+      "TextIdsOnActionEvnet": [
+        1200224562,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "TalkerOnAIActiveObjId": 753787217,
+      "TalkerOnDeadObjId": 2034153162,
+      "TalkerOnActionObjId": [
+        2034153162,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055,
+        986327055
+      ]
+    },
+    {
+      "AdvMonsterTextId": 753787217,
+      "MonsterObjId": 753787217,
+      "TextIdOnAIActive": 3426027366,
+      "TextIdOnDead": 626434643,
+      "TextIdsOnActionEvnet": [
+        1430017756,
+        574318154,
+        3160404969,
+        3411592063,
+        1381077701,
+        4260187921,
+        4260187921,
+        4260187921
+      ],
+      "TalkerOnAIActiveObjId": 4103490987,
+      "TalkerOnDeadObjId": 1886339788,
+      "TalkerOnActionObjId": [
+        1886339788,
+        1886339788,
+        986327055,
+        1886339788,
+        1886339788,
+        986327055,
+        986327055,
+        986327055
+      ]
+    }
+  ],
+  "IdRef": {}
+}

@@ -1,0 +1,15 @@
+{
+  "TableDerivedLife": [
+    {
+      "DerivedLifeInd": 1580485554,
+      "LifeId": 1580485554,
+      "ParentLifeId": 3355431860
+    },
+    {
+      "DerivedLifeInd": 1893294502,
+      "LifeId": 1893294502,
+      "ParentLifeId": 3274547171
+    }
+  ],
+  "IdRef": {}
+}

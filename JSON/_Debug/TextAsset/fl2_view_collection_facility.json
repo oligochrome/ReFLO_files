@@ -1,0 +1,439 @@
+{
+  "TableCollectionFacility": [
+    {
+      "CollectionFacilityInd": 2520523799,
+      "ContentsId": 2520523799,
+      "ShowFlg": 0,
+      "CollectionNo": 64,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1378117307,
+      "ContentsId": 1378117307,
+      "ShowFlg": 1,
+      "CollectionNo": 41,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1853724,
+      "ContentsId": 1853724,
+      "ShowFlg": 1,
+      "CollectionNo": 40,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3501664506,
+      "ContentsId": 3501664506,
+      "ShowFlg": 1,
+      "CollectionNo": 61,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1674345510,
+      "ContentsId": 1674345510,
+      "ShowFlg": 1,
+      "CollectionNo": 42,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 520256263,
+      "ContentsId": 520256263,
+      "ShowFlg": 1,
+      "CollectionNo": 16,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3781112423,
+      "ContentsId": 3781112423,
+      "ShowFlg": 1,
+      "CollectionNo": 60,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 2092461269,
+      "ContentsId": 2092461269,
+      "ShowFlg": 1,
+      "CollectionNo": 12,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1193818579,
+      "ContentsId": 1193818579,
+      "ShowFlg": 1,
+      "CollectionNo": 59,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3998063696,
+      "ContentsId": 3998063696,
+      "ShowFlg": 1,
+      "CollectionNo": 54,
+      "UnlockFlg": 1
+    },
+    {
+      "CollectionFacilityInd": 3072225850,
+      "ContentsId": 3072225850,
+      "ShowFlg": 1,
+      "CollectionNo": 38,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1402673817,
+      "ContentsId": 1402673817,
+      "ShowFlg": 0,
+      "CollectionNo": 63,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 145623854,
+      "ContentsId": 145623854,
+      "ShowFlg": 1,
+      "CollectionNo": 10,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3551034265,
+      "ContentsId": 3551034265,
+      "ShowFlg": 1,
+      "CollectionNo": 24,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1806260862,
+      "ContentsId": 1806260862,
+      "ShowFlg": 1,
+      "CollectionNo": 29,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 864229546,
+      "ContentsId": 864229546,
+      "ShowFlg": 1,
+      "CollectionNo": 15,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3801548142,
+      "ContentsId": 3801548142,
+      "ShowFlg": 1,
+      "CollectionNo": 4,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 2173719614,
+      "ContentsId": 2173719614,
+      "ShowFlg": 1,
+      "CollectionNo": 26,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1250626643,
+      "ContentsId": 1250626643,
+      "ShowFlg": 1,
+      "CollectionNo": 6,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 4284024805,
+      "ContentsId": 4284024805,
+      "ShowFlg": 1,
+      "CollectionNo": 46,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3144819785,
+      "ContentsId": 3144819785,
+      "ShowFlg": 1,
+      "CollectionNo": 20,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1529436331,
+      "ContentsId": 1529436331,
+      "ShowFlg": 1,
+      "CollectionNo": 44,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 297672164,
+      "ContentsId": 297672164,
+      "ShowFlg": 1,
+      "CollectionNo": 9,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3702219096,
+      "ContentsId": 3702219096,
+      "ShowFlg": 1,
+      "CollectionNo": 51,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1901088092,
+      "ContentsId": 1901088092,
+      "ShowFlg": 0,
+      "CollectionNo": 56,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 965834201,
+      "ContentsId": 965834201,
+      "ShowFlg": 1,
+      "CollectionNo": 28,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3947716372,
+      "ContentsId": 3947716372,
+      "ShowFlg": 1,
+      "CollectionNo": 18,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 2415613623,
+      "ContentsId": 2415613623,
+      "ShowFlg": 1,
+      "CollectionNo": 36,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1295668384,
+      "ContentsId": 1295668384,
+      "ShowFlg": 1,
+      "CollectionNo": 19,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3401084243,
+      "ContentsId": 3401084243,
+      "ShowFlg": 1,
+      "CollectionNo": 27,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1654940782,
+      "ContentsId": 1654940782,
+      "ShowFlg": 1,
+      "CollectionNo": 32,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 486879229,
+      "ContentsId": 486879229,
+      "ShowFlg": 1,
+      "CollectionNo": 21,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3752167117,
+      "ContentsId": 3752167117,
+      "ShowFlg": 1,
+      "CollectionNo": 53,
+      "UnlockFlg": 1
+    },
+    {
+      "CollectionFacilityInd": 2070091470,
+      "ContentsId": 2070091470,
+      "ShowFlg": 1,
+      "CollectionNo": 7,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1155534554,
+      "ContentsId": 1155534554,
+      "ShowFlg": 1,
+      "CollectionNo": 5,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3995875191,
+      "ContentsId": 3995875191,
+      "ShowFlg": 1,
+      "CollectionNo": 37,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3061213810,
+      "ContentsId": 3061213810,
+      "ShowFlg": 1,
+      "CollectionNo": 48,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1397522163,
+      "ContentsId": 1397522163,
+      "ShowFlg": 1,
+      "CollectionNo": 31,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 40567351,
+      "ContentsId": 40567351,
+      "ShowFlg": 1,
+      "CollectionNo": 14,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3548323827,
+      "ContentsId": 3548323827,
+      "ShowFlg": 1,
+      "CollectionNo": 3,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1791050294,
+      "ContentsId": 1791050294,
+      "ShowFlg": 1,
+      "CollectionNo": 43,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 815549385,
+      "ContentsId": 815549385,
+      "ShowFlg": 1,
+      "CollectionNo": 33,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3795869956,
+      "ContentsId": 3795869956,
+      "ShowFlg": 1,
+      "CollectionNo": 23,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 2094157373,
+      "ContentsId": 2094157373,
+      "ShowFlg": 1,
+      "CollectionNo": 17,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1247569977,
+      "ContentsId": 1247569977,
+      "ShowFlg": 1,
+      "CollectionNo": 35,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 4159391191,
+      "ContentsId": 4159391191,
+      "ShowFlg": 1,
+      "CollectionNo": 62,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3083408976,
+      "ContentsId": 3083408976,
+      "ShowFlg": 1,
+      "CollectionNo": 8,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1514225891,
+      "ContentsId": 1514225891,
+      "ShowFlg": 1,
+      "CollectionNo": 30,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 152139532,
+      "ContentsId": 152139532,
+      "ShowFlg": 1,
+      "CollectionNo": 45,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3617655730,
+      "ContentsId": 3617655730,
+      "ShowFlg": 1,
+      "CollectionNo": 49,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1813512845,
+      "ContentsId": 1813512845,
+      "ShowFlg": 1,
+      "CollectionNo": 2,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 960893363,
+      "ContentsId": 960893363,
+      "ShowFlg": 1,
+      "CollectionNo": 11,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3844496797,
+      "ContentsId": 3844496797,
+      "ShowFlg": 1,
+      "CollectionNo": 39,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 2392018687,
+      "ContentsId": 2392018687,
+      "ShowFlg": 1,
+      "CollectionNo": 50,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1265016039,
+      "ContentsId": 1265016039,
+      "ShowFlg": 1,
+      "CollectionNo": 13,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3335797536,
+      "ContentsId": 3335797536,
+      "ShowFlg": 1,
+      "CollectionNo": 34,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1576015888,
+      "ContentsId": 1576015888,
+      "ShowFlg": 1,
+      "CollectionNo": 1,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 370099479,
+      "ContentsId": 370099479,
+      "ShowFlg": 1,
+      "CollectionNo": 25,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3709083002,
+      "ContentsId": 3709083002,
+      "ShowFlg": 1,
+      "CollectionNo": 65,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1943098620,
+      "ContentsId": 1943098620,
+      "ShowFlg": 1,
+      "CollectionNo": 47,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 1144482480,
+      "ContentsId": 1144482480,
+      "ShowFlg": 1,
+      "CollectionNo": 22,
+      "UnlockFlg": 0
+    },
+    {
+      "CollectionFacilityInd": 3975940071,
+      "ContentsId": 3975940071,
+      "ShowFlg": 0,
+      "CollectionNo": 58,
+      "UnlockFlg": 0
+    }
+  ],
+  "IdRef": {}
+}
